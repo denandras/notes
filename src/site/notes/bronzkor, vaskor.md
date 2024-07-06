@@ -1,0 +1,61 @@
+---
+{"dg-publish":true,"permalink":"/bronzkor-vaskor/"}
+---
+
+> kompozit istenségek
+
+- **Egyiptom** - folyami kultúra
+	- stabilan tudunk szervezett életről 5000 évig visszamenőleg, műalkotások, megnyilvánulások révén
+	- időtlen formák, absztrakció
+	- hogyan lehet az isteni fáraók életét végteleníteni, az örökkévalóság részévé tenni?
+		- múmiák, szarkofágok
+		- eml. [[Vörös Géza\|Vörös Géza]]
+	- *statikus, hierarchikus ábrázolás*
+		- egyértelműség (aki/ami nagy, az fontos)
+		- nem perspektivikus ábrázolásmód
+	- politeizmus -> monoteizmus (Aton isten, [[Echaton fáraó\|Echaton fáraó]] alatt)
+- **Mezopotámia** - folyamközi kultúra
+	- mai Irak, Irán, Szíria
+	- sok háborút megélt terület
+	- babilóni asszír kultúra
+	- hasonlít az egyiptomi kultúrára
+	- "**zikkurat**" építmények
+	- minőségi szobrászati technika
+	- *írás* - írnokok
+		- meghódított területek szélén területfoglaló kövek
+- **Minósz** - tengeri kultúra
+	- mai Kréta
+	- bronzkor
+	- többen éltek ott akkor, mint ma
+	- békés közeg
+	- nem erődített épületek
+	- nem a harcot, hanem az életet jelenítik meg
+- **Mükéné**
+	- i. e. 16-12. sz.
+	- erődítmények
+	- kultúra
+		- hősi cselekedetek, harc
+		- vadászat
+		- temetkezés - **Agamemnón király arany maszkja**
+## Vaskor
+- **Kus** (Kusita Királyság)
+	- mai Szudán
+	- i. e. 9-4. sz.
+	- piramisok
+	- az egyiptomihoz hasonló szobrászat
+		- de el is tér, jellegzetes
+- **Nok**
+	- mai Nigéria
+	- szimbolikus szobrászat
+- **Kína**
+	- geometrikus jellegű díszítőművészet
+	- mitológiai jelleg
+	- [[Csin Si Huang Ti\|Csin Si Huang Ti]] sírja - **agyagkatonák**
+- **India**
+	- [[Mohenjo Daro\|Mohenjo Daro]] - indusvölgyi civilizáció
+	- építészeti szobrászat
+- **"Prekolumbián"** kultúrák (minden Kolumbusz előtti)
+	- Közép/Dél-Amerika
+	- gigantikus dolgok
+	- olmék hatalmas fej
+- *Nazca-vonalak*

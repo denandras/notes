@@ -1,0 +1,96 @@
+---
+{"dg-publish":true,"permalink":"/az-agy/"}
+---
+
+adalék:
+> Broca 1861-ben egy néma ember agytekervényeiben talált egy sérült
+> Brodmann-mezőt
+
+- ### Agy
+	- 2. [[posztulátum\|posztulátum]]: mindenki azt hall a világból, amit a füle és az **agya** lehetővé tesz számára
+		- hüllőagy: ösztönösen tud élni
+		- emlősagy: limbikus idegrendszer (*érzelmek*)
+			- érzelemkifejezés
+		- emberi agy: 
+	- a két fül tud egymásról (20% az azonos agyféltekén marad)
+		- térbeli tájékozódás a legfőbb cél
+		- bio-feedback az efferens pályán
+	- kérgen aluli, nem tudunk róla
+		- cochlearis idegmagok (nyúltvelő) (hangost a halktól)
+		- sup. oliva komplex (híd) (térbeliség)
+		- középagy (colliculus inferior) (egész jó kép alakul ki a környezetről)
+		- köztiagy (thalamus)
+	- primer (hallókéreg)
+	- magánutak
+		- thalamusból amygdalába (vész és érzelmek központja)
+			- sorozatgyilkosoknak 5 cm³-el kisebb, *zenészeknek nagyobb*
+	- primer hallókéreg meghatározza, milyen hosszú, magas a hang
+	- szekunder hangulatot 'hallgat'
+- Mi a zene? *az idő művészete*
+	- ritmus: szinkronizálni kellett a mozgást
+		- akkor lehet, ha tudunk utánozni
+	- állatok
+		- hallásközpontjuk helye hasonlít az emberére
+		- a madarak syrinx-e két membrános
+		- unga békák
+		- nőstény szúnyogok csak a hím hangját hallják
+		- kanárik agyát vizsgálva fedezték fel a **tükörsejtek**et
+			- a repertoárját évente változtatja
+			- cetek megváltoztatják a hívójelet
+			- vérfertőzésgátló anya-lánya jel
+	- rítusok: transzcendens világgal való kapcsolat
+		- ritmusérzék szükséges hozzá (tánc)
+		- minden egyes gyors légzéssel járó dolog módosult tudatállapothoz vezet
+		- transz: ismétlődő hang segít
+			- legalább 4 Hz (téta hullámok, kreativitás)
+			- 5% hajlamos, ugyanennyi nem képes rá
+		- a tánc fontos, gyerekeknél több az inger, mint amennyit tompítani tudnak
+	- a gyerekek már egyéves korukban véleményt formálnak
+	- neuroplaszticitás
+	- zenei agy neves kutatói
+		- Isabelle Peretz (moduláris agyszerkezet)
+		- Robert Zatorre
+		- Annirudh D. Patel
+		- Stefan Koelsch
+		- Mark Tramo [brainmusic.org](https://brainmusic.org)
+	- **agyvizsgálat** - feladatfüggően differenciált
+		- módszerek
+		- *ránézel a másikra*
+			- okos/bamba
+			- csillogó/homályos
+		- EEG/MEG (elektro-enkefalográf)
+		- PET (pozitron-emissziós tomográf)
+			- vérkörbe fecskendezett anyag, az agy oxigént használ
+		- (f)MRI (mágneses rezonanciás képalkotás)
+			- hideg és kattog
+		- területek
+			- hangparaméterek feldolgozása
+			- zenei gyakorlat agyi következményei
+			- zenei spec. (melódia, harmónia, ritmus)
+			- érzelmek (ki nem fejezett, pl irigység)
+			- zenei transz
+			- a zene kognitív mellékhatásai
+				- **nincs zenei agyi központ** (Altenmüller)
+					- (Kiterjedten elosztott)
+				- nagyobb aktivitás a motoros területeken
+				- valódi motoros ingerek nélkül (pl. csak kotta) is képes aktiválódni a kisagy
+				- Wernicke- és Broca-terület (*beszéd*)
+				- **bal** agyfélteke a matek, az idő, és a kognitív képességek helye (nemi különbség)
+				- **jobb** oldalon a hangszín
+				- nápolyi-akkord, és *váratlan akkordok* hatásának vizsgálata
+				- abszolút hallás (koncentráltabb Heschl-tekervény) (kontra zene: nagyobb terület az átlaghoz képest)
+				- disszonanciánál teljesen másik agyi rész aktiválódik
+				- nyelvtől részben függetlenül, részben párhuzamosan 
+				- ideghálózat a zene hatására egyre gazdagabb
+				- nagyobb sebességű jelfeldolgozás
+				- vokális aktivitás és finom mozgás közötti összefüggés
+				- zsenik: 7 éves kor előtt
+				- zenészgörcs: minél többet, annál rosszabb
+				- fizikai jóllevés, szociális fejlettség
+				- a rossz "kijátszása"
+				- IQ növekedés (*Gardner*: kommunikációs, zenei, matekatikai, stb.)
+				- agyra célzottan ható zenék (Binaural beats, dichotikusság)
+					- zenei drog
+					- két fülbe más frekvenciák, az agyban lebegnek össze - [[binaural beats meditáció\|binaural beats meditáció]]
+				- Mozart és az agy
+					- Don Campbell Business

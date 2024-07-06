@@ -25,7 +25,7 @@
 
 8. [[világi műfajok a 16. században\|világi műfajok a 16. században]]
 
-9. [[humanizmus\|humanizmus]] és az első operák
+9. [[Humanizmus\|humanizmus]] és az első operák
 
 
 ## Második félév - Barokk (FG)
@@ -87,7 +87,7 @@
 
 2. A [[romantikus dal\|romantikus dal]], [[Schubert\|Schubert]], a [[ballada\|ballada]], [Brahms](https://notes.andrasdenes.com/brahms#Negyedikfélév)[^1], [[dalciklus\|dalciklus]]
 
-3. [[olasz és francia opera a 19. században\|olasz és francia opera a 19. században]]
+3. [[Olasz és francia opera a 19. században\|olasz és francia opera a 19. században]]
 
 4. [[A német opera\|A német opera]]
 

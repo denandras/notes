@@ -1,0 +1,132 @@
+---
+{"dg-publish":true,"permalink":"/barokk-a-muveszettoertenetben/"}
+---
+
+- kifejezés: olasz/portugál
+	- szabálytalanság/szokatlanság
+- ellenreformáció/katolikus megújulás
+	- protestantizmus
+	- + abszolutisztikus államok nagybirtokosai
+- milyen?
+	- kép/képmás tagadása
+	- puritánság
+	- [[vernakuláris\|vernakuláris]] nyelvhasználat
+	- erős transzcendens
+	- irracionális, szokatlan, monumentalitás, túlzás, mozgalmasság, egyenes vonalak hiánya
+- cél: erő, gazdagság, pompa, hatás az emberekre, hatalom illusztrálása
+- hol?
+	- Itália, Spanyolország, Franciaország
+	- felfedezések kora -> Közép- és Dél-Amerika, Goa, stb.
+- barokk színház, opera
+	- eml. Gödöllő
+- építészet
+	- Olaszo., Franciao.
+	- német nyelvterületek, Habsburgok
+	- megrendelő: egyház
+	- világi építészet: uralkodói körök, főurak, paloták, kastélyak, színház, könyvtár, iskola, park
+	- nagyon jól viszi tovább a reneszánszból megismert antik építészeti tagozatokat, de sokkal díszesebb, színpadiasabb
+	- (hangsúlyos kupola)
+	- új épületelemek (megerősörő abszolutista államok)
+		- üzem, kaszárnya, erődítmény
+		- invalidusházak (háborús sérültek rehabilitációs központja)
+	- ellipszis, ívek
+	- példák
+		- Santa Maria della Salute, Velence
+		- eml. Egyetem tér, Batthyányi tér
+		- Szent Pál székesegyház, London
+		- Karlskirche, Bécs
+		- versailles-i palota
+		- Belvedere, Bécs
+		- Schönbrunn
+		- Ermitázs
+		- gödöllői kastély
+- szobrászat
+	- [[Giovanni Lorenzo Bernini\|Giovanni Lorenzo Bernini]]
+		- építész, szobrász, festő
+		- *Apolló és Daphné*
+			- elemelkedés, könnyedség
+			- diagonalitás, spirális rendszer
+			- anyagot meghazudtoló könnyedség
+		- *Habakukk és az angyal*
+		- Beata Ludovica Albertoni
+		- Szent Teréz extázisa
+		- Szent Péter székesegyház baldachinja
+		- Piazza San Pietro tér kialakítása
+- festészet
+	- jellemzők
+		- mozgásban való ábrázolás, dinamizmus
+		- gazdag, élénk színvilág
+		- fény-árnyék hatás
+		- perspektíva
+		- szobrászattól és építészettől való eltérés
+			- tereket nyit, 2D-ben könnyebb csalni
+			- színek
+	- gyakori témák
+		- bibliai & mitolögiai jelenetek
+		- emblémák, allegóriák, szimbólumok
+		- szentek élete
+		- mártíromság
+		- Mária-kultusz képei
+		- szentségek tisztelete
+		- főúri portrék
+		- csendéletek (újdonság)
+			- felfedezések kora
+			- egzotikumok
+		- zsánerképek
+		- csoportos portré
+		- ravatalkép
+		- önálló tájkép
+	- példák
+		- #később kép
+		- Itália
+			- [[Caravaggio\|Caravaggio]]
+				- rebellis popsztár
+				- fény-árnyék
+				- alak drámai megvilágítása
+				- modelleit az utcáról szerezte
+				- életszerű vallásos jelenetek
+				- sokszor a hétköznapiban találja meg a szépet
+				- *Bacchus*; *Beteg fiatal Bacchus*
+				- *Szent Máté és az angyal*
+					- műveletlen, egyszerű csávó, írástudatlan, az angyal fogja a kezét
+					- újrafestette
+				- *Szent Máté elhívása*
+				- *Szent Máté mártíromsága*
+				- *Emmausi vacsora*
+				- *Szent Péter keresztrefeszítése*
+				- *A szűz elszenderedése*
+				- *Szent János lefejezése*
+				- eml. [[Derek Jarman\|Derek Jarman]] - *Caravaggio* film
+				- eml. Tableau vivanne
+			- [[Artemisia Gentileschi\|Artemisia Gentileschi]]
+				- első festőnő, aki a firenzei Accadenia di Arte del Disegno tagja lett
+				- nőalakok, naturalizmus, kiemelkedő színhasználat a drámaiság érdekében
+				- apja festő, édesanyja meghal
+				- *Zsuzsanna és a vének*
+					- férfiak meglesnek egy nőt
+					- apja festőtársai megerőszakolták
+				- nők a főszereplők, akik kivégzik a férfiakat
+				- *Judit és szolgálóleánya*
+				- *Judit lefejezi Holofernészt*
+				- *Mária Magdaléna extázisa*
+				- *Önarckép a festészet allegóriájakét*
+		- Spanyolország
+			- [[Diego Velazquez\|Diego Velazquez]]
+				- klasszikus nagy udvari festő
+				- spanyol aranykor
+				- reflektálnak rá 20. századi festők is
+				- *Bréda feladása*
+				- *Vénusz tükörrel*
+				- *X. Ince pápa képmása*
+				- *Az udvarhölgyek*
+				- 
+		- Flandria
+			- [[Anthony van Dyke\|Anthony van Dyke]]
+				- *A megkoronázott Krisztus* (Passió-sorozat)
+				- *Nicolas Lanier* portréja
+				- *I. Károly M. de St Antoine-nal*
+				- *Önarckép napraforgóval*
+		- Franciaország
+		- Magyarország
+			- [[Mányoki Ádám\|Mányoki Ádám]]
+			- [[Bogdány Jakab\|Bogdány Jakab]]
