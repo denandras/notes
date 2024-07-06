@@ -14,7 +14,7 @@
 		- sokan hivatkoztak rá/idézték
 - [[public/Schubert#Schubert dalciklusai\|Schubert#Schubert dalciklusai]] [dalciklusai](Schubert)
 - [[public/Schumann#Dalciklusai - 1840 (a dalok éve)\|Schumann]] [dalciklusai](Schumann)
-- [[private/Brahms\|Brahms]] dalciklusai
+- [[public/Brahms\|Brahms]] dalciklusai
 - [[public/Hugo Wolf\|Hugo Wolf]]
 
 ---

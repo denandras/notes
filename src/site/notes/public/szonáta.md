@@ -8,15 +8,15 @@
 
 ### Barokk szonáta
 
-[[private/sonata da chiesa\|sonata da chiesa]]
-[[private/sonata da camera\|sonata da camera]]
+[[public/sonata da chiesa\|sonata da chiesa]]
+[[public/sonata da camera\|sonata da camera]]
 
 #### Henry [[public/Purcell\|Purcell]] (1659-95)
 * [[public/Purcell\|Purcell]] első Triószonáta kötete 1683-ban (3 szólam)
 - halála után 1689-ben kiadva: trio [[public/szonáta\|szonáta]]k négy szólammal ([[public/basso continuo\|basso continuo]] két szólammal)
 	* példa: 5 ütemes continuo kör, érdekes számok, amiket nem hallunk
-* [[private/Arcangelo Corelli\|Arcangelo Corelli]] szonátasorozata (1681) hatással van rá 
-	* *[[private/Arcangelo Corelli\|Arcangelo Corelli]], a felfedező*
+* [[public/Arcangelo Corelli\|Arcangelo Corelli]] szonátasorozata (1681) hatással van rá 
+	* *[[public/Arcangelo Corelli\|Arcangelo Corelli]], a felfedező*
 	* Op. 1: [[lépegető basszus\|lépegető basszus]]
 		* grave, fuga, adagio, allegro (4-5 tétel)
 		* körbejárja a kvintkört
@@ -31,8 +31,8 @@
 - nagyszabású darabok, amelyekben egy szóval mindenféle váltakozik, **Az ellenponton kívül semmi nem köti meg a zeneszerző kezét**
 	- 1-sok szólam (általában szóló vagy két hegedű [[public/basso continuo\|basso continuo]] kísérettel)
 	- **de** az olaszoknál két típusa van:
-		- [[private/sonata da chiesa\|sonata da chiesa]] = templomi szonáta
-		- [[private/sonata da camera\|sonata da camera]] = szobai szonáta (tánc)
+		- [[public/sonata da chiesa\|sonata da chiesa]] = templomi szonáta
+		- [[public/sonata da camera\|sonata da camera]] = szobai szonáta (tánc)
 	* [[Johann Gottfried Walter\|Johann Gottfried Walter]] (**1733**):
 		- 4 tételből álló mű, ami általában ezekre a hangszerekre íródott
 

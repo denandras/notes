@@ -3,5 +3,5 @@
 ---
 
 Szöktetés a Szerájból
-[[private/Mozart\|Mozart]]
+[[public/Mozart\|Mozart]]
 

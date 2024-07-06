@@ -24,22 +24,22 @@ Humanista gondolkodás
             -   elvetette a polifón zenét
                 -   nem hat a hallgatóságra olyan elementáris módon úgy, ahogy egy szólam
     -   **[[Jacopo Corsi\|Jacopo Corsi]]**
-    -   újfajta énekstílus: [[private/monódikus stílus\|monódikus stílus]]
+    -   újfajta énekstílus: [[public/monódikus stílus\|monódikus stílus]]
 -   **[[Girolamo Bargagli\|Girolamo Bargagli]]** - La Pellegrina
     -   `5` felvonás
     -   intermedio-k - zenei közjátékok Ottavino Rinucci szövegeire
-    -   [[private/Giulio Caccini\|Giulio Caccini]], [[private/Jacopo Peri\|Jacopo Peri]] - monódikus ének fontos alakjai (és első operaszerzők)
+    -   [[public/Giulio Caccini\|Giulio Caccini]], [[public/Jacopo Peri\|Jacopo Peri]] - monódikus ének fontos alakjai (és első operaszerzők)
 -   [[public/basso continuo\|basso continuo]], operaszerű, recitált ének
 - két költő: [[Ottavino Rinuccini\|Ottavino Rinuccini]] & [[Gabriello Chiabrera\|Gabriello Chiabrera]]
 
 Az első operák - azt hitték, hogy az antik drámákat végigénekelték -> barokk
 
--   **[[private/Jacopo Peri\|Jacopo Peri]]**: Daphne
+-   **[[public/Jacopo Peri\|Jacopo Peri]]**: Daphne
     -   **[[Marco da Gagliano\|Marco da Gagliano]]**: Daphne
 -   **[[public/Emilio Cavalieri\|Emilio Cavalieri]]**: Rappresentatione di Anima e di Corpo
--   **[[private/Jacopo Peri\|Jacopo Peri]]**: Euridice
-    -   **[[private/Giulio Caccini\|Giulio Caccini]]**: Euridice
+-   **[[public/Jacopo Peri\|Jacopo Peri]]**: Euridice
+    -   **[[public/Giulio Caccini\|Giulio Caccini]]**: Euridice
     -   mindkettő darabjának ötvözete szólalt meg az esküvőn
--   **[[private/Monteverdi\|Monteverdi]]**: [[private/Orfeo\|Orfeo]]
--   [[private/Monteverdi\|Monteverdi]]: Arianna
--   [[private/Monteverdi\|Monteverdi]] - Artuzi a lényeg a szöveg, de Artuzi absztrakt zeneként kezeli [[private/Monteverdi\|Monteverdi]] darabját
+-   **[[public/Monteverdi\|Monteverdi]]**: [[public/Orfeo\|Orfeo]]
+-   [[public/Monteverdi\|Monteverdi]]: Arianna
+-   [[public/Monteverdi\|Monteverdi]] - Artuzi a lényeg a szöveg, de Artuzi absztrakt zeneként kezeli [[public/Monteverdi\|Monteverdi]] darabját

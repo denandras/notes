@@ -46,7 +46,7 @@
 				- orgonista
 				- 10 orgonaszimfónia
 - francia zeneművészetet az értelmiség nem tartotta igazán nagyszerűnek
-	- [[private/Wagner\|Wagner]] töltötte be az űrt
+	- [[public/Wagner\|Wagner]] töltötte be az űrt
 	- párizsi *Tannhäuser*-bemutató (átírta balettesre)
 
 ## Élete

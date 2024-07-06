@@ -24,10 +24,10 @@
 ## Korszakolás
 ### Első félév
 
-- [[private/őskor\|őskor]]
-- [[private/bronzkor, vaskor\|bronzkor, vaskor]]
+- [[public/őskor\|őskor]]
+- [[public/bronzkor, vaskor\|bronzkor, vaskor]]
 - [[public/hellenisztikus kor\|hellenisztikus kor]]
-- [[private/antik római kultúra\|antik római kultúra]]
+- [[public/antik római kultúra\|antik római kultúra]]
 - [[public/bizánc\|bizánc]]
 - [[public/román kor\|román kor]]
 - [[public/gótika\|gótika]]
@@ -35,16 +35,16 @@
 
 ### Második félév
 
-- [[private/manierizmus\|manierizmus]]
-- [[private/barokk a művészettörténetben\|barokk a művészettörténetben]]
+- [[public/manierizmus\|manierizmus]]
+- [[public/barokk a művészettörténetben\|barokk a művészettörténetben]]
 	- [[public/holland aranykor\|holland aranykor]]
 - [[public/rokokó\|rokokó]]
-- [[private/klasszicizmus\|klasszicizmus]]
+- [[public/klasszicizmus\|klasszicizmus]]
 - [[public/romantika\|romantika]]
 - [[public/permanens forradalom\|permanens forradalom]]
 - [[public/új utak\|új utak]]
-- [[private/szecesszió\|szecesszió]]
-- [[private/modern idők\|modern idők]]
+- [[public/szecesszió\|szecesszió]]
+- [[public/modern idők\|modern idők]]
 ## Mi a művtöri?
 - vizuális művészetekkel foglalkozik
 	- műfajok, korstílusok, stílusirányzatok
@@ -86,7 +86,7 @@
 - [[Pekka Niittyvirta\|Pekka Niittyvirta]] & [[Timo Aho\|Timo Aho]]: Lines
 
 - [[Kazimir Malevics\|Kazimir Malevics]]: Fekete négyzet
-	- szuper-nativizmus[^3], "objektlose Welt", maximális absztrakció, [[private/apofativizmus\|apofatikus]][^4]
+	- szuper-nativizmus[^3], "objektlose Welt", maximális absztrakció, [[public/apofativizmus\|apofatikus]][^4]
 	- [[public/via negativa\|via negativa]]
 
 - Teotihuacan, a Nap piramisa

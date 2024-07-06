@@ -6,7 +6,7 @@
 > [[P Sloterdijk\|P Sloterdijk]]: *"Aki szédül, az nincs informálva"*
 > (de nem mindenki szeret szédülni)
 
-> - [[private/Kovács Zoltán\|Kovács Zoltán]], bölcsész
+> - [[public/Kovács Zoltán\|Kovács Zoltán]], bölcsész
 > - esszé, vagy jelenléti jegykérés
 
 # Tartalom
@@ -76,7 +76,7 @@
 - [ ] [[Melis László - Bakkhánsnők\|Melis László - Bakkhánsnők]] - regény
 - [ ] [[Hume\|Hume]] - filozófus
 - [ ] [[Új Zenei Újság\|Új Zenei Újság]] - zenei folyóirat
-- [ ] [[private/Bach\|Bach]] - [[private/Mátépassió\|Mátépassió]] - zenei kompozíció
+- [ ] [[public/Bach\|Bach]] - [[public/Mátépassió\|Mátépassió]] - zenei kompozíció
 - [ ] [[public/Schiller\|Schiller]] - író, filozófus
 - [ ] [[Kant\|Kant]] - filozófus
 - [ ] [[Philippe Glass\|Philippe Glass]] - zeneszerző
@@ -169,7 +169,7 @@
 			- zsidóság -> Madagaszkár
 		- a töltény drága
 - [[public/univerzalizmus\|univerzalizmus]]: ha valaki máshogy gondolja, az helytelen
-- [[private/centralizmus\|centralizmus]]: minden központilag van működtetve
+- [[public/centralizmus\|centralizmus]]: minden központilag van működtetve
 - [[globalizmus\|globalizmus]]
 - a posztmodern szereti a technikát, ha uralhatja
 - haladáselvűség: a modernitásban fejlődés
@@ -308,7 +308,7 @@
 	- mindannyian Übermenschekké válhatunk
 		- gyávák vagyunk bevallani, hogy nincs cél, de aki bátor ezt belátni, Übermensch
 	- ha a tigrisek verődnek nyájjá, az is nyáj
-	- ismerte [[private/Wagner\|Wagner]]t
+	- ismerte [[public/Wagner\|Wagner]]t
 - pszichoanalízis
 	- [[Sigmund Freud\|Sigmund Freud]]
 		- az emberi gondolkodás nem tudja kezelni magát a tudattalan jelenléte miatt
@@ -451,12 +451,12 @@
 - minek van műalkotás?
 	- eddig:
 		- tudást adnak, bevezetnek minket a világunkba, de metaforikusan
-		- [[private/Mátépassió\|Mátépassió]] bár más módon, de ugyanúgy mondja el a történetet, mint a pap
+		- [[public/Mátépassió\|Mátépassió]] bár más módon, de ugyanúgy mondja el a történetet, mint a pap
 		- parasztbarokk - mindent tudnak a világról, értenek mindent
 		- a műalkotás az életünkben kitüntetett jelenség, kiemel minket -> időleges, ezt most beláthatjuk
 			- jobb emberré válás, emancipáció - [[public/Schiller\|Schiller]]
 	- most:
-		- [[private/Mátépassió\|Mátépassió]] élvezetet okozhat
+		- [[public/Mátépassió\|Mátépassió]] élvezetet okozhat
 		- [[Kant\|Kant]] - találkozzunk a műalkotásokkal és kezdjük el megérteni saját életünket
 [[John Adams\|John Adams]], [[Philippe Glass\|Philippe Glass]]
 - körkép a posztmodern művészetről
@@ -595,7 +595,7 @@
 - [ ] [[10 perc trombita\|10 perc trombita]] filmnovella sorozat
 	- nincs cselekménye
 	- filmzene tökéletessége
-		- [[private/Bach#^68ecc9\|Bach#^68ecc9]] Goldberg variációk (nem sorrendben)
+		- [[public/Bach#^68ecc9\|Bach#^68ecc9]] Goldberg variációk (nem sorrendben)
 		- miért ezt a zenét választotta?
 		- idő és tér: filmforgatáson, lakókocsiban (otthon hiánya, bárhol lehet)
 			- a lejátszó is hordozható
@@ -612,11 +612,11 @@
 	- boldogtalan vagyok, de ez ellen tehetek (romantika óta így van)
 		- de aki panaszkodik, nevetséges lesz
 		- (jelen: nem minden kultúrkörben panaszkodnak)
-	- miért [[private/Bach\|Bach]]ot választott (amikor a legjobban valami swing/blues/lazulós illett volna a filmbe)?
+	- miért [[public/Bach\|Bach]]ot választott (amikor a legjobban valami swing/blues/lazulós illett volna a filmbe)?
 		- *kultúrkritikát ad a mai világról*
 			- nem heroikus, vagy didaktikus
 			- tágabb ellentétet nem is lehetne összeállítani
-		- tömegek nem hallgatnak már [[private/Bach\|Bach]]ot
+		- tömegek nem hallgatnak már [[public/Bach\|Bach]]ot
 		- a barokkban áll az idő, "rend van" (vallásos központja van a világban)
 			- dinamizmusban élő világban *miért* vet fel ilyet?
 

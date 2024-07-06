@@ -139,13 +139,13 @@
 - néhány év szünet (átdolgozza közben egyes darabjait)
 	- *Requiem*
 	- elmegy a kedve az operaírástól
-		- [[private/Wagner\|Wagner]] miatt
+		- [[public/Wagner\|Wagner]] miatt
 		- miért? - partitúra láttán megértette, megpróbált találkozni vele
-		- mire felkereste, [[private/Wagner\|Wagner]] lepattant
+		- mire felkereste, [[public/Wagner\|Wagner]] lepattant
 	- [[Arrigo Boito\|Arrigo Boito]]
 		- zeneszerző és librettista
 		- mégis írjon operát
-		- *Otello* - elmozdult [[private/Wagner\|Wagner]] irányába
+		- *Otello* - elmozdult [[public/Wagner\|Wagner]] irányába
 			- 1887 - bem. Budapest
 		- *Falstaff* - már teljesen feloldja a zárt számokat
 			- tartalom #később 
@@ -153,8 +153,8 @@
 	- messze a nagyváros zajától
 	- közel a milanói La Scalahoz
 
-## [[private/Wagner\|Wagner]] és [[public/Verdi\|Verdi]]
-### [[private/Wagner\|Wagner]]
+## [[public/Wagner\|Wagner]] és [[public/Verdi\|Verdi]]
+### [[public/Wagner\|Wagner]]
 - zárt számok kerülése
 - emlékeztető motívumok
 - zenei próza

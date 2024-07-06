@@ -8,7 +8,7 @@ Christoph Willibald Gluck
 
 - 1714-87
 	- cseh származású -> prágai tanulmányok
-	- [[private/C P E Bach\|C P E Bach]]-hal egy évben született
+	- [[public/C P E Bach\|C P E Bach]]-hal egy évben született
 	- dramma per musica-kat alkotott olasz nyelven
 	- [[Metastasio\|Metastasio]] szövegei
 	- nemzetközi szerző volt (főként az opera népszerűsége miatt)
@@ -18,4 +18,4 @@ Christoph Willibald Gluck
 		- zene a dráma szolgálatában
 		- vokális virtuozitási túlzások eltüntetése
 		- ariak és recitativok váltakozása
-		- [[public/Gluck - Orfeo\|Gluck - Orfeo]] és [[private/Gluck - Alceste\|Gluck - Alceste]] (francia változatban is megkomponálta)
+		- [[public/Gluck - Orfeo\|Gluck - Orfeo]] és [[public/Gluck - Alceste\|Gluck - Alceste]] (francia változatban is megkomponálta)

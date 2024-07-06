@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/public/hangszeres-virtuozok-es-muveik-a-19-szazadban/"}
 ---
 
-> Hangversenyetűd, hangszeres átiratok, noktürn, mazurka, polonéz, [[private/Paganini\|Paganini]], [[public/Liszt\|Liszt]], [[private/Chopin\|Chopin]]
+> Hangversenyetűd, hangszeres átiratok, noktürn, mazurka, polonéz, [[public/Paganini\|Paganini]], [[public/Liszt\|Liszt]], [[public/Chopin\|Chopin]]
 
 ### Fontos szerzők
 
-- [[private/Paganini\|Paganini]]
+- [[public/Paganini\|Paganini]]
 - [[public/Liszt\|Liszt]]
-- [[private/Chopin\|Chopin]]
+- [[public/Chopin\|Chopin]]
 
 ### Fontos műfajok
 
@@ -23,8 +23,8 @@
 #### A noktürn
 
 - olasz *notturno:* szerenád jellegű darab
-- franciás nocturne változatát **[[private/John Field\|John Field]]** kezdte használni
-	- példaképül szolgál [[private/Chopin\|Chopin]]nek
+- franciás nocturne változatát **[[public/John Field\|John Field]]** kezdte használni
+	- példaképül szolgál [[public/Chopin\|Chopin]]nek
 - triolás jellegű kísérő szólam, dallamosabb felső szólam
 - ízléses díszítések
 - pedálhasználat

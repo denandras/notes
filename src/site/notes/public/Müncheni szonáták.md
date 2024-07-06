@@ -4,7 +4,7 @@
 
 #
 
-- [[private/Mozart\|Mozart]] 1775-ös [[private/klasszikus billentyűs szonáta\|klasszikus billentyűs szonáta]]i
+- [[public/Mozart\|Mozart]] 1775-ös [[public/klasszikus billentyűs szonáta\|klasszikus billentyűs szonáta]]i
 - kiadásra szánta őket, de nem talált vállalkozót
 { #ee8718}
 

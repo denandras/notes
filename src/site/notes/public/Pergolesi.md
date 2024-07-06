@@ -10,7 +10,7 @@
 
 - [[public/Úrhatnám szolgáló\|Úrhatnám szolgáló]]
 - ősei Pergolaból származnak
-- tanárai [[Gaetano Greco\|Gaetano Greco]], [[private/Leonardo Vinci\|Leonardo Vinci]] és [[Francesco Durante\|Francesco Durante]]
+- tanárai [[Gaetano Greco\|Gaetano Greco]], [[public/Leonardo Vinci\|Leonardo Vinci]] és [[Francesco Durante\|Francesco Durante]]
 - majd' minden művét Nápolyban mutatták be
 
 

@@ -32,13 +32,13 @@
 		- [[Erkel Ferenc\|Erkel Ferenc]] az igazgató, [[Podmaniczky Frigyes\|Podmaniczky Frigyes]] az intendáns egy évig, majd röviddel ezután [[Beniczky Ferenc\|Beniczky Ferenc]]
 		- [[Popper Dávid\|Popper Dávid]] ajánlásával [[public/Mahler\|Mahler]] lett az igazgató
 		- erőszakosan igényes volt, nem bírta a haknit, sokat próbált
-		- 1889 elején *Rajna kincse* + *Valkűrök* mentek, [[private/Brahms\|Brahms]] el se ment volna (nem járt operába); egyszer kifárasztották és megpihentek a [[public/Mahler\|Mahler]]-vezényelte *[[public/Don Giovanni\|Don Giovanni]]n*, gratulált az előadás végénél
+		- 1889 elején *Rajna kincse* + *Valkűrök* mentek, [[public/Brahms\|Brahms]] el se ment volna (nem járt operába); egyszer kifárasztották és megpihentek a [[public/Mahler\|Mahler]]-vezényelte *[[public/Don Giovanni\|Don Giovanni]]n*, gratulált az előadás végénél
 		- kikezdték [[Zichy Géza\|Zichy Géza]] vezetésével
 			- végkielégítés -> Hamburgba költözött
 - Hamburg
 - 10 évig a Bécsi Opera igazgatója
 - USA
-- [[private/Alma Schindler\|Alma Schindler]]
+- [[public/Alma Schindler\|Alma Schindler]]
 
 ## Zenéje
 - zenekarkíséretes dalok

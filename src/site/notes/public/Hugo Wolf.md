@@ -9,6 +9,6 @@
 - baráti körében [[public/Mahler\|Mahler]]
 - fiatalkorában szifiliszes lett bordélyházakban
 	- későbbi elmebaj
-- [[private/Wagner\|Wagner]]-rajongó
+- [[public/Wagner\|Wagner]]-rajongó
 - csaknem kizárólag szóló dalok
 	- költők szerint publikálva

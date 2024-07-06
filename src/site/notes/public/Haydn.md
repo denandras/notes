@@ -12,21 +12,21 @@ Joseph Haydn
 - [[public/Reutter\|Reutter]] figyelt fel rá
 	- -> bécsi Stephansdom fiúkórusa (testvérével)
 	- amíg szoprán hangjuk megmaradt
-- [[private/Nicola Porpora\|Nicola Porpora]]tól tanult
-- [[private/C P E Bach\|C P E Bach]] stílusa érezhető
+- [[public/Nicola Porpora\|Nicola Porpora]]tól tanult
+- [[public/C P E Bach\|C P E Bach]] stílusa érezhető
 	- de *nem volt koncertező billentyűs virtuóz*
 - [[public/Esterházy\|Esterházy]] [[public/Pál Antal herceg\|Pál Antal herceg]] zenekarának másodkarmestere, majd *karnagya*[^1]
 	- halála után [[public/Pompakedvelő Miklós herceg\|Pompakedvelő Miklós herceg]] szolgálatában állt
 - helyszínek:
 	- Bécs, Fertőd, Eisenstadt, Rohrau
-	- (ezzel szemben [[private/Mozart\|Mozart]] sokkal világjáróbb volt)
+	- (ezzel szemben [[public/Mozart\|Mozart]] sokkal világjáróbb volt)
 
 ### Billentyűs szonáták
 - többnyire nem magának írta őket
 - korai szonátái divertimentók/parthiák, hitelességük bizonytalan
-- 6-szonátás kötet (Giuseppe Haydn) clavicembalóra vagy [[private/fortepiano\|fortepiano]]ra
-	- Auenbrugger-szonáták: *[[private/Auenbrugger kisasszonyok\|Auenbrugger kisasszonyok]]nak*
-	- levél a kiadónak, [[private/Artaria\|Artaria]]nak, melyben készséges szolgaként köszön el
+- 6-szonátás kötet (Giuseppe Haydn) clavicembalóra vagy [[public/fortepiano\|fortepiano]]ra
+	- Auenbrugger-szonáták: *[[public/Auenbrugger kisasszonyok\|Auenbrugger kisasszonyok]]nak*
+	- levél a kiadónak, [[public/Artaria\|Artaria]]nak, melyben készséges szolgaként köszön el
 	- A B A<sub>1</sub> C A<sub>2</sub>  kóda
 	- kettősvariációt alkalmaz
 - levele Maria [[Anna von Genzinger\|Anna von Genzinger]]nek (XVI:49 címzettje)
@@ -55,13 +55,13 @@ Joseph Haydn
 			- no. 100: "törökös" ütőhangszerek
 			- mediáns (III), alsómediáns (VI) hangnemek megjelenése
 	- párizsi sorozatot egy szabadkőműves rendelte
-	- [[private/Sturm und Drang\|Sturm und Drang]]ot leginkább a Haydn-szimfóniákra használják
+	- [[public/Sturm und Drang\|Sturm und Drang]]ot leginkább a Haydn-szimfóniákra használják
 		- 26, 41-49, 52, 65
 		- moll hangnem jellemző
 		- távoli hangnemek
 		- szélsőséges dinamika, gyakori ellenpont
 		- témákon belüli kontraszt
-	- [[private/45. szimfónia\|45. szimfónia]]{ #szimfoniai}
+	- [[public/45. szimfónia\|45. szimfónia]]{ #szimfoniai}
 
 
 ## 
@@ -78,7 +78,7 @@ Joseph Haydn
 		- [[Friebert\|Friebert]] vokális átiratának átdolgozása
 		- zenekari darabot 1786-87-ben komponálta [[public/Haydn\|Haydn]]
 	- *A teremtés* - 1796-98, Bécs
-		- azonosítatlan angol szerző szövegkönyve + [[private/John Milton\|John Milton]] *Elveszett paradicsom* című eposza nyomán [[Swieten\|Swieten]] írta
+		- azonosítatlan angol szerző szövegkönyve + [[public/John Milton\|John Milton]] *Elveszett paradicsom* című eposza nyomán [[Swieten\|Swieten]] írta
 	- *Az évszakok* - 1799-1801, Bécs
 		- szöveg: [[Thomson\|Thomson]] költeményének felhasználásával [[Swieten\|Swieten]]
 - kései oratórium előzménye
@@ -145,4 +145,4 @@ Joseph Haydn
 
 
 ---------------
-[^1]: [[private/45. szimfónia\|45. szimfónia]]
+[^1]: [[public/45. szimfónia\|45. szimfónia]]

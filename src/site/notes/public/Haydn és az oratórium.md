@@ -10,7 +10,7 @@
 		- [[Friebert\|Friebert]] vokális átiratának átdolgozása
 		- zenekari darabot 1786-87-ben komponálta [[public/Haydn\|Haydn]]
 	- *A teremtés* - 1796-98, Bécs
-		- azonosítatlan angol szerző szövegkönyve + [[private/John Milton\|John Milton]] *Elveszett paradicsom* című eposza nyomán [[Swieten\|Swieten]] írta
+		- azonosítatlan angol szerző szövegkönyve + [[public/John Milton\|John Milton]] *Elveszett paradicsom* című eposza nyomán [[Swieten\|Swieten]] írta
 	- *Az évszakok* - 1799-1801, Bécs
 		- szöveg: [[Thomson\|Thomson]] költeményének felhasználásával [[Swieten\|Swieten]]
 - kései oratórium előzménye

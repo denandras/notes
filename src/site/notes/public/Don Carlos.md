@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/public/don-carlos/"}
 ---
 
-[[public/Verdi\|Verdi]], **[[private/Giacomo Meyerbeer\|Giacomo Meyerbeer]]**
+[[public/Verdi\|Verdi]], **[[public/Giacomo Meyerbeer\|Giacomo Meyerbeer]]**
 
 > 1867 -- 48-as politikai [[idealizmus\|idealizmus]], az emberek hisznek a haladásban -> az emberekben realizálódik a reménytelenség
 
@@ -12,7 +12,7 @@
 - visszatérő téma: politika + egyház elnyomása
 - [[public/Verdi\|Verdi]] lelkes tagja volt a politikai idealizmus mozgalmának, az egységes Itáliának, de voltak kétségei
 - volt a darab történetével kapcsolatban szabadsága, de nem tudott mindent megvalósítani (Párizsban kevésbé fontos a zeneszerző, mint Itáliában)
-- többen Verdinél [[private/Wagner\|Wagner]]re hasonlító dolgokat hallottak a darabokban (de ő továbbhaladt később)
+- többen Verdinél [[public/Wagner\|Wagner]]re hasonlító dolgokat hallottak a darabokban (de ő továbbhaladt később)
 - **francia nyelv**
 - [[public/Schiller\|Schiller]]
 

@@ -3,7 +3,7 @@
 ---
 
 [[public/Gluck\|Gluck]]
-[[private/Sturm und Drang\|Sturm und Drang]] előzménye
+[[public/Sturm und Drang\|Sturm und Drang]] előzménye
 
 - minimalista dráma 3 szereplővel
 - bécsi bemutató

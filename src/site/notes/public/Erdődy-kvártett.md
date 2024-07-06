@@ -4,4 +4,4 @@
 
 [[public/Haydn\|Haydn]]
 
-- német himnusz ebben található ([[private/Kaiser-kvártett\|Kaiser-kvártett]]ben)
+- német himnusz ebben található ([[public/Kaiser-kvártett\|Kaiser-kvártett]]ben)

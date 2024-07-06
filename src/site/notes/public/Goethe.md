@@ -19,7 +19,7 @@
 	- magába szívott eddig nem ismert műveket
 
 - kapcsolatai zeneszerzőkkel
-	- [[private/Johann Heinrich Friedrich Schütz\|Johann Heinrich Friedrich Schütz]] megismerteti vele [[private/Bach\|Bach]] és más németek zenéjét (kedvence lett)
+	- [[public/Johann Heinrich Friedrich Schütz\|Johann Heinrich Friedrich Schütz]] megismerteti vele [[public/Bach\|Bach]] és más németek zenéjét (kedvence lett)
 	- 30 éves barátság [[Johann Rochlitz\|Johann Rochlitz]]-al
 	- [[Zelter\|Zelter]] zenéje
 	- ének kvártettet alapított
@@ -27,11 +27,11 @@
 		- Messiah, Samson, Judas Maccabeus
 	- *álma volt egy zenésszel együtt epikus és drámai munkákat alkotni*
 		- nem valósult meg teljesen
-		- de Iphigenie, [[Egmont\|Egmont]] és [[private/Faust\|Faust]]-ját megzenésítették
-	- [[private/Mozart\|Mozart]] [[public/Don Giovanni\|Don Giovanni]]ját hallva remélte, hogy [[private/Faust\|Faust]]ja is hasonló sorsra jut
+		- de Iphigenie, [[Egmont\|Egmont]] és [[public/Faust\|Faust]]-ját megzenésítették
+	- [[public/Mozart\|Mozart]] [[public/Don Giovanni\|Don Giovanni]]ját hallva remélte, hogy [[public/Faust\|Faust]]ja is hasonló sorsra jut
 
 - megzenésítették műveit
 	- [[public/Schubert\|Schubert]]
 	- [[public/Schumann\|Schumann]]
-	- [[private/Mendelssohn\|Mendelssohn]]
-	- [[private/Brahms\|Brahms]]
+	- [[public/Mendelssohn\|Mendelssohn]]
+	- [[public/Brahms\|Brahms]]

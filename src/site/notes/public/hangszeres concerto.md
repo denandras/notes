@@ -10,7 +10,7 @@
 	- esemény
 	- együttes
 - típusai:
-	1. [[private/concerto grosso\|concerto grosso]]
+	1. [[public/concerto grosso\|concerto grosso]]
 		- [[Corelli\|Corelli]]
 		- 7 szólam
 			- 3 szólista + 4 fő a zenekar (hangzás megerősítése)
@@ -27,8 +27,8 @@
 				- elindul egy irányba, és direkt nem találja a cél hangnemet
 				- támadták zenei lopások miatt, -> egyetlen hangból álló fúgatéma
 				- ABAv (ária)forma lehetőséget ad a kiteljesedésre
-	2. [[private/concerto a cinque\|concerto a cinque]]
-		- Velence, [[private/Antonio Vivaldi\|Antonio Vivaldi]] 
+	2. [[public/concerto a cinque\|concerto a cinque]]
+		- Velence, [[public/Antonio Vivaldi\|Antonio Vivaldi]] 
 		- 5 szólamú
 			- szólóhegedű + 4 fő
 			- szólista kilép néha a zenekarból
@@ -49,4 +49,4 @@
 
 	
 - [[Corelli\|Corelli]] concertohagyományát [[public/Händel\|Händel]] vitte tovább
-	- [[Vivaldi\|Vivaldi]]ét [[private/Bach\|Bach]]
+	- [[Vivaldi\|Vivaldi]]ét [[public/Bach\|Bach]]

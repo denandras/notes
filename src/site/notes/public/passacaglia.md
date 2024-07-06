@@ -3,7 +3,7 @@
 ---
 
 #
-Ereszkedő, ostinato basszusmenettel rendelkező tánczene, a [[private/ciaccona\|ciaccona]] rokonműfaja
+Ereszkedő, ostinato basszusmenettel rendelkező tánczene, a [[public/ciaccona\|ciaccona]] rokonműfaja
 
 # [wiki](https://www.wikiwand.com/hu/Passacaglia)
 

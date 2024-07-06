@@ -7,7 +7,7 @@
 ### Életrajzi indíttatás
 
 - <mark>1857-1859</mark>
-- [[private/Wagner\|Wagner]] [[Mathilde Wesendonck\|Mathilde Wesendonck]] iránti szerelme (mecénásának felesége)
+- [[public/Wagner\|Wagner]] [[Mathilde Wesendonck\|Mathilde Wesendonck]] iránti szerelme (mecénásának felesége)
 
 ### Bemutató
 

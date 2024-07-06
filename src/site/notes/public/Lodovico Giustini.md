@@ -8,9 +8,9 @@
 - orgonista, egyházi zeneszerző
 - hírnév: op. 1 billentyűs szonáták
 	- barokkosan régies és újszerű elemek keveréke
-	- Corellihez hasonlóan 12 szvitet tartalmaz ([[private/sonata da camera\|sonata da camera]])
+	- Corellihez hasonlóan 12 szvitet tartalmaz ([[public/sonata da camera\|sonata da camera]])
 	- zenetörténet első *kalapácszongora*-darabgyűjteménye
-		- [[private/fortepiano\|fortepiano]]
+		- [[public/fortepiano\|fortepiano]]
 
 
 

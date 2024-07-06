@@ -4,7 +4,7 @@
 
 
 - milyen kiutak vannak a [[public/rokokó\|rokokó]]ból?
-	- [[private/klasszicizmus\|klasszicizmus]]
+	- [[public/klasszicizmus\|klasszicizmus]]
 		- mértéktartó ízlés
 		- szabályok
 		- vissza a klasszikusokhoz

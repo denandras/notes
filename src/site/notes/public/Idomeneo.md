@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/public/idomeneo/"}
 ---
 
-[[private/Mozart\|Mozart]]
+[[public/Mozart\|Mozart]]
 
 > A mű színpadra állítása nem kis feladat. Technikai és hangi követelmények szempontjából az Idomeneo nagy igényeket támaszt. Nagyszabású és bonyolult színházi apparátust, nagy létszámú kórust igényel.
 > Keletkezése egy hosszú folyamat volt, a darabot mostohán kezelték. Mozart szerint hosszú volt a szövegkönyv, a zenészek tehetségtelenek.
 
-- [[private/opera seria\|opera seria]]t egybevegyíti a francia [[tragedie lyrique\|tragedie lyrique]] elemeivel
+- [[public/opera seria\|opera seria]]t egybevegyíti a francia [[tragedie lyrique\|tragedie lyrique]] elemeivel
 - teljhatalmú uralkodó szembekerül egy morális problémával
 	- Idomeneo, Kréta királya fogadalmat tesz emberáldozatra Neptunusnak egy hajón, viharban
 	- fiát látja meg
@@ -18,7 +18,7 @@
 		- végkifejlet teljesen más
 			- megőrül, feláldozná, megállítják -> Neptun kompromisszumos kegyelmet ad
 - szenvedélyes
-- [[private/Mozart\|Mozart]] színpadi zsenialitása megmutatkozik
+- [[public/Mozart\|Mozart]] színpadi zsenialitása megmutatkozik
 - egy fogoly (Ilia) szerelmes lesz szülei gyilkosának fiába (Idamanteba) (viszonzott)
 	- aki szerepébe nem mellesleg akkor kasztrált énekes bújt, viszont Mozart átírta tenorra is
 	- Elettra is szerelmes Idamanteba
