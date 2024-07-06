@@ -6,9 +6,9 @@
 
 ballet de court
 vokális zene sok tétellel, mindegyik műnek van témája
-dinamizmus nélküli [[private/opera\|opera]]
+dinamizmus nélküli [[public/opera\|opera]]
 
-[[private/francia barokk\|francia barokk]]
+[[public/francia barokk\|francia barokk]]
 
 
 

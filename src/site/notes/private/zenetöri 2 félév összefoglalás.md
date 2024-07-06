@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/private/zenetoeri-2-felev-oesszefoglalas/"}
 ---
 
-#
-
 1.  **Barokk zene**
 	- szó
 	- mitől egy korszak?
@@ -57,6 +55,6 @@
 
 
 
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenetori-2-felev-osszefoglalas&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+
+
 

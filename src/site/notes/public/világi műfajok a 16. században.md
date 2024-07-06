@@ -30,11 +30,11 @@
             -   `1501:` [[public/Petrarca\|Petrarca]] versei nyomtatva
                 -   képekben gazdag
                 -   század végére erőteljesebb a szöveg megjelenítése
-        -   **[[private/Monteverdi\|Monteverdi]]** madrigálja
+        -   **[[public/Monteverdi\|Monteverdi]]** madrigálja
             -   nimfák
             -   a nimfa éneke teljesen más stílust követ (már barokkos), mint a kórus
             -   reneszánsz-barokk-reneszánsz
-            -   a [[private/reneszánsz\|reneszánsz]] [[public/madrigál\|madrigál]] korlátai
+            -   a [[public/reneszánsz\|reneszánsz]] [[public/madrigál\|madrigál]] korlátai
                 -   távolságtartás (szöveg) a szöveg és az érzelmek között
         -   kromatikus [[public/madrigál\|madrigál]] - egyre komplexebbé válik
             -   **[[Luca Marenzio\|Luca Marenzio]]**
@@ -48,7 +48,7 @@
                     -   hajmeresztő hangzatok, de tökéletes szólamvezetés
                     -   amikor nincs szó az érzelem kifejezésére: "Ahi!"
     -   **[[villanella\|villanella]], [[frottola\|frottola]]** (elnevezések eredete kérdéses)
-        -   **Orlando di [[private/Lasso\|Lasso]]** (olaszul, francuául, németül)
+        -   **Orlando di [[public/Lasso\|Lasso]]** (olaszul, francuául, németül)
             -   rengeteg műfajban alkotott
             -   Zsoldos szerenád (villanella - refrénes)
                 -   erősen szexuális téma

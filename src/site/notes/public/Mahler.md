@@ -48,7 +48,7 @@
 		- versek, gyászversek szőrnyűségekről, játékosan
 			- kicsinyítő képzők
 		- nem kromatikus (ami szentimentális volna), hanem diatonikus eszközök
-		- [[private/Schubert\|Schubert]] *Winterreise*-jét idéző eszközök
+		- [[public/Schubert\|Schubert]] *Winterreise*-jét idéző eszközök
 			- nála a dúr belemerül az irracionális álomvilágba, ellentétben [[public/Mahler\|Mahler]]rel
 		- visszatérés jönne, de nincs
 	- *Gyermekgyász-dalok*

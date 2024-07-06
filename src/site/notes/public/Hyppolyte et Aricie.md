@@ -4,7 +4,7 @@
 
 Hippolütosz és Arikia
 
-- [[private/Rameau\|Rameau]] 1733-as operája.
+- [[public/Rameau\|Rameau]] 1733-as operája.
 - negatív levél (konklúzió: ez a zene barokk)
 - felborzolja a francia kedélyeket
 - története

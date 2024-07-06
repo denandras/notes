@@ -6,24 +6,24 @@
 
 > szimfónia és szimfonikus költemény, BERLIOZ, SCHUBERT, MENDELSSOHN, SCHUMANN, LISZT, BRAHMS, az [[private/abszolút zene\|abszolút zene]] eszméje és az Újnémet Iskola]
 
-- a [[private/Beethoven\|Beethoven]] utáni helyzet
+- a [[public/Beethoven\|Beethoven]] utáni helyzet
 	- **kimerültek a lehetőségek?**
 		- kellemetlen előzmény
-	- [[private/Schumann\|Schumann]] írása arról, hogy [[private/Berlioz\|Berlioz]]nak nem elég a 4 tétel 1820-ban
-- **[[private/Berlioz\|Berlioz]]**
-- [[private/Schubert\|Schubert]] [C-dúr szimfónia](Schubert.md)
-- [[private/Mendelssohn\|Mendelssohn]]
-- [[private/Schumann\|Schumann]]: 3. "Rajna" szimfónia
+	- [[public/Schumann\|Schumann]] írása arról, hogy [[public/Berlioz\|Berlioz]]nak nem elég a 4 tétel 1820-ban
+- **[[public/Berlioz\|Berlioz]]**
+- [[public/Schubert\|Schubert]] [C-dúr szimfónia](Schubert.md)
+- [[public/Mendelssohn\|Mendelssohn]]
+- [[public/Schumann\|Schumann]]: 3. "Rajna" szimfónia
 - [[private/Brahms\|Brahms]]
 
 - **nyilatkozat**
 	- kiváltó ok
-		- [[private/Franz Brendel\|Franz Brendel]] beszéde a lipcsei Zeneművészek Gyűlésén
+		- [[public/Franz Brendel\|Franz Brendel]] beszéde a lipcsei Zeneművészek Gyűlésén
 	- lényege
-		- *"Újnémet iskola"*: [[public/Liszt\|Liszt]], [[private/Wagner\|Wagner]], [[private/Berlioz\|Berlioz]] és csak ők
+		- *"Újnémet iskola"*: [[public/Liszt\|Liszt]], [[private/Wagner\|Wagner]], [[public/Berlioz\|Berlioz]] és csak ők
 	- -> [[private/Brahms\|Brahms]] hagyománytisztelő tiltakozása
 		- [[public/Eduard Hanslick\|Eduard Hanslick]] ([[public/Liszt\|Liszt]] és [[private/Wagner\|Wagner]] másik nagy kritikusa)
-		- [[private/Schumann\|Schumann]], [[private/Mendelssohn\|Mendelssohn]], [[private/Brahms\|Brahms]]
+		- [[public/Schumann\|Schumann]], [[public/Mendelssohn\|Mendelssohn]], [[private/Brahms\|Brahms]]
 - [[private/abszolút zene\|abszolút zene]] eszméje
 	- zene mint autonóm művészet
 	- [[public/Eduard Hanslick\|Eduard Hanslick]] - *a zenei szép*

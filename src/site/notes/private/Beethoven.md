@@ -57,7 +57,7 @@
 - kései ***(1813-)***
 	- (1818-tól [[Broadwood\|Broadwood]] [[private/fortepiano\|fortepiano]]t használ)
 	- személyes hang, egyéni tételrendek
-	- egyetlen kifejezetten **[[private/programatikus\|programatikus]]** zongoraszonátája: az op. 81a „[[private/Les Adieux\|Les Adieux]]”
+	- egyetlen kifejezetten **[[public/programatikus\|programatikus]]** zongoraszonátája: az op. 81a „[[private/Les Adieux\|Les Adieux]]”
 	- záró [[public/szonátarondó\|szonátarondó]] formák eltűnnek, fúgák, vagy átszellemült var. finálék lépnek a helyükbe
 
 ### Szimfóniái{ #szimfoniai}

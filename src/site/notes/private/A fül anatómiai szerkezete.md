@@ -6,7 +6,7 @@
 
 ### Fül
 - ha fáj, akkor vesszük tudomásul, hogy van
-1. [[private/posztulátum\|posztulátum]]: mindenki azt hall, amit hall
+1. [[public/posztulátum\|posztulátum]]: mindenki azt hall, amit hall
 - a befelé figyelő fül és a hegyezett fül
 - a belső fül picike, a dobhártya 1 cm², érzékeny a szúrásra
 - a fülszőr véd a portól, valamint a rovaroktól

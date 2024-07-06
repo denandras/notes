@@ -255,7 +255,7 @@
 
 
 ---
-[^1]: fogalma: [[private/posztmodern\|posztmodern]]
+[^1]: fogalma: [[public/posztmodern\|posztmodern]]
 [^2]: [[Friedrich Wagner\|Friedrich Wagner]] rendőr fél éves korában meghalt. [[Ludwig Geyer\|Ludwig Geyer]] az új férj, szerető apa, de szigorú, 8 éves korában meghal. [[private/Wagner\|Wagner]]t Richard Geier néven íratják iskolába. Alig ismerte apját. Halála előtt mikor együtt volt a család, azt mondta: "Ebből a fiúból nem tudom, mi lesz; talán zenész."
 [^3]: "megtanulja, hogy jól be lehet rúgni és molesztálni a nőket"
 [^4]: a fasiszta szó erős túlzás. Élete vége felé jobbos. [[Marx\|Marx]] antiszemita zsidó volt. [1847-es kommunista kiáltvány](https://www.wikiwand.com/hu/Kommunista_ki%C3%A1ltv%C3%A1ny) - nyomor

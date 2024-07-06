@@ -13,7 +13,7 @@
 - röbbszólamú
 	- nincs egy fajta detektálható művészeti megközelítés
 	- párhuzamosan haladnak egymás mellett
-- ellentmondások ekkor is voltak, nem csak a [[private/posztmodern\|posztmodern]]ben
+- ellentmondások ekkor is voltak, nem csak a [[public/posztmodern\|posztmodern]]ben
 
 - [[Van Gogh\|Van Gogh]]
 - [[Cezanne\|Cezanne]]

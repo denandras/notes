@@ -9,7 +9,7 @@ Joseph Haydn
 ### Élete
 <mark>1732-1809</mark>
 - Rohrau, bognármester fia
-- [[private/Reutter\|Reutter]] figyelt fel rá
+- [[public/Reutter\|Reutter]] figyelt fel rá
 	- -> bécsi Stephansdom fiúkórusa (testvérével)
 	- amíg szoprán hangjuk megmaradt
 - [[private/Nicola Porpora\|Nicola Porpora]]tól tanult
@@ -39,7 +39,7 @@ Joseph Haydn
 	- (három mű elsője)
 	- ([[public/Esterházy\|Esterházy]]-szolgálatban)
 		- lehet, hogy [[public/Pál Antal herceg\|Pál Antal herceg]] ötlete
-	- [[private/sinfonia concertante\|sinfonia concertante]]
+	- [[public/sinfonia concertante\|sinfonia concertante]]
 	- rövidke, de jelentős szólók
 		- akár a fagott, vagy a nagybőgő is
 - nem nyilvános, hercegi magánrendezvényeken

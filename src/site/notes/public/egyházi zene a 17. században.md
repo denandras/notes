@@ -24,13 +24,13 @@
         -   Angol polgári forradalom
         -   A hívekért való küzdelem eszköze a zene, meghatja, tehát leköti a hallgatót
         -   Ez a harc csak a felszín
--   [[private/Schütz\|Schütz]]
+-   [[public/Schütz\|Schütz]]
     -   Fennmaradt életműve nyomtatott kottákból áll - csak egyházi művek
     -   Első német [[private/opera\|opera]] szerzője - nem maradt fenn
     -   Élete
         -   Apja fogadójában énekelt és felfedezte egy gróf
         -   Ösztöndíjából Velencébe utazott
-            -   Giovanni Gabrieli, a székesegyház karnagya ([[private/Monteverdi\|Monteverdi]] elődje) tanította [[private/Schütz\|Schütz]]-öt
+            -   Giovanni Gabrieli, a székesegyház karnagya ([[private/Monteverdi\|Monteverdi]] elődje) tanította [[public/Schütz\|Schütz]]-öt
         -   Drezdai választófejedelem udvarában működött
         -   30 éves háború elől Dániába menekült
         -   Madrigálkötet: belépő, ezt ki is nyomtatták

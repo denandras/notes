@@ -4,7 +4,7 @@
 
 # Christian Gottlob Neefe
 
-- helyettesítette [[private/Beethoven\|Beethoven]] orgonista és udvari zenekari vezetőként
+- helyettesítette [[public/Beethoven\|Beethoven]] orgonista és udvari zenekari vezetőként
 - tanmenetében a [[private/Wohltemperiertes Klavier\|Wohltemperiertes Klavier]] és [[private/C P E Bach\|C P E Bach]] [[Versuch\|Versuch]]ja meghatározó
 
 

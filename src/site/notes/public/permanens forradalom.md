@@ -3,14 +3,14 @@
 ---
 
 
-- milyen kiutak vannak a [[private/rokokó\|rokokó]]ból?
+- milyen kiutak vannak a [[public/rokokó\|rokokó]]ból?
 	- [[private/klasszicizmus\|klasszicizmus]]
 		- mértéktartó ízlés
 		- szabályok
 		- vissza a klasszikusokhoz
 		- akadémia
 		- [[Jean Auguste Dominique Ingres\|Jean Auguste Dominique Ingres]]
-	- [[private/romantika\|romantika]]
+	- [[public/romantika\|romantika]]
 		- [[Eugéne Delacroix\|Eugéne Delacroix]]
 		- egyéni kifejezésmód
 - háttér
@@ -131,10 +131,10 @@
 	- [[Arthur Rimbaud\|Arthur Rimbaud]]
 	- [[Oscar Wilde\|Oscar Wilde]]
 	- [[Marcel Proust\|Marcel Proust]]
-	- [[private/Rilke\|Rilke]]
+	- [[public/Rilke\|Rilke]]
 - zenében
 	- [[public/Debussy\|Debussy]]
-	- [[private/Richard Strauss\|Richard Strauss]]
+	- [[public/Richard Strauss\|Richard Strauss]]
 	- [[Ravel\|Ravel]]
 	- [[Manuel de Falla\|Manuel de Falla]]
 	- [[Ottorino Respighi\|Ottorino Respighi]]

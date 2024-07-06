@@ -14,7 +14,7 @@
 - volt a darab történetével kapcsolatban szabadsága, de nem tudott mindent megvalósítani (Párizsban kevésbé fontos a zeneszerző, mint Itáliában)
 - többen Verdinél [[private/Wagner\|Wagner]]re hasonlító dolgokat hallottak a darabokban (de ő továbbhaladt később)
 - **francia nyelv**
-- [[private/Schiller\|Schiller]]
+- [[public/Schiller\|Schiller]]
 
 - **5 felvonás**, de az elsőt elvetette
 	- **`16.` századi Spanyolország, II. Fülöp uralkodása** (1566–1598) idején

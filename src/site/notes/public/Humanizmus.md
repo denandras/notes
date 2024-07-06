@@ -19,7 +19,7 @@ Humanista gondolkodás
         -   könyv
         -   firenzei ünnepségek szervezője
     -   **[[Giovanni de Bardi\|Giovanni de Bardi]]-kör**
-        -   **[[private/Vincenzo Galilei\|Vincenzo Galilei]]**
+        -   **[[public/Vincenzo Galilei\|Vincenzo Galilei]]**
             -   könyv: A régi és az új zene dialógusa
             -   elvetette a polifón zenét
                 -   nem hat a hallgatóságra olyan elementáris módon úgy, ahogy egy szólam
@@ -29,7 +29,7 @@ Humanista gondolkodás
     -   `5` felvonás
     -   intermedio-k - zenei közjátékok Ottavino Rinucci szövegeire
     -   [[private/Giulio Caccini\|Giulio Caccini]], [[private/Jacopo Peri\|Jacopo Peri]] - monódikus ének fontos alakjai (és első operaszerzők)
--   [[private/basso continuo\|basso continuo]], operaszerű, recitált ének
+-   [[public/basso continuo\|basso continuo]], operaszerű, recitált ének
 - két költő: [[Ottavino Rinuccini\|Ottavino Rinuccini]] & [[Gabriello Chiabrera\|Gabriello Chiabrera]]
 
 Az első operák - azt hitték, hogy az antik drámákat végigénekelték -> barokk

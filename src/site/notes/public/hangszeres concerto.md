@@ -3,7 +3,7 @@
 ---
 
 - mindenféle hangszeres darab
-- [[private/Schütz\|Schütz]]
+- [[public/Schütz\|Schütz]]
 - szó: verseny/együttműködik
 - jelentése (fokozatosan szűkül a mai jelentésre: **hangszeres versenymű**)
 	- műfajt
@@ -34,7 +34,7 @@
 			- szólista kilép néha a zenekarból
 			- szólista fogja össze a zenekart, sokszor maga a zeneszerző
 		- gyors - lassú - gyors
-		- nyitótétel [[private/ritornello forma\|ritornello forma]]
+		- nyitótétel [[public/ritornello forma\|ritornello forma]]
 			- egyszerűségében a varázsa, rugalmas
 			- ritornellók + szólók váltakoznak
 			- moduláció a szólóban (I-V-VI-I)

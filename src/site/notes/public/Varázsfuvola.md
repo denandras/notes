@@ -3,7 +3,7 @@
 ---
 
 #
-[[private/Mozart\|Mozart]]
+[[public/Mozart\|Mozart]]
 
 - Theater auf der Wiedenben mutatják be
 	- Schikaneder szövegíró a színház igazgatója

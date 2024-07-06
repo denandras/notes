@@ -10,7 +10,7 @@
 - ezután nemzetközivé válik
 - **Párizs, Berlin**
 - középső korszak: *Rigoletto*, *La Traviata*
-- agg Verdi: [[private/Shakespeare\|Shakespeare]]-darabokra épül
+- agg Verdi: [[public/Shakespeare\|Shakespeare]]-darabokra épül
 	- pl. *Otello*
 - [[public/Don Carlos\|Don Carlos]]
 
@@ -65,7 +65,7 @@
 		- *A kalóz*
 		- *A legnanói csata*
 	- *Macbeth*
-		- [[private/Shakespeare\|Shakespeare]]-szöveg
+		- [[public/Shakespeare\|Shakespeare]]-szöveg
 		- [[Piave\|Piave]] nevű librettista
 	- *Luisa Miller*
 		- Tirolban játszódik (ekkor utálták itthon az osztrákokat)

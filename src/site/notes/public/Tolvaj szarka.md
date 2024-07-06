@@ -4,7 +4,7 @@
 
 #
 
-[[private/Rossini\|Rossini]] operája
+[[public/Rossini\|Rossini]] operája
 
 
 

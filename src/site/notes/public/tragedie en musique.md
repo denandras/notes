@@ -4,7 +4,7 @@
 
 #
 
-francia [[private/opera seria\|opera seria]]
+francia [[public/opera seria\|opera seria]]
 
 
 

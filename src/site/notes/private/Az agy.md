@@ -7,7 +7,7 @@ adalék:
 > Brodmann-mezőt
 
 - ### Agy
-	- 2. [[private/posztulátum\|posztulátum]]: mindenki azt hall a világból, amit a füle és az **agya** lehetővé tesz számára
+	- 2. [[public/posztulátum\|posztulátum]]: mindenki azt hall a világból, amit a füle és az **agya** lehetővé tesz számára
 		- hüllőagy: ösztönösen tud élni
 		- emlősagy: limbikus idegrendszer (*érzelmek*)
 			- érzelemkifejezés

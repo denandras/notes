@@ -28,8 +28,8 @@
 - [[private/bronzkor, vaskor\|bronzkor, vaskor]]
 - [[public/hellenisztikus kor\|hellenisztikus kor]]
 - [[private/antik római kultúra\|antik római kultúra]]
-- [[private/bizánc\|bizánc]]
-- [[private/román kor\|román kor]]
+- [[public/bizánc\|bizánc]]
+- [[public/román kor\|román kor]]
 - [[public/gótika\|gótika]]
 - [reneszánsz](https://notes.andrasdenes.com/reneszansz#A%20művészettörténetben) ([->](reneszánsz))
 
@@ -38,9 +38,9 @@
 - [[private/manierizmus\|manierizmus]]
 - [[private/barokk a művészettörténetben\|barokk a művészettörténetben]]
 	- [[public/holland aranykor\|holland aranykor]]
-- [[private/rokokó\|rokokó]]
+- [[public/rokokó\|rokokó]]
 - [[private/klasszicizmus\|klasszicizmus]]
-- [[private/romantika\|romantika]]
+- [[public/romantika\|romantika]]
 - [[public/permanens forradalom\|permanens forradalom]]
 - [[public/új utak\|új utak]]
 - [[private/szecesszió\|szecesszió]]

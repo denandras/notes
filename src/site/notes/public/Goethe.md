@@ -31,7 +31,7 @@
 	- [[private/Mozart\|Mozart]] [[public/Don Giovanni\|Don Giovanni]]ját hallva remélte, hogy [[private/Faust\|Faust]]ja is hasonló sorsra jut
 
 - megzenésítették műveit
-	- [[private/Schubert\|Schubert]]
-	- [[private/Schumann\|Schumann]]
+	- [[public/Schubert\|Schubert]]
+	- [[public/Schumann\|Schumann]]
 	- [[private/Mendelssohn\|Mendelssohn]]
 	- [[private/Brahms\|Brahms]]

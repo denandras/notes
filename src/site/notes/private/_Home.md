@@ -12,4 +12,4 @@
 
 ## Szabválok
 
-- [[private/posztmodern\|posztmodern]] művészet és művészetelmélet
+- [[public/posztmodern\|posztmodern]] művészet és művészetelmélet
