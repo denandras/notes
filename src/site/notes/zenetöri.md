@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zenetoeri/","title":"Zenetöri","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/zenetoeri/"}
 ---
 
 - [Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
