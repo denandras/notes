@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/public/szimfonikus-zene-a-19-szazadban/"}
 ---
 
-#
-
 > szimfónia és szimfonikus költemény, BERLIOZ, SCHUBERT, MENDELSSOHN, SCHUMANN, LISZT, BRAHMS, az [[public/abszolút zene\|abszolút zene]] eszméje és az Újnémet Iskola]
 
 - a [[public/Beethoven\|Beethoven]] utáni helyzet
@@ -31,9 +29,3 @@
 
 ---
 [^]: [[Általános zenetörténet IV. szemeszter - 6.tétel Szimfonikus zene a 19.sz.ban.pdf\|Általános zenetörténet IV. szemeszter - 6.tétel Szimfonikus zene a 19.sz.ban.pdf]]
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/szimfonikus-zene-a-19-szazadban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

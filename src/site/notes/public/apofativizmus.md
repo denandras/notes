@@ -8,8 +8,6 @@
 
 
 
-#
-
 - Istent nem lehet leírni, mert mindennél tökéletesebb
 - csak negatív állításokkal lehet kifejezni az ellentétét
 
@@ -19,14 +17,6 @@
 >     
 > 3. **Különböző vallási és filozófiai hagyományokban**: Az apofatikus teológia és a via negativa mind a keresztény teológiában, mind más vallásokban és filozófiai rendszerekben megtalálhatók. A via negativa kifejezés különösen a középkori keresztény teológiában és filozófiában volt jellemző, míg az apofatikus teológiának szélesebb körű alkalmazása van.
 <p style="text-align: right;">(ChatGPT)</p>
-
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/via-negativa&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-
-
 
 </div></div>
 

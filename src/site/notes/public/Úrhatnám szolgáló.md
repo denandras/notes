@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/public/urhatnam-szolgalo/"}
 ---
 
-#
-
 La serva padrona
 
 - [[public/Pergolesi\|Pergolesi]] 1733-as operája
@@ -16,9 +14,3 @@ La serva padrona
 - Serpina: (=kígyó) szobalány
 - da capo ária hasonlít [[public/Domenico Scarlatti\|Domenico Scarlatti]] szonátáinak felépítésére
 - két énekes + egy néma szereplő
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/-rhatnam-szolgalo&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

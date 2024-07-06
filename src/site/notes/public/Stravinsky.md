@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/public/stravinsky/"}
 ---
 
-
 - 1882 június 5, Oranienbaum (Szentpétervártól nem messze)
 - -1971
 - Igor Fjodorevics Sztravinszkij

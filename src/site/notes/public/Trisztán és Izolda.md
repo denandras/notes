@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/public/trisztan-es-izolda/"}
 ---
 
-#
-
 ### Életrajzi indíttatás
 
 - <mark>1857-1859</mark>
@@ -36,9 +34,3 @@
 	- *Marke* és emberei megölik *Melot*ot, de maga is halálosan megsebesül
 	- *Marke* megbocsát a párnak
 	- *Izolda bánatában meghal*
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/trisztan-es-izolda&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

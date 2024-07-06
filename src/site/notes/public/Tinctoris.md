@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/public/tinctoris/"}
 ---
 
-#
-
 zeneelméletíró
 
 <mark>1435-1511</mark>
@@ -21,9 +19,3 @@ zeneelméletíró
 6. Tilos ugyanazt a dallami fordulatot ismételni egy cantus firmus felett, különösen akkor, ha a cantus firmus tartalmazza ugyanazt a ismétlést.
 7. Kerüld el ugyanazon hang két vagy több egymást követő kadenciáját, még akkor is, ha a cantus firmus engedi.
 8. Minden kontrapunktban törekedj a sokféleségre és változatosságra a mérő, tempó és kadencia változtatásával. Használj szinkópákat, imitációkat, kánont és szüneteket. De ne felejtsd el, hogy egy átlagos chanson kevesebb különböző stílust használ, mint egy motetta, és egy motetta kevesebb különböző stílust használ, mint egy mise.
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/tinctoris&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

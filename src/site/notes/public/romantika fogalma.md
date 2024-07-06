@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/public/romantika-fogalma/"}
 ---
 
-#
-
 > szó, irodalom, [[Schlegel-fivérek\|Schlegel-fivérek]], [[public/E T A Hoffmann\|E T A Hoffmann]], irodalmi-zenei jelentés, kontrasztos ellentét, műfajok, kritikák és koncertélet, [[public/abszolút zene\|abszolút zene]], nacionalizmus, *újromantika/későromantika*
 
 ### Szó, eredet
@@ -59,9 +57,3 @@
 
 ---
 [^]: [[Általános zenetörténet IV. szemeszter - 1.tétel A romantika fogalma.pdf\|Általános zenetörténet IV. szemeszter - 1.tétel A romantika fogalma.pdf]]
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/romantika-fogalma&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

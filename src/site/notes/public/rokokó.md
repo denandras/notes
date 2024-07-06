@@ -7,8 +7,6 @@
 [[public/gáláns stílus\|gáláns stílus]], [[public/Empfindsamkeit\|Empfindsamkeit]]
 
 - finom dallamosság, egyszerű harmóniák
-
-
 # A művészettörténetben
 
 - 18. század
@@ -65,7 +63,3 @@
 
 eml. [[Bódy Gábor - Psyché\|Bódy Gábor - Psyché]]
 eml. [[Sofia Coppola - Maria Antoinette\|Sofia Coppola - Maria Antoinette]]
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/rokoko&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/public/varazsfuvola/"}
 ---
 
-#
 [[public/Mozart\|Mozart]]
 
 - Theater auf der Wiedenben mutatják be
@@ -22,9 +21,3 @@
 - egy protestáns Bach korált sző bele diminuálva
 - Papageno is öngyilkos akar lenni, őt is megakadályozza a hármas
 - heterogén stilaritás jellemzi
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/varazsfuvola&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

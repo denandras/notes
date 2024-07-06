@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/public/singspiel/"}
 ---
 
-#
-
 > Hamburg: nagyobb opera
 > néhány fejedelmi opera (Bécs, Drezda)
 > populáris: Singspiel
@@ -32,7 +30,6 @@
 
 
 
-#
 [[public/Mozart\|Mozart]]
 
 - Theater auf der Wiedenben mutatják be
@@ -53,22 +50,9 @@
 - Papageno is öngyilkos akar lenni, őt is megakadályozza a hármas
 - heterogén stilaritás jellemzi
 
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/varazsfuvola&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-
-
-
 </div></div>
 
 - [[public/Johann Adam Hiller\|Johann Adam Hiller]]
 
 ---
 [^]: [[9. Mozart és a Singspiel.pdf\|9. Mozart és a Singspiel.pdf]]
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/singspiel&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

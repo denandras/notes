@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/public/schubert/"}
 ---
 
-#
-
 Franz Schubert
 
 ![](https://koncert.zeneakademia.hu/data/ZENEAKADEMIA.HU/2021_osz/sajat/schubert_triok_2021_osz_focuspoint_900x510.jpg)
@@ -72,10 +70,6 @@ Ajánlott irodalom: [[public/Christopher H Gibbs - The life of Schubert\|Christo
 	- [[public/Schubert\|Schubert]] képes volt egyéni és a tömegek számára élvezetes módon szimfóniát komponálni.”
 - "Bécs [...] gyümölcsöző környezet a muzsikus fantáziája számára"
 
-
-
-
-
 </div></div>
 
 
@@ -98,9 +92,3 @@ Ajánlott irodalom: [[public/Christopher H Gibbs - The life of Schubert\|Christo
 
 ---
 [^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/schubert&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

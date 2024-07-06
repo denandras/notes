@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/public/shostakovich/"}
 ---
 
-
 - Dmitrij Dmitrijevics Shostakovich
 - <mark>1906-1975</mark>
 	- Szentpétervár
@@ -245,6 +244,3 @@
 	- benne van a motívum, ami a *10. szimfónia* óta vele van
 	- D. eSz C H
 	- elmesélték neki Drezda rommá bombázását
-
-
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/shostakovich&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>

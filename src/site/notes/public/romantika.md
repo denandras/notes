@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/public/romantika/"}
 ---
 
-
 - ellentmondás az antikkal, hatás-ellenhatás
 	- sok szempontból hiányt hagy maga mögött a klasszicizmus
 - időszakos átfedések, nem áll távol egymástól a két korszak
@@ -118,13 +117,11 @@
 		- visszatekintő, lezáró kép
 		- [[Caspar David Friedrich\|Caspar David Friedrich]] saját maga áll háttal?
 		- svéd geopolitikai kapcsolat, identitás
-
 ## Szobrászat
 
 - [[Izsó Miklós\|Izsó Miklós]]
 	- *Busó juhász*
 	- kerámia bozettók, magyar néptánc
-
 ## Építészet
 
 - [[Horace Walpole\|Horace Walpole]], *Strawberry Hill*
@@ -132,8 +129,4 @@
 - *Pesti Vigadó*, [[Feszl Frigyes\|Feszl Frigyes]]
 - *Toldi gimi*
 
-
 - eml. öbölháborús képek fiataljai 3 éves különbséggel fotózva
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/romantika&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

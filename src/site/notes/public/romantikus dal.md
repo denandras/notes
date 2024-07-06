@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/public/romantikus-dal/"}
 ---
 
-#
-
 [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
 
 > privát műfaj eleinte
@@ -22,8 +20,6 @@
 
 
 
-#
-
 A Holdoz
 
 [[public/Schubert\|Schubert]]
@@ -41,20 +37,7 @@ A Holdoz
 		- modulál, a folyó imitációja
 		- **végigkomponált**
 
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/schubert-an-der-mond&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-
-
-
 </div></div>
 
 ---
 [^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/romantikus-dal&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

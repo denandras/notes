@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/public/schubert-an-der-mond/"}
 ---
 
-#
-
 A Holdoz
 
 [[public/Schubert\|Schubert]]
@@ -20,9 +18,3 @@ A Holdoz
 		- trisztán akkorddal kezd
 		- modulál, a folyó imitációja
 		- **végigkomponált**
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/schubert-an-der-mond&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-
