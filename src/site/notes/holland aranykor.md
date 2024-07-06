@@ -1,0 +1,104 @@
+---
+{"dg-publish":true,"permalink":"/holland-aranykor/"}
+---
+
+## Kor
+- manierizmus
+- kereskedelem, tudomány, hadászat virágzása
+- Habsburg Birodalom
+- Gouden Eeuw
+- nemzti tudatosság
+- bevétel alapú társadalmi ranglétra
+- reformáció
+- olcsó energia, szél-víz
+- 30 éves háború -> Vesztfáliai béke, teljes függetlenedés a spanyol koronától
+
+## [[Peter Paul Rubens\|Peter Paul Rubens]]
+- katolikus területek, flamand festő
+	- Antwerpen
+	- ellenreformáció
+- oltátok, portrék, tájképek, történelmi képek, mitológiai és allegórikus tátgyak
+- 1577-1640
+- egyszerre spanyol és angol királyság is lovaggá ütötte
+- extravagáns barokk stílus
+- sok tanítvány
+- klasszikus műveltségű humanista
+- végrendelet
+	- "életemben 20 képet festettem" - kb. 200 szignált képe van, a műhelyben megfestették a segédjei
+- *Férfiportré, 1597*
+- *Ausztriai Anna portréja, 1622*
+- jó karakter, pontos megjelenítés, perspektíva
+- *Phaeton bukása*
+	- elszakadás a földi valóságtól, transzcendens
+	- mozgalmas
+- *Levél a keresztről, 1618*
+- *Az ember bukása*
+	- diagonalitás, mozgalmasság, teátrális, szín- és formadinamika
+- *Leukipposz lányainak elrablása*
+	- kiszámíthatatlanság, irracionalitás, dráma
+	- mozgás, színek kontrasztja
+- *A három Grácia*
+- eml. [[Umberto Eco - A szépségről\|Umberto Eco - A szépségről]]
+	- mi tekintendő szépnek a történelem egyes pontjain
+- *Vénusz a tükör előtt*
+
+## [[Rembrant\|Rembrant]]
+- protestáns terület
+- 1606-1669
+- ellentézise a [[Peter Paul Rubens\|Peter Paul Rubens]]-életműnek
+- sikeres alkotó, nagy műhely, de független, demokratikus holland államnak dolgozik
+- széles megrendelői kör
+- eml. [[Artemisia Gentileschi\|Artemisia Gentileschi]]-önarckép
+	- önarckép - nincsenek elvárások, megrendelő, jó kísérletezésre
+	- izgalmasan reflektál saját magára
+	- *1628, 1652, 1669*
+	- egy koloritban mozog, meleg, aranyló, természetes fény
+	- *Önarckép két körrel*
+	- *Rembrabt és Saskia, avagy a tékozló fiú a tavernában*
+- *Saskia van Ulyenburg portréja*
+- bensőséges, intim
+- *A tékozló fiú visszatérése*
+- erős fény-árnyék hatás, színdinamika, nem középre rendezett, de **nem hivalkodó, hanem intim, mintha szemtanúk lennénk**
+- *A filozófus*
+- *Dr. Tulp anatómiája*
+- *Éjjeli őrjárat*
+	- már-már zsánerkép
+	- festészeti problémák, éjszakai kültéri jelenet
+- *A zsidó menyasszony*
+	- 17. századi amszterdami zsidóság, belátható szokások
+- *Mészárszék*
+- rézkarc, első komoly alkotó
+	- *A három fa*
+	- a profuktum árnyaltabb, részletgazdagabb, mint a rézmetszet/fametszet
+	- demokratizáltabb művészeti médium, nem kerül sokba
+	- *Önarckép Saskiával*
+	- *A három kereszt*
+
+## [[Jan Vermeer van Delft\|Jan Vermeer van Delft]]
+- egy időre eltűnt a művtöriből
+	- elfelejtették saját korában
+	- színek, tökéletesség, fény
+	- polgári környezet, nagyobb megrendelők hiánya
+	- képeit túl jónak tartotta
+	- legdrágább pigmentek
+	- özvegye eladta a képeket adósság miatt
+	- a befektető egy másik festőnek tulajdonítja a műveket, sokáig nem derül ki
+- holland festő
+- otthoni enteriőrök, középosztály élete
+- zsánerfestő
+- élénk színek, drága pigmentek
+- fényhasználat
+- Delft, Hága
+- fotorealisztikus részletezés (optika? camera obscura?)
+- Louis Andriessen - Writing to Vermeer
+	- A Zed and Two Noughts filmben
+- *A festészet allegóriája*
+	- nem egy konkrét portré, egy múzsaszerű alak a nő
+	- festőn furcsa ruha (16. századi ruha)
+	- Vesztfáliai béke előtt térkép
+	- enyészpontnál találtal egy lyukat
+- *Az asztronómus*
+- *A geográfus*
+- *Tejet öntő nő*
+- *Lány gyöngy fülbevalóval*
+- *A zeneóra*
