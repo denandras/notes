@@ -181,7 +181,7 @@
 			- *Gaia* megjelenik, hú de jók vagytok tik
 			- átkel a tűzön
 				- először fél!
-				- felébreszti, dúl a láv - /[[Mákszem Fanni\|Mákszem Fanni]]/
+				- felébreszti, dúl a láv - /[[private/Mákszem Fanni\|Mákszem Fanni]]/
 	- **Az istenek alkonya** ('76)
 - Wagner antiszemitizmusa és művészete
 	- cáfolták, hogy apja zsidó lett volna
