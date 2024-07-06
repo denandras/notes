@@ -1,0 +1,174 @@
+---
+{"dg-publish":true,"permalink":"/public/uj-utak/"}
+---
+
+
+- a látásmód megváltozása
+	- új média
+	- Japán "megnyitja magát"
+- más természet, dekorativitás
+- következmémy: újdonságok
+	- a fiatalok nem állnak be az impresszionizmus mögé
+	- többet akarnak: színek + intellektuális igény
+	- optikai színkeverés - primer színek a vásznon, a szem keveri össze
+	- kilaposodnak a felületek - eml. [[Hokusai\|Hokusai]]
+- [[Edouard Manet\|Edouard Manet]] - *The Dead Christ With Angels*
+- neoimpresszionizmus/pointillizmus
+- [[Georges Seurat\|Georges Seurat]] - *Vasárnap délután a La Grande Jatte szigetén*
+- [[Georges Seurat\|Georges Seurat]] - *A cirkusz*
+	- szimultán kontrasztos színek
+- [[Paul Signac\|Paul Signac]] - *Nő ernyővel*
+- [[Paul Signac\|Paul Signac]] - Notre Dame de la Grande
+- [[Henri-Edmond Cross\|Henri-Edmond Cross]] - *L'aie du soir*
+- "posztimpresszionizmus"
+	- nem tartanak egymással szakmai kapcsolatot
+	- nincs közös álláspont, individualisták
+	- közös kiállítások
+	- több irányvonal
+- [[Paul Cézanne\|Paul Cézanne]] - 1839-1906
+	- alapformák
+	- plaszticitás <- színek
+	- elődök: [[Eugéne Delacroix\|Eugéne Delacroix]] és [[Gustave Courbet\|Gustave Courbet]]
+	- *Kártyázók* - két éves meló
+		- egész apró formákból épül fel
+		- rengeteg verzió (300 vázlat, 5 végleges)
+	- megélhetési gondjai nem voltak, apja birtokait megörökölte
+	- *Csendélet függönnyel*
+		- meghatározó alkotás
+	- hatás: fauvizmus
+	- *Mont Sainte-Victoire*
+	- folyamatos elmozdulás az absztrakció felé
+		- az érzet a lényeg egyre inkább
+	- *Mont Sainte-Victoire és a Chateau Noir*
+- [[public/Paul Gauguin\|Paul Gauguin]]
+	- színintenzitás, színmezők, dekoratív körvonalakkal
+	- egyszer csak nekivágott a festészetnek, maga mögött hagyva egy decens polgári életet
+	- Pont Aven, Tahiti
+	- szintetizmus, egyéni stílus, szimbolizmus
+	- előképek: [[Edgard Degas\|Edgard Degas]], japán művészet
+	- hatás: Nabis, Turulouse, szimbolizmus
+	- *Akt tanulmány*
+	- *Sárga Krisztus*
+	- *Látomás mise után*
+	- *Vahine no te tiare (Nő virággal)*
+	- *Nevermore (O Taiti)*
+	- ***Honnan jövünk? Kik vagyunk? Hová tartunk?***
+	- *Lovasok a tengerparton*
+	- *Vincent [[Van Gogh\|Van Gogh]] napraforgókat fest*
+- Vincent [[Van Gogh\|Van Gogh]]
+	- testvérével mindketten tanultak protestáns teológiát
+	- vonalak felépítése apró részekből
+	- színek kavalkádja
+	- vibráló képi világ
+	- direkt színek
+	- *Krumplievők*
+	- *Váza tizenkét napraforgóval* (csendélet)
+	- skizofrén, gyógyszerek megváltoztatják a látását?
+	- saját életében egy képet adott el
+		- elmebeteg baromnak tartották
+	- *Magvető lemenő nappal*
+		- eml. OPNI festménygyűjteménye
+		- pszichózis
+	- *Hálószoba Arles-ban*
+	- *Önarckép bekötött füllel*
+		- japán művészet lóg a falon
+	- *Csillagos éj* (késői kép)
+	- *Templom Auvres-ben*
+	- *Varjak a búzamezőn*
+- [[Henri de Toulouse-Latrec\|Henri de Toulouse-Latrec]]
+	- testileg hátrányos helyzetű
+	- gyerekként ágyban anyja szórakoztatásul festésre biztatja
+	- felnőtt, belevetette magát a párizsi éjszakába
+		- mindenki imádta, ismerte
+	- *Vöröshajú nő a fürdőben*
+	- *A Moulin Rouge-ban*
+		- eltorzult, de szerethető, intakt világ
+	- *Ezek a hölgyek az étkezőben*
+	- *Orvosi vizsgálat [...]*
+	- reklámgrafikában N⁰ 1.
+		- *Moulin Rouge: La Goulue*
+- a Nabis-k
+	- héber: próféta
+	- trecento, japán, [[public/Paul Gauguin\|Paul Gauguin]]
+	- hatás: szecesszió
+	- [[Paul Sérusier\|Paul Sérusier]]
+		- *A szent fák*
+	- eml. preraffaeliták
+	- eml. [[Asszonyi Eszter\|Asszonyi Eszter]] fotósorozata újpogány mozgalmakról
+	- [[Rippl-Rónai József\|Rippl-Rónai József]]
+	- [[Maurice Denis\|Maurice Denis]] - *Szeptemberi este*
+	- [[Pierre Bonnard\|Pierre Bonnard]] - Két kutya az üres utcán
+		- önarckép
+- szimbolizmus
+	- 1886: [[Jean Moréas\|Jean Moréas]] kiáltványa
+		- mélyebb filozófiai válasz a világra
+	- pozitivista szemléletmód
+	- Belgium
+		- [[Fernand Khnopf\|Fernand Khnopf]]
+			- *Csend*
+			- hatás: [[Gustav Klimt\|Gustav Klimt]]
+			- *A Szfinx ölelése*
+			- *Az elhagyott város*
+		- [[Félicien Rops\|Félicien Rops]]
+			- *Pornocrates* - utalás [[Szómratész\|Szómratész]]re
+			- *[[Szerb Antal\|Szerb Antal]] megkísértése*
+		- [[James Ensor\|James Ensor]]
+			- angol-belga
+			- egész lakásuk tele volt maszkokkal
+			- eml. [[Faludy Judit\|Faludy Judit]] szakdolgozata
+			- *Krisztus bevonulása Brüsszelbe 1889-ben* (1888)
+			- *Melegedő csontvázak*
+			- *Az ármány*
+			- ***Self-Portrait with Masks***
+		- **[[Giovanni Segantini\|Giovanni Segantini]]**
+			- ***A kéj büntetése***
+			- *Rossz anyák*
+			- *Ave Maria a tavon*
+			- *Vanitas*
+	- Norvégia
+		- [[Edvart Munch\|Edvart Munch]]
+			- *Önarckéo csontváz-karral*
+			- mentális beteg
+			- meggyógyították, soha nem festett többé
+			- *Melankólia*
+			- *A sikoly*
+				- ment Osloban, kelt fel a nap, látta, hogy az egész tenger vérré változik, az egész világ sikollyá változott
+			- *Pubertás*
+			- *Az élet tánca*
+		- Ausztria-Magyarország
+			- [[Csontváry Kosztka Tivadar\|Csontváry Kosztka Tivadar]]
+				- *Önarckép*
+				- egy képet se adott el
+				- gyógyszerész volt, majd eladta minden vagyonát
+				- iskába járt, de nem tetszett neki
+				- Libanon, Szicília, Tátra
+				- eml. [[Gerloczy Gedeon\|Gerloczy Gedeon]] - megvette az összes képet (aki ingyen odaadta az államnak azzal a feltétellel, hogy lesz neki egy múzeum - a magyar képzőművészet nemzetközi horgonypontjának hiánya)
+				- *Öreg halász*
+				- *Szerelmesek találkozása*
+					- kallódott sokáig
+				- *A görőg színház romjai Taorminában*
+				- *Zarándoklás a cédrusokhoz*
+				- *A magányos cédrus*
+		- Franciaország
+			- [[Gustave Moreau\|Gustave Moreau]]
+				- *Orfeusz*
+				- *Jelenés*
+				- *Salome*
+			- [[Odilon Redon\|Odilon Redon]]
+				- *Szemformájú pók*
+				- *Szem léggömb*
+				- *Csukot szemmel*
+				- *Pegazus*
+				- *Kagyló*
+			- [[Henri Rousseau\|Henri Rousseau]]
+				- eml. outsider art
+				- *A vámos* - önarckép
+				- *Tigris és bivaly küzdelme*
+				- *Alvó cigánylány*
+				- *Labdajáték*
+				- *A költőt inspiráló múzsa*
+
+
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/uj-utak&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

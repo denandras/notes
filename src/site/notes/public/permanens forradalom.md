@@ -1,0 +1,144 @@
+---
+{"dg-publish":true,"permalink":"/public/permanens-forradalom/"}
+---
+
+
+- milyen kiutak vannak a [[private/rokokó\|rokokó]]ból?
+	- [[private/klasszicizmus\|klasszicizmus]]
+		- mértéktartó ízlés
+		- szabályok
+		- vissza a klasszikusokhoz
+		- akadémia
+		- [[Jean Auguste Dominique Ingres\|Jean Auguste Dominique Ingres]]
+	- [[private/romantika\|romantika]]
+		- [[Eugéne Delacroix\|Eugéne Delacroix]]
+		- egyéni kifejezésmód
+- háttér
+	- ipari forradalom
+	- polgárosodás, urbanizáció
+	- világkiállítás
+	- centralizálódás/átrendeződés a művészeti életben is
+	- növekvő városközpontok nem mindig fedik le az államok/egyház központjait
+	- akadémiai konzervativizmus
+- témaválasztás forradalma
+	- forradalom: valami nem mennyiségileg, hanem minőségileg változik meg radikálisan
+	- visszanyúlás [[John Constable\|John Constable]] művészetéhez
+	- barbizoni iskola
+		- Párizs város limitáló hatása, kiköltöznek művészek Barbizonba
+		- [[Jean-Francois Millet\|Jean-Francois Millet]]
+			- semmi eddigi extra, *Kalászszedők*
+			- *Angelus* - a társadalom 90 százalékának élete
+		- [[Gustave Courbet\|Gustave Courbet]]
+			- kiállítótér, pavilon: Pavillon du Realisme
+			- igazat, nem kellemeset
+			- *A találkozás* - a művész elhagyja az urbán életet
+			- *Kőtörők*
+			- *Temetéd Ornans-ban*
+		- [[Preraffaelita Testvériség\|Preraffaelita Testvériség]]
+			- [[Raffaello\|Raffaello]] túl jókat festett, vissza kellene menni elé
+			- elkötelezett keresztények
+			- [[Dante Gabeiel Rossetti\|Dante Gabeiel Rossetti]]
+				- *Szűz Mária leánykora*
+			- [[William Holman Hunt\|William Holman Hunt]]
+				- *Egy megtért brit család elrejt egy keresztény hittérítőt a druidák elől*
+				- *A halál árnyéka*
+			- [[John Everett Milais\|John Everett Milais]]
+				- *Ofélia*
+				- *Keisztus a szülői házban*
+				- *A nyugalom völgye*
+		- magyarok
+			- [[Munkácsy Mihály\|Munkácsy Mihály]]
+				- *Siralomház*
+				- *Krisztus-trilógia*
+				- *Poros út II*
+			- [[Mednyánszky László\|Mednyánszky László]]
+				- *Alpesi táj*
+				- csavargó életmód
+				- *Nincstelen*
+			- [[Szinyei\|Szinyei]] Merse Pál
+				- *Majális*
+				- *Lilaruhás nő*
+			- **[[Pál László\|Pál László]]**
+				- *Berzovai utca*
+				- *Juhakol*
+				- nyers valóság
+			- [[Tornyai János\|Tornyai János]]
+				- *Bús magyar sors*
+				- *eml. [[Eugéne Delacroix\|Eugéne Delacroix]] - Vihartól megriadt ló*
+- színek/**látás** forradalma
+	- eml. [[Lumiere testvérek\|Lumiere testvérek]] első filmje
+	- eml. deepfake hatása a nem reflektíven gondolkodó emberekre
+	- [[Edouard Manet\|Edouard Manet]]
+		- félreértés van, megpróbáljuk a természetet lefesteni a műteremben
+		- plen air
+		- mozgás/mozgalmasság
+		- kibérlik az akadémiával szemközti épületet, az emberek majd eldöntik, mi a jó
+			- az elutasítottak galériája
+			- 1863: Salon des Refusés
+			- hivatalos kritika először kiakad
+		- *Reggeli a szabadban*
+		- *Olympia*
+		- *A Folies-Bergère bár*
+		- *Claude [[Monet\|Monet]] fest a műtermében* (egy csónakban)
+	- Claude [[Monet\|Monet]]
+		- *A napkelte impressziója*
+			- francia hivatalos kritika cérnája elszakadt
+			- teljesen másképp láttatunk valamit
+				- sokk volt, mert nem a valóságot, hanem az érzetet jeleníti meg
+				- részletek hiánya
+				- "Kedves néző, tanulj meg másképp ránézni a világra!"
+			- pillanati érzet
+		- *Nő napernyővel*
+		- *A normandiai vonat érkezése*
+		- *A roueni székesegyház naplementében*
+		- *A londoni parlament. A nap átsüt a ködön*
+		- *Vízililiomok*
+	- [[Renoir\|Renoir]]
+		- *A páholy*
+		- *A hinta*
+		- eml. film róla (középszerű, de jól kutatja be)
+		- *Tánc a Moulin de la Galette-ben*
+		- *Luncheon on the Boating Party*
+	- [[Pizzarro\|Pizzarro]]
+		- *A párizsi Boulevard Montmartre*
+		- *A Boulevard Montmartre éjjel*
+			- #később 
+	- [[Edgard Degas\|Edgard Degas]]
+		- *Zenészek a zenekarban*
+		- témája szinte kizárólag a színház
+		- *A Pont-Neuf*
+		- *Fin d'Arabesque Rosita Mauri ballerinával*
+		- szobor: *Tizennégy éves kis táncos*
+		- *Várakozás*
+		- *Az abszint*
+	- [[Auguste Rodin\|Auguste Rodin]]
+		- szobor: *A gondolkodó*
+		- saját jogán szimpatizál az impresszionistákkal
+		- szobor: *A calais-i polgárok*
+		- szobor: *A csók*
+		- szobor: *Katedrális*
+	- [[James McNeill Whistler\|James McNeill Whistler]]
+		- *Kompozíció szürkében és feketében*
+		- *Szimfónia fehérben I.*
+		- *Noktürn: Kék és arany - A régi Battersea-híd*
+- fotográfia megjelenése/elterjedése
+- 1867: Shogun kinyitja Japánt a világ előtt
+	- kereskedők elkezdik behozni az ottani kuktúrát
+	- [[Hokusai\|Hokusai]] [Hokszáj] - *A Fuji harminchat képe*
+	- csomagolóanyagként kerül be Európába
+- irodalom
+	- [[Paul Verlaine\|Paul Verlaine]]
+	- [[Arthur Rimbaud\|Arthur Rimbaud]]
+	- [[Oscar Wilde\|Oscar Wilde]]
+	- [[Marcel Proust\|Marcel Proust]]
+	- [[private/Rilke\|Rilke]]
+- zenében
+	- [[public/Debussy\|Debussy]]
+	- [[private/Richard Strauss\|Richard Strauss]]
+	- [[Ravel\|Ravel]]
+	- [[Manuel de Falla\|Manuel de Falla]]
+	- [[Ottorino Respighi\|Ottorino Respighi]]
+
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/permanens-forradalom&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

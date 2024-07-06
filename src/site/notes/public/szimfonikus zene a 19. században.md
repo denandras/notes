@@ -1,0 +1,39 @@
+---
+{"dg-publish":true,"permalink":"/public/szimfonikus-zene-a-19-szazadban/"}
+---
+
+#
+
+> szimfónia és szimfonikus költemény, BERLIOZ, SCHUBERT, MENDELSSOHN, SCHUMANN, LISZT, BRAHMS, az [[private/abszolút zene\|abszolút zene]] eszméje és az Újnémet Iskola]
+
+- a [[private/Beethoven\|Beethoven]] utáni helyzet
+	- **kimerültek a lehetőségek?**
+		- kellemetlen előzmény
+	- [[private/Schumann\|Schumann]] írása arról, hogy [[private/Berlioz\|Berlioz]]nak nem elég a 4 tétel 1820-ban
+- **[[private/Berlioz\|Berlioz]]**
+- [[private/Schubert\|Schubert]] [C-dúr szimfónia](Schubert.md)
+- [[private/Mendelssohn\|Mendelssohn]]
+- [[private/Schumann\|Schumann]]: 3. "Rajna" szimfónia
+- [[private/Brahms\|Brahms]]
+
+- **nyilatkozat**
+	- kiváltó ok
+		- [[private/Franz Brendel\|Franz Brendel]] beszéde a lipcsei Zeneművészek Gyűlésén
+	- lényege
+		- *"Újnémet iskola"*: [[public/Liszt\|Liszt]], [[private/Wagner\|Wagner]], [[private/Berlioz\|Berlioz]] és csak ők
+	- -> [[private/Brahms\|Brahms]] hagyománytisztelő tiltakozása
+		- [[public/Eduard Hanslick\|Eduard Hanslick]] ([[public/Liszt\|Liszt]] és [[private/Wagner\|Wagner]] másik nagy kritikusa)
+		- [[private/Schumann\|Schumann]], [[private/Mendelssohn\|Mendelssohn]], [[private/Brahms\|Brahms]]
+- [[private/abszolút zene\|abszolút zene]] eszméje
+	- zene mint autonóm művészet
+	- [[public/Eduard Hanslick\|Eduard Hanslick]] - *a zenei szép*
+	- nem függ rajta kívüli tartalomtól, egyedül a hangokban és azok művészi összekapcsolásában rejlik szépsége, önmagukban vonzó hangzások
+
+---
+[^]: [[Általános zenetörténet IV. szemeszter - 6.tétel Szimfonikus zene a 19.sz.ban.pdf\|Általános zenetörténet IV. szemeszter - 6.tétel Szimfonikus zene a 19.sz.ban.pdf]]
+
+
+
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/szimfonikus-zene-a-19-szazadban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

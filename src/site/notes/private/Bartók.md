@@ -1,0 +1,247 @@
+---
+{"dg-publish":true,"permalink":"/private/bartok/"}
+---
+
+[[private/zenetöri\|zenetöri]] & [[public/magyar zenetöri\|magyar zenetöri]] egyesítve
+
+# Bartók Béla
+- 1904-18-ig gyűjtött, amíg még nem volt szükség útlevélre erdélyi gyűjtésekhez
+	- + 1936-ban Törökországban is gyűjtött
+	- szlovák, román, szerb, német, arab
+## Művek
+- *Zene húros hangszerekre, ütőkre és cselesztára*
+	- a 20. század egyik csúcsa, mégis sok technikai dologgal foglalkoznak
+	- Két kép
+		- Virágzás
+		- A falu tánca
+	- [[Paul Sacher\|Paul Sacher]] svájci karmester/kortárszenei impresszárió a megrendelő
+		- közepes karmester
+		- jó műsorpolitika, félprofi vonószenekar
+			- az ő jubileumukra rendelte meg
+			- 18-19. század elejéig játszanak (mai "régi zene")
+		- felkér zeneszerzőket éveken keresztül
+			- neoklasszicizmus a menő (1. vh után mindenkinek elege lett a 19. századból, rosszul lett konstruálva a romantika-beli rendszer)
+			- honnan van pénze? feleségül vesz egy gazdag hölgyet [[Alicia Roche\|Alicia Roche]]
+			- (*Sacher Stiftung* - 20. századi zene gyűjtőhelye)
+				- [[private/Stravinsky\|Stravinsky]]
+				- [[Kurtág György\|Kurtág György]] és [[Eötvös Péter\|Eötvös Péter]] is elküldi havonta a kéziratokat
+				- [[Ligeti György\|Ligeti György]]
+		- 1936 június 23: [[Paul Sacher\|Paul Sacher]] [[private/Bartók\|Bartók]]hoz írott levele
+			- [[Beck\|Beck]], [[Burghardt\|Burghardt]], [[Honegger\|Honegger]] is írnak
+			- 30 vonósjátékosból álló vonóstörzs
+			- lehetőség zongorára, *continuóra* is
+			- következő évre írja meg "olcsón" (500 Fr,-)
+			- az ő tulajdona marad (bárkinek el/odaadhatja, nincs korlátozás)
+			- "technikailag ne legyen túlságosan nehéz, szeretném átvenni vendégkoncertjeink műsorára is"
+			- (hallotta az egyik vonósnégyest, nagyon tetszett neki, de "nehézségei tetemesek")
+		- június 27: [[private/Bartók\|Bartók]] [[Paul Sacher\|Paul Sacher]]nek
+			- szívesen vállalja, a feltételekkel egyetért
+			- húros és ütőhangszerekre írt zenekar
+				- zongora, cseleszta, hárfa, xilofon, ütő
+				- (már valószínűleg megírta, vagy Sacher tudta, mi van Bartók fiókjában)
+				- (nehéz lesz!)
+					- ritmikailag
+					- minden új nehéz, mert nem rutinból játsszuk
+					- végülis soha sem írok kifejezetten azért, hogy nehezen eljátszható legyen
+			- Frank helyett Svéd koronában kéri a pénzt
+			- lepecsételve guminyomdával, amit fia, [[Bartók Péter\|Bartók Péter]] készített
+		- június 30: [[Paul Sacher\|Paul Sacher]] válasza
+			- örülnek
+			- semmiféle nehézséget nem okoz a zongora és cseleszta, az ütőhangszeresek kérdése nehezebb, mert a városi zenekarnak 2 ütőse van
+		- augusztus 21: titkár [[private/Bartók\|Bartók]]nak
+			- mi lesz a cím?
+		- augusztus 31: [[private/Bartók\|Bartók]] válasza
+			- Musique pour instrumente a cour, batterie et celeste(?) ~ zene húros hangszerekre, ütőkre és cselesztára
+				- valamit kínkeservesen kinyögött
+			- "a mű csaknem kész, megvan 66 oldal, hiányzik kb. 4"
+			- megoldható az ütő szólam, "nem nehéz a xilofon, egy amatőr is el tudná játszani"
+			- 24 perc, kettéosztott zenekar, continuo-csoport középen (concerto grosso elrendezés)
+			- "vannak-e pedálüstdobok? Ha nincsenek, az bizony rossz lenne" - ha nincs, a glissandókat át kellene tenni (egy harmadik) zongoristára (amihez csak egy plusz ember kell, zongora nem)
+		- válasz
+			- van pedáltimpani
+	- Baden Baden: [[private/Alban Berg\|Alban Berg]] lírikus szvitje, erősen hatott [[private/Bartók\|Bartók]]ra
+	- A hangon indul, eléri kvintenként az Eszt, az ellenpólust
+	- aranymetszés, [[Darnstadt\|Darnstadt]] azt szerette volna bizonyítani, hogy [[private/Bartók\|Bartók]] természeti törvények szerint alkotta meg a művet
+		- ez se nem igaz a váltakozó ütemmutató miatt, se nem tetszett a marxistáknak
+		- ezen kívül az idő szubjektív
+	- kizökkent az idő?
+- rá gyakorolt hatások
+	- [[private/Richard Strauss\|Richard Strauss]]
+	- [[public/Debussy\|Debussy]]
+		- Kékszakállú
+	- [[private/Schönberg\|Schönberg]]
+	- [[private/Stravinsky\|Stravinsky]]
+	- [[private/Alban Berg\|Alban Berg]]
+		- Hegedűverseny
+- *Concerto*
+	- amerikai darab
+		- 1940-ben ment ki rettenetes körülmények között, minden csomagja nélkül
+	- eleje: szorongás egy új világban
+		- fuvola: emlékek
+	- második: bemutatkozik a zenekar
+	- harmadik: könnyek tava, furcsa emlék
+	- negyedik: furcsa scherzo
+	- ötödik
+- *Kossuth szimfónia*
+	- fiatalkori mű, egytételes szimfónikus költemény
+		- 10 szakasz (kottában, karakterek)
+			1. Kossuth
+			2. Miért vagy oly bánatos, kedves férjem?
+			3. Veszélyben a haza
+			4. Régen minden jobb volt
+			5. De aztán minden rosszra fordult
+			6. Föl, harcra
+			7. Gyertek, szép magyar leventék
+			8. ...
+			9. Mindennek vége!
+			10. Minden újra csendes
+	- Bartók 22 éves
+		- zeneszerzői válság
+		- [[private/Richard Strauss\|Richard Strauss]] *Zarathustrája* felébresztette benne a motivációt
+	- átírja és megtanulja a *Hősi élet*et
+	- nem az összes kortársat ismeri, csak a progresszív érdekli, mind [[private/Schönberg\|Schönberg]]
+		- nem minőségi, hanem személyiségi kérdés, ettől [[private/Bartók\|Bartók]] nem lesz kevesebb
+	- itthon [[private/Richard Strauss\|Richard Strauss]]t nem igazán szerették
+		- [[private/Bartók\|Bartók]] nem akart igazodni az átlaghoz
+	- sokáig doktriner szerűen elutasítja, ha valaki kizárólag verbunkos intonációval tud megjeleníteni egyes témákat (mint a darab *Mindennek vége* szakaszában, valamint később a *Hegedűverseny*ben)
+	- negatív befejezés (letargikus, moll)
+		- *Zarathustra*-szerű
+	- *Csodálatos mandarin*ban is vannak felhasznált zenei anyagok
+		- befejezésre is hasonlít
+		- visszatért fiatalkori művéhez
+		- zenedramaturgiai érzéke kitartott
+- *Zarathustra*
+	- 9 részre oszlik
+	- a szakaszmottók [[Nietzsche\|Nietzsche]] egyes fejezetcímei
+	- [[Kálmán Imre\|Kálmán Imre]] *Zarathustra*-elemzése
+	- mű státusza, cikk a Budapesti Naplóban
+		- **frankfurti ősbemutató**
+		- [[Nikisch Artur\|Nikisch Artur]] vezényelte
+		- Strauss "a modern német muzsikus" - de már az sem, mert az is maradiságot jelentene
+		- "alkotó erő nélkül szűkölködő zene"
+		- gondolatok közlésére a zene nem alkalmas
+	- cikk a Magyarország lapban
+		- programzene létjogáról folyik a vita
+		- legmegosztóbb [[private/Richard Strauss\|Richard Strauss]]
+		- "ultramodern"
+		- a mű torzszülött
+	- Zenelap, [[Kálmán Imre\|Kálmán Imre]]
+		- összefoglaló tanulmány (a szimfónia fejlődése a programszimfóniáig)
+		- természet, utálat és az ismeretlen utáni sóvárgás motívuma
+	- ez a darab radikálisan fölszámol 19. századi babonákat
+		- [[private/Bartók\|Bartók]] is hasonlóan zárja művét
+		- ez ellen "az aestetika szent nevében tiltakoznunk kell"
+	- egyéb hírek
+		- Filharmóniai Társulat adja elő
+		- "kakofónia"
+		- [[private/Richard Strauss\|Richard Strauss]] forradalmár
+		- "vezérfonal" (útleírás, elemzés, 22 motívum)
+		- szemlélet: ahogy a zene eszközeiben gazdagodik, úgy fejlődik a közönség füle -><- de régi zenét kezdenek játszani
+		- ha erről írunk zenét, miért nem bármi másról?
+		- [[private/Bartók\|Bartók]] tisztában volt azzal, hogy szembemegy az átlag véleménnyel
+		- [[Franz Strauss\|Franz Strauss]] [[Nietzsche\|Nietzsche]]-értelmezése sokszor szembemegy azzal, amit [[Nietzsche\|Nietzsche]] állít, ezt [[Merkler Andor\|Merkler Andor]] jól látja
+	- Pesti Napló ([[private/Bartók\|Bartók]] mellett kiálló zenekritika fontos fóruma lesz)
+		- legújabb német zenei irányzat legjelentősebb műve
+		- "szelíd"
+		- a momentumok csak formális kellékek
+		- a probléma, miszerint nem azonos [[Nietzsche\|Nietzsche]]vel, nem is létezik
+		- banális
+		- sablonos zenei eszközök
+		- úgy tesz, mintha programzenét írna
+		- illúzióhiányosság eltakarása
+		- műve program nélkül jobban hat, mint programmal
+	- Ady
+		- müncheni iskolamesternek hat [[private/Richard Strauss\|Richard Strauss]] színpadi megjelenése
+		- nem tudja eldönteni, hogy művész vagy bűvész
+- [[private/Beethoven\|Beethoven]] - *No. 14. Vonósnégyes*
+	- 14 évesen hallotta először (Pozsonyban) a kvártettet, rajongott érte
+	- szerette volna megismerni, a pénz szűken volt, a négykezes átirat olcsóbb volt, ezért azt kapta meg egy év múlva
+		- full amatőröknek van átírva négy kézre?
+	- meghatódik a témától
+		- hangközlépések, amik [[private/Wagner\|Wagner]] *Trisztán és Izoldájára* utalnak
+		- érzelmi felindultságában (Geier bejött, aztán ki is ment) vonósnégyest ír (ami kifejezetten hasonlít [[private/Beethoven\|Beethoven]]ére)
+	- *Zene húros hangszerekre...* ebből indult ki, hasonló jelleg
+		- espressivo
+		- sűrű polifónia
+		- hömpölyög, nincsenek benne klasdzikus cadenza/zárlatszerű nyugvópontok
+	- eml. [[Vizinger Zsolt\|Vizinger Zsolt]] - [[private/Beethoven\|Beethoven]] kései vonósnégyeseinek fogadtatása Pest-Budán a 19. században
+		- miért nem a másik kvártetteket hallotta [[private/Bartók\|Bartók]]?
+			- (koncerten! -> már nem házi muzsika)
+			- mert ezt játszották a leggyakrabban a kései kvártettekből
+			- ez volt a népszerű, ez jött szembe
+## vonósnégyes a 19. századi Magyarországon
+
+- 1877, két éve van Zeneakadémia, zongora, hegedű
+- nincs meg a bázis, külföldiek zenéltek eddig
+	- hozzájuk hasonlítják a magyarokat
+- új vonósnégyes
+	- Hellmesberger József, Helmesberger kvártett
+	- régi repertoár, nem kísérletezik "kétes értékű új kompozíciókkal"
+	- [[private/Mozart\|Mozart]], [[public/Haydn\|Haydn]], [[private/Mendelssohn\|Mendelssohn]], [[private/Beethoven\|Beethoven]], [[private/Schumann\|Schumann]]
+	- 1901-ig fennállt
+	- **ifj. Hellmesberger operettszerzőként tüntette ki magát** (de operettjei itthon megbuktak)
+		- mikor ő vezette a vonósnégyest, a művészi színvonal ereszkedésnek indult
+		- [[private/Bartók\|Bartók]] tőlük hallotta a [[private/Beethoven\|Beethoven]]-vonósnégyes
+	- megalakulása előtt volt bécsben egy fontos vonósnégyes ('30-as évekig)
+		- [[private/Beethoven\|Beethoven]] vonósnégyeseinek bemutató együttese
+		- volt egy apály utánuk
+	- ez az egy társaság kielégítette a bécsi zenebarátok igényeit, monopólium voltak
+	- minden fontos 19. század 2. felében alkotó művésszel valahogy kapcsolatban álltak
+		- [[Popper Dávid\|Popper Dávid]] is csellózott benne
+
+## Opera
+
+- Bartók pályázott egy lipótvárosi tenderre, nem nyert, az Operaház visszadobta a darabot (szünet nélkül)
+	- pályázat a Zeneakadémiáról kikerülő zeneszerzők számára?
+	- bírálat, nem érkezik be sok mű
+	- kritériumok sorozatos enyhítése
+	- díjak struktúrája mindig is ilyen volt
+- *Kékszakállú* + *Fából faragott királyfi*
+- sok dolog van Bartók életében, feleség, opera, stb
+- vezető bulvártéma az opera
+- opera 25. évfordulójának ünneplése elmaradt
+	- (évente 200 előadás)
+- előtte Nemzeti Színházban játszottak operákat
+	- magyar nyelv művelésének egyik fő intézménye
+- a mindennapok kulturális fogyasztásának egyik legnagyobb szelete az opera fogyasztása
+- az opera nem prózai színház
+	- **operaháború**
+- az operajátszás kifizetődőbb volt, mint a próza
+- [[Mihalovics Ödön\|Mihalovics Ödön]] - *Toldi szerelme*
+	- profi, tudatosan [[private/Wagner\|Wagner]]-klón
+	- az opera 5000. előadása alkalmából előadva
+	- néha nem működött, hullámvölgyekkel működött 25 éven át
+	- belső viszálykodás
+	- háromszor játszott darab, sikertelen
+	- [[Mihalovics Ödön\|Mihalovics Ödön]] a magyar zenei élet Winettou-ja
+		- egyik legjobb barátja [[gróf Aponyi Albert\|gróf Aponyi Albert]]
+		- gúnyosan "a nemzet baritonja"
+	- [[Mészáros Imre\|Mészáros Imre]] - senki nem tufta, hogy hogy került az opera igazgatói posztjára
+	- az Operaház évtizedeken keresztül nem tudja kiosztani magyar anyanyelvű énekesekre a szerepeket
+		- eml. [[Jessie Norman\|Jessie Norman]] - *Kékszakállú*
+	- minden felvonás után kijött a szerző meghajolni(?)
+	- 14 év alatt 15x előadva
+	- "magyar [[public/Trisztán és Izolda\|Trisztán és Izolda]]"
+	- [[Mészáros Imre\|Mészáros Imre]] [[Karol Burian\|Karol Burian]]nal szerette volna énekeltetni, aki nem vállalta el
+		- [[Anthes\|Anthes]] lett volna a következő
+		- [[Környei\|Környei]] lett a befutó
+- 1911-16: [[private/Bartók\|Bartók]] belső emigrációba vonult (Rákoskeresztúr)
+	- UMZE, [[Kodály\|Kodály]]
+	- elkötelezett kollégák kellrnek
+	- szakmai, művészi csalódás
+	- alkotói válság
+- *Kékszakállú*
+	- hihetetlenül nehéz tenort találni
+	- triviális lenne szoprán + tenorra írni
+	- lehetetlen hangterjedelmű Judit
+
+- az operajátszás jelzi a társadalmi szelet nívóját
+- eml. ambíció és realitásérzék egyensúlya
+- eml. [[Modell és inspiráció\|Modell és inspiráció]] (könyv)
+- eml. [[private/Szabolcsi Bence Művei\|Szabolcsi Bence Művei]], [[Tóth Aladár\|Tóth Aladár]]
+- Beethoven op 131
+- Slavo Zizek
+- eml. op. 2 rapszódia (hasonlóság [[public/Liszt\|Liszt]]tel)
+- eml. [[Paolo Coelho\|Paolo Coelho]]
+- eml. [[Kurtág Márta\|Kurtág Márta]] és [[Kurtág György\|Kurtág György]] tévében Carment néz: "Gyuri! Te most komponálsz!"
+- [[Jehudi Menuhin\|Jehudi Menuhin]] és [[private/Bartók\|Bartók]]: Menuhin inkább gyakorolta a lejátszhatatlan részeket ahelyett, hogy nemet mondott volna

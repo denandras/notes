@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"permalink":"/private/zenetoeri-1-felev-vizsga/"}
+---
+
+#
+
+1.  A „KÖZÉPKOR” ÉS A „RENESZÁNSZ” FOGALMA Korszakolás (mikor kezdődött, meddig tartott?); a „középkor” és a „reneszánsz” szó jelentése; a középkorra általánosan jellemző jelenségek (a zene három szintje, hét szabad művészet); a reneszánsz viszonya az antikvitáshoz; a középkori zene néhány sajátossága (gregorián, gregorián központú többszólamúság, a szólamok horizontális kezelése); a reneszánsz zene néhány sajátossága (világi műfajok hangsúlyosabb jelenléte, a szólamok vertikális kezelése); fontos középkori és reneszánsz zenei műfajok.
+2.  A ZENEI ÍRÁSBELISÉG KEZDETEI ÉS A GREGORIÁN A 9. században rendelkezésre álló notációs lehetőségek (pontos hangmagasságot jelölő lejegyzés a Musica Enchiriadisban, neumák); a neumák elterjedésének oka (Nagy Károly központosító törekvései); Nagy Szent Gergely legendája; a gregorián jellegzetességei és használata (szerzetesi közösségek, zsolozsma és mise); a kottavanolas notáció megjelenése (11. század, Arezzói Guido); kvadrátnotáció (12. század).
+3.  A KORAI TÖBBSZÓLAMÚSÁG Rögtönzött többszólamúság a gregorián előadásakor; a hozzáadott szólam mint tropus; vox principalis, vox organalis; organum és discantus; a „Notre Dame-i iskola” és a Magnus Liber (Leoninus és Perotinus).
+4.  NOTÁCIÓS ÚJÍTÁSOK ÉS TÖBBSZÓLAMÚSÁG A 13–14. SZÁZADBAN A ritmuslejegyzés szükségessége; modális ritmika a Magnus Liberben; menzurális notáció; a motetta kialakulása; az izoritmikus motetta; (sem a modális ritmika, sem a menzurális notáció esetében nem várom el, hogy részletesen ismertessék az egész rendszert, elég a két ritmuslejegyzési rendszer lényegét elmondani).
+5.  MACHAUT MŰVÉSZETE A Machaut által kultivált irodalmi és zenei műfajok; az életút körvonalai; az izoritmikus motetta; a rondeau felépítése (Ma fin est mon commencement).
+6.  A 15. SZÁZAD LEGFONTOSABB SZERZŐI ÉS MŰFAJAI A mise, a motetta és a chanson; jellegzetes zeneszerzői életutak (északról Itáliába); legfontosabb zeneszerzők; a mise fajtái; a „L’homme armé” dallam.
+7.  JOSQUIN MŰVÉSZETE ÉS A KOTTANYOMTATÁS Josquin életútjának körvonalai; a Josquin által kultivált műfajok; a kottanyomtatás feltalálása (Petruccitól Attaignant-ig); a kottanyomtatás hatása Josquin életművének fogadtatástörténetére; Josquin hírneve a 16. században; a kottanyomtatás hatására népszerűvé váló világi műfajok (párizsi chanson, madrigál, villanella, frottola stb.)
+8.  A 16. SZÁZAD VILÁGI MŰFAJAI A párizsi chanson; a madrigál; a madrigál társműfajai: villanella, frottola; zene és szöveg kapcsolata; a madrigál története (egyre komplexebbé válása); fontos madrigálszerzők.
+9.  HUMANIZMUS A ZENÉBEN Az antikvitás felfedezése a zenetörténetben; akadémiák; a firenzei „Camerata” működése; Mei, Bardi, Galilei szerepe; az 1589-es intermediók; Cavalieri, Caccini és Peri szerepe; az első operák; a Monteverdi-Artusi vita.
+
+
+
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenetori-1-felev-vizsga&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+
