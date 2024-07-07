@@ -6,7 +6,7 @@ zeneelméletíró
 
 <mark>1435-1511</mark>
 
-# [wiki](https://www.wikiwand.com/en/Johannes_Tinctoris)
+## [wiki](https://www.wikiwand.com/en/Johannes_Tinctoris)
 
 ## Tinctoris nyolc kompozíciós szabálya
 (Harmadik könyvéből, a kontrapunctusról.)

@@ -18,6 +18,16 @@
 
 - [[public/posztmodern\|posztmodern művészet és művészetelmélet]]
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('andrewsnotes', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Tip Me',
+    'floating-chat.donateButton.background-color': '#323842',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 > Ebben a tudástárban találhatók üres oldalak, amik a kapcsolódások miatt fontosak.
 
 > Ha elírást találtál vagy más jegyzettel egészítenéd ki az oldalt, [írj egy emailt](mailto:contact@andrasdenes.com)!
