@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"Lully.md","permalink":"/lully/"}
 ---
 
-#
-
 Giovanni Battista Lully
 [[public/francia barokk\|francia barokk]] megteremtője, olasz táncos-énekes
 
@@ -30,9 +28,3 @@ Giovanni Battista Lully
             -   Innen a trio rész
     -   metrum változik, igazodik a francia nyelvhez
     -   [[public/haut-contre\|haut-contre]]
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/lully&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

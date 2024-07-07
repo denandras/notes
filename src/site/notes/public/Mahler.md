@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"Mahler.md","permalink":"/mahler/"}
 ---
 
-#
 ![](https://images.universal-music.de/img/assets/278/278414/992/720/gustav-mahler-c-dg.jpg)
 
 # Gustav Mahler
@@ -79,9 +78,3 @@
 		- gregorián himnusz
 		- [[public/Goethe\|Goethe]] *Faust*jából zárórész
 	- *9-10.*
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/mahler&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

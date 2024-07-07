@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"Mazeppa etűd.md","permalink":"/mazeppa-etud/"}
 ---
 
-#
-
 > Hogyan lesz egy billentyűs etűdből szimfonikus darab?
 
 - 1826, Párizs, **gyermekkori** etűdsorozat része
@@ -43,10 +41,3 @@
 		- *hangnemi terv*
 			- hosszabb átvezető részek
 			- változtatások
-
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/mazeppa-etud&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"monódikus stílus.md","permalink":"/monodikus-stilus/"}
 ---
 
-#
-
 > hangszerkíséretes szólóének
 > "színpadi stílus", "énekelt recitálás" - beszéd és ének között
 
@@ -17,10 +15,3 @@
 	- [[public/madrigál\|madrigál]]jai
 	- bármilyen mély hangszer kísérhet, ami kitölti az űrt: [[public/basso continuo\|basso continuo]]
 	- [[public/Le nuove musiche\|Le nuove musiche]] (1602)
-
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/monodikus-stilus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

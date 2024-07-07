@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"Lodovico Giustini.md","permalink":"/lodovico-giustini/"}
 ---
 
-#
-
 - észak-itáliai születésű
 - orgonista, egyházi zeneszerző
 - hírnév: op. 1 billentyűs szonáták
@@ -11,11 +9,3 @@
 	- Corellihez hasonlóan 12 szvitet tartalmaz ([[public/sonata da camera\|sonata da camera]])
 	- zenetörténet első *kalapácszongora*-darabgyűjteménye
 		- [[public/fortepiano\|fortepiano]]
-
-
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/lodovico-giustini&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

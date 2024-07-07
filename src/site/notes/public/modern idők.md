@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"modern idők.md","permalink":"/modern-idok/"}
 ---
 
-
 - modernitás, modernizmus
 	- jól periodizálható?
 	- mások szerint inkább folyamatos
@@ -271,9 +270,3 @@
 
 - [[Hantai Simon\|Hantai Simon]]
 - [[Reigl Judit\|Reigl Judit]]
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/modern-idok&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

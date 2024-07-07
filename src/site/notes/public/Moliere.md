@@ -18,9 +18,3 @@
 - az egyház először megtiltotta temetését, de a király közbelépett.
 - hagyatéka az irodalomban él tovább, számos művét még ma ismerik és játsszák
 <p href="https://vk.com/wall-153681721_18718?lang=en" style="text-align: right;">forrás</p>
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/moliere&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

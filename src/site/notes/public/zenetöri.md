@@ -52,9 +52,6 @@
 10. [[public/Haydn és az oratórium\|Haydn és az oratórium]] (kimaradt)
 
 ## Negyedik félév - Romantika (BP)
-<a href="https://notes.andrasdenes.com/assets/img/4.%20f%C3%A9l%C3%A9v.png">
-<img src="../assets/img/4. félév.png" width="100%">
-</a>
 
 1. A [[public/romantika fogalma\|romantika fogalma]]
 2. A [[public/romantikus dal\|romantikus dal]], [[public/Schubert\|Schubert]], a [[public/ballada\|ballada]], [Brahms](https://notes.andrasdenes.com/brahms#Negyedikfélév)[^1], [[public/dalciklus\|dalciklus]]
@@ -94,4 +91,4 @@
 4. [[public/Webern\|Webern]]
 5. [[public/Stravinsky\|Stravinsky]]
 6. [[Messiaen\|Messiaen]]
-0. [[Prokofiev\|Prokofiev]], [[Honegger\|Honegger]]
+0. [[Prokofiev\|Prokofiev]]

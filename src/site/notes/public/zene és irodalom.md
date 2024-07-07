@@ -5,7 +5,7 @@
 > - szabvál
 > - [[public/Kovács Zoltán\|Kovács Zoltán]] bölcsész
 ## Művek
-- [[public/John Milton - Zenehallgatás közben\|John Milton - Zenehallgatás közben]]
+- [[John Milton - Zenehallgatás közben\|John Milton - Zenehallgatás közben]]
 - [[public/Kálnoky László - Szférák zenéje\|Kálnoky László - Szférák zenéje]]
 - [[public/Ady Endre - A fekete zongora\|Ady Endre - A fekete zongora]]
 - [[Robert Browning - Egy Galuppi-toccata\|Robert Browning - Egy Galuppi-toccata]]
