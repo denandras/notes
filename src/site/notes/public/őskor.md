@@ -23,7 +23,7 @@
 		- *konvencionális érték*: elbeszélés, szertartás kelléke, mitológia, vallás -> **ettől van identitásunk**
 - [[Tillmann József\|Tillmann József]] filozófus
 - a [[public/felvilágosodás\|felvilágosodás]] kivonta a varázslatot a művészetből, csak [[public/racionalizmus\|racionálisan]] vizsgálta azt
-	- a varázslat a [[vernakuláris\|vernakuláris]] kultúrában abszolút tovább él
+	- a varázslat a [[public/vernakuláris\|vernakuláris]] kultúrában abszolút tovább él
 	- a népdal is több a hangoknál - fontos, hogy honnan jött a közlő, környezet, stb.
 	- *reenchantment* - újraelvarázsosítás
 		- [The Re-Enchantment of the World](https://www.sup.org/books/title/?id=7562) (könyv) #később 

@@ -10,7 +10,7 @@
 - milyen?
 	- kép/képmás tagadása
 	- puritánság
-	- [[vernakuláris\|vernakuláris]] nyelvhasználat
+	- [[public/vernakuláris\|vernakuláris]] nyelvhasználat
 	- erős transzcendens
 	- irracionális, szokatlan, monumentalitás, túlzás, mozgalmasság, egyenes vonalak hiánya
 - cél: erő, gazdagság, pompa, hatás az emberekre, hatalom illusztrálása

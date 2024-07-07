@@ -1,0 +1,211 @@
+---
+{"dg-publish":true,"dg-path":"posztmodern művészet.md","permalink":"/posztmodern-muveszet/"}
+---
+
+### Posztmodern művészet
+<a id="Művészet"></a>
+- high art - low art
+	- osztályozó jelleg
+	- a posztmodern összemos
+	- de mégis meg tudjuk állapítani a csupán szórakoztatókat (low art)
+- 5 paradigma
+	- klasszikus
+	- 20-21. sz-i avantgárd
+	- posztmodern
+	- szórakoztató (közhely, első befogadásra érthető)
+	- (folklór) - nálunk is nagyon erős, megkésett társadalomfejlődés miatt
+- posztmodern művészet kialakulása
+	- művészeti trend
+	- az avantgárd elutasította a piacot, magával dolgozott
+		- kiüresedik az avantgárd
+		- mert megjelenik a **piacon** a neoavantgárd
+	- elválik egymástól a magas és a szórakozató művészet - neoavantgárd
+- metafikció (önmagáról beszél)
+	- hangsúlyozza saját fikcionalitását
+	- [[Lázár Ervin - Szegény Dzsoni és Árnika\|Lázár Ervin - Szegény Dzsoni és Árnika]]
+	- [[A szurkos kezű királyfiak\|A szurkos kezű királyfiak]]
+	- nem igazság a mű, hanem gondolatébresztés
+		- akkor igaz, ha a jelenben az adott környezetben igaz
+	- tudjuk, hogy nem igaz a fikció, de szeretjük
+- művészi autonómia megszűnik
+	- nem lesz fontos megírni, amit még nem írtak meg, mert nincs ilyen
+	- nem fontos, hogy kié
+	- idézetek, intertextualitás, juxtapozíció
+- irónia
+	- politikai jelentés: mást mond, mint amit gondol
+	- esztétikai minőség (mint tragikum, komikum): a műben egymást kizáró ellentétek jelennek meg, a szerző nem akar vele kezdeni semmit
+		- értékek feloldás nélküli ütköztetése
+	- [[Az ember tragédiája\|Az ember tragédiája]]
+	- [[Báró Kemény Zsigmond\|Báró Kemény Zsigmond]]
+- [[Jean Paul Sartre - A fal\|Jean Paul Sartre - A fal]] - egzisztencialista
+- hierarchiaellenes: elit és pop közötti határ megszűnése
+- [[Martin McDonald\|Martin McDonald]]
+- Turing-teszt
+- eklektika
+	- bizonyos stílusok szabadon való összekeveredése
+	- először középkorban
+- pastiche/palimpszeszt
+	- régi műalkotás felülírása (élősködve azon, vagy tisztelettel beszélve róla)
+	- sem eredetiség, sem önállóság
+	- egy hosszú sor láncai vagyunk, nem tehetünk úgy, mintha nem létezett volna semmi előttünk
+	- [[Tóth Krisztina - Porhó\|Tóth Krisztina - Porhó]]
+	- Manet - Magritte pastiche
+	- [[Szinyei - Eigel István\|Szinyei - Eigel István]]
+- fragmentalitás, töredékesség
+	- befejezetlen művek
+- mellérendelő, nyitott szerkezetek
+	- a világ nem hierarchikusan rendezett
+	- korlátlan mennyiségű epizód összefüggéstelenül ír le egy sorsot
+	- nincs sorsív, vagy isteni akarat
+- időbeliség felborulása, kronotoposzok
+	- barangolás az elvarázsolt kastélyban
+	- [[Pasi Ilmari Jääskeläinen - Don városi rejtekjáratok\|Pasi Ilmari Jääskeläinen - Don városi rejtekjáratok]]
+	- alternatív megoldás
+- patetikusság vége, de gondolkodás a kérdésről
+	- [[Örkény - Egypercesek\|Örkény - Egypercesek]]
+	- short story = rövidtörténet (a novellánál is rövidebb, sokminden van kihagyva)
+	- a dúsítást úgy éri el, hogy a hiányra épít
+	- [[Franz Kafka\|Franz Kafka]] egypercesei
+- ha a szerző nyilatkozik, az sem ad bizonyosságot
+	- ő is hazudhat
+	- [[Prokofiev\|Prokofiev]] - Klasszikus szimfónia
+- detotalizáció
+	- amikor totális volt, kb. 1747
+	- [[Charles Batteux\|Charles Batteux]]
+	- megmondható, mi a szép, *szép*művészet
+	- utánzáselmélet, kifejezésesztétika, formalizmus, befogadásesztétika (szerző-mű-befogadó), intézményelmélet
+- esztétikai kutatások hármasa
+	- szerző-mű-befogadó
+	- mimesis eltekint a szerzőtől
+	- modernitás a műtől
+	- befogadásesztétika eltekint a műtől és a szerzőtől (nem a formák elemzendők, hanem én) - a műveknek nincs jelentése, mert nincs két ugyanolyan ember
+	- intézményelmélet mindegyiktől eltekint
+- mai művészetfilozófia
+	- osztályozás eltűnt (nincs besorolás és értelmezés)
+	- minden elképzelhető, ha van közönsége
+	- példák:
+		- [[John Adams - Nixon Kínában\|John Adams - Nixon Kínában]]
+		- [[Melis László - Bakkhánsnők\|Melis László - Bakkhánsnők]]
+- esztétika
+	- amikor ítélek, hogyan működik, milyen alapelvek alapján?
+	- "azért tetszik, mert szép" (megértettem, hogy tőlem függetlenül szép, ha nem tetszik, képzetlen vagyok)
+	- "azért szép, mert nekem tetszik" (romantika óta) - esztétikai *szubjektivizmus*
+	- -> relativizmus: bármi lehet jó mű?
+	- -> bárki bármit megítélhet?
+		- [[Hume\|Hume]]: bevezetünk kritériumokat, bárkinek a véleményét nem fogadjuk el
+		- (értelmező közösségek elmélete)
+		- [[Új Zenei Újság\|Új Zenei Újság]]- mai művészetkritika
+		- wittgensteini nyelvjáték a kritika is (tehát folytatni tudjuk az értelmezést)
+		- ízlésünk igazodik, érzékenységünk mélyül
+- minek van műalkotás?
+	- eddig:
+		- tudást adnak, bevezetnek minket a világunkba, de metaforikusan
+		- [[public/Mátépassió\|Mátépassió]] bár más módon, de ugyanúgy mondja el a történetet, mint a pap
+		- parasztbarokk - mindent tudnak a világról, értenek mindent
+		- a műalkotás az életünkben kitüntetett jelenség, kiemel minket -> időleges, ezt most beláthatjuk
+			- jobb emberré válás, emancipáció - [[public/Schiller\|Schiller]]
+	- most:
+		- [[public/Mátépassió\|Mátépassió]] élvezetet okozhat
+		- [[Kant\|Kant]] - találkozzunk a műalkotásokkal és kezdjük el megérteni saját életünket
+[[John Adams\|John Adams]], [[Philippe Glass\|Philippe Glass]]
+- körkép a posztmodern művészetről
+	- `20.` század végén a magas művészet visszaszorul
+		- a plurális társadalmunkban képtelenség egy nézőpontot vallani
+		- a klasszikus műalkotások emberképe tűnt el
+		- miért legyek magasan képzett művész?
+		- a közepesen kereső embernek tökéletesen kellemes élete lehet
+	- nehezen érthető "kód"
+		- pl. opera narratív része
+		- nem a mi világunk
+	- avantgárd - miért nem hatott?
+		- még a kortársaknak is túl érthetetlen
+		- kései neoavantgárd - concept, pop-art, neodada
+- építészet
+	- szecesszió és art deco
+	- purizmus, racionalizmus
+	- bauhaus, (kicsit [manierista](manierizmus)) brutalizmus
+	- Pruitt-Igoe lakótelep lerombolása
+		- emberbarát, élhető hely volt
+	- társadalmi problémák voltak, nem esztétikai
+	- posztmodern - posztfunkcionális
+	- dekonstruktivista építészet
+		- organikus anyagok
+	- regionalizmus (bauhaus helyekhez való alkalmazkodása)
+	- [[Hundertwasser\|Hundertwasser]] híres posztmodern építész
+	- hagyomány fogalma átalakul, hermeneutikai kérdés - az hagyomány, amit annak tartok
+	- [[Fudzsimoto Szószuke\|Fudzsimoto Szószuke]] - Magyar Zene Háza
+- képzőművészet
+	- együtt él a késő modern és a posztmodern
+	- [[Bak Imre\|Bak Imre]], Ráder(?) András
+	- [[Maurer Dóra\|Maurer Dóra]], [[Vera Molnár\|Vera Molnár]]
+	- angolszász újrealizmus
+	- [[public/Liszt\|Liszt]]-szobrok
+		- Liszt-tér, avantgárd, expresszionista
+		- Pécs, Dóm tér, posztmodern, giccses, filmszerű jelenet
+	- Solti-emlékművek
+		- Farkasréti temető - bárki fölé emelhető szobor, geometrikus absztrakt
+		- Liszt-tér, posztmodern eklektikus
+- történeti események megjelenítése
+	- land-art: a pop-art-ból létrjövő művészeti ág, a 90-es évekből
+	- komceptualizmus, [[Josef Kosut\|Josef Kosut]]
+		- művészeti gondolat a fontos
+		- már a levél is a gondolat kifejezése
+	- lengyel művész, [[Zbigniew Libera\|Zbigniew Libera]]
+		- LEGO-haláltábor
+- művészetben a saját előadás, létezés megfogalmazása is nehéz
+	- szubjektív
+	- nem fogadom el a magyarázatot, hagyományokat
+		- saját értelmezési horizont szűkebb lehet egy esztétájáénál
+	- Covid - megszólalhat a ma embere, halállal való szembenézés
+		- egy ilyen szituáció lebonthatja a tradíciót
+- gender-téma
+	- politikában pénzkérdés
+	- nem lehet etikai téma, mert etikai hiányosságra mutat rá
+- "Anything Goes" - [[Paul Feyerabend\|Paul Feyerabend]]
+	- tudásszociológiai kifejezés
+	- a régi metafizikai bázisok eltűnnek
+		- tehát elismeri, hogy nem ismerhető meg az igazság
+	- [[Karl Popper\|Karl Popper]]: a tenyérjóslás nem lehet tudás
+		- de, ez ugyanolyan tudás lehet, mint az atomfizika
+	- eklektika
+		- korábban ismeretlen, vagy nem műalkotásnak tekintett műfajok jelennek meg
+- "régi újítás" - absztrakt, geometriai absztrakt
+	- posztmodern reflektál rá, hogy senki nem érti, mert reprezentatív
+	- új narrativitás/figurativitás
+	- szürrealizmus
+	- [[Keresztes Zsófia\|Keresztes Zsófia]]
+	- [[David Hockney\|David Hockney]]
+	- [[John Baldessari\|John Baldessari]]
+	- [[Liza Lou\|Liza Lou]] - The Kitchen
+- tradíció = értelmezés
+	- az tradíció, amit annak tartok
+- vallás
+	- Amerikában az emberek 80%-a vallásos
+	- fogyasztói társadalom
+		- elutasítható?
+			- kinevethető, de nem kell
+		- megdicsőül a banális ([[Liza Lou\|Liza Lou]] - The Kitchen)
+		- egyszerre semmit mondó, és sokat mondó
+			- irodalomban: minden napi életből banális szerkezeteket, beszélgetéseket emel be, pl. [[Esterházy Péter\|Esterházy Péter]]
+- [Societé Realiste](http://mezosfera.org/the-obscure-object-of-desire/)
+	- poszt-egzisztencialista
+	- az igény szerinti Európa-térkép
+	- iróniával dolgozik, ezzel mutat rá a hülyeségre
+- [[Banksy\|Banksy]]
+	- kiléte kérdéses
+	- hihetetlen híresség
+	- politizál
+- [[Bukta Imre\|Bukta Imre]]
+	- vidék, hazaköltözött 20 év távollét után
+	- "mezőgazdasági művész"
+	- festmények, installációk a falusi környezet által ihletve
+	- cenzúra 1974-ben - "a szocialista művész nem így néz ki"
+- [[Elekes Károly\|Elekes Károly]]
+	- tuning-projektek
+	- renovál (elfogad), felújít (elutasít) katasztrofálisan rossz műveket
+	- interjú: túl sok kép van a világban
+- [[Konkoly Gyula\|Konkoly Gyula]]
+	- posztimpresszionizmus, [[Szinyei\|Szinyei]] pipacsai
+- [[Keresztes Zsófia\|Keresztes Zsófia]]
+	- posztmodern, amely felidéz valamit (pl. ókort)
+	- magánmitológia

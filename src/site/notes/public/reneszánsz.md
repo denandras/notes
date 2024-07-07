@@ -109,7 +109,7 @@
 - cinquecento triásza
 ### Duecento
 - irodalmi olasz nyelv születése
-- vernakuláris nyelv irodalomba való beemelése
+- [[public/vernakuláris\|vernakuláris]] nyelv irodalomba való beemelése
 - [[Dante\|Dante]]
 - könyvnyomtatás, Aldus Manutius
 - antik, klasszikus források

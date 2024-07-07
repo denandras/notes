@@ -1,0 +1,64 @@
+---
+{"dg-publish":true,"dg-path":"posztmodern filozófia.md","permalink":"/posztmodern-filozofia/"}
+---
+
+### Posztmodern filozófia
+<a id="Filozófia"></a>
+- különböző stílusú filozófiák
+- dekonstruálja a metafizikát
+- végeredmény: detotalizál, dekonstruál, szkepszis
+	- az igazság detotalizálása (nem fogadjuk el, hogy mindig igaz)
+- szkepszis mindig is volt, de amikor erősebb lesz, mint amiben kételkedik, posztmodernről beszélünk
+- a 2000 éves európai hagyományt feladva (igazság keresése) elfogadjuk a relativizmust, toleranciát
+	- ismeretelmélet
+	- félreértettük Platónt, az eredmények felszíniek
+- [[Mátrix\|Mátrix]]: ez nem az igazi világ -> végtelen regresszus, szkepticizmus
+- előzmény: [[Nietzsche\|Nietzsche]]
+	- modernitással kapcsolatos kritika
+	- mindannyian Übermenschekké válhatunk
+		- gyávák vagyunk bevallani, hogy nincs cél, de aki bátor ezt belátni, Übermensch
+	- ha a tigrisek verődnek nyájjá, az is nyáj
+	- ismerte [[public/Wagner\|Wagner]]t
+- pszichoanalízis
+	- [[Sigmund Freud\|Sigmund Freud]]
+		- az emberi gondolkodás nem tudja kezelni magát a tudattalan jelenléte miatt
+		- nem az észhasználat a lényeges
+	- [[Jacques Lacan\|Jacques Lacan]]
+- [[Wittgenstein\|Wittgenstein]]: nyelvjátékok relativizmusa
+	- teljesen totális tudás
+	- nincs önálló gondolkodás, tehát a nyelvünk befolyásolja, hogy egyáltalán mit gondolhatunk
+	- a nyelvhasználatunk dekonstruálása, a szavak mögött nincs valós jelentés, mert magára alapoz
+	- Isten, morális értékek, tudományos bizonyítás: a jó szó jelentése önmagában nem értelmezhető egyféleképpen, egyszerre több nyelvjátékot játszunk
+- [[Gadamer\|Gadamer]]: [[hermeneutika\|hermeneutika]]
+	- nincs abszolút jelentés
+	- mindig értelmezünk
+	- [[Igazság és módszer\|Igazság és módszer]]
+	- Hermész tolmácsisten (istenek értelmezése)
+	- lehetetlen, hogy mindenki ugyanúgy értelmezzen egy dolgot
+	- hatástörténeti horizont
+	- befogadásesztétika
+		- nem a mű számít
+		- biztosan nem a szerző számít
+		- mit tudok kezdeni a művel?
+- [[Thomas Kuhn\|Thomas Kuhn]]
+	- logikai pozitivizmusnak belső problémái vannak - [[Lakatos Imre\|Lakatos Imre]]: az elméletek versenyhelyzete
+	- belső feloldódás
+	- a tudományt nem csak racionális és empirikus dolgok határozzák meg
+	- tudományfilozófia
+		- mi a tudomány?
+		- közösségek, kísérletek, stb.
+- [[Rorty\|Rorty]]
+	- a pragmatizmus hasonlít a posztmodern gondolkodásra
+	- ami működik, azt tartják igaznak
+	- neopragmatizmus: az igazság relatív
+- posztstrukturaliznus
+	- [[R Barthes\|R Barthes]]: a szöveg öröme
+		- [[R Barthes - A szerző halála\|R Barthes - A szerző halála]]
+- dekonstrukció
+	- [[Derrida\|Derrida]]
+	- szétbontok és újraértelmezve felépítek
+	- mindig van "csalás", probléma, ezért mindig kicsit ki kell hagyni az újraértelmezésből
+	- párhuzamosan ugyanazt kigondolják filozófusok, csak más nyelveken, így Derrida is
+- [[public/Lyotard\|Lyotard]] - a posztmodern megfogalmazása
+	- vannak nagy narratívák, egzisztencializmus, marxizmus, ezek relativizálódnak, mert egyszerre léteznek
+	- sok kis narratíva lesz

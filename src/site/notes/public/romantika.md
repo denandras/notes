@@ -6,7 +6,7 @@
 	- sok szempontból hiányt hagy maga mögött a klasszicizmus
 - időszakos átfedések, nem áll távol egymástól a két korszak
 - egységes korstílus
-- 18. Század vége, 19. sz. első fele
+- 18. század vége, 19. sz. első fele
 - -> eklektika, historizmus
 - csalódás a felvilágosodás szellemében, kiábrándultság
 - elsősorban festészetben
@@ -26,7 +26,7 @@
 	- dráma, eml. [[Petőfi\|Petőfi]]
 	- nincs part, reménytelenség, kiszámíthatatlanság
 	- természet ereje
-	- sötét-világos, színkontraszt, turbulencia (<- barokk)
+	- sötét-világos, színkontraszt, turbulencia (<- [[public/barokk a művészettörténetben\|barokk]])
 - [[Eugéne Delacroix\|Eugéne Delacroix]]
 	- klasszicista szürkeség ellen
 	- francia

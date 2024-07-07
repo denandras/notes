@@ -2,7 +2,9 @@
 {"dg-publish":true,"dg-path":"apofativizmus.md","permalink":"/apofativizmus/"}
 ---
 
+egy olyan filozófiai és teológiai megközelítés, amelynek központi elve az, hogy Isten lényét vagy jellemzőit nem lehet pozitív módon kifejezni vagy megérteni, hanem csak annak tagadásával vagy az elvonással lehet megközelíteni (ChatGPT) - [Pierre Hadot - Apofatizmus és negatív teológia](https://epa.oszk.hu/03500/03594/00003/pdf/EPA03594_2009_02_079-088.pdf)
 
+via negativa 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/via-negativa/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -20,5 +22,3 @@
 
 </div></div>
 
-
-> egy olyan filozófiai és teológiai megközelítés, amelynek központi elve az, hogy Isten lényét vagy jellemzőit nem lehet pozitív módon kifejezni vagy megérteni, hanem csak annak tagadásával vagy az elvonással lehet megközelíteni (ChatGPT) - [Pierre Hadot - Apofatizmus és negatív teológia](https://epa.oszk.hu/03500/03594/00003/pdf/EPA03594_2009_02_079-088.pdf)
