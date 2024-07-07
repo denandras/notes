@@ -16,7 +16,7 @@
 
 ### Szabválok
 
-- [[public/posztmodern\|posztmodern]] művészet és művészetelmélet
+- [[public/posztmodern\|posztmodern művészet és művészetelmélet]]
 
 > Ebben a tudástárban találhatók üres oldalak, amik a kapcsolódások miatt fontosak.
 

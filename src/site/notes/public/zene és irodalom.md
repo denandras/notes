@@ -7,7 +7,7 @@
 ## Művek
 - [[John Milton - Zenehallgatás közben\|John Milton - Zenehallgatás közben]]
 - [[public/Kálnoky László - Szférák zenéje\|Kálnoky László - Szférák zenéje]]
-- [[public/Ady Endre - A fekete zongora\|Ady Endre - A fekete zongora]]
+- [[Ady Endre - A fekete zongora\|Ady Endre - A fekete zongora]]
 - [[Robert Browning - Egy Galuppi-toccata\|Robert Browning - Egy Galuppi-toccata]]
 - [[Heinrich von Kleist - Szent Cecília, avagy a zene hatalma\|Heinrich von Kleist - Szent Cecília, avagy a zene hatalma]]
 - [[Lev Tolsztoj - Kreutzer-szonáta\|Lev Tolsztoj - Kreutzer-szonáta]]
