@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/public/muveszettoertenet/"}
 ---
 
-#
 >  Körösvölgyi Zoltán
 
 > A műalkotás mindenképpen kapcsolódik saját korához, feltesz kérdéseket. A művész felfedező, előörs egy olyan fajta érzékenység miatt, ami a többi emberben nincs meg. (eml. [Loch Gergely PhD](https://apps.lfze.hu/netfolder/PublicNet/Doktori%20dolgozatok/loch_gergely/tezis_hu.pdf); [Vadászi Zoltán - "1/0"](https://www.zoltanvadaszi.com/1-0))
@@ -109,6 +108,3 @@
 [^2]: Zeitgeist: "a kor szelleme" vagy "az idők szelleme" - arra utal, hogy egy adott időszak vagy korszak jellemzői, hangulata és kulturális vonásai hogyan hatnak az emberek gondolkodására, érzéseire és cselekedeteire (*ChatGPT*)
 [^3]: nativizmus: olyan pszichológiai, bölcseleti irányzatot jelent, amely szerint az embernek vannak vele született eszméi, képességei vagy készségei, amelyekkel születése után azonnal rendelkezik és ami segít neki értelmezni a világot. ([wiki](https://www.wikiwand.com/hu/Nativizmus_(pszichol%C3%B3gia)))
 [^4]: egy olyan filozófiai és teológiai megközelítés, amelynek központi elve az, hogy Isten lényét vagy jellemzőit nem lehet pozitív módon kifejezni vagy megérteni, hanem csak annak tagadásával vagy az elvonással lehet megközelíteni (ChatGPT) - [Pierre Hadot - Apofatizmus és negatív teológia](https://epa.oszk.hu/03500/03594/00003/pdf/EPA03594_2009_02_079-088.pdf)
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/muveszettortenet&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-
