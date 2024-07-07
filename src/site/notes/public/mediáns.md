@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/medians/"}
+{"dg-publish":true,"dg-path":"mediáns.md","permalink":"/medians/"}
 ---
 
 #

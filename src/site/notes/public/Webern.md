@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/webern/"}
+{"dg-publish":true,"dg-path":"Webern.md","permalink":"/webern/"}
 ---
 
 - Dr Anton von Webern

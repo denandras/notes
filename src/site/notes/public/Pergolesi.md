@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/pergolesi/"}
+{"dg-publish":true,"dg-path":"Pergolesi.md","permalink":"/pergolesi/"}
 ---
 
 # Giovanni Battista Pergolesi

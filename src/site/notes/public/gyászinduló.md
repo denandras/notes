@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/gyaszindulo/"}
+{"dg-publish":true,"dg-path":"gyászinduló.md","permalink":"/gyaszindulo/"}
 ---
 
 Marcia funébre

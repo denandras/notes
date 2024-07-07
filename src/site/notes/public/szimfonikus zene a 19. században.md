@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szimfonikus-zene-a-19-szazadban/"}
+{"dg-publish":true,"dg-path":"szimfonikus zene a 19. században.md","permalink":"/szimfonikus-zene-a-19-szazadban/"}
 ---
 
 > szimfónia és szimfonikus költemény, BERLIOZ, SCHUBERT, MENDELSSOHN, SCHUMANN, LISZT, BRAHMS, az [[public/abszolút zene\|abszolút zene]] eszméje és az Újnémet Iskola]

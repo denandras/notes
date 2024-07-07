@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/diszpenzacio/"}
+{"dg-publish":true,"dg-path":"diszpenzáció.md","permalink":"/diszpenzacio/"}
 ---
 
 A házasság kivételes esetben való, hatóság általi engedélyezése, vagy a kihirdetés elhagyásának engedélye.

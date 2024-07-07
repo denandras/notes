@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/lully/"}
+{"dg-publish":true,"dg-path":"Lully.md","permalink":"/lully/"}
 ---
 
 #

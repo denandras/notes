@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/empfindsamkeit/"}
+{"dg-publish":true,"dg-path":"Empfindsamkeit.md","permalink":"/empfindsamkeit/"}
 ---
 
 szentimentalizmus, Empfindsamer Stil

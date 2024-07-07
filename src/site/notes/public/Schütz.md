@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/schuetz/"}
+{"dg-publish":true,"dg-path":"Schütz.md","permalink":"/schuetz/"}
 ---
 
 Heinrich Schütz

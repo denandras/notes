@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/ady-endre-a-fekete-zongora/"}
+{"dg-publish":true,"dg-path":"Ady Endre - A fekete zongora.md","permalink":"/ady-endre-a-fekete-zongora/"}
 ---
 
 Bolond hangszer: sír, nyerit és búg.  

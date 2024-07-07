@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/bartolomeo-cristofori/"}
+{"dg-publish":true,"dg-path":"Bartolomeo Cristofori.md","permalink":"/bartolomeo-cristofori/"}
 ---
 
 

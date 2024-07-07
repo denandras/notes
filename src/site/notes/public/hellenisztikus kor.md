@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/hellenisztikus-kor/"}
+{"dg-publish":true,"dg-path":"hellenisztikus kor.md","permalink":"/hellenisztikus-kor/"}
 ---
 
 ## A görög csoda (antik görög kultúra)

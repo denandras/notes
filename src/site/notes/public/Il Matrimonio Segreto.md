@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/il-matrimonio-segreto/"}
+{"dg-publish":true,"dg-path":"Il Matrimonio Segreto.md","permalink":"/il-matrimonio-segreto/"}
 ---
 
 A titkos házasság

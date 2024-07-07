@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/vilagi-mufajok-a-16-szazadban/"}
+{"dg-publish":true,"dg-path":"világi műfajok a 16. században.md","permalink":"/vilagi-mufajok-a-16-szazadban/"}
 ---
 
 -   francia területeken lévő műfajok

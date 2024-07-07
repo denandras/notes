@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/nicola-porpora/"}
+{"dg-publish":true,"dg-path":"Nicola Porpora.md","permalink":"/nicola-porpora/"}
 ---
 
 #

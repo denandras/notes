@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/auenbrugger-kisasszonyok/"}
+{"dg-publish":true,"dg-path":"Auenbrugger kisasszonyok.md","permalink":"/auenbrugger-kisasszonyok/"}
 ---
 
 [[Marianne von Auenbrugger\|Marianne von Auenbrugger]] & [[Caterina Franziska\|Caterina Franziska]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/schumann/"}
+{"dg-publish":true,"dg-path":"Schumann.md","permalink":"/schumann/"}
 ---
 
 <3 [[Clara Schumann\|Clara Schumann]]

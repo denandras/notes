@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szabolcsi-bence-muvei/"}
+{"dg-publish":true,"dg-path":"Szabolcsi Bence Művei.md","permalink":"/szabolcsi-bence-muvei/"}
 ---
 
 1984

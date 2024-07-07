@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/mazeppa-etud/"}
+{"dg-publish":true,"dg-path":"Mazeppa etűd.md","permalink":"/mazeppa-etud/"}
 ---
 
 #

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/undine/"}
+{"dg-publish":true,"dg-path":"Undine.md","permalink":"/undine/"}
 ---
 
 [[public/E T A Hoffmann\|E T A Hoffmann]][^1]

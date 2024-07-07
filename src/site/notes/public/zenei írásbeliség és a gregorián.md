@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/zenei-irasbeliseg-es-a-gregorian/"}
+{"dg-publish":true,"dg-path":"zenei írásbeliség és a gregorián.md","permalink":"/zenei-irasbeliseg-es-a-gregorian/"}
 ---
 
 -   nyitógondolatok

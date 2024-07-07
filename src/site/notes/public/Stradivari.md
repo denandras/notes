@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/stradivari/"}
+{"dg-publish":true,"dg-path":"Stradivari.md","permalink":"/stradivari/"}
 ---
 
 Antonio Stradivari

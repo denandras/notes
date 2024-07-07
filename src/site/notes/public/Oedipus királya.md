@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/oedipus-kiralya/"}
+{"dg-publish":true,"dg-path":"Oedipus királya.md","permalink":"/oedipus-kiralya/"}
 ---
 
 [[public/Sophocles\|Sophocles]] operája, [[public/monódikus stílus\|monódikus stílus]]

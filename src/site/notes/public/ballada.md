@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/ballada/"}
+{"dg-publish":true,"dg-path":"ballada.md","permalink":"/ballada/"}
 ---
 
 - irodalmi divat, 18. század

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/franz-brendel/"}
+{"dg-publish":true,"dg-path":"Franz Brendel.md","permalink":"/franz-brendel/"}
 ---
 
 Neue Zeitschrift für Musik főszerkesztője

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/silbermann/"}
+{"dg-publish":true,"dg-path":"Silbermann.md","permalink":"/silbermann/"}
 ---
 
 Gottfried Silbermann

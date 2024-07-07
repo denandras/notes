@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/stefano-landi/"}
+{"dg-publish":true,"dg-path":"Stefano Landi.md","permalink":"/stefano-landi/"}
 ---
 
 - [[public/St Alessio\|St Alessio]] szerzője

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/cosima/"}
+{"dg-publish":true,"dg-path":"Cosima.md","permalink":"/cosima/"}
 ---
 
 [[public/Liszt\|Liszt]] lánya

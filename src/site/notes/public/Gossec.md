@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/gossec/"}
+{"dg-publish":true,"dg-path":"Gossec.md","permalink":"/gossec/"}
 ---
 
 Francois-Joseph Gossec

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/permanens-forradalom/"}
+{"dg-publish":true,"dg-path":"permanens forradalom.md","permalink":"/permanens-forradalom/"}
 ---
 
 

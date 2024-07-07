@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/il-mondo-della-luna/"}
+{"dg-publish":true,"dg-path":"Il mondo della luna.md","permalink":"/il-mondo-della-luna/"}
 ---
 
 - [[public/Baldassare Galuppi\|Baldassare Galuppi]] 1750-es [[public/opera buffa\|opera buffa]]ja

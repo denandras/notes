@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szecesszio/"}
+{"dg-publish":true,"dg-path":"szecesszió.md","permalink":"/szecesszio/"}
 ---
 
 - 19. század vége

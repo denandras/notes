@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/pompakedvelo-miklos-herceg/"}
+{"dg-publish":true,"dg-path":"Pompakedvelő Miklós herceg.md","permalink":"/pompakedvelo-miklos-herceg/"}
 ---
 
 #

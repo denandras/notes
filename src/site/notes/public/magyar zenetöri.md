@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/magyar-zenetoeri/"}
+{"dg-publish":true,"dg-path":"magyar zenetöri.md","permalink":"/magyar-zenetoeri/"}
 ---
 
 #

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/shostakovich/"}
+{"dg-publish":true,"dg-path":"Shostakovich.md","permalink":"/shostakovich/"}
 ---
 
 - Dmitrij Dmitrijevics Shostakovich

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/angol-zenei-kultura/"}
+{"dg-publish":true,"dg-path":"angol zenei kultúra.md","permalink":"/angol-zenei-kultura/"}
 ---
 
 ### **Angol polgári forradalom** (válság) 1642-51

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/jean-coteau/"}
+{"dg-publish":true,"dg-path":"Jean Coteau.md","permalink":"/jean-coteau/"}
 ---
 
 #

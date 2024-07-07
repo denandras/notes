@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/dalciklus/"}
+{"dg-publish":true,"dg-path":"dalciklus.md","permalink":"/dalciklus/"}
 ---
 
 - maguk a költemények ciklust alkotnak

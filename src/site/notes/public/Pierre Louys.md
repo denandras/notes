@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/pierre-louys/"}
+{"dg-publish":true,"dg-path":"Pierre Louys.md","permalink":"/pierre-louys/"}
 ---
 
 #

@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/public/barberini-csalad/"}
+{"dg-publish":true,"dg-path":"Barberini család.md","permalink":"/barberini-csalad/"}
 ---

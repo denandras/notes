@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/hangszeres-concerto/"}
+{"dg-publish":true,"dg-path":"hangszeres concerto.md","permalink":"/hangszeres-concerto/"}
 ---
 
 - mindenféle hangszeres darab

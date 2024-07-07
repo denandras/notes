@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/a-barokk-zenerol-altalaban/"}
+{"dg-publish":true,"dg-path":"A barokk zenéről általában.md","permalink":"/a-barokk-zenerol-altalaban/"}
 ---
 
 > *[[public/Bach\|Bach]] túl nagy hangsúlyt kapott az oktatásban, saját idejében kevésbé volt meghatározó*

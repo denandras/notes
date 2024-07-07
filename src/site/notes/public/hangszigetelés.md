@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/hangszigeteles/"}
+{"dg-publish":true,"dg-path":"hangszigetelés.md","permalink":"/hangszigeteles/"}
 ---
 
 - Kőmíves Kelemenné a falon hangot gátol, benne szigetel

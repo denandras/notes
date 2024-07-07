@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/a-fuel-anatomiai-szerkezete/"}
+{"dg-publish":true,"dg-path":"A fül anatómiai szerkezete.md","permalink":"/a-fuel-anatomiai-szerkezete/"}
 ---
 
 - *Hajtóvadászat öregekre* novella

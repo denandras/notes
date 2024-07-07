@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/bizanc/"}
+{"dg-publish":true,"dg-path":"bizánc.md","permalink":"/bizanc/"}
 ---
 
 - retronim kifejezés[^7]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/faust/"}
+{"dg-publish":true,"dg-path":"Faust.md","permalink":"/faust/"}
 ---
 
 [[public/Goethe\|Goethe]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/gotika/"}
+{"dg-publish":true,"dg-path":"gótika.md","permalink":"/gotika/"}
 ---
 
 ## Gótika (12-16. sz.)

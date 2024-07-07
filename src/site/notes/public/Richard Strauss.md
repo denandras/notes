@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/richard-strauss/"}
+{"dg-publish":true,"dg-path":"Richard Strauss.md","permalink":"/richard-strauss/"}
 ---
 
 <mark>1864-1949</mark>

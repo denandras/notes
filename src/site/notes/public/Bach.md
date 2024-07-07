@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/bach/"}
+{"dg-publish":true,"dg-path":"Bach.md","permalink":"/bach/"}
 ---
 
 # Johann Sebastian Bach

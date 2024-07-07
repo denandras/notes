@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/racionalizmus/"}
+{"dg-publish":true,"dg-path":"racionalizmus.md","permalink":"/racionalizmus/"}
 ---
 
 - [[public/René Descartes\|René Descartes]]

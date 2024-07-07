@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/romantika-fogalma/"}
+{"dg-publish":true,"dg-path":"romantika fogalma.md","permalink":"/romantika-fogalma/"}
 ---
 
 > szó, irodalom, [[Schlegel-fivérek\|Schlegel-fivérek]], [[public/E T A Hoffmann\|E T A Hoffmann]], irodalmi-zenei jelentés, kontrasztos ellentét, műfajok, kritikák és koncertélet, [[public/abszolút zene\|abszolút zene]], nacionalizmus, *újromantika/későromantika*

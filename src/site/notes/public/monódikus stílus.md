@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/monodikus-stilus/"}
+{"dg-publish":true,"dg-path":"monódikus stílus.md","permalink":"/monodikus-stilus/"}
 ---
 
 #

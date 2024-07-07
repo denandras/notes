@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/posztulatum/"}
+{"dg-publish":true,"dg-path":"posztulátum.md","permalink":"/posztulatum/"}
 ---
 
 #

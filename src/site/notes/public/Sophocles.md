@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/sophocles/"}
+{"dg-publish":true,"dg-path":"Sophocles.md","permalink":"/sophocles/"}
 ---
 

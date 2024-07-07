@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/victor-hugo/"}
+{"dg-publish":true,"dg-path":"Victor Hugo.md","permalink":"/victor-hugo/"}
 ---
 
 - *A Notre Dame-i toronyőr* - érzékenyítés, a testi fogyatékkal élők

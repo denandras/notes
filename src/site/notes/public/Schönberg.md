@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/schoenberg/"}
+{"dg-publish":true,"dg-path":"Schönberg.md","permalink":"/schoenberg/"}
 ---
 
 # Arnold Schönberg

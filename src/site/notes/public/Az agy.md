@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/az-agy/"}
+{"dg-publish":true,"dg-path":"Az agy.md","permalink":"/az-agy/"}
 ---
 
 adalék:

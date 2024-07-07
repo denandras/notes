@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/haendel/"}
+{"dg-publish":true,"dg-path":"Händel.md","permalink":"/haendel/"}
 ---
 
 Georg Friedrich Händel

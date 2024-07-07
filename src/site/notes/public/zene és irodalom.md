@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/zene-es-irodalom/"}
+{"dg-publish":true,"dg-path":"zene és irodalom.md","permalink":"/zene-es-irodalom/"}
 ---
 
 > - szabvál

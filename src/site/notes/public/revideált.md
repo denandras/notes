@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/revidealt/"}
+{"dg-publish":true,"dg-path":"revideált.md","permalink":"/revidealt/"}
 ---
 
 = újraellenőrzött

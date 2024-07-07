@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/thomas-betterton/"}
+{"dg-publish":true,"dg-path":"Thomas Betterton.md","permalink":"/thomas-betterton/"}
 ---
 

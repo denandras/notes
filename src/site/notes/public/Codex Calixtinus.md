@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/codex-calixtinus/"}
+{"dg-publish":true,"dg-path":"Codex Calixtinus.md","permalink":"/codex-calixtinus/"}
 ---
 
 # [wiki](https://www.wikiwand.com/hu/Kallixtusz-k%C3%B3dex)

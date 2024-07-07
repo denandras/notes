@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/opera-buffa/"}
+{"dg-publish":true,"dg-path":"opera buffa.md","permalink":"/opera-buffa/"}
 ---
 
 #

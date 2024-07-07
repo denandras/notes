@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/barokk-a-hetkoeznapokban/"}
+{"dg-publish":true,"dg-path":"barokk a hétköznapokban.md","permalink":"/barokk-a-hetkoeznapokban/"}
 ---
 
 - a barokk a zenében olyan, mint egy évben a nyár

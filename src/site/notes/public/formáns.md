@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/formans/"}
+{"dg-publish":true,"dg-path":"formáns.md","permalink":"/formans/"}
 ---
 
 energiamaximum

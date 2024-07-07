@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/idoerzekeles/"}
+{"dg-publish":true,"dg-path":"Időérzékelés.md","permalink":"/idoerzekeles/"}
 ---
 
 - relatív

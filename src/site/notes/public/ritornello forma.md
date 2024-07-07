@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/ritornello-forma/"}
+{"dg-publish":true,"dg-path":"ritornello forma.md","permalink":"/ritornello-forma/"}
 ---
 
 - tonálisan zárt egység

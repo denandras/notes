@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/vonosnegyes/"}
+{"dg-publish":true,"dg-path":"vonósnégyes.md","permalink":"/vonosnegyes/"}
 ---
 
 - a klasszika legfontosabb kamarazenei műfaja

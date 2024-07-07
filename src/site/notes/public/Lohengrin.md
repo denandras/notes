@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/lohengrin/"}
+{"dg-publish":true,"dg-path":"Lohengrin.md","permalink":"/lohengrin/"}
 ---
 
 #

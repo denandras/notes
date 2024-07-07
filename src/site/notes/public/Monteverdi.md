@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/monteverdi/"}
+{"dg-publish":true,"dg-path":"Monteverdi.md","permalink":"/monteverdi/"}
 ---
 
 # Claudio Monteverdi

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/nepzene/"}
+{"dg-publish":true,"dg-path":"népzene.md","permalink":"/nepzene/"}
 ---
 
 > *népzene az, amit sokan, sokáig énekelnek*

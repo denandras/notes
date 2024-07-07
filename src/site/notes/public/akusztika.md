@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/akusztika/"}
+{"dg-publish":true,"dg-path":"akusztika.md","permalink":"/akusztika/"}
 ---
 
 #

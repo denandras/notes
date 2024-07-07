@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/wojzeck/"}
+{"dg-publish":true,"dg-path":"Wojzeck.md","permalink":"/wojzeck/"}
 ---
 
 - <mark>1780-</mark>

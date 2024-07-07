@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/via-negativa/"}
+{"dg-publish":true,"dg-path":"via negativa.md","permalink":"/via-negativa/"}
 ---
 
 - Istent nem lehet leírni, mert mindennél tökéletesebb

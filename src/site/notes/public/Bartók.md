@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/bartok/"}
+{"dg-publish":true,"dg-path":"Bartók.md","permalink":"/bartok/"}
 ---
 
 [[public/zenetöri\|zenetöri]] & [[public/magyar zenetöri\|magyar zenetöri]] egyesítve

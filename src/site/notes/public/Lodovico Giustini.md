@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/lodovico-giustini/"}
+{"dg-publish":true,"dg-path":"Lodovico Giustini.md","permalink":"/lodovico-giustini/"}
 ---
 
 #

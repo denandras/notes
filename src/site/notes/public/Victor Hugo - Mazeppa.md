@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/victor-hugo-mazeppa/"}
+{"dg-publish":true,"dg-path":"Victor Hugo - Mazeppa.md","permalink":"/victor-hugo-mazeppa/"}
 ---
 
 [[public/Victor Hugo\|Victor Hugo]]

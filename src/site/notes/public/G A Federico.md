@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/g-a-federico/"}
+{"dg-publish":true,"dg-path":"G A Federico.md","permalink":"/g-a-federico/"}
 ---
 
 Gennaro Antonio Federico

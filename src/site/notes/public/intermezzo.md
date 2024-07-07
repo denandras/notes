@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/intermezzo/"}
+{"dg-publish":true,"dg-path":"intermezzo.md","permalink":"/intermezzo/"}
 ---
 
 közjáték

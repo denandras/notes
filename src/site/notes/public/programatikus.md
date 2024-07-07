@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/programatikus/"}
+{"dg-publish":true,"dg-path":"programatikus.md","permalink":"/programatikus/"}
 ---
 
 #

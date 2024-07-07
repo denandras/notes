@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/platon/"}
+{"dg-publish":true,"dg-path":"Platón.md","permalink":"/platon/"}
 ---
 
 #

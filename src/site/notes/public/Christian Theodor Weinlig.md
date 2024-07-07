@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/christian-theodor-weinlig/"}
+{"dg-publish":true,"dg-path":"Christian Theodor Weinlig.md","permalink":"/christian-theodor-weinlig/"}
 ---
 
 - a lipcsei Tamás templom kántora

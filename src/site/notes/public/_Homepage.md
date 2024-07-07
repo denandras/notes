@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"_Homepage.md","permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
 ## Ezen a Wikipedia-szerű oldalon megtalálható minden zeneakadémiai jegyzetem az alábbi témakörökben

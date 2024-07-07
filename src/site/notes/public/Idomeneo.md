@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/idomeneo/"}
+{"dg-publish":true,"dg-path":"Idomeneo.md","permalink":"/idomeneo/"}
 ---
 
 [[public/Mozart\|Mozart]]

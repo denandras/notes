@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/zenetoeri/"}
+{"dg-publish":true,"dg-path":"zenetöri.md","permalink":"/zenetoeri/"}
 ---
 
 - [Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)

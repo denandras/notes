@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/xiv-lajos/"}
+{"dg-publish":true,"dg-path":"XIV. Lajos.md","permalink":"/xiv-lajos/"}
 ---
 

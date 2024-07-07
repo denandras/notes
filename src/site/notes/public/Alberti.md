@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/alberti/"}
+{"dg-publish":true,"dg-path":"Alberti.md","permalink":"/alberti/"}
 ---
 
 # Domenico Alberti

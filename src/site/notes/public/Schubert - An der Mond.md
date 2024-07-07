@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/schubert-an-der-mond/"}
+{"dg-publish":true,"dg-path":"Schubert - An der Mond.md","permalink":"/schubert-an-der-mond/"}
 ---
 
 A Holdoz

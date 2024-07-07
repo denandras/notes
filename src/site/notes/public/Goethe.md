@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/goethe/"}
+{"dg-publish":true,"dg-path":"Goethe.md","permalink":"/goethe/"}
 ---
 
 <mark>1749-1832</mark>

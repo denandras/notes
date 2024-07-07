@@ -1,32 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/private/oliver-burkeman-az-elet-roevid/","title":"Az élet rövid"}
+{"dg-publish":true,"dg-path":"egyéb/Oliver Burkeman - Az élet rövid.md","permalink":"/egyeb/oliver-burkeman-az-elet-roevid/","title":"Az élet rövid"}
 ---
 
 [[Oliver Burkeman\|Oliver Burkeman]] - 4000 Weeks
-
-## Tartalom
-<a id="Tartalom"></a>
-- [[Említések::#Említések\|Említések::#Említések]]
-- [[Bevezetés Hosszú távon mindenki halott::#Bevezetés Hosszú távon mindenki halott\|Bevezetés Hosszú távon mindenki halott::#Bevezetés Hosszú távon mindenki halott]]
-- [[1. Ha úgy döntesz, hogy te döntesz::#1. Ha úgy döntesz, hogy te döntesz\|1. Ha úgy döntesz, hogy te döntesz::#1. Ha úgy döntesz, hogy te döntesz]]
-	- [[Az élet korlátai::#Az élet korlátai\|Az élet korlátai::#Az élet korlátai]]
-	- [[Hatékonyságcsapda::#Hatékonyságcsapda\|Hatékonyságcsapda::#Hatékonyságcsapda]]
-	- [[Szemtől szemben a végességgel::#Szemtől szemben a végességgel\|Szemtől szemben a végességgel::#Szemtől szemben a végességgel]]
-	- [[Halogatás magas fokon::#Halogatás magas fokon\|Halogatás magas fokon::#Halogatás magas fokon]]
-	- [[A görögdinnye-probléma::#A görögdinnye-probléma\|A görögdinnye-probléma::#A görögdinnye-probléma]]
-	- [[A belső megszakító::#A belső megszakító\|A belső megszakító::#A belső megszakító]]
-- [[2. Túl az irányításon::#2. Túl az irányításon\|2. Túl az irányításon::#2. Túl az irányításon]]
-	- [[Igazából soha nincs időnk::#Igazából soha nincs időnk\|Igazából soha nincs időnk::#Igazából soha nincs időnk]]
-	- [[Itt és most::#Itt és most\|Itt és most::#Itt és most]]
-	- [[Pihenés újratöltve::#Pihenés újratöltve\|Pihenés újratöltve::#Pihenés újratöltve]]
-	- [[A türelmetlenség spirálja::#A türelmetlenség spirálja\|A türelmetlenség spirálja::#A türelmetlenség spirálja]]
-	- [[Maradj a buszon::#Maradj a buszon\|Maradj a buszon::#Maradj a buszon]]
-	- [[A digitális nomádok magányos élete::#A digitális nomádok magányos élete\|A digitális nomádok magányos élete::#A digitális nomádok magányos élete]]
-	- [[Kozmikus jelentéktelenség terápia::#Kozmikus jelentéktelenség terápia\|Kozmikus jelentéktelenség terápia::#Kozmikus jelentéktelenség terápia]]
-	- [[Az emberiség nagy kórsága::#Az emberiség nagy kórsága\|Az emberiség nagy kórsága::#Az emberiség nagy kórsága]]
-- [[Túl a reményen::#Túl a reményen\|Túl a reményen::#Túl a reményen]]
-- [[Tíz módszer a véges emberi lét elfogadására::#Tíz módszer a véges emberi lét elfogadására\|Tíz módszer a véges emberi lét elfogadására::#Tíz módszer a véges emberi lét elfogadására]]
-
 ## Említések
 <a id="Említések"></a>
 - [ ] [[Edward T Hall\|Edward T Hall]]

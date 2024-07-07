@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szonatarondo/"}
+{"dg-publish":true,"dg-path":"szonátarondó.md","permalink":"/szonatarondo/"}
 ---
 
 Szonátarondó

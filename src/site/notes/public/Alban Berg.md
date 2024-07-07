@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/alban-berg/"}
+{"dg-publish":true,"dg-path":"Alban Berg.md","permalink":"/alban-berg/"}
 ---
 
 ![](https://www.mphil.de/fileadmin/Redaktion-mphil/Personen_diverse/Komponisten/Berg_Alban.jpg)

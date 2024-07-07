@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szonataforma/"}
+{"dg-publish":true,"dg-path":"szonátaforma.md","permalink":"/szonataforma/"}
 ---
 
 klasszikus szonáta

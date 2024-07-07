@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/nagy-frigyes/"}
+{"dg-publish":true,"dg-path":"Nagy Frigyes.md","permalink":"/nagy-frigyes/"}
 ---
 
 #

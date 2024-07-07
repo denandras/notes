@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/bruckner/"}
+{"dg-publish":true,"dg-path":"Bruckner.md","permalink":"/bruckner/"}
 ---
 
 ![](https://www.orchestralart.com/wp-content/uploads/2022/01/bruckner_anton-800x800.jpg)

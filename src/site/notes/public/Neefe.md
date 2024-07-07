@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/neefe/"}
+{"dg-publish":true,"dg-path":"Neefe.md","permalink":"/neefe/"}
 ---
 
 # Christian Gottlob Neefe

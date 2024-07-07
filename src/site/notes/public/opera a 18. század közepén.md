@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/opera-a-18-szazad-koezepen/"}
+{"dg-publish":true,"dg-path":"opera a 18. század közepén.md","permalink":"/opera-a-18-szazad-koezepen/"}
 ---
 
 #

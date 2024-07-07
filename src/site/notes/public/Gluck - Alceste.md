@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/gluck-alceste/"}
+{"dg-publish":true,"dg-path":"Gluck - Alceste.md","permalink":"/gluck-alceste/"}
 ---
 
 [[public/Gluck\|Gluck]]: Alkésztisz

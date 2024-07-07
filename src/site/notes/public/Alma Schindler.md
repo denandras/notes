@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/alma-schindler/"}
+{"dg-publish":true,"dg-path":"Alma Schindler.md","permalink":"/alma-schindler/"}
 ---
 
 - antiszemita

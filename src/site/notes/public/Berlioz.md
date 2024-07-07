@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/berlioz/"}
+{"dg-publish":true,"dg-path":"Berlioz.md","permalink":"/berlioz/"}
 ---
 
 <mark>1803-1869</mark>

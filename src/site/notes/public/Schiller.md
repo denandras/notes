@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/schiller/"}
+{"dg-publish":true,"dg-path":"Schiller.md","permalink":"/schiller/"}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/passacaglia/"}
+{"dg-publish":true,"dg-path":"passacaglia.md","permalink":"/passacaglia/"}
 ---
 
 #

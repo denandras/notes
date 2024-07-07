@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/mozart/"}
+{"dg-publish":true,"dg-path":"Mozart.md","permalink":"/mozart/"}
 ---
 
 #

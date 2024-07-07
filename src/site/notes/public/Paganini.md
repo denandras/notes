@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/paganini/"}
+{"dg-publish":true,"dg-path":"Paganini.md","permalink":"/paganini/"}
 ---
 
 # Nicolo Paganini

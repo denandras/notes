@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/trisztan-es-izolda/"}
+{"dg-publish":true,"dg-path":"Trisztán és Izolda.md","permalink":"/trisztan-es-izolda/"}
 ---
 
 ### Életrajzi indíttatás

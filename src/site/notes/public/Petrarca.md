@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/petrarca/"}
+{"dg-publish":true,"dg-path":"Petrarca.md","permalink":"/petrarca/"}
 ---
 
 # Francesco Petrarca

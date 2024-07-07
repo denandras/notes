@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/pszichoakusztika/"}
+{"dg-publish":true,"dg-path":"pszichoakusztika.md","permalink":"/pszichoakusztika/"}
 ---
 
 #

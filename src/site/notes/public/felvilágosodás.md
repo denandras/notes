@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/felvilagosodas/"}
+{"dg-publish":true,"dg-path":"felvilágosodás.md","permalink":"/felvilagosodas/"}
 ---
 
 [[Montesquieu\|Montesquieu]]

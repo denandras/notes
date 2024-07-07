@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/debussy/"}
+{"dg-publish":true,"dg-path":"Debussy.md","permalink":"/debussy/"}
 ---
 
 - <mark>1862-1918</mark>

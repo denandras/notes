@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/muveszettoertenet/"}
+{"dg-publish":true,"dg-path":"művészettörténet.md","permalink":"/muveszettoertenet/"}
 ---
 
 >  Körösvölgyi Zoltán

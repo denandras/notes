@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/romantika/"}
+{"dg-publish":true,"dg-path":"romantika.md","permalink":"/romantika/"}
 ---
 
 - ellentmondás az antikkal, hatás-ellenhatás

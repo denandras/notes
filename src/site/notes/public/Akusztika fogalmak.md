@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/akusztika-fogalmak/"}
+{"dg-publish":true,"dg-path":"Akusztika fogalmak.md","permalink":"/akusztika-fogalmak/"}
 ---
 
 afferens

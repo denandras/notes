@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/fortepiano/"}
+{"dg-publish":true,"dg-path":"fortepiano.md","permalink":"/fortepiano/"}
 ---
 
 [[public/Bartolomeo Cristofori\|Bartolomeo Cristofori]]

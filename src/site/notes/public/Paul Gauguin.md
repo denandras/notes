@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/paul-gauguin/"}
+{"dg-publish":true,"dg-path":"Paul Gauguin.md","permalink":"/paul-gauguin/"}
 ---
 
 

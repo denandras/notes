@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/glareanus/"}
+{"dg-publish":true,"dg-path":"Glareanus.md","permalink":"/glareanus/"}
 ---
 
 Svájci [[public/Humanizmus\|humanista]]

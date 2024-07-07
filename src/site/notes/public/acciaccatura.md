@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/acciaccatura/"}
+{"dg-publish":true,"dg-path":"acciaccatura.md","permalink":"/acciaccatura/"}
 ---
 
 > = szimultán mordent

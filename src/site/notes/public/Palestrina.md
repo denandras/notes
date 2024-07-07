@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/palestrina/"}
+{"dg-publish":true,"dg-path":"Palestrina.md","permalink":"/palestrina/"}
 ---
 
 # Giovanni Pierluigi da Palestrina

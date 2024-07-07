@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/muencheni-szonatak/"}
+{"dg-publish":true,"dg-path":"Müncheni szonáták.md","permalink":"/muencheni-szonatak/"}
 ---
 
 #

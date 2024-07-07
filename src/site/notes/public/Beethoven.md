@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/beethoven/"}
+{"dg-publish":true,"dg-path":"Beethoven.md","permalink":"/beethoven/"}
 ---
 
 ![](https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/collection/collection-beethoven-169.jpg)

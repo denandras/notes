@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/carl-czerny/"}
+{"dg-publish":true,"dg-path":"Carl Czerny.md","permalink":"/carl-czerny/"}
 ---
 
 

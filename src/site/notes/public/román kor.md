@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/roman-kor/"}
+{"dg-publish":true,"dg-path":"román kor.md","permalink":"/roman-kor/"}
 ---
 
 ### Preromán kor (500-1000)

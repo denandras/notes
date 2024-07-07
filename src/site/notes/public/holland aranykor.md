@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/holland-aranykor/"}
+{"dg-publish":true,"dg-path":"holland aranykor.md","permalink":"/holland-aranykor/"}
 ---
 
 ## Kor

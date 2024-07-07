@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/sinfonia/"}
+{"dg-publish":true,"dg-path":"sinfonia.md","permalink":"/sinfonia/"}
 ---
 
 nápolyi opera nyitánya

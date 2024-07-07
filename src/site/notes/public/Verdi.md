@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/verdi/"}
+{"dg-publish":true,"dg-path":"Verdi.md","permalink":"/verdi/"}
 ---
 
 - Milanoi Conservatoirebe nem vették fel

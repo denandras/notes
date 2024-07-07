@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/girolamo-frescobaldi/"}
+{"dg-publish":true,"dg-path":"Girolamo Frescobaldi.md","permalink":"/girolamo-frescobaldi/"}
 ---
 
 - elsősorban hangszeres zenéje miatt vált ismertté

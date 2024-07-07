@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/periodus/"}
+{"dg-publish":true,"dg-path":"periódus.md","permalink":"/periodus/"}
 ---
 
 #

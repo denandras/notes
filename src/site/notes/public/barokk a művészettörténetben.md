@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/barokk-a-muveszettoertenetben/"}
+{"dg-publish":true,"dg-path":"barokk a művészettörténetben.md","permalink":"/barokk-a-muveszettoertenetben/"}
 ---
 
 - kifejezés: olasz/portugál

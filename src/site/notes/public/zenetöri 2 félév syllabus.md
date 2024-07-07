@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/zenetoeri-2-felev-syllabus/"}
+{"dg-publish":true,"dg-path":"zenetöri 2 félév syllabus.md","permalink":"/zenetoeri-2-felev-syllabus/"}
 ---
 
 1. BAROKK ZENE?

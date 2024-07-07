@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/uj-utak/"}
+{"dg-publish":true,"dg-path":"új utak.md","permalink":"/uj-utak/"}
 ---
 
 - a látásmód megváltozása

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/oskor/"}
+{"dg-publish":true,"dg-path":"őskor.md","permalink":"/oskor/"}
 ---
 
 #

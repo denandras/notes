@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/pierre-alexandre-monsigny/"}
+{"dg-publish":true,"dg-path":"Pierre-Alexandre Monsigny.md","permalink":"/pierre-alexandre-monsigny/"}
 ---
 
 

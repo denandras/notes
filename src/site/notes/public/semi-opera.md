@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/semi-opera/"}
+{"dg-publish":true,"dg-path":"semi-opera.md","permalink":"/semi-opera/"}
 ---
 
 = drammatick opera

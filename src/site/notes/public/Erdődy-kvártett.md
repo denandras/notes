@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/erdody-kvartett/"}
+{"dg-publish":true,"dg-path":"Erdődy-kvártett.md","permalink":"/erdody-kvartett/"}
 ---
 
 [[public/Haydn\|Haydn]]

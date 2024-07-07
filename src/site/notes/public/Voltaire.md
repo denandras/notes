@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/voltaire/"}
+{"dg-publish":true,"dg-path":"Voltaire.md","permalink":"/voltaire/"}
 ---
 

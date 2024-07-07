@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/giulio-caccini/"}
+{"dg-publish":true,"dg-path":"Giulio Caccini.md","permalink":"/giulio-caccini/"}
 ---
 
 - -1618

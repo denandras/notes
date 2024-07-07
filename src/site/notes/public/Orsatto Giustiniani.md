@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/orsatto-giustiniani/"}
+{"dg-publish":true,"dg-path":"Orsatto Giustiniani.md","permalink":"/orsatto-giustiniani/"}
 ---
 
 #

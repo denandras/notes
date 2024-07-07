@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/stravinsky/"}
+{"dg-publish":true,"dg-path":"Stravinsky.md","permalink":"/stravinsky/"}
 ---
 
 - 1882 június 5, Oranienbaum (Szentpétervártól nem messze)

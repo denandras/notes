@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/rokoko/"}
+{"dg-publish":true,"dg-path":"rokokó.md","permalink":"/rokoko/"}
 ---
 
 # A zenében
