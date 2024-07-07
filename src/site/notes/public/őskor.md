@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"őskor.md","permalink":"/oskor/"}
 ---
 
-#
 - a legfontosabb szó a *valószínűsíthetően*
 	- sokminden mostanában derül ki
 	- Stonehenge - *és ezt így mégis hogyan?*
@@ -79,9 +78,3 @@
 
 ---
 [^5]: affordancia = használhatóság
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/oskor&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"pszichoakusztika.md","permalink":"/pszichoakusztika/"}
 ---
 
-#
-
 - a hangok pszichológiája
 - a hangok objektivitása (tudomány relatív objektivitása)
 	- axiómarendszerek (Gödel szerint lehet olyat mondani, ami nem tudjuk, hogy igaz-e)
@@ -113,11 +111,3 @@
 - hangteljesítmény
 - hangintezitás
 - hangosság
-
-
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/pszichoakusztika&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

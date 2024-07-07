@@ -2,26 +2,11 @@
 {"dg-publish":true,"dg-path":"posztmodern.md","permalink":"/posztmodern/"}
 ---
 
-#
 > [[P Sloterdijk\|P Sloterdijk]]: *"Aki szédül, az nincs informálva"*
 > (de nem mindenki szeret szédülni)
 
 > - [[public/Kovács Zoltán\|Kovács Zoltán]], bölcsész
 > - esszé, vagy jelenléti jegykérés
-
-# Tartalom
-<a id="Tartalom"></a>
-- [[Említések::#Említések\|Említések::#Említések]]
-- [[Fogalma::#Fogalma\|Fogalma::#Fogalma]]
-- [[Modernitás::#Modernitás\|Modernitás::#Modernitás]]
-	- [[Későmodernitás, 20. sz. második fele::#Későmodernitás, 20. sz. második fele\|Későmodernitás, 20. sz. második fele::#Későmodernitás, 20. sz. második fele]]
-- [[Posztmodern::#Posztmodern\|Posztmodern::#Posztmodern]]
-- [[Kultúra::#Kultúra\|Kultúra::#Kultúra]]
-- [[Globalizáció::#Globalizáció\|Globalizáció::#Globalizáció]]
-- [[Filozófia::#Filozófia\|Filozófia::#Filozófia]]
-- [[Művészet::#Művészet\|Művészet::#Művészet]]
-- [[Posztmodern film::#Posztmodern film\|Posztmodern film::#Posztmodern film]]
-	- [[Film ajánlások::#Film ajánlások\|Film ajánlások::#Film ajánlások]]
 ### Említések
 <a id="Említések"></a>
 - [ ] [[P Sloterdijk\|P Sloterdijk]] - filozófus
@@ -577,7 +562,7 @@
 
 #### Film ajánlások
 <a id="Film ajánlások"></a>
-<img src="https://notes.andrasdenes.com/assets/img/K%C3%A9s%C5%91%20modern%20m%C5%B1v%C3%A9szfilmek.jpg" width="100%">
+<img src="https://notes.andrasdenes.com/assets/img/K%C3%A9s%C5%91%20modern%20m%C5%B1v%C3%A9szfilmek.jpg" width="100%"> #később 
 
 - [[Huszárik - Elégia\|Huszárik - Elégia]], igazi avantgárd
 - [[Huszárik - Szindbád\|Huszárik - Szindbád]]
@@ -619,8 +604,3 @@
 		- tömegek nem hallgatnak már [[public/Bach\|Bach]]ot
 		- a barokkban áll az idő, "rend van" (vallásos központja van a világban)
 			- dinamizmusban élő világban *miért* vet fel ilyet?
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/posztmodern&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

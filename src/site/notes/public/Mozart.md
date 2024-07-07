@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"Mozart.md","permalink":"/mozart/"}
 ---
 
-#
-
 Wolfgang Amadeus Mozart
 
 ![](https://st4.depositphotos.com/13128258/20871/v/600/depositphotos_208715060-stock-illustration-wolfgang-amadeus-mozart-great-composer.jpg)
@@ -54,9 +52,3 @@ Wolfgang Amadeus Mozart
 
 ---
 [^]: [[9. Mozart és a Singspiel.pdf\|9. Mozart és a Singspiel.pdf]]
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/mozart&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

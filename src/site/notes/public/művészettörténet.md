@@ -2,15 +2,14 @@
 {"dg-publish":true,"dg-path":"művészettörténet.md","permalink":"/muveszettoertenet/"}
 ---
 
->  Körösvölgyi Zoltán
+>  [[Körösvölgyi Zoltán\|Körösvölgyi Zoltán]]
 
 > A műalkotás mindenképpen kapcsolódik saját korához, feltesz kérdéseket. A művész felfedező, előörs egy olyan fajta érzékenység miatt, ami a többi emberben nincs meg. (eml. [Loch Gergely PhD](https://apps.lfze.hu/netfolder/PublicNet/Doktori%20dolgozatok/loch_gergely/tezis_hu.pdf); [Vadászi Zoltán - "1/0"](https://www.zoltanvadaszi.com/1-0))
 
 ## Aktuális ajánlott művelődnivaló
 - 2B kiállítás
 - Mondva csinált dolgok
-- Nagy Ella
-- Műcsarnok: [[Francoise Gilot\|Francoise Gilot]]
+- [[Nagy Ella\|Nagy Ella]]
 - [K11](https://www.k11.hu/k11-labor/aktualis-kiallitas/)
 - [Finn filmnapok](https://port.hu/esemeny/fesztival/finn-filmnapok-2024/event-6043030)
 - [Vera Molnar](https://www.ludwigmuseum.hu/program/kiallitasmegnyito-la-recherche-de-vera-molnar-vera-molnar-muvei-es-kortars-reflexiok)

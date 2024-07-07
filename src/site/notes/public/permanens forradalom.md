@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"permanens forradalom.md","permalink":"/permanens-forradalom/"}
 ---
 
-
 - milyen kiutak vannak a [[public/rokokó\|rokokó]]ból?
 	- [[public/klasszicizmus\|klasszicizmus]]
 		- mértéktartó ízlés
@@ -138,7 +137,3 @@
 	- [[Ravel\|Ravel]]
 	- [[Manuel de Falla\|Manuel de Falla]]
 	- [[Ottorino Respighi\|Ottorino Respighi]]
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/permanens-forradalom&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

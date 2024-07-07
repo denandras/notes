@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"opera comique.md","permalink":"/opera-comique/"}
 ---
 
-#
-
 [[Kroó György - A szabadító opera\|Kroó György - A szabadító opera]]
 
 > szélesebb nyilvánosság elé fordult (tehát a polgárok kiváltsága volt) (a vásári játékok művelése és befogadása persze elérhető volt bárki számára)
@@ -32,9 +30,3 @@
 
 - [[public/Rousseau\|Rousseau]]: [[public/Le Devin du village\|Le Devin du village]]
 - [[public/Antoine Dauvergne\|Antoine Dauvergne]]: [[public/Les Trosqueurs\|Les Trosqueurs]] (kevés szereplős darabok)
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/opera-comique&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-
