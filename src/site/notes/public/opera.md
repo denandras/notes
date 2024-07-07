@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/public/opera/"}
 ---
 
-#
-
 [[public/Humanizmus\|humanizmus]], [[public/semi-opera\|semi-opera]], [[public/opera buffa\|opera buffa]], [[public/opera seria\|opera seria]], udvari opera, velencei opera, [[public/monódikus stílus\|monódikus stílus]], [[public/Hyppolyte et Aricie\|Hyppolyte et Aricie]]
 __________________
 
@@ -100,11 +98,4 @@ __________________
 	- nagyobb zenekar
 	- nagyobb ária -> [[public/opera seria\|opera seria]] fontos eleme
 	- `1710:` London - 30 év munka, [[public/opera seria\|opera seria]]k
-	- - [[public/Antonio Vivaldi\|Antonio Vivaldi]] 40 opera seriaja
-
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/opera&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-
+	- [[public/Antonio Vivaldi\|Antonio Vivaldi]] 40 opera seriaja

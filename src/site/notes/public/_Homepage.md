@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/public/homepage/","tags":["gardenEntry"]}
 ---
 
-## Kötelező tárgyak
+## Ezen a Wikipedia-szerű oldalon megtalálható minden zeneakadémiai jegyzetem az alábbi témakörökben
+
+### Kötelező tárgyak
 
 - [[public/zenetöri\|zenetöri]]
 - [[public/népzene\|népzene]]
@@ -11,6 +13,10 @@
 - [[public/művészettörténet\|művészettörténet]]
 - [[művészet menedzsment\|művészet menedzsment]]
 
-## Szabválok
+### Szabválok
 
 - [[public/posztmodern\|posztmodern]] művészet és művészetelmélet
+
+> Ebben a tudástárban találhatók üres oldalak, amik a kapcsolódások miatt fontosak.
+
+> Ha elírást találtál vagy más jegyzettel egészítenéd ki az oldalt, [írj egy emailt](mailto:contact@andrasdenes.com)!

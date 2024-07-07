@@ -24,14 +24,14 @@
 > - [[public/zenetöri 2 félév összefoglalás\|zenetöri 2 félév összefoglalás]]
 
 1. [[public/A barokk zenéről általában\|A barokk zenéről általában]]
-2. [a barokk opera](opera)
+2. [[public/opera\|a barokk opera]]
 3. [[public/hangszeres zene a 17. században\|hangszeres zene a 17. században]]
 4. [[public/egyházi zene a 17. században\|egyházi zene a 17. században]]
 5. [[public/francia barokk\|francia barokk]]
 6. [[public/angol zenei kultúra\|angol zenei kultúra]]
 7. [[public/szonáta\|szonáta]]
 8. [[public/hangszeres concerto\|hangszeres concerto]]
-9. [Johann Sebastian Bach](Bach)
+9. [[public/Bach\|Johann Sebastian Bach]]
 
 
 ## Harmadik félév - Klasszika (BP)

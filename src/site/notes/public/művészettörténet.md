@@ -14,7 +14,6 @@
 - [K11](https://www.k11.hu/k11-labor/aktualis-kiallitas/)
 - [Finn filmnapok](https://port.hu/esemeny/fesztival/finn-filmnapok-2024/event-6043030)
 - [Vera Molnar](https://www.ludwigmuseum.hu/program/kiallitasmegnyito-la-recherche-de-vera-molnar-vera-molnar-muvei-es-kortars-reflexiok)
-- 
 ## Ajánlott irodalom
 - [E H Gombrich - A művészet története](https://icedrive.net/s/Xg3iyzDfNxPC2V6vvBTkfYXXbTNz)
 - [Tatai Erzsébet - Művészettörténeti ismeretek](https://github.com/denandras/Zakjegyzet2/blob/66ad933ecfdfd4916f51e869a78642116812ac7e/_notes/_Files/f_m%C5%B1vt%C3%B6ri/Tatai-Erzsebet_M%C5%B1veszettorteneti-Ismeretek.pdf)
@@ -30,7 +29,7 @@
 - [[public/bizánc\|bizánc]]
 - [[public/román kor\|román kor]]
 - [[public/gótika\|gótika]]
-- [reneszánsz](https://notes.andrasdenes.com/reneszansz#A%20művészettörténetben) ([->](reneszánsz))
+- [[public/reneszánsz#A művészettörténetben\|reneszánsz]]
 
 ### Második félév
 
