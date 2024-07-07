@@ -160,7 +160,7 @@
 
 > posztmodern az, aki azt állítja, hogy együtt létezik sokminden (nem minden törvény együttműködő egymással, de ettől még létezhet minden együtt. pl. Isten létezik, de a tudomány is jó)
 
-### [[modernitás\|modernitás]]
+### [[public/modernitás\|modernitás]]
 
 ### Posztmodern
 <a id="Posztmodern"></a>
