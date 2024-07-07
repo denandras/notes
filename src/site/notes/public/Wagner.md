@@ -24,26 +24,27 @@
 
 ### Élete, operái
 
-- *A tündérek ([[Carlo Gozzi\|Carlo Gozzi]] nyomán)*
-- *Szerelmi tilalom ([[public/Shakespeare\|Shakespeare]] - [Szeget szeggel] nyomán)*
-<p style="text-align: right;">1839 -> <b>Párizs</b>, zenei látóhatára kiszélesedik</p>
-<p style="text-align: right;">[[public/Giacomo Meyerbeer\|Giacomo Meyerbeer]]től sokat tanult</p>
-- *Rienzi című darabja - (francia történelmi nagyopera sajátosságai)*
-- *A bolygó hollandi*
-- **[[public/Lohengrin\|Lohengrin]] - sztori**
-<p style="text-align: right;">siker -> <b>Drezdai Udvari</b> Színház karmestere</p>
-<p style="text-align: right;">forradalom, emigrál ([[public/Liszt\|Liszt]] támogatásával) Svájcba</p>
+- _A tündérek (Carlo Gozzi nyomán)_
+- _Szerelmi tilalom (Shakespeare - Szeget szeggel nyomán)_
+
+1839 -> **Párizs**, zenei látóhatára kiszélesedik
+Giacomo Meyerbeertől sokat tanult
+- _Rienzi című darabja - (francia történelmi nagyopera sajátosságai)_
+- _A bolygó hollandi_
+- **Lohengrin - sztori**
+siker -> **Drezdai Udvari** Színház karmestere
+forradalom, emigrál (Liszt támogatásával) Svájcba
 - új szüzsé: **germán mitológia**
-	- *A Nibelung gyűrűje* (zenedráma-tetralógia, **30 éven át** készült)
-		- *A Rajna kincse* ('69)
-		- *A valkűrök* ('70)
-		- *Siegfried* ('76)
-		- *Az istenek alkonya* ('76)
-<p style="text-align: right;">először <b>emigráns</b>, de II. Lajos pézbeli támogatása mellett amnesztiát kapott -> Svájc</p>
-- *Trisztán és Izolda*, *A Rajna kincse*, *A valkűrök* bemutatója (bajor főváros)
-<p style="text-align: right;">külön bayreuth-i színház (állami támogatással)</p>
-- *Parsifal* zenedrámája
-<p style="text-align: right;">egy év múlva Velencében meghalt</p>
+    - _A Nibelung gyűrűje_ (zenedráma-tetralógia, **30 éven át** készült)
+        - _A Rajna kincse_ ('69)
+        - _A valkűrök_ ('70)
+        - _Siegfried_ ('76)
+        - _Az istenek alkonya_ ('76)
+először **emigráns**, de II. Lajos pézbeli támogatása mellett amnesztiát kapott -> Svájc
+- _Trisztán és Izolda_, _A Rajna kincse_, _A valkűrök_ bemutatója (bajor főváros)
+külön bayreuth-i színház (állami támogatással)
+- _Parsifal_ zenedrámája
+egy év múlva Velencében meghalt
 
 ### Botrányai
 

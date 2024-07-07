@@ -4,7 +4,7 @@
 
 [[Pierre Gaveaux\|Pierre Gaveaux]] - Fidelio
 
-- [[public/Beethoven\|Beethoven]] - 
+- [[public/Beethoven\|Beethoven]] - Fidelio 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/fidelio/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -45,7 +45,7 @@
 </div></div>
 
 ---
-- 
+- Undine 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/undine/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -130,26 +130,27 @@
 
 ### Élete, operái
 
-- *A tündérek ([[Carlo Gozzi\|Carlo Gozzi]] nyomán)*
-- *Szerelmi tilalom ([[public/Shakespeare\|Shakespeare]] - [Szeget szeggel] nyomán)*
-<p style="text-align: right;">1839 -> <b>Párizs</b>, zenei látóhatára kiszélesedik</p>
-<p style="text-align: right;">[[public/Giacomo Meyerbeer\|Giacomo Meyerbeer]]től sokat tanult</p>
-- *Rienzi című darabja - (francia történelmi nagyopera sajátosságai)*
-- *A bolygó hollandi*
-- **[[public/Lohengrin\|Lohengrin]] - sztori**
-<p style="text-align: right;">siker -> <b>Drezdai Udvari</b> Színház karmestere</p>
-<p style="text-align: right;">forradalom, emigrál ([[public/Liszt\|Liszt]] támogatásával) Svájcba</p>
+- _A tündérek (Carlo Gozzi nyomán)_
+- _Szerelmi tilalom (Shakespeare - Szeget szeggel nyomán)_
+
+1839 -> **Párizs**, zenei látóhatára kiszélesedik
+Giacomo Meyerbeertől sokat tanult
+- _Rienzi című darabja - (francia történelmi nagyopera sajátosságai)_
+- _A bolygó hollandi_
+- **Lohengrin - sztori**
+siker -> **Drezdai Udvari** Színház karmestere
+forradalom, emigrál (Liszt támogatásával) Svájcba
 - új szüzsé: **germán mitológia**
-	- *A Nibelung gyűrűje* (zenedráma-tetralógia, **30 éven át** készült)
-		- *A Rajna kincse* ('69)
-		- *A valkűrök* ('70)
-		- *Siegfried* ('76)
-		- *Az istenek alkonya* ('76)
-<p style="text-align: right;">először <b>emigráns</b>, de II. Lajos pézbeli támogatása mellett amnesztiát kapott -> Svájc</p>
-- *Trisztán és Izolda*, *A Rajna kincse*, *A valkűrök* bemutatója (bajor főváros)
-<p style="text-align: right;">külön bayreuth-i színház (állami támogatással)</p>
-- *Parsifal* zenedrámája
-<p style="text-align: right;">egy év múlva Velencében meghalt</p>
+    - _A Nibelung gyűrűje_ (zenedráma-tetralógia, **30 éven át** készült)
+        - _A Rajna kincse_ ('69)
+        - _A valkűrök_ ('70)
+        - _Siegfried_ ('76)
+        - _Az istenek alkonya_ ('76)
+először **emigráns**, de II. Lajos pézbeli támogatása mellett amnesztiát kapott -> Svájc
+- _Trisztán és Izolda_, _A Rajna kincse_, _A valkűrök_ bemutatója (bajor főváros)
+külön bayreuth-i színház (állami támogatással)
+- _Parsifal_ zenedrámája
+egy év múlva Velencében meghalt
 
 ### Botrányai
 
