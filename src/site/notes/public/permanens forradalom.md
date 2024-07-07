@@ -24,7 +24,7 @@
 	- visszanyúlás [[John Constable\|John Constable]] művészetéhez
 	- barbizoni iskola
 		- Párizs város limitáló hatása, kiköltöznek művészek Barbizonba
-		- [[Jean-Francois Millet\|Jean-Francois Millet]]
+		- [[public/Jean-Francois Millet\|Jean-Francois Millet]]
 			- semmi eddigi extra, *Kalászszedők*
 			- *Angelus* - a társadalom 90 százalékának élete
 		- [[Gustave Courbet\|Gustave Courbet]]
