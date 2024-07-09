@@ -14,7 +14,7 @@
 	- Két kép
 		- Virágzás
 		- A falu tánca
-	- [[Paul Sacher\|Paul Sacher]] svájci karmester/kortárszenei impresszárió a megrendelő
+	- [[public/Paul Sacher\|Paul Sacher]] svájci karmester/kortárszenei impresszárió a megrendelő
 		- közepes karmester
 		- jó műsorpolitika, félprofi vonószenekar
 			- az ő jubileumukra rendelte meg
@@ -26,7 +26,7 @@
 				- [[public/Stravinsky\|Stravinsky]]
 				- [[Kurtág György\|Kurtág György]] és [[Eötvös Péter\|Eötvös Péter]] is elküldi havonta a kéziratokat
 				- [[Ligeti György\|Ligeti György]]
-		- 1936 június 23: [[Paul Sacher\|Paul Sacher]] [[public/Bartók\|Bartók]]hoz írott levele
+		- 1936 június 23: [[public/Paul Sacher\|Paul Sacher]] [[public/Bartók\|Bartók]]hoz írott levele
 			- [[Beck\|Beck]], [[Burghardt\|Burghardt]], [[Honegger\|Honegger]] is írnak
 			- 30 vonósjátékosból álló vonóstörzs
 			- lehetőség zongorára, *continuóra* is
@@ -34,7 +34,7 @@
 			- az ő tulajdona marad (bárkinek el/odaadhatja, nincs korlátozás)
 			- "technikailag ne legyen túlságosan nehéz, szeretném átvenni vendégkoncertjeink műsorára is"
 			- (hallotta az egyik vonósnégyest, nagyon tetszett neki, de "nehézségei tetemesek")
-		- június 27: [[public/Bartók\|Bartók]] [[Paul Sacher\|Paul Sacher]]nek
+		- június 27: [[public/Bartók\|Bartók]] [[public/Paul Sacher\|Paul Sacher]]nek
 			- szívesen vállalja, a feltételekkel egyetért
 			- húros és ütőhangszerekre írt zenekar
 				- zongora, cseleszta, hárfa, xilofon, ütő
@@ -45,7 +45,7 @@
 					- végülis soha sem írok kifejezetten azért, hogy nehezen eljátszható legyen
 			- Frank helyett Svéd koronában kéri a pénzt
 			- lepecsételve guminyomdával, amit fia, [[Bartók Péter\|Bartók Péter]] készített
-		- június 30: [[Paul Sacher\|Paul Sacher]] válasza
+		- június 30: [[public/Paul Sacher\|Paul Sacher]] válasza
 			- örülnek
 			- semmiféle nehézséget nem okoz a zongora és cseleszta, az ütőhangszeresek kérdése nehezebb, mert a városi zenekarnak 2 ütőse van
 		- augusztus 21: titkár [[public/Bartók\|Bartók]]nak

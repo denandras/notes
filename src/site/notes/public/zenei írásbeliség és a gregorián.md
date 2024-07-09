@@ -3,16 +3,16 @@
 ---
 
 -   nyitógondolatok
-    -   függöny metafora
+    -   függöny metafora, az írásbeliség megjelenése elhúzza a függönyt
     -   modern kotta tartalmaz hangmagasságot és hosszt - középkori kotta épp ezeket nem
     -   a kottaírás kevesek kiváltsága, a zenészek egyébként is fejből énekelnek
--   `4.  század:` tekercsek helyett könyvek
+-   4.  század: tekercsek helyett könyvek
     -   nagy változás, a zene továbbadása
     -   drága kódexek (leginkább állatbőrből, később papírból)
     -   az egyháznak könyvkészítési monopóliuma volt (-13. sz.)
 -   [[Boethius\|Boethius]]: ABC
 -   *neumák* (helyenként más)
-    -   `10.  századi` kódex (St. Gallen) (Hartker antifóna)
+    -   10.  századi kódex (St. Gallen) (Hartker antifóna)
     -   sokáig nem nagyon használják
 -   600 körül [[Gergely pápa\|Gergely pápa]] összegyűjti az egyházi énekeket
 -   meghatározó írásbeliség
@@ -20,29 +20,29 @@
 -   mise felépítése (rítus, a mise lényege Jézus utolsó vacsorájának újraátélése)
     -   proprium és ordinarium
     -   törzsanyag + regionális darabok + lokális tételek
-    -   `7.  sz.` - össze akarták fogni Európát, -> egységes liturgia
+    -   7.  sz. - össze akarták fogni Európát, -> egységes liturgia
     -   helyenként változóak a proprium-tételek (szentek)
-    -   `8.  sz.` - teljes énekrepertoár, de a régi műfajok gyarapításával
+    -   8.  sz. - teljes énekrepertoár, de a régi műfajok gyarapításával
         -   nagyobb repertoár
         -   új műfajok (tropus-, sequentiaköltészet + miseordinárium)
 -   zsolozsma - kolostorban élő szerzetesek imája (150 zsoltár hetente)
--   `9.  századi` *szöveges kotta*
+-   9.  századi *szöveges kotta*
 -   [[Arezzói Guido\|Arezzói Guido]] (1000 környékén)
     -   guidoi kéz, ujjpercekre bontva, szolmizálva
         -   hexachordokból áll
     -   "Út queant laxis" kezdetű himnusz [[Szent János\|Szent János]] tiszteletére
--   `12-13. századi` kódexek: *hangok a térben elhelyezve* - Franciaország (Párizs a kultúra központja)
+-   12-13. századi kódexek: *hangok a térben elhelyezve* - Franciaország (Párizs a kultúra központja)
     -   francia kvadrátnotáció
     -   több hang összekötve: ligatúrák - legato = "kötött"
 -   hexachordokra alapul
 -   addig is jelen volt a többszólamúság, amíg valaki le nem írta
 -   improvizatív gyakorlat
     -   kvárttávolságban mozgó szólamok - improvizatív, mert ismerték az eredetit
-    -   (gregorián és jazz - önálló gondolat)
+    -   (gregorián és jazz közötti kapcsolat?)
     -   az impro nem a semmiből jön
 -   kidíszítés, adalék, remix
     -   vox principalis, vox organalis - régi dallamhoz még egy-két szólam (pirossal a fő)
-    -   organum = sinfonia
+    -   [[organum\|organum]] = [[public/sinfonia\|sinfonia]]
     -   az adalék a 19. századig normális dolog
     -   remix akkori fajtái
         -   prosulálás: csak szöveg
@@ -59,7 +59,7 @@
                 -   generációk építenek egymásra - katedrálisok
                 -   végén: _"resurrexi"_ úgyis tudják
                 -   az egész egy nagy puzzle:[[ Winchester-tropárium\| Winchester-tropárium]]ban lévő neumás plusz szólamok
--   sinfonia/[organum](https://www.wikiwand.com/en/Organum): másik szólam
+-   sinfonia/[[organum\|organum]] másik szólam #később 
 -   meghatározó írásbeliség
     -   dallam íve, rezgés = szám, kisgyerekek, sok metafora
 -   modusok: a Karoling-kori szerzetesek kidolgozták a hangnemek rendszerét

@@ -12,8 +12,8 @@
     -   -1492
     -   -1517
 -   zenei középkor
-    -   `4.  sz.` - zsoltárok
-    -   `9.  sz.` - kottaírás (hosszú, lassú folyamat)
+    -   4.  sz. - zsoltárok
+    -   9.  sz. - kottaírás (hosszú, lassú folyamat)
         -   széthúzódik a függöny egy folyamatban lévő darab közben
     -   1400 - újjászületik a zene
 
@@ -22,7 +22,7 @@
     -   gondolkodásformák
     -   zenei jelenségek
 -   (mindig is volt populáris zene)
--   `13.  sz.-i,` zenéről alkotott elképzelés
+-   13.  sz.-i, zenéről alkotott elképzelés
     1.  Musica mundana (a világmindenség (a szférák) zenéje
         -   égi jelenségek, évszakok
         -   a bolygók mozgása
@@ -61,7 +61,7 @@
     -   [[public/Petrarca\|Petrarca]] (14. sz.)
         -   két korszak: antikvitás + újkor (antiqua + nova)
         -   Róma bukása utáni évtizedek: sötét kor
-    -   [[Leonardo Bruni Aretino\|Leonardo Bruni Aretino]] első történész (1370-1444)
+    -   [[public/Leonardo Bruni Aretino\|Leonardo Bruni Aretino]] első történész (1370-1444)
         -   Firenze népének története
         -   három korszak
             -   antikvitás (ideális kultúra)
