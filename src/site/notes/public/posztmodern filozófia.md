@@ -3,7 +3,7 @@
 ---
 
 ### Posztmodern filozófia
-<a id="Filozófia"></a>
+
 - különböző stílusú filozófiák
 - dekonstruálja a metafizikát
 - végeredmény: detotalizál, dekonstruál, szkepszis

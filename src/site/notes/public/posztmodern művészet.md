@@ -3,7 +3,7 @@
 ---
 
 ### Posztmodern művészet
-<a id="Művészet"></a>
+
 - high art - low art
 	- osztályozó jelleg
 	- a posztmodern összemos

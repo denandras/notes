@@ -4,7 +4,6 @@
 
 ![](https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/e3/ec/da/e3ecdab5-438d-a8f9-f61d-d8d1b9d85392/mzl.mwehucyv.png/256x256bb.jpg)
 ## Negyedik félév - Romantika (BP)
-<a id="Negyedikfélév"></a>
 
 > <mark>1833-1897</mark>
 > Johannes Brahms
@@ -49,6 +48,7 @@
 [^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
 
 ## Ötödik félév - (KS)
+
 > Hiába [[public/abszolút zene\|abszolút a zene]], attól még van mondanivalója.
 
 > Az összes zeneszerző kora-gyermekkorától csodagyerek, és többnyire jogot tanulnak.
@@ -61,10 +61,10 @@
 
 > [[Susan McClary\|Susan McClary]] feminista zenetudós (a [[public/Beethoven\|Beethoven]] 9 második tétele nemi erőszak, a [[public/Brahms\|Brahms]] 3. szimfónia első tétele férfi és nő)
 ### Háttere
-<a id="Ötödikfélév"></a><mark>1833-1897</mark>^1
+<mark>1833-1897</mark>^1
 - német zenetöri két részre oszlik
 	- **Új német iskola** ([[public/Berlioz\|Berlioz]], [[public/Wagner\|Wagner]], [[public/Liszt\|Liszt]])
-	- **Konzervatív ág** ([[public/Brahms\|Brahms]] és a [többiek](https://notes.andrasdenes.com/brahms#kiáltvány)) - elfordulnak a programzenétől
+	- **Konzervatív ág** ([[public/Brahms\|Brahms]] és a [[public/Brahms#^c8d089\|többiek]]) - elfordulnak a programzenétől
 - korrajz: gyertyák és lovak
 	- talán ő az első nagy, aki beleszületik ebbe, és budapesti villamosokat látva hal meg
 	- emberiség: haladunk (félelmek alakulnak ki; bármely pillanatban meghalhatunk)
@@ -98,7 +98,9 @@
 		- C-dúr szonáta (op. 1)
 		- [[public/Schumann\|Schumann]] feláll, kimegy, majd visszajön feleségével és kéri, játssza el még egyszer az első tételt
 		- *"végre eljött, akit vártunk"-momentum*
-- 1860 - kiáltvány a programzene ellen <a id="kiáltvány"></a>
+- 1860 - kiáltvány a programzene ellen
+{ #c8d089}
+
 	- [[public/Brahms\|Brahms]], [[Joseph Joachim\|Joseph Joachim]], [[Julius Otto Grimm\|Julius Otto Grimm]], [[Bernhard Scholz\|Bernhard Scholz]]
 	- nem mondják ki [[public/Liszt\|Liszt]] nevét, de ő ellene szól a dokumentum
 	- "a zene önmagában érték, nem kell, hogy valamiről szóljon"

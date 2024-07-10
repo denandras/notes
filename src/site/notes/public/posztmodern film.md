@@ -4,7 +4,7 @@
 
 
 ### Posztmodern film
-<a id="Posztmodern film"></a>
+
 - egyszerre van jelen a posztmodern film a (kevés) modernnel és a szórakoztatóval
 	- a modern nem ironikus, csak ha elutasít egy elutasítható rendszert
 	- [[A szomorúság háromszöge\|A szomorúság háromszöge]]

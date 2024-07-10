@@ -8,7 +8,7 @@
 > - [[public/Kovács Zoltán\|Kovács Zoltán]], bölcsész
 > - esszé, vagy jelenléti jegykérés
 ### Említések
-<a id="Említések"></a>
+
 - [ ] [[P Sloterdijk\|P Sloterdijk]] - filozófus
 - [ ] [[Francis Bacon\|Francis Bacon]] - filozófus
 - [ ] [[public/René Descartes\|René Descartes]], [[public/Rousseau\|Rousseau]], [[public/Diderot\|Diderot]] - filozófusok
@@ -138,7 +138,7 @@
 	- [ ] [[Forrest Gump - 1994\|Forrest Gump - 1994]]
 	- [ ] [[Nomádok földje - 2020\|Nomádok földje - 2020]]
 ### Fogalma
-<a id="Fogalma"></a>
+
 - egy olyan korszakjelölő fogalom, amely egy másik korszakhoz viszonyítja magát
 - nem modernellenes, hanem kritikával viszonyul a modernitáshoz
 - *korszak*: postmodernity, kb. 1960-
@@ -163,7 +163,7 @@
 ### [[public/modernitás\|modernitás]]
 
 ### Posztmodern
-<a id="Posztmodern"></a>
+
 - filozófiai érveink vannak arra, hogy a pluraliznusban lehetetlen dönteni
 - csak ott lehetséges, ahol demokrácia van
 	- a vitahelyzetet nem zárjuk le erőszakkal
@@ -232,7 +232,7 @@
 		- abortuszellenes mozgalom
 
 ### Kultúra
-<a id="Kultúra"></a>
+
 - iskolázottság
 	- nagyon egyszerű ember nem posztmodern
 	- türelmesebbé és nyitottabbá tesz
@@ -245,7 +245,7 @@
 	- manipulálás: a közönség irányít, élő adás egyénektől (addigi riporterek, stb)
 
 ### Globalizáció
-<a id="Globalizáció"></a>
+
 - konzerválja az egyenlőtlenséget és elnyomást
 - a kultúra teljesen elérhetővé vált
 - túláradás

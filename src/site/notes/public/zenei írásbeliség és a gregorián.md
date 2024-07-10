@@ -10,7 +10,7 @@
     -   nagy változás, a zene továbbadása
     -   drága kódexek (leginkább állatbőrből, később papírból)
     -   az egyháznak könyvkészítési monopóliuma volt (-13. sz.)
--   [[Boethius\|Boethius]]: ABC
+-   [[public/Boethius\|Boethius]]: ABC
 -   *neumák* (helyenként más)
     -   10.  századi kódex (St. Gallen) (Hartker antifóna)
     -   sokáig nem nagyon használják
@@ -42,7 +42,7 @@
     -   az impro nem a semmiből jön
 -   kidíszítés, adalék, remix
     -   vox principalis, vox organalis - régi dallamhoz még egy-két szólam (pirossal a fő)
-    -   [[organum\|organum]] = [[public/sinfonia\|sinfonia]]
+    -   [[public/organum\|organum]] = [[public/sinfonia\|sinfonia]]
     -   az adalék a 19. századig normális dolog
     -   remix akkori fajtái
         -   prosulálás: csak szöveg
@@ -59,7 +59,7 @@
                 -   generációk építenek egymásra - katedrálisok
                 -   végén: _"resurrexi"_ úgyis tudják
                 -   az egész egy nagy puzzle:[[ Winchester-tropárium\| Winchester-tropárium]]ban lévő neumás plusz szólamok
--   sinfonia/[[organum\|organum]] másik szólam #később 
+-   sinfonia/[[public/organum\|organum]] másik szólam #később 
 -   meghatározó írásbeliség
     -   dallam íve, rezgés = szám, kisgyerekek, sok metafora
 -   modusok: a Karoling-kori szerzetesek kidolgozták a hangnemek rendszerét

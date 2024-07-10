@@ -5,7 +5,6 @@
 ![](https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2017/10/Richard-Wagner.jpg)
 
 ## Negyedik félév - Romantika (BP)
-<a id="Negyedikfélév"></a>
 
 > az alábbi oldalt javasolt **<mark>asztali nézetben</mark>** megtekinteni
 ### Karrierének kezdete
@@ -70,7 +69,6 @@ egy év múlva Velencében meghalt
 	- *Parsifal*
 
 ## Ötödik félév - (KS)
-<a id="Ötödikfélév"></a>
 
 <mark>1813-1883</mark>
 

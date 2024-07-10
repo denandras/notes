@@ -22,7 +22,7 @@
     -   gondolkodásformák
     -   zenei jelenségek
 -   (mindig is volt populáris zene)
--   13.  sz.-i, zenéről alkotott elképzelés
+-   13.  sz.-i, zenéről alkotott elképzelés ([[public/De institutione musica\|De institutione musica]])
     1.  Musica mundana (a világmindenség (a szférák) zenéje
         -   égi jelenségek, évszakok
         -   a bolygók mozgása

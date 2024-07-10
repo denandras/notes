@@ -111,7 +111,6 @@
 
 
 ## Negyedik félév - Romantika (BP)
-<a id="Negyedikfélév"></a>
 
 > az alábbi oldalt javasolt **<mark>asztali nézetben</mark>** megtekinteni
 ### Karrierének kezdete

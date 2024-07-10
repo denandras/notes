@@ -48,7 +48,7 @@
 > egy zenében is több van, mint csak a hangjegyek
 
 ### Az őskorból az ókorba
-<a id="Az őskorból az ókorba"></a>
+
 > tele van a Föld talányokkal - pl. 19. századi élmények és fotók a piramisokkal
 
 > a designban megtalálni az affordanciát[^5]

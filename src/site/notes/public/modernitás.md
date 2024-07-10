@@ -3,7 +3,7 @@
 ---
 
 ### Modernitás
-<a id="Modernitás"></a>
+
 - 1620-1960
 - [[Francis Bacon\|Francis Bacon]]: Novum Organum
 	- 1620: az életet tudományos kutatásokkal, matematikával meg tudjuk érteni
@@ -39,7 +39,7 @@
 	- az absztrakt geometrikusok utálják a velük párhuzamosan jelen lévő szürrealistákat
 
 #### Későmodernitás, 20. sz. második fele
-<a id="Későmodernitás, 20. sz. második fele"></a>
+
 - irodalomban
 - szkepszis
 - Sigmund [[Sigmund Freud\|Sigmund Freud]] pszichoanalízis-elmélete

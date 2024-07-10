@@ -54,7 +54,7 @@
 ## Negyedik félév - Romantika (BP)
 
 1. A [[public/romantika fogalma\|romantika fogalma]]
-2. A [[public/romantikus dal\|romantikus dal]], [[public/Schubert\|Schubert]], a [[public/ballada\|ballada]], [Brahms](https://notes.andrasdenes.com/brahms#Negyedikfélév)[^1], [[public/dalciklus\|dalciklus]]
+2. A [[public/romantikus dal\|romantikus dal]], [[public/Schubert\|Schubert]], a [[public/ballada\|ballada]], [[public/Brahms#Negyedik félév - Romantika (BP)\|Brahms]], [[public/dalciklus\|dalciklus]]
 3. [[public/Olasz és francia opera a 19. században\|olasz és francia opera a 19. században]]
 4. [[public/A német opera\|A német opera]]
 5. [[public/hangszeres virtuózok és műveik a 19. században\|hangszeres virtuózok és műveik a 19. században]]
@@ -69,7 +69,7 @@
 - Lexikon cikk [[Ravel\|Ravel]]ről
 - mi a verizmus?
 
-1. [Brahms](https://notes.andrasdenes.com/brahms#Ötödikfélév) ([[public/Brahms#Ötödik félév - (KS)\|->]])
+1. [[public/Brahms#Ötödik félév - (KS)\|Brahms]]
 	- élete, fő művek
 2. [[public/Wagner\|Wagner]]
 	- 2 opera cselekménye
