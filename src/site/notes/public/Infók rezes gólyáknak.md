@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Infók rezes gólyáknak.md","permalink":"/infok-rezes-golyaknak/","dgHomeLink":"true","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"true"}
+{"dg-publish":true,"dg-path":"Infók rezes gólyáknak.md","permalink":"/infok-rezes-golyaknak/","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowFileTree":"false","dgEnableSearch":"false"}
 ---
 
 ## [SOS email](mailto:denesandras@akademista.hu)
