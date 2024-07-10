@@ -87,7 +87,7 @@
 - [ ] [[Susan Piver - Getting Stuff Done by Not Being Mean to Yourself\|Susan Piver - Getting Stuff Done by Not Being Mean to Yourself]]
 - [ ] [[David Licata - A Life's Work\|David Licata - A Life's Work]] doku film
 - [ ] [[Mahábhárata\|Mahábhárata]]
-- [ ] [[Derrick Jensen - Beyond Hope\|Derrick Jensen - Beyond Hope]] [cikk]((https://orionmagazine.org/article/beyond-hope)
+- [ ] [[Derrick Jensen - Beyond Hope\|Derrick Jensen - Beyond Hope]] [cikk](https://orionmagazine.org/article/beyond-hope)
 - [ ] [[Pema Chödrön - Amikor minden darabokra hullik\|Pema Chödrön - Amikor minden darabokra hullik]]
 - [ ] [[George Orwell - Some Thoughts on the Common Toad\|George Orwell - Some Thoughts on the Common Toad]]
 - [ ] [[Cal Newport - Deep Work\|Cal Newport - Deep Work]]
@@ -115,13 +115,13 @@
 - az idő, mint erőforrás, közeg, és eszköz
 - félelem a valóságtól, az "ennyi az egész" elkerülése és elutasítása
 - szembenézni a kérdéssel: *Vajon minden új feladat, amit magadra vállalsz, érdemes arra, hogy időt szentelj rá?*
-- FOMO - JOMO
+- [[public/FOMO\|FOMO]] - [[public/JOMO\|JOMO]]
 
-> Az óra természetesen nem áll meg, de nem halljuk ketyegését ([[Gary Eberle\|Gary Eberle]])
+> idézet:: Az óra természetesen nem áll meg, de nem halljuk ketyegését ([[Gary Eberle\|Gary Eberle]])
 
-> Ha egyszer belátod, hogy a lehetetlennel próbálkozol, már nem is olyan könnyű haragudni magadra azért, ha nem sikerül
+> idézet:: Ha egyszer belátod, hogy a lehetetlennel próbálkozol, már nem is olyan könnyű haragudni magadra azért, ha nem sikerül.
 
-> Úgy tűnik, még a korlátaink elfogadása is bizonyos korlátokba ütközik
+> idézet:: Úgy tűnik, még a korlátaink elfogadása is bizonyos korlátokba ütközik.
 
 ### Hatékonyságcsapda
 
@@ -134,13 +134,13 @@
 - néha épp a kényelmetlenség a lényeg
 - a "mindent is megcsinálok" maga a kényelem: nem kell döntéseket hozni, hogy mit ne tegyek meg
 
-> A munka mindig kitölti az elvégzéséhez rendelkezésre álló időt ([[C Northcote Parkinson\|C Northcote Parkinson]])
+> idézet:: A munka mindig kitölti az elvégzéséhez rendelkezésre álló időt ([[C Northcote Parkinson\|C Northcote Parkinson]])
 
-> Azok a technológiai vívmányok, amelyek segítségével igyekszünk "felülkerekedni mindenen", kivétel nélkül kudarcot vallanak, mégpedig azért, mert ők maguk növelik annak a "mindennek" a méretét, amin felül akarunk kerekedni.
+> idézet:: Azok a technológiai vívmányok, amelyek segítségével igyekszünk "felülkerekedni mindenen", kivétel nélkül kudarcot vallanak, mégpedig azért, mert ők maguk növelik annak a "mindennek" a méretét, amin felül akarunk kerekedni.
 
-> Meg kell tanulni elviselni a túl sok tennivaló miatt jelentkező szorongást, amit azért érzel, mert nem uralod a helyzetet tökéletesen.
+> idézet:: Meg kell tanulni elviselni a túl sok tennivaló miatt jelentkező szorongást, amit azért érzel, mert nem uralod a helyzetet tökéletesen.
 
-> gyakran éppen azok a dolgok teszik az életet élhetővé, amelyek nem mennek simán.
+> idézet:: gyakran éppen azok a dolgok teszik az életet élhetővé, amelyek nem mennek simán.
 
 ### Szemtől szemben a végességgel
 
@@ -159,7 +159,7 @@
 - nem a halandóság az idő jogtalan megvonása, az élet az ajándék
 - minden döntés csupán lehetőség a csodálatos lehetőségek közül való választásra
 
-> bármilyen döntést hozok is a tekintetben, hogy mit akarok kezdeni az időmmel, az csakis időben behatárolt döntés lehet. Egyrészt visszafelé is behatárolt, hiszen már most az vagyok, aki vagyok, és ott vagyok, ahol vagyok, ami pedig meghatározza, hogy milyen lehetőségek állnak nyitva előttem. De előretekintve sem kevésbé behatárolt, mert bármilyen tevékenység mellett döntök is, azzal automatikusan beáldozok végtelen számú alternatív lehetőséget.
+> idézet:: bármilyen döntést hozok is a tekintetben, hogy mit akarok kezdeni az időmmel, az csakis időben behatárolt döntés lehet. Egyrészt visszafelé is behatárolt, hiszen már most az vagyok, aki vagyok, és ott vagyok, ahol vagyok, ami pedig meghatározza, hogy milyen lehetőségek állnak nyitva előttem. De előretekintve sem kevésbé behatárolt, mert bármilyen tevékenység mellett döntök is, azzal automatikusan beáldozok végtelen számú alternatív lehetőséget.
 
 ### Halogatás magas fokon
 
@@ -208,20 +208,20 @@
 - mivel a figyelemmel nem lehet önmaga megváltozására figyelni, ezért a külső behatásoktól megváltozott világnézetből úgy tűnhet: az élet már csak ilyen
 - bárki, aki reagál egy botrányra, vagy továbbadja a hírt - ha csak épp azzal a szándékkal is, hogy elítélje a gyűlölködést - is valójában figyelemre méltatja a botrányt, segíti terjedését
 
-> Ha tehát olyasmire figyelsz, amit nem tartasz különösebben értékesnek, akkor nem túlzás azt állítani, hogy az életeddel fizetsz érte.
+> idézet:: Ha tehát olyasmire figyelsz, amit nem tartasz különösebben értékesnek, akkor nem túlzás azt állítani, hogy az életeddel fizetsz érte.
 
-> a figyelmét olyan külső erők irányítják, amelyek nem élveznek a lelkében prioritást
+> idézet:: a figyelmét olyan külső erők irányítják, amelyek nem élveznek a lelkében prioritást
 
-> ahhoz, hogy bármilyen komolyabb élményt megéljünk, legalább sgy kicsit rá kell tudnunk koncentrálni
+> idézet:: ahhoz, hogy bármilyen komolyabb élményt megéljünk, legalább sgy kicsit rá kell tudnunk koncentrálni
 
-> a szeretet a figyelemmel kezdődik
+> idézet:: a szeretet a figyelemmel kezdődik
 > [[Mary Oliver - Upstream, Selected Essays\|Mary Oliver - Upstream, Selected Essays]]
 
-> ha nem fizetsz a termékért, te magad vagy a termék
+> idézet:: ha nem fizetsz a termékért, te magad vagy a termék
 
-> csak a közösségi média van úgy kitalálva, hogy a megfelelő gombokat nyomogassa a lelkemben azért, hogy a figyelmemet továbbra is fenntartsa. Nem csoda hát, hogy a valóság többi része olykor képtelen versenyezni
+> idézet:: csak a közösségi média van úgy kitalálva, hogy a megfelelő gombokat nyomogassa a lelkemben azért, hogy a figyelmemet továbbra is fenntartsa. Nem csoda hát, hogy a valóság többi része olykor képtelen versenyezni
 
-> valami elterelte a figyelmünket arról, hogy valami elterelte a figyelmünket
+> idézet:: valami elterelte a figyelmünket arról, hogy valami elterelte a figyelmünket
 > [[T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
 
 ### A belső megszakító
@@ -237,7 +237,7 @@
 	- éppen ezért nem működik a legtöbb "digitális méregtelenítéssel" kapcsolatos tanácsok, mert a késztetés megmarad
 - nem tereli el semmi a figyelmet, egyszerűen nehezebb jelen lenni
 
-> Igen, van olyan, hogy el kell fogadni, hogy nincs megoldás. És ez maga a megoldás.
+> idézet:: Igen, van olyan, hogy el kell fogadni, hogy nincs megoldás. És ez maga a megoldás.
 
 ## 2. Túl az irányításon
 
@@ -251,15 +251,15 @@
 	- eleve azzal a gondolattal is baj van, hogy valamire "lesz időnk"
 	- sosem lesz a *valamire szánt idő* a "miénk"
 
-> A megrögzött tervező tulajdonképpen biztosítékokat követel a jövőtől - csakhogy a jövő képtelen megadni azokat a biztosítékokat, amelyekre ő vágyik, már csak azon nyilvánvaló oknál fogva is, hogy a jövő egyszerűen még nem létezik.
+> idézet:: A megrögzött tervező tulajdonképpen biztosítékokat követel a jövőtől - csakhogy a jövő képtelen megadni azokat a biztosítékokat, amelyekre ő vágyik, már csak azon nyilvánvaló oknál fogva is, hogy a jövő egyszerűen még nem létezik.
 
-> Bármeddig is ér el a kezed, a jövő mindig kicsúszik belőle.
+> idézet:: Bármeddig is ér el a kezed, a jövő mindig kicsúszik belőle.
 
-> a jövőben csak akkor lehetsz biztos, miután múlt lett belőle
+> idézet:: idézet:: a jövőben csak akkor lehetsz biztos, miután múlt lett belőle
 
-> A bizonyosságért folytatott küzdelmünk eleve reménytelen - ami azt jelenti, hogy nyugodtan fel is hagyhatunk vele.
+> idézet:: A bizonyosságért folytatott küzdelmünk eleve reménytelen - ami azt jelenti, hogy nyugodtan fel is hagyhatunk vele.
 
-> Ne uralkodjatok végtelen lehetőségek képzeletbeli lehetőségein. (Gesh Shawopa)
+> idézet:: Ne uralkodjatok végtelen lehetőségek képzeletbeli lehetőségein. (Gesh Shawopa)
 
 ### Itt és most
 
@@ -275,9 +275,9 @@
 		- instrumentalista törekvés
 	- ne akard a jelen pillanattal való kapcsolatod módosítani, hiszen a jelen te magad vagy
 
-> Bármivel foglalkozunk is, mindenre úgy tekintünk - vagyis az egész életünkre - hogy csak akkor értékes, ha valami másnak az alapjául szolgál.
+> idézet:: Bármivel foglalkozunk is, mindenre úgy tekintünk - vagyis az egész életünkre - hogy csak akkor értékes, ha valami másnak az alapjául szolgál.
 
-> úgy hisszük, "Egy gyermeknevelési módszer helyessége vagy helytelensége csak azzal mérhető, hogy milyen felnőtt lesz a gyerekből" ([[Adam Gopnik\|Adam Gopnik]])
+> idézet:: úgy hisszük, "Egy gyermeknevelési módszer helyessége vagy helytelensége csak azzal mérhető, hogy milyen felnőtt lesz a gyerekből" ([[Adam Gopnik\|Adam Gopnik]])
 
 ### Pihenés újratöltve
 
@@ -317,7 +317,7 @@
 	- az alkoholizmustól való különbség: a barátaink nem megállítani, hanem megdicsérni fognak ezért
 - "másodrendű változás" - nem csak javulás történik, hanem szemléletváltás is
 
-> Azon aggódunk, hogy nem érjük utol magunkat, nem bírjuk tartani a lépést; s annak érdekében, hogy csökkentsük a szorongást, és hogy az életünket a saját kezünkben tartsuk, egyre gyorsabban tesszük a dolgunkat.
+> idézet:: Azon aggódunk, hogy nem érjük utol magunkat, nem bírjuk tartani a lépést; s annak érdekében, hogy csökkentsük a szorongást, és hogy az életünket a saját kezünkben tartsuk, egyre gyorsabban tesszük a dolgunkat.
 
 ### Maradj a buszon
 
@@ -358,7 +358,7 @@
 - politikai következmények: autokrata vezetők könnyebben elérik az egymástól elidegenedett polgárokat
 - megoldás: a fizikai világ, emberi kapcsolatok és közösségi tevékenységek előnyben részesítése
 
-> Egy átlagbéren foglalkoztatott munkavállaló sokkal boldogabbnak érzi magát a rugalmas munkaidő mellett, mint az a gazdag menedzser, akinek be van táblázva az egész napja ([[Scott Adams - How to Fail at Almost Everything snd Still Win Big\|Scott Adams - How to Fail at Almost Everything snd Still Win Big]])
+> idézet:: Egy átlagbéren foglalkoztatott munkavállaló sokkal boldogabbnak érzi magát a rugalmas munkaidő mellett, mint az a gazdag menedzser, akinek be van táblázva az egész napja ([[Scott Adams - How to Fail at Almost Everything snd Still Win Big\|Scott Adams - How to Fail at Almost Everything snd Still Win Big]])
 
 ### Kozmikus jelentéktelenség terápia
 
@@ -395,11 +395,11 @@
 - a lemondást követően kihozhatod magadból a legtöbbet
 - *Szép csendben tedd csak a következő legszükségesebb dolgot. Ha úgy érzed, nem tudod, mi az, az azt jelenti, sok pénzed van, amit értelmetlen spekulációkra költhet.* ([[Carl Jung\|Carl Jung]])
 
-> Azért nem tudunk az életünk pillanatai fölé kerekedni, mert mi magunk vagyunk azok a pillanatok.
+> idézet:: Azért nem tudunk az életünk pillanatai fölé kerekedni, mert mi magunk vagyunk azok a pillanatok.
 
-> Az idő szubsztancia, amelyből vagyok. Az idő folyó, amely magával ragad, de én vagyok a folyó; a tigris, amely szétmarcangol, de én vagyok a tigris; a tűz, amely elhamvaszt, de én vagyok a tűz. ([[Jorge Luis Borges - Az idő újabb cáfolata\|Jorge Luis Borges könyve]])
+> idézet:: Az idő szubsztancia, amelyből vagyok. Az idő folyó, amely magával ragad, de én vagyok a folyó; a tigris, amely szétmarcangol, de én vagyok a tigris; a tűz, amely elhamvaszt, de én vagyok a tűz. ([[Jorge Luis Borges - Az idő újabb cáfolata\|Jorge Luis Borges könyve]])
 
-> Engedd csak nyugodtan el a lehetetlent, hadd csapódjon a földbe. Aztán szedj ki a roncsokból néhány értelmes feladatot, és kezdj el még ma dolgozni rajtuk.
+> idézet:: Engedd csak nyugodtan el a lehetetlent, hadd csapódjon a földbe. Aztán szedj ki a roncsokból néhány értelmes feladatot, és kezdj el még ma dolgozni rajtuk.
 
 ## Túl a reményen
 
@@ -412,11 +412,11 @@
 - ismerjük fel, hpgy a dolgok nem lesznek rendben. Sőt, már most sincsenek rendben
 - ez a felfogás megöl benned valamit: a félelemvezérelt, mindent irányítani akaró, egoista énedet, amelyik folyamatosan másoknak akar megfelelni
 
-> "Remélni egy bizonyos eredményt annyit jelent, mint valami önmagadon és a jelen pillanaton kívüli dologban hinni."
+> idézet:: "Remélni egy bizonyos eredményt annyit jelent, mint valami önmagadon és a jelen pillanaton kívüli dologban hinni."
 
-> A lemondás a reményről egyet jelent az élet igenlésével, a kezdet kezdetével. ([[Pema Chödrön - Amikor minden darabokra hullik\|Pemma Chödrön könyve]])
+> idézet:: A lemondás a reményről egyet jelent az élet igenlésével, a kezdet kezdetével. ([[Pema Chödrön - Amikor minden darabokra hullik\|Pemma Chödrön könyve]])
 
-> Ha már nem kell magadat arról győzködnöd, hogy te aztán igenis meg fogsz tenni mindent, amit kell, akkor már nyugodtan koncentrálhatsz arra a néhány dologra, ami igazán számít.
+> idézet:: Ha már nem kell magadat arról győzködnöd, hogy te aztán igenis meg fogsz tenni mindent, amit kell, akkor már nyugodtan koncentrálhatsz arra a néhány dologra, ami igazán számít.
 
 ## Tíz módszer a véges emberi lét elfogadására
 
