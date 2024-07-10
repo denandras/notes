@@ -3,6 +3,7 @@
 ---
 
 ## Gótika (12-16. sz.)
+
 - [[Raffaello\|Raffaello]] késő reneszánsz műbész használja a kifejezést először
 	- műveletlen északi, barbárok stílusa
 - saját korában nem így hívták - opus Franzigeno
@@ -58,13 +59,13 @@
 - Avignon
 - Westminster-i sze.
 - magyar példák
-	- Kolozsvári Márton és György (szobrászok), 14. sz.
+	- [[Kolozsvári Márton\|Kolozsvári Márton]] és [[Kolozsvári György\|Kolozsvári György]] (szobrászok), 14. sz.
 	- Lovag (szobor, Budapesti Történeti Múzeum - ami egy jó koncerthelyszín #később re)
 - Esztergomi Keresztény Múzeum, Nemzeti Galéria
 	- szárnyas oltárok
 	- Garamszentbenedeki úrkoporsó
 	- aktív misztériumjátékok
-- MS Mester
+- [[MS Mester\|MS Mester]]
 	- Mária látogatása Erzsébetnél
 - Brassói Fekete templom
 - Kassa, Szt. Erzsébet dóm

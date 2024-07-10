@@ -140,8 +140,6 @@
 		- *Öt zongoradarab*
 		- *Szerenád*
 		- op. 25 *Zongoraszvit* első teljesen dodekafón darab
-		- 
-		- #később kép
 		- *Egy varsói menekült* kantáta
 			- kései mű
 			- 2. vh után, Amerikában élt
