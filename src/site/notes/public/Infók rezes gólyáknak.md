@@ -35,7 +35,7 @@
 > hétfő, szerda, péntek: 9:30-12:00  
 > kedd, csütörtök: 13:00-15:30
 
-- [kredithálók](https://lfze.hu/kredithalok) [^1]
+- [kredithálók](https://lfze.hu/kredithalok)
 	- amikor felvettek, az alapján kell teljesíteni (kreditátvitel esetén a tanulmányok megkezdésének évfolyamát nézd)
 	- a szabvál és kötelező tárgyak teljesítési ideje rád van bízva, érdemes elsőben több mindent felvenni, pl. [[public/akusztika\|akusztika]], hogy később kevesebb dolgod legyen és több időd a haknikra
 - [a tanév rendje](https://lfze.hu/tanev-rendje)
