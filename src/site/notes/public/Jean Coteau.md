@@ -3,7 +3,7 @@
 ---
 
 - *Kakas és Paprikajancsi* #később 
-	- aforizmagyűjtemény
+	- [[public/aforizma\|aforizma]]gyűjtemény
 	- alakuló Hatok "kiáltványa"
 - idézetek [[Satie\|Satie]]tól
 - "vannak olyan hosszú művek, amelyek rövidek. [[public/Wagner\|Wagner]] művei olyanok, amik hosszúak"

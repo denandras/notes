@@ -57,7 +57,7 @@
 ### Jellemző gondolkodásformák
 -   a zene a társadalmi elité, a paraszt ember nem gondolkodik róla
     -   (az adófizetők)
--   fogalma
+-   a középkor fogalma
     -   [[public/Petrarca\|Petrarca]] (14. sz.)
         -   két korszak: antikvitás + újkor (antiqua + nova)
         -   Róma bukása utáni évtizedek: sötét kor

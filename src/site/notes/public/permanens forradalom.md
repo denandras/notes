@@ -25,23 +25,23 @@
 	- barbizoni iskola
 		- Párizs város limitáló hatása, kiköltöznek művészek Barbizonba
 		- [[public/Jean-Francois Millet\|Jean-Francois Millet]]
-			- semmi eddigi extra, *Kalászszedők*
-			- *Angelus* - a társadalom 90 százalékának élete
+			- semmi eddigi extra, *Kalászszedők* ![](https://www.keparuhaz.hu/images/tmp/700/products/45/2645.jpg)
+			- *Angelus* - a társadalom 90 százalékának élete ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/JEAN-FRAN%C3%87OIS_MILLET_-_El_%C3%81ngelus_%28Museo_de_Orsay%2C_1857-1859._%C3%93leo_sobre_lienzo%2C_55.5_x_66_cm%29.jpg/800px-JEAN-FRAN%C3%87OIS_MILLET_-_El_%C3%81ngelus_%28Museo_de_Orsay%2C_1857-1859._%C3%93leo_sobre_lienzo%2C_55.5_x_66_cm%29.jpg)
 		- [[Gustave Courbet\|Gustave Courbet]]
 			- kiállítótér, pavilon: Pavillon du Realisme
 			- igazat, nem kellemeset
-			- *A találkozás* - a művész elhagyja az urbán életet
-			- *Kőtörők*
-			- *Temetéd Ornans-ban*
+			- *A találkozás* - a művész elhagyja az urbán életet ![](https://www.meisterdrucke.hu/kunstwerke/1260px/Gustave_Courbet_-_The_meeting_or_Hello_Mr_Courbet_Meeting_between_Alfred_Bruyas_and_Gustave_Courbe_-_%28MeisterDrucke-946963%29.jpg)
+			- *Kőtörők* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Gustave_Courbet_-_The_Stonebreakers_-_WGA05457.jpg/1200px-Gustave_Courbet_-_The_Stonebreakers_-_WGA05457.jpg)
+			- *Temetés Ornans-ban* ![](https://www.meisterdrucke.hu/kunstwerke/1260px/Gustave_Courbet_-_The_Funeral_at_Ornans_1850_-_%28MeisterDrucke-726221%29.jpg)
 		- [[Preraffaelita Testvériség\|Preraffaelita Testvériség]]
 			- [[Raffaello\|Raffaello]] túl jókat festett, vissza kellene menni elé
 			- elkötelezett keresztények
 			- [[Dante Gabeiel Rossetti\|Dante Gabeiel Rossetti]]
-				- *Szűz Mária leánykora*
+				- *Szűz Mária leánykora* ![](https://www.meisterdrucke.hu/kunstwerke/1260px/Dante_Gabriel_Rossetti_-_The_Girlhood_of_Mary_Virgin_-_%28MeisterDrucke-690679%29.jpg)
 			- [[William Holman Hunt\|William Holman Hunt]]
 				- *Egy megtért brit család elrejt egy keresztény hittérítőt a druidák elől*
 				- *A halál árnyéka*
-			- [[John Everett Milais\|John Everett Milais]]
+			- [[John Everett Milais\|John Everett Milais]] /pub
 				- *Ofélia*
 				- *Keisztus a szülői házban*
 				- *A nyugalom völgye*
