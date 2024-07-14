@@ -21,7 +21,7 @@
 	- akadémiai konzervativizmus
 - témaválasztás forradalma
 	- forradalom: valami nem mennyiségileg, hanem minőségileg változik meg radikálisan
-	- visszanyúlás [[John Constable\|John Constable]] művészetéhez
+	- visszanyúlás [[public/John Constable\|John Constable]] művészetéhez
 	- barbizoni iskola
 		- Párizs város limitáló hatása, kiköltöznek művészek Barbizonba
 		- [[public/Jean-Francois Millet\|Jean-Francois Millet]]
@@ -39,69 +39,68 @@
 			- [[Dante Gabeiel Rossetti\|Dante Gabeiel Rossetti]]
 				- *Szűz Mária leánykora* ![](https://www.meisterdrucke.hu/kunstwerke/1260px/Dante_Gabriel_Rossetti_-_The_Girlhood_of_Mary_Virgin_-_%28MeisterDrucke-690679%29.jpg)
 			- [[William Holman Hunt\|William Holman Hunt]]
-				- *Egy megtért brit család elrejt egy keresztény hittérítőt a druidák elől*
-				- *A halál árnyéka*
-			- [[John Everett Milais\|John Everett Milais]] /pub
-				- *Ofélia*
-				- *Keisztus a szülői házban*
-				- *A nyugalom völgye*
+				- *Egy megtért brit család elrejt egy keresztény hittérítőt a druidák elől* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/William_Holman_Hunt_-_A_Converted_British_Family.jpg/800px-William_Holman_Hunt_-_A_Converted_British_Family.jpg)
+				- *A halál árnyéka* ![](https://upload.wikimedia.org/wikipedia/commons/0/03/William_holman_hunt-the_shadow_of_death.jpg)
+			- [[John Everett Milais\|John Everett Milais]] 
+				- *Ofélia* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg/1200px-John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg)
+				- *Keisztus a szülői házban* ![](https://upload.wikimedia.org/wikipedia/commons/7/7b/John_Everett_Millais_-_Christ_in_the_House_of_His_Parents_%28%60The_Carpenter%27s_Shop%27%29_-_Google_Art_Project.jpg)
+				- *A nyugalom völgye* ![](https://victorianweb.org/painting/millais/paintings/23.jpg)
 		- magyarok
 			- [[Munkácsy Mihály\|Munkácsy Mihály]]
-				- *Siralomház*
-				- *Krisztus-trilógia*
-				- *Poros út II*
+				- *Siralomház* ![](https://upload.wikimedia.org/wikipedia/commons/f/f7/Siralomh%C3%A1z_Munk%C3%A1csy_Mih%C3%A1ly_festm%C3%A9nye.jpg)
+				- *Krisztus-trilógia* ![](https://www.vitato.eu/wp-content/uploads/munkacsy-krisztus-pilatus-elott-1200x786.jpg) ![](https://www.vitato.eu/wp-content/uploads/munkacsy-ecce-homo-ime-az-ember-1200x742.jpg) ![](https://www.vitato.eu/wp-content/uploads/munkacsy-golgota-kalvaria-festmeny-1200x738.jpg)
+				- *Poros út II* ![](https://mng.hu/app/uploads/2022/10/79694.jpg)
 			- [[Mednyánszky László\|Mednyánszky László]]
-				- *Alpesi táj*
 				- csavargó életmód
-				- *Nincstelen*
+				- *Alpesi táj* ![](https://mng.hu/app/uploads/2022/10/64094.jpg)
+				- nincstelen
 			- [[Szinyei\|Szinyei]] Merse Pál
-				- *Majális*
-				- *Lilaruhás nő*
-			- **[[Pál László\|Pál László]]**
-				- *Berzovai utca*
-				- *Juhakol*
+				- *Majális* ![](https://majalis.mng.hu/assets/media/images/01_festmeny/Majalis_2000.jpg)
+				- *Lilaruhás nő* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Szinyei_Lilaruh%C3%A1s_n%C5%91.jpg/1200px-Szinyei_Lilaruh%C3%A1s_n%C5%91.jpg)
+			- **[[Paál László\|Paál László]]**
+				- *A berzovai út* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pa%C3%A1l_A_berzovai_%C3%BAt.jpg/1200px-Pa%C3%A1l_A_berzovai_%C3%BAt.jpg)
+				- *Juhaklok* ![](https://upload.wikimedia.org/wikipedia/commons/8/81/Pa%C3%A1l_L%C3%A1szl%C3%B3_-_1872_-_Juhaklok_%28Kazlak%29.jpg)
 				- nyers valóság
 			- [[Tornyai János\|Tornyai János]]
-				- *Bús magyar sors*
-				- *eml. [[Eugéne Delacroix\|Eugéne Delacroix]] - Vihartól megriadt ló*
+				- *Bús magyar sors* ![](https://mek.oszk.hu/01900/01905/html/cd8/kepek/muveszetek/mt075eem417.jpg)
+				- *eml. [[Eugéne Delacroix\|Eugéne Delacroix]] - Vihartól megriadt ló* ![](https://www.szepmuveszeti.hu/app/uploads/2018/09/8532.jpg)
 - színek/**látás** forradalma
 	- eml. [[Lumiere testvérek\|Lumiere testvérek]] első filmje
 	- eml. deepfake hatása a nem reflektíven gondolkodó emberekre
 	- [[Edouard Manet\|Edouard Manet]]
 		- félreértés van, megpróbáljuk a természetet lefesteni a műteremben
-		- plen air
+			- plen air - kilépés a teremből, szabad ég alatt festés
 		- mozgás/mozgalmasság
 		- kibérlik az akadémiával szemközti épületet, az emberek majd eldöntik, mi a jó
-			- az elutasítottak galériája
-			- 1863: Salon des Refusés
+			- az elutasítottak galériája,
+			- 1863: [[Salon des Refusés\|Salon des Refusés]]
 			- hivatalos kritika először kiakad
-		- *Reggeli a szabadban*
-		- *Olympia*
-		- *A Folies-Bergère bár*
-		- *Claude [[Monet\|Monet]] fest a műtermében* (egy csónakban)
+		- *Reggeli a szabadban* ![](https://lh5.googleusercontent.com/proxy/aN14FCNhWKt_rOD0MnYLZ1cFf0uuPgTWKTAhcvelcZId1oAsuvBo4kTgSk2pVBaSOjpPcvTrIxlUiI9SZsc6c7Q0U4FYRhCwNTWJxscWL2v02k_4msNRsbmE38vpfFhPDq-J5NKTvQMXH2dR7ds)
+		- *Olympia* (melyet [ez a kép](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Goya_Maja_naga2.jpg/800px-Goya_Maja_naga2.jpg) inspirált - [[Francisco José de Goya y Lucientes\|Francisco José de Goya y Lucientes]]) ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2a4cd814895145.5628a5a087bf2.jpg)
+		- *A Folies-Bergère bár* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg/800px-%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg)
+		- *Claude [[Monet\|Monet]] fest a műtermében* (egy csónakban) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Monet_Painting_on_His_Studio_Boat_Edouard_Manet_1874.jpg/1280px-Monet_Painting_on_His_Studio_Boat_Edouard_Manet_1874.jpg)
 	- Claude [[Monet\|Monet]]
-		- *A napkelte impressziója*
+		- *A napkelte impressziója* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/1200px-Monet_-_Impression%2C_Sunrise.jpg)
 			- francia hivatalos kritika cérnája elszakadt
 			- teljesen másképp láttatunk valamit
 				- sokk volt, mert nem a valóságot, hanem az érzetet jeleníti meg
 				- részletek hiánya
 				- "Kedves néző, tanulj meg másképp ránézni a világra!"
 			- pillanati érzet
-		- *Nő napernyővel*
-		- *A normandiai vonat érkezése*
-		- *A roueni székesegyház naplementében*
-		- *A londoni parlament. A nap átsüt a ködön*
+		- *Nő napernyővel* ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5KsP3iiXAmDWaSmJ-V5vPSyeJ8jQRmEN4w&s)
+		- *A normandiai vonat érkezése* ![](https://upload.wikimedia.org/wikipedia/commons/f/f2/Claude_Monet_-_Arrival_of_the_Normandy_Train%2C_Gare_Saint-Lazare_-_Google_Art_Project.jpg)
+		- *A roueni székesegyház naplementében* ![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Claude_Monet_-_Rouen_Cathedral%2C_Facade_%28Sunset%29.JPG)
+		- *A londoni parlament. A nap átsüt a ködön* ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/London%2C_the_Houses_of_Parliament%2C_Sunlight_Opening_in_Fog%2C_by_Claude_Monet.jpg)
 		- *Vízililiomok*
 	- [[Renoir\|Renoir]]
-		- *A páholy*
+		- *A páholy* ![](https://www.meisterdrucke.hu/kunstwerke/1260px/Pierre%20Auguste%20Renoir%20-%20La%20Loge%201873%20%20-%20%28MeisterDrucke-302181%29.jpg)
 		- *A hinta*
 		- eml. film róla (középszerű, de jól kutatja be)
 		- *Tánc a Moulin de la Galette-ben*
 		- *Luncheon on the Boating Party*
 	- [[Pizzarro\|Pizzarro]]
 		- *A párizsi Boulevard Montmartre*
-		- *A Boulevard Montmartre éjjel*
-			- ![](https://www.camillepissarro.org/assets/img/paintings/boulevard-montmartre-at-night.jpg)
+		- *A Boulevard Montmartre éjjel* ![](https://www.camillepissarro.org/assets/img/paintings/boulevard-montmartre-at-night.jpg)
 	- [[Edgard Degas\|Edgard Degas]]
 		- *Zenészek a zenekarban*
 		- témája szinte kizárólag a színház

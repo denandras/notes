@@ -35,7 +35,7 @@
 	- *Vihartól megriadt ló*
 		- minden vibrál, mozog, tombol
 	- *A szabadság vezeti a népet*
-- [[John Constable\|John Constable]]
+- [[public/John Constable\|John Constable]]
 	- angol tájképfestő
 	- *Wivenhoe Park*
 	- eml. [[public/Rousseau\|Rousseau]], természethez való visszatérés
