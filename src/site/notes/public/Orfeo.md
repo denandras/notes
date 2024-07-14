@@ -49,7 +49,7 @@ Orfeo et Eurudice
 
 > a szakítás olyan, mint a halál. Ha újraindul, vajon jót tesz-e? A bizalom megvan-e?
 
-> Rheiner Maria [[public/Rilke\|Rilke]]: *Orfeusz, Eurüdiké, Hermész* vers
+> [[public/Rilke\|Rheiner Maria Rilke]]: [[public/Rilke - Orpheusz, Eurüdiké, Hermész\|Orpheusz, Eurüdiké, Hermész]] vers
 > 	Hermész: - Visszanézett.
 > 	Eurüdiké: - Ki?
 
