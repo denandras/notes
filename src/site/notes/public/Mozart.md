@@ -12,7 +12,7 @@ Wolfgang Amadeus Mozart
 
 - szerepe az utókorban túlértékelt
 - számára kevésbé fontos, mint a [[public/kíséretes szonáta\|kíséretes szonáta]]
-- növendékeknek írta, inkább etűdszerű, nem mutatja úgy személyiségét benne, mint [[zongoraverseny\|zongoraverseny]]eiben, vagy kamaraműveiben
+- növendékeknek írta, inkább etűdszerű, nem mutatja úgy személyiségét benne, mint zongoraversenyeiben, vagy kamaraműveiben
 	- zenei formálást, kifejezést, ízlést ad át
 - alternatíva a mai koncertéletben:
 	- [[public/C P E Bach\|C P E Bach]] és [[public/Haydn\|Haydn]] szonátatermése
@@ -45,8 +45,8 @@ Wolfgang Amadeus Mozart
 	- "Symphonie ohne Menuet"
 	- bécsben írta (amikor bemutatták a [[public/Le nozze di Figaro\|Le nozze di Figaro]]t) *(hasonlóság vele?)*
 - tanítványaitól 6 dukátot kért 12 leckéért
-- ### Mozart operái
-*David Carins: Mozart és operái*
+### Mozart operái
+*[[David Carins - Mozart és operái\|David Carins - Mozart és operái]]*
 	- [[public/Le nozze di Figaro\|Le nozze di Figaro]] *([[public/opera buffa\|opera buffa]])*
 	- [[public/Idomeneo\|Idomeneo]] *([[public/opera seria\|opera seria]])*
 

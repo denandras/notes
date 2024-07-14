@@ -87,7 +87,7 @@
 				- részletek hiánya
 				- "Kedves néző, tanulj meg másképp ránézni a világra!"
 			- pillanati érzet
-		- *Nő napernyővel* ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5KsP3iiXAmDWaSmJ-V5vPSyeJ8jQRmEN4w&s)
+		- *Nő napernyővel*                                                           ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5KsP3iiXAmDWaSmJ-V5vPSyeJ8jQRmEN4w&s)
 		- *A normandiai vonat érkezése* ![](https://upload.wikimedia.org/wikipedia/commons/f/f2/Claude_Monet_-_Arrival_of_the_Normandy_Train%2C_Gare_Saint-Lazare_-_Google_Art_Project.jpg)
 		- *A roueni székesegyház naplementében* ![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Claude_Monet_-_Rouen_Cathedral%2C_Facade_%28Sunset%29.JPG)
 		- *A londoni parlament. A nap átsüt a ködön* ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/London%2C_the_Houses_of_Parliament%2C_Sunlight_Opening_in_Fog%2C_by_Claude_Monet.jpg)
