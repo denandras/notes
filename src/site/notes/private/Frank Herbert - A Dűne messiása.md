@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"egyéb/Frank Herbert - A Dűne messiása.md","permalink":"/egyeb/frank-herbert-a-dune-messiasa/","title":"A Dűne messiása"}
 ---
 
-# [[private/Frank Herbert - Dűne\|<-]] [[Frank Herbert - A Dűne gyermekei\|->]]
+# [[private/Frank Herbert - Dűne\|<-]] [[private/Frank Herbert - A Dűne gyermekei\|->]]
 # A Dűne messiása (2)
 
 ### Idegen szavak
@@ -19,7 +19,8 @@
 - 330
 ### Vélemény
 
-- 
+- következetes de kiszámíthatatlan sztori
+- nem cliché a vége, szép, de nem giccses
 ### Idézetek
 
 > idézet:: Minden látomás az úton lévő embereké, azoké, akik később érik el céljukat. A látomás alatt az embernek át kell haladni a sötétségen, ahol nem lehet megkülönböztetni a valóságot az anyagtalan véletlenektől. Az ember a soha el nem érhető teljességre vágyik. Vágyakozás közben azonban elveszítjük a jelent. (219)
