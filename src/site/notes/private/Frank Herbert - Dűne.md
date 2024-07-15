@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"egyéb/Frank Herbert - Dűne.md","permalink":"/egyeb/frank-herbert-dune/","title":"Dűne"}
 ---
 
-# [[private/Frank Herbert - A Dűne messiása\|->]]
+# [[private/Frank Herbert - A Dűne messiása\|A Dűne messiása]] (2)
 # Dűne (1)
 
 ### Ami megfogott benne
