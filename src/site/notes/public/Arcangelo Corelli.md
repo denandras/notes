@@ -2,8 +2,7 @@
 {"dg-publish":true,"dg-path":"Arcangelo Corelli.md","permalink":"/arcangelo-corelli/"}
 ---
 
-1653-1713
-
+==1653-1713==
 ### Hatása
 - a barokk egyik nagy felfedezője
 	- Schubert-dalok tonalitásának kirobbanása, a felfedezők elfeledése 

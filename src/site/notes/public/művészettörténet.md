@@ -12,7 +12,7 @@
 - [[Nagy Ella\|Nagy Ella]]
 - [K11](https://www.k11.hu/k11-labor/aktualis-kiallitas/)
 ## Ajánlott irodalom
-- [E H Gombrich - A művészet története](https://icedrive.net/s/Xg3iyzDfNxPC2V6vvBTkfYXXbTNz)
+- [E H Gombrich - A művészet története](https://icedrive.net/s/Xg3iyzDfNxPC2V6vvBTkfYXXbTNz
 - [Tatai Erzsébet - Művészettörténeti ismeretek](https://github.com/denandras/Zakjegyzet2/blob/66ad933ecfdfd4916f51e869a78642116812ac7e/_notes/_Files/f_m%C5%B1vt%C3%B6ri/Tatai-Erzsebet_M%C5%B1veszettorteneti-Ismeretek.pdf)
 - [Rajkó Andrea, S Nagy Katalin - Művészettörténet I](https://github.com/denandras/Zakjegyzet2/blob/66ad933ecfdfd4916f51e869a78642116812ac7e/_notes/_Files/f_m%C5%B1vt%C3%B6ri/Rajko_Andrea_S._Nagy_Katalin--Muveszettortenet_I._.pdf)
 - [Rajkó Andrea, S Nagy Katalin - Művészettörténet II](https://github.com/denandras/Zakjegyzet2/blob/66ad933ecfdfd4916f51e869a78642116812ac7e/_notes/_Files/f_m%C5%B1vt%C3%B6ri/Rajko_Andrea_S._Nagy_Katalin--Muveszettortenet_II..pdf)

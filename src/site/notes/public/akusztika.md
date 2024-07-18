@@ -2,22 +2,20 @@
 {"dg-publish":true,"dg-path":"akusztika.md","permalink":"/akusztika/"}
 ---
 
-#
-
 **Dr. Pap János**
 - Schneyder fáni a kutya
 - a patkányok 50kHz-en nevetnek
-- *A zenei akusztika alapjai*
-- *Hang-ember-hang*
+- *[[public/Pap János - A zenei akusztika alapjai\|Pap János - A zenei akusztika alapjai]]*
+- *[[Pap János - Hang-ember-hang\|Pap János - Hang-ember-hang]]*
 - http://www.hangoskola.hu
 - *[[Daniel Coleman\|Daniel Coleman]]* szociálpszichológiai könyvei
-- *Fellini: Amarcord*
+- *[[Fellini - Amarcord\|Fellini - Amarcord]]*
 - "A világűr zenéje csendes"
 
 ### [Quizlet](https://quizlet.com/558890153/akusztika-fogalmak-flash-cards/)
 ## [akuszika képek](https://ibb.co/album/XSczxC)
 
-## [A zenei akusztika alapjai - pdf](https://github.com/denandras/Zakjegyzet2/blob/main/_notes/jegyzetek/Files/akusztika/A%20zenei%20akusztika%20alapjai.pdf)
+## [[public/Pap János - A zenei akusztika alapjai\|Pap János - A zenei akusztika alapjai]]
 
 - Athéni hangiskola
 - görögök sokat tudtak a hangról
@@ -34,9 +32,9 @@
 - [[public/Időérzékelés\|időérzékelés]]
 - [[public/hangterjedés\|hangterjedés]]
 
-### ([[public/Akusztika tételek\|Akusztika tételek]])
+### ([[public/akusztika tételek\|akusztika tételek]])
 
-### [[public/Akusztika fogalmak\|Akusztika fogalmak]]
+### [[public/akusztika fogalmak\|akusztika fogalmak]]
 
 
 

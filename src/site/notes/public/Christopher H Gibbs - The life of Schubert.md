@@ -28,3 +28,5 @@
 		- kivéve a [Mein Traum](https://allaboutheaven.org/observations/schubert-mein-traum-020645/221)
 - igazi szabadúszó, elsők között
 - tetszettek neki a korbeli virtuózok, de [[public/Beethoven\|Beethoven]] volt az etalon
+
+#később befejezni
