@@ -44,9 +44,6 @@
 		- ostinato téma nem marad végig a basszusban
 	- *Négy komoly ének* - hasonlóság (terc a szerkezeti egység)
 
----
-[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
-
 ## Ötödik félév - (KS)
 
 > Hiába [[public/abszolút zene\|abszolút a zene]], attól még van mondanivalója.

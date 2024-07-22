@@ -28,6 +28,3 @@
 		- alt és tenor
 		- **strófikus variáció**, végigkomponáltnak hat
 
----
-[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
-

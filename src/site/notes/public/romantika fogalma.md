@@ -54,6 +54,3 @@
 > **nacionalizmus**
 	- a romantika és nacionalizmus ugyanannak a történelmi, szellemi irányzatnak kétféle megjelenési formája
 	- az európai mainstream zenén kívül is vannak zeneszerzők [[Erkel\|Erkel]], [[Ivan Zajc\|Ivan Zajc]]
-
----
-[^]: [[Általános zenetörténet IV. szemeszter - 1.tétel A romantika fogalma.pdf\|Általános zenetörténet IV. szemeszter - 1.tétel A romantika fogalma.pdf]]

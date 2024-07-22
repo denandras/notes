@@ -30,7 +30,7 @@
 			- [[Jules Massenet\|Jules Massenet]]
 			- [[Camille Saint-Saens\|Camille Saint-Saens]]
 				- első filmzene
-			- [[Gounod\|Gounod]]
+			- [[public/Gounod\|Gounod]]
 			- [[Vincent d'Indy\|Vincent d'Indy]] [Venszan Dendi]
 			- [[Paul Dukas\|Paul Dukas]] [Dükász?/Düká]
 				- görög ősök

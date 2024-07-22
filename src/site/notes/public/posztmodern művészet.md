@@ -65,7 +65,7 @@
 	- [[Örkény - Egypercesek\|Örkény - Egypercesek]]
 	- short story = rövidtörténet (a novellánál is rövidebb, sokminden van kihagyva)
 	- a dúsítást úgy éri el, hogy a hiányra épít
-	- [[Franz Kafka\|Franz Kafka]] egypercesei
+	- [[public/Franz Kafka\|Franz Kafka]] egypercesei
 - ha a szerző nyilatkozik, az sem ad bizonyosságot
 	- ő is hazudhat
 	- [[Prokofiev\|Prokofiev]] - Klasszikus szimfónia

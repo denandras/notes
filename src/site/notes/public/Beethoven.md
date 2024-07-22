@@ -79,7 +79,3 @@
 	- a hős karakterét leegyszerűsítve viszi tovább a század, közben Beethoven sokrétűbb volt
 - kései korszak
 	- egyetlen szimfónia, a [[Beethoven 9\|Beethoven 9]]
-
------
-[^]: [[3. Beethoven zongoraszonátái.pdf\|3. Beethoven zongoraszonátái.pdf]]
-[^]: [[6. Beethoven szimfóniái.pdf\|6. Beethoven szimfóniái.pdf]]

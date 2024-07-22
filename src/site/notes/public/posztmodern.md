@@ -34,7 +34,7 @@
 - [ ] [[R Barthes - A szerző halála\|R Barthes - A szerző halála]] esszé - esszéíró, filozófus ([link](http://www.irodalomelmelet.atw.hu/barthes.pdf))
 - [ ] [[Derrida\|Derrida]] - filozófus
 - [ ] [[Vajda Mihály\|Vajda Mihály]] - festőművész
-- [ ] [[Franz Kafka\|Franz Kafka]] egypercesei
+- [ ] [[public/Franz Kafka\|Franz Kafka]] egypercesei
 - [ ] [[Varró Dániel\|Varró Dániel]] - költő
 - [ ] [[Nemes Z Márió\|Nemes Z Márió]] - író
 - [ ] [[Pethő Barnabás\|Pethő Barnabás]] filozófus

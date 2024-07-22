@@ -32,7 +32,3 @@
 - minore-maggiore
 - bővített kéttagú forma
 - teraszos dinamika
-
-
----
-[^]: [[2. A billentyűs szonáta a 18. század közepén és a késő 18. században.pdf\|2. A billentyűs szonáta a 18. század közepén és a késő 18. században.pdf]]

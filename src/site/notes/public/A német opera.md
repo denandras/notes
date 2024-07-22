@@ -176,8 +176,3 @@ egy év múlva Velencében meghalt
 
 
 </div></div>
-
-
----
-[^]: [[10. Beethoven operája.pdf\|10. Beethoven operája.pdf]]
-[^]: [[Általános zenetörténet IV. szemeszter - 4.tétel A német opera.pdf\|Általános zenetörténet IV. szemeszter - 4.tétel A német opera.pdf]]

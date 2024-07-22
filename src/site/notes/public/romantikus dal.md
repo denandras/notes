@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"romantikus dal.md","permalink":"/romantikus-dal/"}
 ---
 
-[[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
-
 > privát műfaj eleinte
 
 > lírai költemények strófikus/végigkomponált formában való megzenésítése
@@ -38,6 +36,3 @@ A Holdoz
 		- **végigkomponált**
 
 </div></div>
-
----
-[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]

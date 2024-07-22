@@ -49,6 +49,3 @@ Wolfgang Amadeus Mozart
 *[[David Carins - Mozart és operái\|David Carins - Mozart és operái]]*
 	- [[public/Le nozze di Figaro\|Le nozze di Figaro]] *([[public/opera buffa\|opera buffa]])*
 	- [[public/Idomeneo\|Idomeneo]] *([[public/opera seria\|opera seria]])*
-
----
-[^]: [[9. Mozart és a Singspiel.pdf\|9. Mozart és a Singspiel.pdf]]

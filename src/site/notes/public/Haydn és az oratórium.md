@@ -69,6 +69,3 @@
 	- szárazföldi állatok, ember
 3. rész
 	- hálaadás
-
----
-[^]: [[11. Haydn és az oratórium.pdf\|11. Haydn és az oratórium.pdf]]

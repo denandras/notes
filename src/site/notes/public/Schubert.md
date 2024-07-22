@@ -89,6 +89,3 @@ Ajánlott irodalom: [[public/Christopher H Gibbs - The life of Schubert\|Christo
 > 2. Andante con moto
 > 3. Scherzo - Allegro vivace, Trio
 > 4. Finale - Allegro vivace
-
----
-[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]

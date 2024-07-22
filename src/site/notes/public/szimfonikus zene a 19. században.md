@@ -26,6 +26,3 @@
 	- zene mint autonóm művészet
 	- [[public/Eduard Hanslick\|Eduard Hanslick]] - *a zenei szép*
 	- nem függ rajta kívüli tartalomtól, egyedül a hangokban és azok művészi összekapcsolásában rejlik szépsége, önmagukban vonzó hangzások
-
----
-[^]: [[Általános zenetörténet IV. szemeszter - 6.tétel Szimfonikus zene a 19.sz.ban.pdf\|Általános zenetörténet IV. szemeszter - 6.tétel Szimfonikus zene a 19.sz.ban.pdf]]

@@ -176,7 +176,7 @@
 - ellenállás a közepes prioritású ügyek csábításának
 	- nemcsak azokra kell tudni nemet mondani, amiket egyáltalán nem szeretnél megcsinálni, hanem azokra is, amiket **szeretnél, de nem elég fontosak**
 - az eredmény mindenképpen alulmúlja tökéletes elvárásainkat
-- [[Franz Kafka\|Franz Kafka]] szerelme, a valóság tökéletlensége
+- [[public/Franz Kafka\|Franz Kafka]] szerelme, a valóság tökéletlensége
 	- a döntés elkerülése
 - [[Henri Bergson - Idő és szabadság\|Henri Bergson - Idő és szabadság]]
 	- jobban szeretjük a reményt, mint a birtoklást

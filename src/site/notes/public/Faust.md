@@ -5,7 +5,7 @@
 [[public/Goethe\|Goethe]]
 
 - inspiráló műként szolgált számukra:
-	- [[Gounod\|Gounod]]
+	- [[public/Gounod\|Gounod]]
 	- [[public/Berlioz\|Berlioz]]
 	- [[public/Liszt\|Liszt]]
 	- [[Rubinstein\|Rubinstein]]

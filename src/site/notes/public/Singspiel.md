@@ -53,6 +53,3 @@
 </div></div>
 
 - [[public/Johann Adam Hiller\|Johann Adam Hiller]]
-
----
-[^]: [[9. Mozart és a Singspiel.pdf\|9. Mozart és a Singspiel.pdf]]

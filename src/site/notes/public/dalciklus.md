@@ -16,6 +16,3 @@
 - [[public/Schumann#Dalciklusai - 1840 (a dalok éve)\|Schumann]] [dalciklusai](Schumann)
 - [[public/Brahms\|Brahms]] dalciklusai
 - [[public/Hugo Wolf\|Hugo Wolf]]
-
----
-[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]

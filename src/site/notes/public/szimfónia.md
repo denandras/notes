@@ -71,6 +71,3 @@ Jan Stamic
 </div></div>
 
 - [[public/Mozart\|Mozart]] szimfóniái
-
----
-[^]: [[5. A szimfónia a 18. században.pdf\|5. A szimfónia a 18. században.pdf]]

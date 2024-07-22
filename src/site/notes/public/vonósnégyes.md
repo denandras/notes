@@ -41,6 +41,3 @@
 			- variációs lassú tétel a központban
 			- kontrapunktikusan fejtegeti a témát
 			- egyéni, gyötrelmes hangvétel
-
----
-[^]: [[4. A vonósnégyes a késő 18. és kora 19. században.pdf
