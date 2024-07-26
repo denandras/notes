@@ -33,6 +33,13 @@
 - [[Renaudas\|Renaudas]] & [[Bordurin\|Bordurin]] festők
 - [[public/Montaigne\|Montaigne]]
 - [[Barres\|Barres]] és [[Bourget\|Bourget]]
+- Candler karmester
+- Emperor Jones darab
+- Sean O'Casey
+- Synge
+- Britannicus darab
+- [[Michelet - Franciaország története\|Michelet - Franciaország története]]
+- 
 
 ### Vélemény
 
@@ -63,4 +70,26 @@
 
 > idézet:: a humanizmus minden emberi magatartást magába foglal és összeolvaszt. Ha az ember nyíltan szembeszáll vele, az ő malmára hajtja a vizet; a humanizmus éppen hogy ellentéteiből él.
 
-> idézet:: 
+> idézet:: Csakhogy ezt az esetlegességet úgy akarták legyőzni, hogy kitaláltak egy szükségszerű lényt, aki önmagának oka. Márpedig egy szükségszerű lény nem képes megmagyarázni a létet: az esetlegesség nem látszat, nem hamis látszat, amit szét lehet foszlatni; Az esetlegessé abszolútum, és ennek következtében a tökéletes véletlen. Minden véletlen: ez a kert, ez a város, én magam. Ha az ember olykor rádöbbenhete, felkavarodik a gyomron, és minden lebegni kezd
+
+> idézet:: A létezés nem olyan dolog, amit távolról is el lehet gondolni: hirtelen, egész súlyával a szívére kell nehezednie, akár egy hatalmas, mozdulatlan állatnak - vagy pedig nincsen többé semmi.
+
+> idézet:: Miközben az ágak inbolygását néztem, azt gondoltam magamban: a mozgás sohasem létezik egészen, a mozgás átmenet, közvetítő két létezés között, hangsúlytalan ütemrész. Fekészültem rá, hogy megfigyeljem a mozgásokat, amint kilépnek a semmiből, fokozatosan megérnek, kibomlanak; végre megleshetem a születés közben a létezést.
+
+> idézet:: Egyszerre csak léteztek, s azután egyszerre csak nem léteztek: a létezésbek nincs emlékezete; mindabból, ami elmúlt, nem őriz meg semmit - egyetlen kis emléket sem.
+
+> idézet:: egyedül a zenei dallamok hordják magukban büszkén, szükségszerűségként, tulajdon halálukat.
+
+> idézet:: Csöppet sem csodálkoztam, tudtam, hogy *ez* a Világ, a mezítelen Világ, amely egyszerre csak megmutatta magát, és fulladoztam a dűtől, annyira haragudtam erre az írdatlan, képtelen létre. Még azon sem tűnődtem el, hogy vajon honnan jön ez az egész, vajon hogyan lehetséges, hogy *a világ* létezik - és nem a *semmi*. És mindennek semmi értelme, a világ mindenütt jelen volt, mögöttem. És *mielőtt* a világ létezett volna, nem létezett semmi. Semmi. Olyan korszak nem volt, amikor a világnak lehetett volna nem léteznie. Ez idegesítette legjobban: hát persze, egy ilyen cseppfújós lárva létezésének *semmi oka, és semmi célja sincs*. De nem léteznie *nem lehetett*. Elképzelhetetlen volt: ahhoz, hogy az ember elképzelje a semmit, már ott kellett állnia a világ közepén, elevenen, tágra nyitott szemmel; a semmi nem egyéb, mint gondolat, amely ott lebeg a végtelenségben; ez a semmi nem a létezés *előtti* időből érkezett, maga is létezés, akár a többi, és egy sereg egyéb létezés *után* bukkant fel.
+
+> idézet:: A dolgok, mintha csak gondolatok lettek volna, félúton megakadtak, megfeledkeztek egymásról és önmagukról, elfelejtették, hogy mit is akartak gondolni, ott maradtak, imbolyogva, fura kis jelentés volt bennük, de túlnőtt rajtuk.
+
+232: találka
+
+> idézet:: Tudom. Tudom, hogy többé senkivel és semmivel sem találkozom, aki és ami szenvedélyt ébresztene bennem. Megszeretni valakit, az nagy vállalkozás. Energia szükséges hozzá, nemes érzelmek, elvakultság... Sőt, van egy pillanat, mindjárt az elején, amikor át kell ugrani egy szakadékot: ha az ember okoskodni kezd, nem teszi megm és én tudom, hogy soha többé nem ugrom át azon a szakadékon.
+
+> idézet:: De mindezeket a részleteket olyan nagyvonalúan és olyan sután ábrázolták, hogy tökéletes összhangban voltak a kép többi részével
+
+> idézet:: Azt hittem, hogy az ember ragyoghat a gyűlölettől vagy a haláltól. Micsoda tévedés! Igen, azt hittem, hogy létezik *a* Gyűlölet, hogy ráborul az emberekre, és fölemeli őket önmaguk fölé. És természetesen kizárólag *én* vagyok az, aki gyűlöl, kizárólag *én*, aki szeret.
+
+263: városok és természet
