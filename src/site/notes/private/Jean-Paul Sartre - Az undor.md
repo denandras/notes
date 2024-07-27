@@ -93,3 +93,9 @@
 > idézet:: Azt hittem, hogy az ember ragyoghat a gyűlölettől vagy a haláltól. Micsoda tévedés! Igen, azt hittem, hogy létezik *a* Gyűlölet, hogy ráborul az emberekre, és fölemeli őket önmaguk fölé. És természetesen kizárólag *én* vagyok az, aki gyűlöl, kizárólag *én*, aki szeret.
 
 263: városok és természet
+
+> idézet:: csinálni valamit, az annyi, mint megalapozni a létünket — és bőségesen elég lét van amúgy is.
+
+> idézet:: És a hangversenytermek tele vannak megalázott és megszomorított emberekkel, akik behunyják a szemüket, és sápadt arcukat megpróbálják felvevő antennává átalakítani. Azt képzelik, hogy az elfogott hangok végigfolynak bennük, hogy a hangok édesek és táplálóak [...], azt hiszik, hogy a szépség szánakozik rajtuk. A barmok.
+
+> idézet:: és a felszín alatt ott várakoztak mindazok a kellemetlen gondolatok, amelyek megfogalmazatlan kérdések, néma megdöbbenések alakjában jelentkeznak, s most már sem éjjel, sem nappal nem hagynak nyugton.
