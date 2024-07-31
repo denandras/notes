@@ -30,7 +30,8 @@
 - [ ] [[Costica Bradatan - Why Do Anything\|Costica Bradatan - Why Do Anything]] NY Times, 2016
 - [ ] [[Henri Bergson - Idő és szabadság\|Henri Bergson - Idő és szabadság]]
 - [ ] [[Robert Goodin - On Settling\|Robert Goodin - On Settling]]
-- [ ] [[Viktor Frankl - Az élet értelméről\|Viktor Frankl - Az élet értelméről]]
+- [[Viktor Frankl\|Viktor Frankl]]
+	- [ ] [[Viktor Frankl - Az élet értelméről\|Viktor Frankl - Az élet értelméről]]
 - [ ] [[Seneca - Az élet rövidségéről\|Seneca - Az élet rövidségéről]]
 - [ ] [[Mary Oliver\|Mary Oliver]] költő
 - [ ] [[Harry Frankfurt\|Harry Frankfurt]] filozófus

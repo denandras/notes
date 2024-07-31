@@ -52,6 +52,33 @@
 	- pszichoanalitikusan orientált csoportok
 	- maratoni csoportok
 	- vezető nélküli, magnószalag által irányított csoportok
+- [[Stefan Zweig\|Stefan Zweig]] (máshol említve [[Stefan Zweig - Tegnap világa\|Stefan Zweig - Tegnap világa]])
+- [[Franz Werfel\|Franz Werfel]]
+- [[Arthur Schnitzler\|Arthur Schnitzler]]
+- [[Robert Musil\|Robert Musil]]
+- [[Joseph Roth\|Joseph Roth]]
+- [[Irvin D Yalom - Amikor Nietzsche sírt\|Irvin D Yalom - Amikor Nietzsche sírt]]
+- [[Irvin D Yalom - A terápia ajándéka\|Irvin D Yalom - A terápia ajándéka]]
+- [[Irvin D Yalom - Egzisztenciális pszichoterápia\|Irvin D Yalom - Egzisztenciális pszichoterápia]]
+- [[Irvin D Yalom - Minden nappal közelebb\|Irvin D Yalom - Minden nappal közelebb]]
+- [[Sigmund Freud\|Sigmund Freud]]
+	- mentora, [[Josef Breuer\|Josef Breuer]]
+- [[Viktor Frankl\|Viktor Frankl]]
+	- [[Viktor Frankl - Mégis mondj igent az életre\|Viktor Frankl - Mégis mondj igent az életre]]
+	- logoterápia (elég brutális terápiás módszer)
+- [[Gustav Klimt\|Gustav Klimt]]
+- [[Egon Schiele\|Egon Schiele]]
+- [[Van Gogh\|Van Gogh]]
+- [[Hoffmann meséi\|Hoffmann meséi]] opera
+- [[Hans Steiner\|Hans Steiner]]
+- [[Rollo May\|Rollo May]]
+- [[Kuroszava Akira - A vihar kapujában\|Kuroszava Akira - A vihar kapujában]] film
+- [[Nathaniel Hawthorne - Kétszer elmesélt történetek\|Nathaniel Hawthorne - Kétszer elmesélt történetek]]
+- [[Ernest Hemingway\|Ernest Hemingway]]
+- [[Irvin D Yalom, Marilyn - Hemingway - Egy pszichiátriai elemzés\|Irvin D Yalom, Marilyn - Hemingway - Egy pszichiátriai elemzés]]
+	- [[Alekszej Tolsztoj\|Alekszej Tolsztoj]]
+	- [[Conrad\|Conrad]]
+	- [[public/Albert Camus\|Albert Camus]]
 ### Idézetek
 
 > idézet:: Az előző nap emlékei huss, elszállnak. Minden kitörlődik az agyamból [...] nem olyan rossz ez. Nem is olyan rossz.

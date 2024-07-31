@@ -39,13 +39,15 @@
 - Synge
 - Britannicus darab
 - [[Michelet - Franciaország története\|Michelet - Franciaország története]]
-- 
-
 ### Vélemény
 
 - vannak benne érdekes részek, de elenyésző
 - a leíró részek unalmasak
-- a könyv felénél megőrül a csávó
+- a könyv felénél megőrül a csávó, elkezd élni a szó legmeditatívabb értelmében
+	- innentől fogva csak azt vártam, hogy végre találkozzon szerelmével
+- kettejük beszélgetése nagyon érdekes, azt hiszi főszereplőnk, hogy nem gondolja magát főszereplőként, mégis értelmetlenné válik élete a nő nélkül
+- egy magát sztoikusnak gondoló szerelmes gondolatai
+- a nő már nem tud szenvedélyes lenni
 ### Idézetek
 
 > idézet:: *ez* az undor. Az undor nem bennem van: érzem, hogy *ott van* a falon, a nadrágtartón, mindenütt körülöttem. Teljes egységben van a kávéházzal, én pedig benne vagyok.
