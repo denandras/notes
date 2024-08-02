@@ -18,6 +18,6 @@
 
 - [[public/posztmodern\|posztmodern művészet és művészetelmélet]]
 
-> Ebben a tudástárban találhatók üres oldalak, amik a kapcsolódások miatt fontosak.
+> Ebben a tudástárban találhatók #üres oldalak, amik a kapcsolódások miatt fontosak. Megtalálod továbbá [[private/Olvasott könyvek\|olvasott és kijegyzetelt könyveimet]], valamint [[public/idézetek\|idézetek]]et is.
 
 > Ha elírást találtál vagy más jegyzettel egészítenéd ki az oldalt, [írj egy emailt](mailto:contact@andrasdenes.com)!

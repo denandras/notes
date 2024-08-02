@@ -42,7 +42,7 @@
 
 - irodalomban
 - szkepszis
-- Sigmund [[Sigmund Freud\|Sigmund Freud]] pszichoanalízis-elmélete
+- Sigmund [[private/Sigmund Freud\|Sigmund Freud]] pszichoanalízis-elmélete
 	- a tudattalant soha sem érhetjük el, de irányít minket
 - csoport-, genderalapú politizálás
 - művészet

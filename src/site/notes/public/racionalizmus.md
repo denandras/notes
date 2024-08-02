@@ -4,6 +4,6 @@
 
 - [[public/René Descartes\|René Descartes]]
 - [[Baruch Spinosa\|Baruch Spinosa]]
-- [[Gottfried Leibnitz\|Gottfried Leibnitz]]
+- [[private/Gottfried Leibnitz\|Gottfried Leibnitz]]
 
 - [[public/empirizmus\|empirizmus]]

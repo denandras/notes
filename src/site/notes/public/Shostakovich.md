@@ -65,7 +65,7 @@
 	- 1934
 	- [[Nyikolaj Szemjonovics Leszkov\|Nyikolaj Szemjonovics Leszkov]] író
 		- nem egy nagy név
-		- [[Dosztojevszkij\|Dosztojevszkij]] lapjában jelenik meg
+		- [[private/Dosztojevszkij\|Dosztojevszkij]] lapjában jelenik meg
 	- egy nő gyilkolászik össze-vissza (3 gyilkosság, 1 gyilkosság)
 		- megpróbál környezetéből valahogy kiemelkedni
 	- egyik szereplő szörnyebb, mint a másik
@@ -224,7 +224,7 @@
 	- rengetegen sírtak
 	- 35 percig tartott a taps
 	- nem jelent meg kritika a következő napokban
-	- [[Alekszej Tolsztoj\|Alekszej Tolsztoj]] hetek múlva: fontos és jó mű, [[public/Shostakovich\|Shostakovich]] nagy zeneszerző, arról szól, hogy [[Sztálin\|Sztálin]] elvtárs vezet bennünket
+	- [[private/Alekszej Tolsztoj\|Alekszej Tolsztoj]] hetek múlva: fontos és jó mű, [[public/Shostakovich\|Shostakovich]] nagy zeneszerző, arról szól, hogy [[Sztálin\|Sztálin]] elvtárs vezet bennünket
 	- megbocsájtumk neki? - eml. *Testamentum*
 		- átmenetileg
 - *6. szimfónia*

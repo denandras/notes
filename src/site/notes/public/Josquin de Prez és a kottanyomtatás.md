@@ -40,7 +40,7 @@
             -   150-200 hercegséghez elkerült, de szűk elit privilégiuma volt a kottavásárlás
         -   rányomtatta a vonalakat, majd kottát, szöveget, és egyebet
         -   néhány évvel későbbi kiadvány csak Josquin darabjait tartalmazza
--   **[[Attaignant\|Attaignant]]** új módszere
+-   **[[public/Attaignant\|Attaignant]]** új módszere
     -   betűfémhez hasonló "kottafém"
         -   nem annyira szép, mint [[Ottavio Petrucci\|Ottavio Petrucci]]é
     -   kapcsolat a betűkkel, ligatúra jelentése

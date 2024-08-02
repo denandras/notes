@@ -189,7 +189,7 @@ egy év múlva Velencében meghalt
 	- állandóan színházba járt fiatalon, erősen hatott rá a **hangolás**
 		- *A Rajna kincse* - első 136 ütem Esz-dúr
 - filozófus barátai voltak
-	- az egyik [[Nietzsche\|Nietzsche]], aki tervez neki egy címert rajta a göncölszekérrel és egy keselyűvel (Wagen + Geier)
+	- az egyik [[private/Friedrich Nietzsche\|Friedrich Nietzsche]], aki tervez neki egy címert rajta a göncölszekérrel és egy keselyűvel (Wagen + Geier)
 - 1813: Lipcse
 - kisiskolás -> Drezda
 - 1828: Lipcse, [[public/Christian Theodor Weinlig\|Christian Theodor Weinlig]]

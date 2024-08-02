@@ -3,3 +3,5 @@
 ---
 
 #üres 
+- [[Albert Camus - Közöny\|Albert Camus - Közöny]]
+- [[Albert Camus - Az idegen\|Albert Camus - Az idegen]]

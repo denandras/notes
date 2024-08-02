@@ -3,6 +3,10 @@
 ---
 
 # Úton önmagamhoz
+### Idegen szavak
+
+- hübrisz
+- voyerizmus
 ### Említések
 
 - [[public/Franz Kafka\|Franz Kafka]]
@@ -12,35 +16,29 @@
 	- [[Albert Camus - Az idegen\|Albert Camus - Az idegen]]
 - [[public/Jean-Paul Sartre\|Jean-Paul Sartre]]
 	- [[private/Jean-Paul Sartre - Az undor\|Jean-Paul Sartre - Az undor]]
-- neo[[Sigmund Freud\|freud]]iánus szemlélet
+- neo[[private/Sigmund Freud\|freud]]iánus szemlélet
 	- interperszonális kapcsolatok jelentősége
-	- [[Harry Stack Sullivan\|Harry Stack Sullivan]]
-	- [[Karen Horney\|Karen Horney]]
-		- [[Karen Horney - A neurózis és az emberi fejlődés\|Karen Horney - A neurózis és az emberi fejlődés]]
-	- [[Erich Fromm\|Erich Fromm]]
-- ortodox [[Sigmund Freud\|freud]]i szemlélet
+	- [[private/Harry Stack Sullivan\|Harry Stack Sullivan]]
+	- [[private/Karen Horney - A neurózis és az emberi fejlődés\|Karen Horney - A neurózis és az emberi fejlődés]]
+	- [[private/Erich Fromm\|Erich Fromm]]
+- ortodox [[private/Sigmund Freud\|freud]]i szemlélet
 	- a kisgyermekkorban tapasztaltak a fontosak
-- [[Rollo May - Existence\|Rollo May - Existence]]
 - [[Philippe Pinel\|Philippe Pinel]]
-- [[Epikurosz\|Epikurosz]]
-- [[Marcus Aurelius\|Marcus Aurelius]]
+- [[private/Epikurosz\|Epikurosz]]
+- [[private/Marcus Aurelius\|Marcus Aurelius]]
 - [[public/Montaigne\|Montaigne]]
-- [[John Locke\|John Locke]]
-- [[Bertrand Russell - A nyugati filozófia története\|Bertrand Russell - A nyugati filozófia története]]
-- [[voyeurizmus\|voyeurizmus]]
-- [[Archives of General Psychiatry\|Archives of General Psychiatry]]
-- [[Reuel Denny\|Reuel Denny]]
-	- [[Reuel Denny - A magányos tömeg\|Reuel Denny - A magányos tömeg]]
-- Rudh (Denny?)
-- [[Átokföldje\|Átokföldje]]
+- [[private/John Locke\|John Locke]]
+- [[private/Bertrand Russell - A nyugati filozófia története\|Bertrand Russell - A nyugati filozófia története]]
+- Archives of General Psychiatry
+- [[private/Reuel Denny - A magányos tömeg\|Reuel Denny - A magányos tömeg]]
+- [[private/T S Eliot - Átokföldje\|T S Eliot - Átokföldje]]
 - Marilyn
 	- A per motívuma [[public/Franz Kafka\|Franz Kafka]] és [[public/Albert Camus\|Albert Camus]] munkáiban
 - lacani analitikus (képzés/szemlélet)
 - ikonoklazmus
-- [[Daphne du Maurier\|Daphne du Maurier]]
-- [[Ronald Fairbairn\|Ronald Fairbairn]], [[D. W. Winnicott\|D. W. Winnicott]]
-- [[Alex Comfort\|Alex Comfort]]
-	- [[Alex Comfort - A szex öröme\|Alex Comfort - A szex öröme]]
+- [[private/Daphne du Maurier\|Daphne du Maurier]]
+- [[private/Ronald Fairbairn\|Ronald Fairbairn]], [[private/D. W. Winnicott\|D. W. Winnicott]]
+- [[private/Alex Comfort - A szex öröme\|Alex Comfort - A szex öröme]]
 - kísérleti csoportok
 	- hagyományos NTL T-csoportok
 	- encounter (önfejlesztő) csoportok
@@ -52,33 +50,66 @@
 	- pszichoanalitikusan orientált csoportok
 	- maratoni csoportok
 	- vezető nélküli, magnószalag által irányított csoportok
-- [[Stefan Zweig\|Stefan Zweig]] (máshol említve [[Stefan Zweig - Tegnap világa\|Stefan Zweig - Tegnap világa]])
-- [[Franz Werfel\|Franz Werfel]]
-- [[Arthur Schnitzler\|Arthur Schnitzler]]
-- [[Robert Musil\|Robert Musil]]
-- [[Joseph Roth\|Joseph Roth]]
-- [[Irvin D Yalom - Amikor Nietzsche sírt\|Irvin D Yalom - Amikor Nietzsche sírt]]
-- [[Irvin D Yalom - A terápia ajándéka\|Irvin D Yalom - A terápia ajándéka]]
-- [[Irvin D Yalom - Egzisztenciális pszichoterápia\|Irvin D Yalom - Egzisztenciális pszichoterápia]]
-- [[Irvin D Yalom - Minden nappal közelebb\|Irvin D Yalom - Minden nappal közelebb]]
-- [[Sigmund Freud\|Sigmund Freud]]
-	- mentora, [[Josef Breuer\|Josef Breuer]]
-- [[Viktor Frankl\|Viktor Frankl]]
+- [[private/Stefan Zweig\|Stefan Zweig]]
+- [[private/Franz Werfel\|Franz Werfel]]
+- [[private/Arthur Schnitzler\|Arthur Schnitzler]]
+- [[private/Robert Musil\|Robert Musil]]
+- [[private/Joseph Roth\|Joseph Roth]]
+- [[private/Irvin D Yalom\|Irvin D Yalom]]
+	- [[private/Irvin D Yalom - Amikor Nietzsche sírt\|Irvin D Yalom - Amikor Nietzsche sírt]]
+	- [[Irvin D Yalom - A terápia ajándéka\|Irvin D Yalom - A terápia ajándéka]]
+	- [[Irvin D Yalom - Egzisztenciális pszichoterápia\|Irvin D Yalom - Egzisztenciális pszichoterápia]]
+	- [[Irvin D Yalom - Minden nappal közelebb\|Irvin D Yalom - Minden nappal közelebb]]
+	- [[Irvin D Yalom - A magyar macska átka\|Irvin D Yalom - A magyar macska átka]]
+- [[private/Sigmund Freud\|Sigmund Freud]]
+	- mentora, [[private/Josef Breuer\|Josef Breuer]]
+- [[private/Viktor Frankl\|Viktor Frankl]]
 	- [[Viktor Frankl - Mégis mondj igent az életre\|Viktor Frankl - Mégis mondj igent az életre]]
 	- logoterápia (elég brutális terápiás módszer)
-- [[Gustav Klimt\|Gustav Klimt]]
-- [[Egon Schiele\|Egon Schiele]]
-- [[Van Gogh\|Van Gogh]]
-- [[Hoffmann meséi\|Hoffmann meséi]] opera
-- [[Hans Steiner\|Hans Steiner]]
-- [[Rollo May\|Rollo May]]
+- [[private/Gustav Klimt\|Gustav Klimt]]
+- [[private/Egon Schiele\|Egon Schiele]]
+- [[private/Van Gogh\|Van Gogh]]
+- [[private/Hoffmann meséi\|Hoffmann meséi]] opera
+- [[private/Hans Steiner\|Hans Steiner]]
+- [[private/Rollo May - Existence\|Rollo May - Existence]]
 - [[Kuroszava Akira - A vihar kapujában\|Kuroszava Akira - A vihar kapujában]] film
-- [[Nathaniel Hawthorne - Kétszer elmesélt történetek\|Nathaniel Hawthorne - Kétszer elmesélt történetek]]
-- [[Ernest Hemingway\|Ernest Hemingway]]
-- [[Irvin D Yalom, Marilyn - Hemingway - Egy pszichiátriai elemzés\|Irvin D Yalom, Marilyn - Hemingway - Egy pszichiátriai elemzés]]
-	- [[Alekszej Tolsztoj\|Alekszej Tolsztoj]]
+- [[private/Nathaniel Hawthorne - Kétszer elmesélt történetek\|Nathaniel Hawthorne - Kétszer elmesélt történetek]]
+- [[private/Ernest Hemingway\|Ernest Hemingway]]
+- [[Irvin D Yalom, Marilyn Yalom - Hemingway - Egy pszichiátriai elemzés\|Irvin D Yalom, Marilyn Yalom - Hemingway - Egy pszichiátriai elemzés]]
+	- [[private/Alekszej Tolsztoj\|Alekszej Tolsztoj]]
 	- [[Conrad\|Conrad]]
 	- [[public/Albert Camus\|Albert Camus]]
+- [[private/Nikosz Kazantzakisz\|Nikosz Kazantzakisz]]
+	- [[private/Nikosz Kazantzakisz - Krisztus utolsó megkísértése\|Nikosz Kazantzakisz - Krisztus utolsó megkísértése]]
+	- Odüsszeia
+- [[Marylin Yalom\|Marylin Yalom]]
+	- [[Marylin Yalom - A History of the Breast\|Marylin Yalom - A History of the Breast]]
+- filozófia
+	- [[private/Edmund Husserl\|Edmund Husserl]]
+	- [[private/Martin Heidegger - Lét és idő\|Martin Heidegger - Lét és idő]] (ködös, de lenyűgöző)
+	- [[private/Kierkegaard\|Kierkegaard]]
+	- [[private/Friedrich Nietzsche\|Friedrich Nietzsche]]
+	- [[private/Schopenhauer\|Schopenhauer]]
+	- [[private/Epikurosz\|Epikurosz]]
+	- [[private/Lucretius\|Lucretius]]
+	- [[private/Immanuel Kant\|Immanuel Kant]]
+	- [[private/Gottfried Leibnitz\|Gottfried Leibnitz]] Leibniz?
+	- [[private/Edmund Husserl\|Edmund Husserl]]
+	- [[private/Kierkegaard\|Kierkegaard]]
+- egzisztencialista alkotók
+	- [[private/Dosztojevszkij\|Dosztojevszkij]]
+	- [[private/Lev Tolsztoj\|Lev Tolsztoj]]
+	- [[private/Samuel Beckett\|Samuel Beckett]]
+	- [[private/Milan Kundera\|Milan Kundera]]
+	- [[private/Hesse\|Hesse]]
+	- [[private/Mutis\|Mutis]]
+	- [[private/Hamsun\|Hamsun]]
+- halállal kapcsolatos
+	- [[public/Platón\|Platón]]
+	- [[private/Lev Tolsztoj - Ivan Iljics halála\|Lev Tolsztoj - Ivan Iljics halála]]
+	- [[private/Jacques Choron - Death and Western Thought\|Jacques Choron - Death and Western Thought]]
+	- [[private/Ernest Becker - Denial of Death\|Ernest Becker - Denial of Death]]
+	- [[private/Elisabeth Kübler-Ross\|Elisabeth Kübler-Ross]]
 ### Idézetek
 
 > idézet:: Az előző nap emlékei huss, elszállnak. Minden kitörlődik az agyamból [...] nem olyan rossz ez. Nem is olyan rossz.

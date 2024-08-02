@@ -9,7 +9,7 @@
 - példa: Rolls Royce hűtőrácsa -- antik görög homlokzat
 - építészet: nem csak épít, hanem az ember alkotta mesterséges tereket formálja
 - (exkluzív) piramisok -> <- inkluzív antik görög építészet
-	- gondolatok [[Nietzsche\|Nietzsche]]től
+	- gondolatok [[private/Friedrich Nietzsche\|Friedrich Nietzsche]]től
 		- görögök fokozatosan megtanulták szervezetté tenni a káoszt
 		- saját szükségleteikre formálták a világukat
 		- a kultúra több, mint az élet dekorációja - élet, gondolkodás, látszat és akarás egyetmondása

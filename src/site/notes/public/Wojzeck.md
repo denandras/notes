@@ -11,7 +11,7 @@
 	- nem teljesen ép elméjű?
 	- nem normális, de a tette súlyát ismerte -> kivégezték
 		- egyetemi ifjúság nem fogadta el [[Johann Christian August Clarus\|Johann Christian August Clarus]] szakvéleményét
-		- [[Georg Büchner\|Georg Büchner]]hez elkerült a szakvélemény
+		- [[public/Georg Büchner\|Georg Büchner]]hez elkerült a szakvélemény
 			- 5 testvér, apjuk orvos
 			- 1813-1837
 			- írások -> operák cselekményeivé lettek később

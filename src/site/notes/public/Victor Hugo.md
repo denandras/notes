@@ -6,4 +6,4 @@
 - milyen szép is a gótika -> neogótikus épületek, angol parlament
 - *A Király mulat* dráma
 	- púpos bohóc, tüdővészes szajha
-- divattá teszi ezt a fajta érzékenyítést -> [[Georg Büchner\|Georg Büchner]] - *Woyzeck*
+- divattá teszi ezt a fajta érzékenyítést -> [[public/Georg Büchner\|Georg Büchner]] - *Woyzeck*

@@ -7,10 +7,10 @@
 
 - [ ] [[Edward T Hall\|Edward T Hall]]
 - [ ] [[Malcolm Harris\|Malcolm Harris]]
-- [ ] [[Carl Jung\|Carl Jung]]
+- [ ] [[private/Carl Jung\|Carl Jung]]
 - [ ] [[Gary Eberle\|Gary Eberle]]
 - [ ] [[Mumford - Technics and Civilization\|Mumford - Technics and Civilization]]
-- [ ] [[Nietzsche\|Nietzsche]] 1887-es esszéje a multitasking egészségtelenségéről ([[Nietzsche - A vidám tudomány\|Nietzsche - A vidám tudomány]])
+- [ ] [[private/Friedrich Nietzsche\|Friedrich Nietzsche]] 1887-es esszéje a multitasking egészségtelenségéről ([[Nietzsche - A vidám tudomány\|Nietzsche - A vidám tudomány]])
 - [ ] [[Brian Tracy - Tartsd kézben az időt, tartsd kézben az életedet\|Brian Tracy - Tartsd kézben az időt, tartsd kézben az életedet]]
 - [ ] [[Beuce Tift - Already Free\|Beuce Tift - Already Free]] pszichiáter
 - [ ] [[Morten Svenstrup - Towards a New Time Culture\|Morten Svenstrup - Towards a New Time Culture]]
@@ -30,13 +30,13 @@
 - [ ] [[Costica Bradatan - Why Do Anything\|Costica Bradatan - Why Do Anything]] NY Times, 2016
 - [ ] [[Henri Bergson - Idő és szabadság\|Henri Bergson - Idő és szabadság]]
 - [ ] [[Robert Goodin - On Settling\|Robert Goodin - On Settling]]
-- [[Viktor Frankl\|Viktor Frankl]]
+- [[private/Viktor Frankl\|Viktor Frankl]]
 	- [ ] [[Viktor Frankl - Az élet értelméről\|Viktor Frankl - Az élet értelméről]]
 - [ ] [[Seneca - Az élet rövidségéről\|Seneca - Az élet rövidségéről]]
 - [ ] [[Mary Oliver\|Mary Oliver]] költő
 - [ ] [[Harry Frankfurt\|Harry Frankfurt]] filozófus
 - [ ] [[James Williams - Stand Out for Our Light\|James Williams - Stand Out for Our Light]]
-- [ ] [[T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
+- [ ] [[private/T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
 - [ ] [[Gregg Krech - The Art of taking Action\|Gregg Krech - The Art of taking Action]]
 - [ ] [[John Tarrant - You Don't Have to Know\|John Tarrant - You Don't Have to Know]]
 - [ ] [[David Cain - You Never Have Time, Only Intentions\|David Cain - You Never Have Time, Only Intentions]]
@@ -223,7 +223,7 @@
 > idézet:: csak a közösségi média van úgy kitalálva, hogy a megfelelő gombokat nyomogassa a lelkemben azért, hogy a figyelmemet továbbra is fenntartsa. Nem csoda hát, hogy a valóság többi része olykor képtelen versenyezni
 
 > idézet:: valami elterelte a figyelmünket arról, hogy valami elterelte a figyelmünket
-> [[T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
+> [[private/T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
 
 ### A belső megszakító
 
@@ -394,7 +394,7 @@
 	- Min változtatnál, ha nem azt néznéd, lesz-e a cselekedeteidnek gyümölcse?
 		- Milyen tevékenységeket éreznél fontosnak, ha nem lenne az életedben belátható következménye tetteidnek?
 - a lemondást követően kihozhatod magadból a legtöbbet
-- *Szép csendben tedd csak a következő legszükségesebb dolgot. Ha úgy érzed, nem tudod, mi az, az azt jelenti, sok pénzed van, amit értelmetlen spekulációkra költhet.* ([[Carl Jung\|Carl Jung]])
+- *Szép csendben tedd csak a következő legszükségesebb dolgot. Ha úgy érzed, nem tudod, mi az, az azt jelenti, sok pénzed van, amit értelmetlen spekulációkra költhet.* ([[private/Carl Jung\|Carl Jung]])
 
 > idézet:: Azért nem tudunk az életünk pillanatai fölé kerekedni, mert mi magunk vagyunk azok a pillanatok.
 

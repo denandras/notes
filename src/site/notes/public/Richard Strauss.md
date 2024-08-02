@@ -7,7 +7,7 @@
 - szemben áll a normális világgal
 - szecesszió
 	- van-e a zenében?
-	- [[Gustav Klimt\|Gustav Klimt]] - Csók
+	- [[private/Gustav Klimt\|Gustav Klimt]] - Csók
 	- [[zak\|zak]] építészete és freskója az első emeleten
 	- Kecskemét
 	- Nagyvárad
@@ -59,7 +59,7 @@
 		- kigúnyolja a tudományt
 		- stb., elfogják, felakasztják, de szelleme örökké él
 	- *Also sprach Zarathustra* (egy istenség kipróbálja a világot, nem tetszik neki, visszamegy a sajátjába)
-		- [[Nietzsche\|Nietzsche]] szövegére
+		- [[private/Friedrich Nietzsche\|Friedrich Nietzsche]] szövegére
 		- Zarathustra találkozik az undorító tudománnyal, fúga
 			- dodekafón téma, csúnya
 		- elundorodik a világtól

@@ -13,14 +13,14 @@
 	- ismeretelmélet
 	- félreértettük Platónt, az eredmények felszíniek
 - [[Mátrix\|Mátrix]]: ez nem az igazi világ -> végtelen regresszus, szkepticizmus
-- előzmény: [[Nietzsche\|Nietzsche]]
+- előzmény: [[private/Friedrich Nietzsche\|Friedrich Nietzsche]]
 	- modernitással kapcsolatos kritika
 	- mindannyian Übermenschekké válhatunk
 		- gyávák vagyunk bevallani, hogy nincs cél, de aki bátor ezt belátni, Übermensch
 	- ha a tigrisek verődnek nyájjá, az is nyáj
 	- ismerte [[public/Wagner\|Wagner]]t
 - pszichoanalízis
-	- [[Sigmund Freud\|Sigmund Freud]]
+	- [[private/Sigmund Freud\|Sigmund Freud]]
 		- az emberi gondolkodás nem tudja kezelni magát a tudattalan jelenléte miatt
 		- nem az észhasználat a lényeges
 	- [[Jacques Lacan\|Jacques Lacan]]

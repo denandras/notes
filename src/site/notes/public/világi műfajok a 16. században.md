@@ -5,7 +5,7 @@
 -   francia területeken lévő műfajok
 -   kottanyomtatás
     -   [[Petrucci\|Petrucci]] - igényes, de túl aprólékos
-    -   [[Attaignant\|Attaignant]]
+    -   [[public/Attaignant\|Attaignant]]
     -   szólamok külön füzetben
 -   **vokális kamarazenék, otthon**
     -   **[[párizsi chanzon\|párizsi chanzon]]**

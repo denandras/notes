@@ -68,7 +68,7 @@
 	- *3. szimfónia*
 		- 6 tétel
 		- 4-5. vokális
-		- [[Nietzsche\|Nietzsche]] (*Also Sprach Sarathustra*-idézet később megtagadva)
+		- [[private/Friedrich Nietzsche\|Friedrich Nietzsche]] (*Also Sprach Sarathustra*-idézet később megtagadva)
 			- `+` *Des Knaben Wunderhorn*
 	- *4. G-dúr*
 		- utolsó tételben szoprán szóló
