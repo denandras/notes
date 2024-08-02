@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Irvin D Yalom - Úton önmagamhoz.md","permalink":"/egyeb/irvin-d-yalom-uton-oenmagamhoz/","title":"Úton önmagamhoz"}
+{"dg-publish":true,"dg-path":"egyéb/Irvin D Yalom - Úton önmagamhoz.md","permalink":"/egyeb/irvin-d-yalom-uton-oenmagamhoz/"}
 ---
 
 # Úton önmagamhoz
