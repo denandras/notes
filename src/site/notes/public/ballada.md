@@ -17,7 +17,6 @@
 	- az anyja volt a felbujtó
 	- **[[public/Carl Loewe\|Carl Loewe]]** megzenésítése
 		- **végigkomponálva**
-		- 
 	- **[[public/Schubert\|Schubert]]** - *Eine altschottische Ballade*
 		- 3 verzió
 		- `3.` - (1895)

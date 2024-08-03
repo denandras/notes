@@ -4,7 +4,7 @@
 
 ## [SOS email](mailto:denesandras@akademista.hu)
 
-## [LFZE - Információk felvett hallgatók részére](https://lfze.hu/tanulmanyi-hirek/informaciok-felvett-hallgatok-reszere-125156)
+## [LFZE - Információk felvett hallgatók részére](https://lfze.hu/felveteli-hirek/informaciok-felvett-hallgatok-reszere-126184)
 
 - diákigazolvány
 	- az előző félévi **okt. 31-ig** jó
@@ -12,14 +12,16 @@
 		- előbb jelentkezz be, mint hogy kiválasztanád az ügykört!
 	- Neptun -> Ügyintézés/Diákigazolvány igénylés
 	- kapsz egy ideigleneset (dokumentum) a TO-n
+	- nem összekeverendő a jogviszonnyal: a képzések között (BA/MA/TMA/Doktori a diákigazolvány nem jogosít fel pl. társadalombiztosításra, ezzel szemben diákkal ugyanúgy vehetsz diákjegyet)
 - [tanév rendje](https://lfze.hu/tanev-rendje)
 
 ## Általános infók
 
-- [Honlap](https://www.lfze.hu)
-	- nem összetévesztendő a *zeneakademia.hu* oldallal, ami a koncertlátogató vendégeknek van
+- [lfze.hu](https://www.lfze.hu)
+	- nem összetévesztendő a *zeneakademia.hu* oldallal, ami a koncertlátogató vendégeknek van (nincsenek fent pl. egyes diplomakoncertek)
 	- az aloldalakon a felhasználónév és a jelszó a Neptun adatokkal kitöltendő
 - [LFZE Facebook Tanulmányi Hirdető](https://www.facebook.com/lfzehallgatoknak)
+- [LFZE dokumentumtár](https://apps.lfze.hu/netfolder)
 
 >  sokszori kitöltés megelőzhető egy egyszerű webes link elkészítésével és elmentésével (könyvjelzőként): https://**felhasználó**:**jelszó**@apps.lfze.hu/scheduler/query/form
 
@@ -53,8 +55,8 @@
 		- két nappal a gyakorlás ideje előtt foglalható [itt](http://gyakorlas.lisztakademia.hu/home)
 		- max. 4 óra/nap (nem tisztességes pepitában, lyukakat hagyva foglalni)
 	- kürt & trombita -> néha a Semmelweis utcai épületben is találni szabad termet
-- kamara
-	- [kamara foglalás](https://lfze.hu/tanulmanyi-hirek/kamarazene-gyakorlofoglalas-119863)
+- [kamara](https://lfze.hu/tanulmanyi-hirek/tudnivalok-a-202324-es-tanev-i-felevi-kamarazene-oktatasarol-125129)
+	- [kamara teremfoglalás](https://lfze.hu/tanulmanyi-hirek/kamarazene-gyakorlofoglalas-119863)
 		- csak meghatározott célra (pl. órára való készülés/verseny) adják ki
 		- [email](teremfoglalas@academy.liszt.hu)
 	- kamaracsoportokba szerveződésnél fontos lehet előre megbeszélni, hogy ki milyen rendszerességgel próbálna
@@ -64,7 +66,6 @@
 - tanszakik
 	- egyetlen tanszaki/félév
 	- szervezzetek magatoknak közös órákat
-
 ## [Neptun](https://neptun.lfze.hu/hallgato/login.aspx)
 
 - mit tehet az ügyintéző?
@@ -91,11 +92,12 @@
 		- ezeket érdemes a többi órához igazítani
 	- aláírás(?) csoportos óráknál
 	- kamaránál, főtárgynál nem kőbevésett tény az órarend
-
 ## Közélet
 
-- [HÖK](https://lfze.hu/hallgatoknak/hallgatoi-onkormanyzat-118419)
+- [HÖK](https://hok.lfze.hu/) (Hallgatói Önkormányzat)
 	- fordulj hozzánk bátran!
+		- irodánkban (Wesselényi első iroda jobbra)
+		- [online](https://hok.lfze.hu/kapcsolat/)
 	- feladatok
 		- W52 szekrényürítés
 		- gólyatábor, dux-tábor
@@ -106,24 +108,26 @@
 		- ==ÚJ==: [W52 teakonyha](https://hok.lfze.hu/2024/06/w52-teakonyha/)
 	- közgyűlési tag lehetsz
 		- legfontosabb hallgatói döntések, 16 hallgató, évfolyamonként
-			- HÖK, DJB tagjainak megszavazása
+			- **HÖK, DJB tagjainak megszavazása** - ==enélkül nem határozatképes a HÖK és a DJB -> juttatások késése várható==
 		- kevés feladat
 		- félévente 2 óra, 2000 Ft fizu
-		- elsőkézből értesülhetsz mindenről
-		- bármilyen kérdést feltehetsz
-	- bizottságok
+		- elsőkézből értesülhetsz mindenről, ami közügy
+		- bármilyen kérdést feltehetsz, javaslatot tehetsz
+	- bizottságok (jelentkezhetsz a közgyűlésen bizottsági tagnak)
 		- választási biz., kiértékelő biz., ellenőrző biz. (a hököt, papírjait)
 	- [HÖOK](https://hook.hu/cms/szervezetunk)
 		- a magyarországi felsőoktatási intézmények hallgatói önkormányzatainak demokratikus alapon szerveződő és működő országos érdekképviseleti szervezete
 		- kapcsolatépítésre kiváló
 - DJB
-	- szociális támogatások
+	- szociális támogatások, kurzus- és versenytám, EGT-támogatás
+	- részletek a [HÖK honlapján](hok.lfze.hu)
 
 ## Órák
+
 - hiányzások
 	- minden felvett órarend szerint megtartott óra (tehát kivéve mesterkurzus, stb.) háromszorosát lehet hiányozni, azután a tanár jóindulatán múlik a félév aláírása
 	- igazolás nem szükséges
-	- a Zeneakadémia által szervezett programok nem számítanak bele ebbe a maximumba (koncert, zenekar, díjátadó, egyéb)
+	- a Zeneakadémia által szervezett programok nem számítanak bele ebbe a maximumba (koncert, zenekar, díjátadó, egyéb), **egyeztetni kell a tanárral**
 - órák anyagai
 	- [ezen a linken](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok) elérhető a tanárok által feltöltött egyetemi anyag
 - zenekarok
@@ -142,10 +146,12 @@
 - Microsoft
 	- kapsz egy fiókot, ahol az órák digitális anyagát (ha van ilyen) megkapod
 		- neptunfelhasználó@student.lfze.hu
+		- Microsoft Teams-en
 		- jelszó: [eredeti neptunjelszó] (ez az egy független az egyetemi rendszertől)
 		- tanárfüggő a platform (pl. Fazekas a [[public/zenetöri\|zenetöri]] óráinak anyagait a Google Classroomon osztja meg, más OneDrive-ot használ)
 	- ne pipáld be a "a szervezet megfigyelheti az eszközömet" mezőt bejelentkezésnél
-	- Teams
+	- ez a fiók feljogosít az Office 365 használatára bármennyi eszközről (ismeretlen ideig aktív), továbbá 100 Gb OneDrive tárhelyet biztosít
+	- ha lecseréled jelszavad, az hatással lesz neptun- és wifijelszavadra, továbbá minden más helyre, ahol a neptun-kódoddal tudsz bejelentkezni
 - [IDAGIO 50%](https://www.idagio.com/students)
 - [Spotify 50 %-os kedvezmény](https://www.spotify.com/hu/student/verification)
 - wifi

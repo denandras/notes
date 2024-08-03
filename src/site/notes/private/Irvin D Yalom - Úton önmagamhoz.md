@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Irvin D Yalom - Úton önmagamhoz.md","permalink":"/egyeb/irvin-d-yalom-uton-oenmagamhoz/"}
+{"dg-publish":true,"dg-path":"egyéb/Irvin D Yalom - Úton önmagamhoz.md","permalink":"/egyeb/irvin-d-yalom-uton-oenmagamhoz/","title":"Úton önmagamhoz"}
 ---
 
 # Úton önmagamhoz
@@ -58,9 +58,12 @@
 - [[private/Irvin D Yalom\|Irvin D Yalom]]
 	- [[private/Irvin D Yalom - Amikor Nietzsche sírt\|Irvin D Yalom - Amikor Nietzsche sírt]]
 	- [[Irvin D Yalom - A terápia ajándéka\|Irvin D Yalom - A terápia ajándéka]]
-	- [[Irvin D Yalom - Egzisztenciális pszichoterápia\|Irvin D Yalom - Egzisztenciális pszichoterápia]]
+	- [[private/Irvin D Yalom - Egzisztenciális pszichoterápia\|Irvin D Yalom - Egzisztenciális pszichoterápia]]
 	- [[Irvin D Yalom - Minden nappal közelebb\|Irvin D Yalom - Minden nappal közelebb]]
 	- [[Irvin D Yalom - A magyar macska átka\|Irvin D Yalom - A magyar macska átka]]
+	- [[private/Irvin D Yalom - Terápiás hazugságok\|Irvin D Yalom - Terápiás hazugságok]]
+		- tengerparti valós álma a halállal való kapcsolatról, 240. o. (itt 224.)
+	- [[Irvin D Yalom - Inpatient Group Psychoterapy\|Irvin D Yalom - Inpatient Group Psychoterapy]]
 - [[private/Sigmund Freud\|Sigmund Freud]]
 	- mentora, [[private/Josef Breuer\|Josef Breuer]]
 - [[private/Viktor Frankl\|Viktor Frankl]]
@@ -84,6 +87,7 @@
 	- Odüsszeia
 - [[Marylin Yalom\|Marylin Yalom]]
 	- [[Marylin Yalom - A History of the Breast\|Marylin Yalom - A History of the Breast]]
+	- [[Marylin Yalom - Maternity, Modernity and the Literature of Madness\|Marylin Yalom - Maternity, Modernity and the Literature of Madness]] (pszichológiai szempontú irodalomkritika)
 - filozófia
 	- [[private/Edmund Husserl\|Edmund Husserl]]
 	- [[private/Martin Heidegger - Lét és idő\|Martin Heidegger - Lét és idő]] (ködös, de lenyűgöző)
@@ -110,6 +114,14 @@
 	- [[private/Jacques Choron - Death and Western Thought\|Jacques Choron - Death and Western Thought]]
 	- [[private/Ernest Becker - Denial of Death\|Ernest Becker - Denial of Death]]
 	- [[private/Elisabeth Kübler-Ross\|Elisabeth Kübler-Ross]]
+- [[R D Laing\|R D Laing]] brit terapeuta
+- [[private/Kierkegaard\|Kierkegaard]] és [[Christian Andersen\|Christian Andersen]] sírja
+- művészi élet Párizsban: [[private/Jacques Offenbach\|Jacques Offenbach]]-koncert és [[Monet\|Monet]]
+- keleti bölcselet
+	- [[S N Goenka\|S N Goenka]]
+	- 
 ### Idézetek
 
 > idézet:: Az előző nap emlékei huss, elszállnak. Minden kitörlődik az agyamból [...] nem olyan rossz ez. Nem is olyan rossz.
+
+> idézet:: Milyen kár, hogy csak most tanultam meg élni, amikor a testemet felfalta a rák!
