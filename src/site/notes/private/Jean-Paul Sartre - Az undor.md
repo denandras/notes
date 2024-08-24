@@ -20,7 +20,7 @@
 - [[Kierkegaard - A csábító naplója\|Kierkegaard - A csábító naplója]]
 - [[public/Franz Kafka\|Franz Kafka]]
 - [[Hippolyte Taine\|Hippolyte Taine]]
-- [[André Gide\|André Gide]]
+- [[private/André Gide\|André Gide]]
 - [[Flaubert - Bovaryné\|Flaubert - Bovaryné]]
 - [[Gustave Impétraz\|Gustave Impétraz]]
 - [[Eugénie Grandet\|Eugénie Grandet]]

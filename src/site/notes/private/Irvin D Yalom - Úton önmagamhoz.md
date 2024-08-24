@@ -5,8 +5,12 @@
 # Úton önmagamhoz
 ### Idegen szavak
 
-- hübrisz
-- voyerizmus
+- **hübrisz**: A görög eredetű kifejezés, amely arra utal, amikor valaki túlzottan arrogáns, és emiatt elbizakodottságában megsérti az isteneket vagy a morális normákat. Gyakran bűnhődéssel végződik a görög tragédiákban.
+- **voyerizmus**: Egy szexuális jellegű deviancia, amelyben az egyén másokat figyel meg titokban intim helyzetekben (például vetkőzés, szexuális tevékenység közben), és ebből szerez kielégülést.
+- **szoliptikus**: A szolipszizmus szóból ered, ami egy filozófiai nézet, mely szerint csak a saját tudatunk biztos létezésű, minden más (beleértve a külvilágot és más embereket) létezése bizonytalan.
+- **kontingens**: Olyan dologra vagy eseményre utal, ami nem szükségszerűen következik be, hanem véletlenszerű vagy a körülményektől függ. A filozófiában a kontingens ellentéte a szükségszerűnek.
+- **ikonoklazmus**: képrombolás, szenteket, isteneket megjelenítő ábrázolások eltávolítása, lerombolása.
+- **joviális**: nyájas, kedélyes modorú, derült, jó kedélyű
 ### Említések
 
 - [[public/Franz Kafka\|Franz Kafka]]
@@ -35,7 +39,6 @@
 - Marilyn
 	- A per motívuma [[public/Franz Kafka\|Franz Kafka]] és [[public/Albert Camus\|Albert Camus]] munkáiban
 - lacani analitikus (képzés/szemlélet)
-- ikonoklazmus
 - [[private/Daphne du Maurier\|Daphne du Maurier]]
 - [[private/Ronald Fairbairn\|Ronald Fairbairn]], [[private/D. W. Winnicott\|D. W. Winnicott]]
 - [[private/Alex Comfort - A szex öröme\|Alex Comfort - A szex öröme]]
@@ -58,14 +61,23 @@
 - [[private/Irvin D Yalom\|Irvin D Yalom]]
 	- [[private/Irvin D Yalom - Amikor Nietzsche sírt\|Irvin D Yalom - Amikor Nietzsche sírt]]
 	- [[Irvin D Yalom - A terápia ajándéka\|Irvin D Yalom - A terápia ajándéka]]
+		- Terapeuta-páciens, egzisztencialista szemlélet feltárásának módjai, mindennapos gyakorlat, álmok, vedzélyek
+		- [[Rilke - Levelek egy ifjú költőhöz\|Rilke - Levelek egy ifjú költőhöz]]
+		- [[Thomas Tusser - A Hundredth Good Pointes of Husbandrie\|Thomas Tusser - A Hundredth Good Pointes of Husbandrie]]
 	- [[private/Irvin D Yalom - Egzisztenciális pszichoterápia\|Irvin D Yalom - Egzisztenciális pszichoterápia]]
 	- [[Irvin D Yalom - Minden nappal közelebb\|Irvin D Yalom - Minden nappal közelebb]]
 	- [[Irvin D Yalom - A magyar macska átka\|Irvin D Yalom - A magyar macska átka]]
 	- [[private/Irvin D Yalom - Terápiás hazugságok\|Irvin D Yalom - Terápiás hazugságok]]
 		- tengerparti valós álma a halállal való kapcsolatról, 240. o. (itt 224.)
 	- [[Irvin D Yalom - Inpatient Group Psychoterapy\|Irvin D Yalom - Inpatient Group Psychoterapy]]
+	- [[Irvin D Yalom - Szerelemhóhér\|Irvin D Yalom - Szerelemhóhér]]
+	- [[Irvin D Yalom - A Concise Guide to Psychoterapy\|Irvin D Yalom - A Concise Guide to Psychoterapy]]
+	- [[Irvin D Yalom - Yalom Reader\|Irvin D Yalom - Yalom Reader]]
+	- 
 - [[private/Sigmund Freud\|Sigmund Freud]]
 	- mentora, [[private/Josef Breuer\|Josef Breuer]]
+		- [[Anna O\|Anna O]] első pszichoanalízissel kezelt páciens
+	- [[Sigmund Freud, Josef Breuer - Tanulmányok a hisztériáról\|Sigmund Freud, Josef Breuer - Tanulmányok a hisztériáról]]
 - [[private/Viktor Frankl\|Viktor Frankl]]
 	- [[Viktor Frankl - Mégis mondj igent az életre\|Viktor Frankl - Mégis mondj igent az életre]]
 	- logoterápia (elég brutális terápiás módszer)
@@ -85,9 +97,10 @@
 - [[private/Nikosz Kazantzakisz\|Nikosz Kazantzakisz]]
 	- [[private/Nikosz Kazantzakisz - Krisztus utolsó megkísértése\|Nikosz Kazantzakisz - Krisztus utolsó megkísértése]]
 	- Odüsszeia
-- [[Marylin Yalom\|Marylin Yalom]]
+- [[private/Marylin Yalom\|Marylin Yalom]]
 	- [[Marylin Yalom - A History of the Breast\|Marylin Yalom - A History of the Breast]]
 	- [[Marylin Yalom - Maternity, Modernity and the Literature of Madness\|Marylin Yalom - Maternity, Modernity and the Literature of Madness]] (pszichológiai szempontú irodalomkritika)
+	- [[Marylin Yalom - Blood Sisters, The French Revolution in Women's Memory\|Marylin Yalom - Blood Sisters, The French Revolution in Women's Memory]]
 - filozófia
 	- [[private/Edmund Husserl\|Edmund Husserl]]
 	- [[private/Martin Heidegger - Lét és idő\|Martin Heidegger - Lét és idő]] (ködös, de lenyűgöző)
@@ -119,9 +132,26 @@
 - művészi élet Párizsban: [[private/Jacques Offenbach\|Jacques Offenbach]]-koncert és [[Monet\|Monet]]
 - keleti bölcselet
 	- [[S N Goenka\|S N Goenka]]
-	- 
+	- vipasszaná meditáció
+	- Váránaszi, Szárnáth (városok)
+- [[Stanley Elkins\|Stanley Elkins]]
+- [[Robert Lindner - The Fifty-Minute Hour\|Robert Lindner - The Fifty-Minute Hour]]
+	- [[Eva Hoffmann\|Eva Hoffmann]] kritikája
+- [[Oliver Sacks - A férfi, aki kalapnak nézte a feleségét\|Oliver Sacks - A férfi, aki kalapnak nézte a feleségét]]
+- [[Oliver Sacks - Mozgásban\|Oliver Sacks - Mozgásban]] (megrendítő)
+- [[Phillip Lopate\|Phillip Lopate]]
+- [[private/André Gide - A Vatikán titka\|André Gide - A Vatikán titka]]
+- [[Martin Cruz Smith - Red Square\|Martin Cruz Smith - Red Square]]
+- [[Allen Wheelis - The Doctor of Desire\|Allen Wheelis - The Doctor of Desire]]
+- Non-Interpretive Mechanisms in Psychoanalytic Therapy: The 'Something More' Than Interpretation
+- [[Saul Bellow\|Saul Bellow]]
+- [[private/Arisztotelész\|Arisztotelész]], [[public/Platón\|Platón]], [[private/Szókratész\|Szókratész]], [[private/Epikurosz\|Epikurosz]], [[Aiszkhülosz\|Aiszkhülosz]]
+- [[private/Carl Jung\|Carl Jung]], [[Mortimer Adler\|Mortimer Adler]], [[Carl Rogers\|Carl Rogers]], [[Abraham Mashlow\|Abraham Mashlow]]
+- 
 ### Idézetek
 
 > idézet:: Az előző nap emlékei huss, elszállnak. Minden kitörlődik az agyamból [...] nem olyan rossz ez. Nem is olyan rossz.
 
 > idézet:: Milyen kár, hogy csak most tanultam meg élni, amikor a testemet felfalta a rák!
+
+> idézet:: Azóta, hogy Freud 1911-ben publikálta az első állommal kapcsolatos nézeteit, valóságos mítosz övezi a témát. Freud szerint az első álom, melyet a páciens megoszt a terapeutájával, a maga kidolgozatlan voltában különösen sokat elárul, hiszen a páciensnek ilyenkor még nincsenek védőbástjái. Később, amikor a terápia során már több állommal dolgoznak, a tudattalanban lakozó álomszövő "manó" okosabbá válik, ezért sokkal összetettebb és nehezebben megfejthető álmokat sző.

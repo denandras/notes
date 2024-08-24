@@ -94,7 +94,7 @@
 - [ ] [[Cal Newport - Deep Work\|Cal Newport - Deep Work]]
 - [ ] [[John Acuff - Finish, Give Yourself the Gift of Done\|John Acuff - Finish, Give Yourself the Gift of Done]]
 - [ ] [[Nellie Bowles - Is the Answer to Phone Addiction a Worse Phone\|Nellie Bowles - Is the Answer to Phone Addiction a Worse Phone]]
-- [ ] [[William James - The Principle of Psychology\|William James - The Principle of Psychology]]
+- [ ] [[private/William James - The Principle of Psychology\|William James - The Principle of Psychology]]
 - [ ] [[Shizen Young - The Science of Enlightment\|Shizen Young - The Science of Enlightment]]
 - [ ] [[Susan Jeffers - Embracing Uncertainty\|Susan Jeffers - Embracing Uncertainty]]
 - [ ] [[Blaise Pascal - Gondolatok\|Blaise Pascal - Gondolatok]]
@@ -284,7 +284,7 @@
 
 - "a jó életminőség jót tesz a gazdaságnak" - miért nézzük az életet gazdasági szempontból?
 - a szabadidő is feladattá válik
-- [[Arisztotelész\|Arisztotelész]] szerint az önmagunkról való gondolkodád, a filozofikus elmélyülés a legnagyobb erény, mert önmagáért van (más tevékenységekkel ellentétben)
+- [[private/Arisztotelész\|Arisztotelész]] szerint az önmagunkról való gondolkodád, a filozofikus elmélyülés a legnagyobb erény, mert önmagáért van (más tevékenységekkel ellentétben)
 - az ünnep régen kötelező pihenés volt
 - ipari forradalom
 	- pihenés = erőforrás, instrumentalizálódik

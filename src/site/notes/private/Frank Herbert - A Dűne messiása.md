@@ -23,6 +23,8 @@
 - nem cliché a vége, szép, de nem giccses
 ### Idézetek
 
+> idézet:: De hogy rendezel bármit anélkül, hogy magadat rendbe tennéd? (169)
+
 > idézet:: Minden látomás az úton lévő embereké, azoké, akik később érik el céljukat. A látomás alatt az embernek át kell haladni a sötétségen, ahol nem lehet megkülönböztetni a valóságot az anyagtalan véletlenektől. Az ember a soha el nem érhető teljességre vágyik. Vágyakozás közben azonban elveszítjük a jelent. (219)
 
 > idézet:: A szabad akarat olyan csalóka volt, mint a börtönében zajongó rab önámítása. (231)
