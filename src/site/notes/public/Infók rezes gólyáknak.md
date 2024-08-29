@@ -8,7 +8,7 @@ https://notes.andrasdenes.com/infok-rezes-golyaknak/
 
 ## [Információk felvett hallgatók részére PDF](https://lfze.hu/felveteli-hirek/informaciok-felvett-hallgatok-reszere-126184)
 
-![Pasted image 20240828234955.png](/img/user/Pasted%20image%2020240828234955.png)
+
 [A Zeneakadémia minden részlegének elérhetőségei](https://lfze.hu/data/LFZE.HU/egyeb/kapcsolat.pdf)
 
 - fogalommagyarázat
@@ -70,10 +70,12 @@ https://notes.andrasdenes.com/infok-rezes-golyaknak/
 		- két nappal a gyakorlás ideje előtt foglalható [itt](http://gyakorlas.lisztakademia.hu/home)
 		- max. 4 óra/nap (nem tisztességes pepitában, lyukakat hagyva foglalni)
 	- kürt & trombita -> néha a Semmelweis utcai épületben is találni szabad termet
+	- ütő: új rendszer bevezetés alatt, egy terembe max. 2 óra foglalható egyben, szaktársaktól informálódjatok
 - [kamara](https://lfze.hu/tanulmanyi-hirek/tudnivalok-a-202425-os-tanev-i-felevi-kamarazene-oktatasarol-126150)
 	- [kamara teremfoglalás módja](https://lfze.hu/tanulmanyi-hirek/kamarazene-gyakorlofoglalas-119863)
 		- csak meghatározott célra (pl. órára való készülés/verseny) adják ki
 		- [email küldése](mailto:teremfoglalas@academy.liszt.hu)
+		- idén szeptember 9-től lehet foglaló emaileket küldeni
 	- kamaracsoportokba szerveződésnél fontos lehet előre megbeszélni, hogy ki milyen rendszerességgel próbálna
 	- eddig oktatóval kellett egyeztetni
 	- A fúvós kamarákra feliratkozni a TO által kirakott táblázatban lehet majd
