@@ -154,6 +154,7 @@ https://notes.andrasdenes.com/infok-rezes-golyaknak/
 		- a próba minden felett, kivéve előre bejelentett (és elfogadott!), indokolt hiányzás
 		- a projektek [ezen az oldalon](https://lfze.hu/tanulmanyi-hirek/a-zeneakademia-szimfonikus-zenekaranak-hangversenyei-beosztasa-es-probarendje-114751) találhatók *(erre is érdemes [figyelő appot](https://visualping.io) beállítani)*
 		- bővebben: zenekari szabályzat
+		- szimfiről hiányozni csak nagyon indokolt esetben lehet, előre [EMAILBEN](mailto:gmenesi30@gmail.com) megbeszélve Ménesi Gergellyel
 	- **fúvószenekar**, erről nem tudni sokmindent, új keletű dolog; Szentpáli Roland dirigálja általában
 	- **fúvósegyüttes**
 		- eddig órarend szerinti óra volt (felirakozásos alapú, de minden próbán teljes szólamnak kellett lennie), péntekenként 14:00-16:00, Kupola (volt)
