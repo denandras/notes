@@ -4,12 +4,20 @@
 
 https://notes.andrasdenes.com/infok-rezes-golyaknak/
 ![Pasted image 20240829001934.png](/img/user/Pasted%20image%2020240829001934.png)
-## [SOS email Dénes Andrásnak](mailto:denesandras@akademista.hu)
+## [SOS email Dénes Andrásnak](mailto:gazdasag.lfzehok@academy.liszt.hu)
 
 ## [Információk felvett hallgatók részére PDF](https://lfze.hu/felveteli-hirek/informaciok-felvett-hallgatok-reszere-126184)
 
-
 [A Zeneakadémia minden részlegének elérhetőségei](https://lfze.hu/data/LFZE.HU/egyeb/kapcsolat.pdf)
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 - fogalommagyarázat
 	- LFZE: Liszt Ferenc Zeneművészeti Egyetem
@@ -26,7 +34,7 @@ https://notes.andrasdenes.com/infok-rezes-golyaknak/
 	- [dokumentumtár](https://apps.lfze.hu/netfolder): PublicNet, StudentNet
 	- HKR: [Hallgatói Követelményrendszer](https://apps.lfze.hu/netfolder/PublicNet/K%C3%B6z%C3%A9rdek%C5%B1%20dokumentumok/Szab%C3%A1lyzatok/Szervezeti%20%C3%A9s%20M%C5%B1k%C3%B6d%C3%A9si%20Szab%C3%A1lyzat)
 	- nftv: [nemzeti felsőoktatási törvény](https://net.jogtar.hu/jogszabaly?docid=a1100204.tv)
-	- hibajegy: az LFZE Műszaki Támogatás oldalán bejelentett hiba
+	- hibajegy: az [LFZE Műszaki Támogatás](https://itsupport.lfze.hu/helpdesk/) oldalán bejelentett hiba
 	- bejelentkezési adatok: felhasználónév: Neptun kód
 	- jelszó (megváltoztatás előtt): „Ne” (idézőjel nélkül) és folyamatosan szóköz és pontok  nélkül a saját születési éve, hónapja, napja. (pl: Ne20020508)
 	- [tanév rendje](https://lfze.hu/tanev-rendje)
@@ -164,6 +172,7 @@ https://notes.andrasdenes.com/infok-rezes-golyaknak/
 	- fel kell venni egyenként a neptunban a vizsgaidőszak kezdetekor (gyakorlatilag előtte már egy héttel le lehet csapni a legjobb időpontokra)
 ## Tech
 
+- a bejelentkezős oldalak (pl. órarendek) nem megnyithatóak messengeres böngészőből
 - Microsoft
 	- kapsz egy fiókot, ahol az órák digitális anyagát (ha van ilyen) megkapod
 		- neptunfelhasználónév@student.lfze.hu
