@@ -75,6 +75,9 @@
 	- [[Irvin D Yalom - Yalom Reader\|Irvin D Yalom - Yalom Reader]]
 	- [[Irvin D Yalom - Schopenhauer-terápia\|Irvin D Yalom - Schopenhauer-terápia]]
 	- [[Irvin D Yalom - Szemben a nappal\|Irvin D Yalom - Szemben a nappal]]
+	- [[Irvin D Yalom - Szólok a rendőrnek\|Irvin D Yalom - Szólok a rendőrnek]]
+	- [[Irvin D Yalom - Creatures of a Day\|Irvin D Yalom - Creatures of a Day]]
+		- utalva [[Marcus Aurelius- Elmélkedések\|Marcus Aurelius- Elmélkedések]]re
 - [[private/Sigmund Freud\|Sigmund Freud]]
 	- mentora, [[private/Josef Breuer\|Josef Breuer]]
 		- [[Anna O\|Anna O]] első pszichoanalízissel kezelt páciens
@@ -152,7 +155,14 @@
 	- [[Schopenhauer - Parerga és Paralipomena\|Schopenhauer - Parerga és Paralipomena]]
 	- [[Schopenhauer - A világ mint akarat és képzet\|Schopenhauer - A világ mint akarat és képzet]]
 - [[Dickens - Karácsonyi ének\|Dickens - Karácsonyi ének]]
-	- 
+- [[private/Benedictus Spinoza\|Benedictus Spinoza]]
+	- [[Rebecca Goldstein\|Rebecca Goldstein]] regényíró-filozófus
+	- [[ERR - Einsatzstab Reichsleiter Rosenberg\|ERR - Einsatzstab Reichsleiter Rosenberg]]
+		- [[Alfred Rosenberg\|Alfred Rosenberg]]
+		- [[Alfred Rosenberg - A huszadik század mítosza\|Alfred Rosenberg - A huszadik század mítosza]]
+	- [[Irvin D Yalom - A Spinoza-probléma\|Irvin D Yalom - A Spinoza-probléma]]
+- [[Henry Ward Trueblood - A Surgeon's War\|Henry Ward Trueblood - A Surgeon's War]]
+
 ### Idézetek
 
 > idézet:: Az előző nap emlékei huss, elszállnak. Minden kitörlődik az agyamból [...] nem olyan rossz ez. Nem is olyan rossz.
@@ -160,3 +170,7 @@
 > idézet:: Milyen kár, hogy csak most tanultam meg élni, amikor a testemet felfalta a rák!
 
 > idézet:: Azóta, hogy Freud 1911-ben publikálta az első állommal kapcsolatos nézeteit, valóságos mítosz övezi a témát. Freud szerint az első álom, melyet a páciens megoszt a terapeutájával, a maga kidolgozatlan voltában különösen sokat elárul, hiszen a páciensnek ilyenkor még nincsenek védőbástjái. Később, amikor a terápia során már több állommal dolgoznak, a tudattalanban lakozó álomszövő "manó" okosabbá válik, ezért sokkal összetettebb és nehezebben megfejthető álmokat sző.
+
+> Minden művész célja mesterséges eszközökkel megállítani a mozgást, ami az élet maga, és kimerítve megtartani, hogy száz év múlva, amikor egy idegen ránéz, újra mozgásba lendüljön. [[Faulkner\|Faulkner]] (The Paris Review 1956 The Art of Fiction, No. 12)
+
+> Páciens és terapeuta útitársak. Gyakran előfordul, hogy a páciens olyasmit pillant meg és épít magába a társutazás során, ami elkerüli a terapeuta figyelmét.
