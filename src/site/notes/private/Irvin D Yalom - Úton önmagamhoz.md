@@ -73,7 +73,8 @@
 	- [[Irvin D Yalom - Szerelemhóhér\|Irvin D Yalom - Szerelemhóhér]]
 	- [[Irvin D Yalom - A Concise Guide to Psychoterapy\|Irvin D Yalom - A Concise Guide to Psychoterapy]]
 	- [[Irvin D Yalom - Yalom Reader\|Irvin D Yalom - Yalom Reader]]
-	- 
+	- [[Irvin D Yalom - Schopenhauer-terápia\|Irvin D Yalom - Schopenhauer-terápia]]
+	- [[Irvin D Yalom - Szemben a nappal\|Irvin D Yalom - Szemben a nappal]]
 - [[private/Sigmund Freud\|Sigmund Freud]]
 	- mentora, [[private/Josef Breuer\|Josef Breuer]]
 		- [[Anna O\|Anna O]] első pszichoanalízissel kezelt páciens
@@ -147,7 +148,11 @@
 - [[Saul Bellow\|Saul Bellow]]
 - [[private/Arisztotelész\|Arisztotelész]], [[public/Platón\|Platón]], [[private/Szókratész\|Szókratész]], [[private/Epikurosz\|Epikurosz]], [[Aiszkhülosz\|Aiszkhülosz]]
 - [[private/Carl Jung\|Carl Jung]], [[Mortimer Adler\|Mortimer Adler]], [[Carl Rogers\|Carl Rogers]], [[Abraham Mashlow\|Abraham Mashlow]]
-- 
+- [[private/Schopenhauer\|Schopenhauer]]
+	- [[Schopenhauer - Parerga és Paralipomena\|Schopenhauer - Parerga és Paralipomena]]
+	- [[Schopenhauer - A világ mint akarat és képzet\|Schopenhauer - A világ mint akarat és képzet]]
+- [[Dickens - Karácsonyi ének\|Dickens - Karácsonyi ének]]
+	- 
 ### Idézetek
 
 > idézet:: Az előző nap emlékei huss, elszállnak. Minden kitörlődik az agyamból [...] nem olyan rossz ez. Nem is olyan rossz.

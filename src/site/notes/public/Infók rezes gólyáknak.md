@@ -3,7 +3,7 @@
 ---
 
 https://notes.andrasdenes.com/infok-rezes-golyaknak/
-![Pasted image 20240829001934.png](/img/user/Pasted%20image%2020240829001934.png)
+![infók rezeseknek.png](/img/user/files/inf%C3%B3k%20rezeseknek.png)
 ## [SOS email Dénes Andrásnak](mailto:gazdasag.lfzehok@academy.liszt.hu)
 
 ## [Információk felvett hallgatók részére PDF](https://lfze.hu/felveteli-hirek/informaciok-felvett-hallgatok-reszere-126184)
