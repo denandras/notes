@@ -83,7 +83,7 @@
 		- Heródes először vonakodik, de végül enged Salome kérésének, és megöleti János keresztelőt, aki fejét lefejezik
 		- az opera tragikus befejezéssel zárul, Salome János keresztelő fejéhez vonzódik, és azt csókolgatja, aminek következtében Heródes Antipás dühösen rendeli el Salome kivégzését
 			- szerelemben egyesülnek a halállal
-	- [[Oscar Wilde\|Oscar Wilde]] drámát írt belőle
+	- [[private/Oscar Wilde\|Oscar Wilde]] drámát írt belőle
 	- belső félelem kivetítése: nem szecesszió, hanem expresszionizmus
 		- milyen a Hold? Mindenkinek más
 	- abban a hitben él, hogy van egy zenei nyelv, amit használ, és a végleteit használja ki

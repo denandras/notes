@@ -127,7 +127,7 @@
 - irodalom
 	- [[Paul Verlaine\|Paul Verlaine]]
 	- [[Arthur Rimbaud\|Arthur Rimbaud]]
-	- [[Oscar Wilde\|Oscar Wilde]]
+	- [[private/Oscar Wilde\|Oscar Wilde]]
 	- [[Marcel Proust\|Marcel Proust]]
 	- [[public/Rilke\|Rilke]]
 - zenében

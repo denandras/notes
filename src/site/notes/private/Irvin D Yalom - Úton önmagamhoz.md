@@ -11,6 +11,7 @@
 - **kontingens**: Olyan dologra vagy eseményre utal, ami nem szükségszerűen következik be, hanem véletlenszerű vagy a körülményektől függ. A filozófiában a kontingens ellentéte a szükségszerűnek.
 - **ikonoklazmus**: képrombolás, szenteket, isteneket megjelenítő ábrázolások eltávolítása, lerombolása.
 - **joviális**: nyájas, kedélyes modorú, derült, jó kedélyű
+- rekvizítum
 ### Említések
 
 - [[public/Franz Kafka\|Franz Kafka]]
@@ -78,6 +79,7 @@
 	- [[Irvin D Yalom - Szólok a rendőrnek\|Irvin D Yalom - Szólok a rendőrnek]]
 	- [[Irvin D Yalom - Creatures of a Day\|Irvin D Yalom - Creatures of a Day]]
 		- utalva [[Marcus Aurelius- Elmélkedések\|Marcus Aurelius- Elmélkedések]]re
+	- [[Irvin D Yalom - Esendő dolgok\|Irvin D Yalom - Esendő dolgok]]
 - [[private/Sigmund Freud\|Sigmund Freud]]
 	- mentora, [[private/Josef Breuer\|Josef Breuer]]
 		- [[Anna O\|Anna O]] első pszichoanalízissel kezelt páciens
@@ -105,6 +107,11 @@
 	- [[Marylin Yalom - A History of the Breast\|Marylin Yalom - A History of the Breast]]
 	- [[Marylin Yalom - Maternity, Modernity and the Literature of Madness\|Marylin Yalom - Maternity, Modernity and the Literature of Madness]] (pszichológiai szempontú irodalomkritika)
 	- [[Marylin Yalom - Blood Sisters, The French Revolution in Women's Memory\|Marylin Yalom - Blood Sisters, The French Revolution in Women's Memory]]
+	- [[Marylin Yalom - A History of the Wife\|Marylin Yalom - A History of the Wife]]
+	- [[Marylin Yalom - Birth of the Chess Queen\|Marylin Yalom - Birth of the Chess Queen]]
+	- [[Marylin Yalom - The American Resting Place\|Marylin Yalom - The American Resting Place]]
+	- [[Marylin Yalom - The Social Sex\|Marylin Yalom - The Social Sex]]
+	- [[Marylin Yalom - The Amorous Heart\|Marylin Yalom - The Amorous Heart]]
 - filozófia
 	- [[private/Edmund Husserl\|Edmund Husserl]]
 	- [[private/Martin Heidegger - Lét és idő\|Martin Heidegger - Lét és idő]] (ködös, de lenyűgöző)
@@ -162,6 +169,30 @@
 		- [[Alfred Rosenberg - A huszadik század mítosza\|Alfred Rosenberg - A huszadik század mítosza]]
 	- [[Irvin D Yalom - A Spinoza-probléma\|Irvin D Yalom - A Spinoza-probléma]]
 - [[Henry Ward Trueblood - A Surgeon's War\|Henry Ward Trueblood - A Surgeon's War]]
+- [[private/Irvin D Yalom\|Irvin D Yalom]] az ő pártjukon áll:
+	- [[private/Lucretius\|Lucretius]]
+	- [[Christopher Hitchens\|Christopher Hitchens]]
+	- [[private/Sam Harris\|Sam Harris]]
+	- [[Richard Dawkins\|Richard Dawkins]]
+- kedvenc írói
+	- [[Dickens\|Dickens]]
+	- [[private/Lev Tolsztoj\|Lev Tolsztoj]]
+	- [[private/Dosztojevszkij\|Dosztojevszkij]]
+	- [[Trollope\|Trollope]]
+	- [[David Mitchell\|David Mitchell]]
+	- [[Philip Roth\|Philip Roth]]
+	- [[Ian McEwan\|Ian McEwan]]
+	- [[Paul Auster\|Paul Auster]]
+	- [[Murakami Haruki\|Murakami Haruki]]
+	- [[J M Coetzee\|J M Coetzee]]
+- [[private/Marylin Yalom\|Marylin Yalom]] kedvencei
+	- [[Marcel Proust\|Marcel Proust]]
+	- [[Elena Ferrantére\|Elena Ferrantére]]
+	- [[Colm Tóbínra\|Colm Tóbínra]]
+	- [[Maxine Hong Kingston\|Maxine Hong Kingston]]
+- [[Sabine Gisiger - Guru\|Sabine Gisiger - Guru]] film egy oregoni kommuna manipulatív vezetőjéről, Radzsnísről (későbbi [[private/Osho\|Osho]])
+- [[Sabine Gisiger - Yalom-terápia\|Sabine Gisiger - Yalom-terápia]] film
+- szerető kedvesség meditáció
 
 ### Idézetek
 
@@ -171,6 +202,10 @@
 
 > idézet:: Azóta, hogy Freud 1911-ben publikálta az első állommal kapcsolatos nézeteit, valóságos mítosz övezi a témát. Freud szerint az első álom, melyet a páciens megoszt a terapeutájával, a maga kidolgozatlan voltában különösen sokat elárul, hiszen a páciensnek ilyenkor még nincsenek védőbástjái. Később, amikor a terápia során már több állommal dolgoznak, a tudattalanban lakozó álomszövő "manó" okosabbá válik, ezért sokkal összetettebb és nehezebben megfejthető álmokat sző.
 
-> Minden művész célja mesterséges eszközökkel megállítani a mozgást, ami az élet maga, és kimerítve megtartani, hogy száz év múlva, amikor egy idegen ránéz, újra mozgásba lendüljön. [[Faulkner\|Faulkner]] (The Paris Review 1956 The Art of Fiction, No. 12)
+> idézet:: Minden művész célja mesterséges eszközökkel megállítani a mozgást, ami az élet maga, és kimerítve megtartani, hogy száz év múlva, amikor egy idegen ránéz, újra mozgásba lendüljön. [[Faulkner\|Faulkner]] (The Paris Review 1956 The Art of Fiction, No. 12)
 
-> Páciens és terapeuta útitársak. Gyakran előfordul, hogy a páciens olyasmit pillant meg és épít magába a társutazás során, ami elkerüli a terapeuta figyelmét.
+> idézet:: Páciens és terapeuta útitársak. Gyakran előfordul, hogy a páciens olyasmit pillant meg és épít magába a társutazás során, ami elkerüli a terapeuta figyelmét.
+
+> idézet:: Az ember nem rátalál egy kapcsolatra, hanem *létrehozza* azt.
+
+> idézet:: Ezek az egyalkalmas konzultációk, amelyek során elismerem a páciens erőfeszítéseit és erősségeit, majd áldásomat adom rá, nagyrészt annak a hatalomnak köszönhetik a sikerüket, amellyel a páciens engem gondolatban felruház.

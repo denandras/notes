@@ -45,7 +45,7 @@
 - [ ] [[Alan Watts\|Alan Watts]] "spirituális humorista", [[New Age\|New Age]]-filozófus
 	- [ ] [[Alan Watts - From Time to Eternity\|Alan Watts - From Time to Eternity]]
 - [ ] [[Alexander Herzen\|Alexander Herzen]] filozófus
-- [ ] [[Sam Harris\|Sam Harris]] podcastja
+- [ ] [[private/Sam Harris\|Sam Harris]] podcastja
 - [ ] [[Robert Pirsing - A zen és a motorkerékpár-ápolás művészete\|Robert Pirsing - A zen és a motorkerékpár-ápolás művészete]]
 - [ ] [[Thich Nhat Hanh\|Thich Nhat Hanh]]
 	- [ ] [[Thich Nhat Hanh - The Miracle of Mindfulness\|Thich Nhat Hanh - The Miracle of Mindfulness]]
