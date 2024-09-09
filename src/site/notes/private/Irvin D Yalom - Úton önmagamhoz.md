@@ -193,6 +193,22 @@
 - [[Sabine Gisiger - Guru\|Sabine Gisiger - Guru]] film egy oregoni kommuna manipulatív vezetőjéről, Radzsnísről (későbbi [[private/Osho\|Osho]])
 - [[Sabine Gisiger - Yalom-terápia\|Sabine Gisiger - Yalom-terápia]] film
 - szerető kedvesség meditáció
+- skizofrénia, bipoláris zavar, depresszió új pszichofarmakológiája
+- [[Fabrice Melquiot - The Unheatd of World\|Fabrice Melquiot - The Unheatd of World]]
+- [[Simon Mawer - Üvegszoba\|Simon Mawer - Üvegszoba]]
+- [[Christopher Nicholson - Winter\|Christopher Nicholson - Winter]]
+- kedvenc könyvei
+	- Száz év magány
+	- Grendel
+	- Szép remények
+	- Maqroll
+	- Árbocmester nekibuzdulásai és hanyatlásai
+	- Örökösök
+	- Az éjfél gyermekei
+	- Julia néni és a tollnok
+	- Daniel Deronda
+	- Kései boldogság
+	- Minden testnek útja
 
 ### Idézetek
 
@@ -209,3 +225,5 @@
 > idézet:: Az ember nem rátalál egy kapcsolatra, hanem *létrehozza* azt.
 
 > idézet:: Ezek az egyalkalmas konzultációk, amelyek során elismerem a páciens erőfeszítéseit és erősségeit, majd áldásomat adom rá, nagyrészt annak a hatalomnak köszönhetik a sikerüket, amellyel a páciens engem gondolatban felruház.
+
+> idézet:: a határidő kitűzése mindjárt az elején általában növeli a hatékonságot, mert gyorsabban bevonja a pácienst a munkába. (eml. Otto Frank, [[private/Sigmund Freud\|Sigmund Freud]] első tanítványa)
