@@ -87,19 +87,19 @@
 				- részletek hiánya
 				- "Kedves néző, tanulj meg másképp ránézni a világra!"
 			- pillanati érzet
-		- *Nő napernyővel*                                                           ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5KsP3iiXAmDWaSmJ-V5vPSyeJ8jQRmEN4w&s)
+		- *Nő napernyővel* ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5KsP3iiXAmDWaSmJ-V5vPSyeJ8jQRmEN4w&s)
 		- *A normandiai vonat érkezése* ![](https://upload.wikimedia.org/wikipedia/commons/f/f2/Claude_Monet_-_Arrival_of_the_Normandy_Train%2C_Gare_Saint-Lazare_-_Google_Art_Project.jpg)
 		- *A roueni székesegyház naplementében* ![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Claude_Monet_-_Rouen_Cathedral%2C_Facade_%28Sunset%29.JPG)
 		- *A londoni parlament. A nap átsüt a ködön* ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/London%2C_the_Houses_of_Parliament%2C_Sunlight_Opening_in_Fog%2C_by_Claude_Monet.jpg)
 		- *Vízililiomok*
 	- [[Renoir\|Renoir]]
 		- *A páholy* ![](https://www.meisterdrucke.hu/kunstwerke/1260px/Pierre%20Auguste%20Renoir%20-%20La%20Loge%201873%20%20-%20%28MeisterDrucke-302181%29.jpg)
-		- *A hinta*
-		- eml. film róla (középszerű, de jól kutatja be)
-		- *Tánc a Moulin de la Galette-ben*
-		- *Luncheon on the Boating Party*
-	- [[Pizzarro\|Pizzarro]]
-		- *A párizsi Boulevard Montmartre*
+		- *A hinta* ![](https://upload.wikimedia.org/wikipedia/commons/e/eb/Fragonard%2C_The_Swing.jpg)
+		- eml. [film róla](https://videa.hu/videok/film-animacio/renoir-2012-film-animacio-uO3X2gS7ZU5kFEDG) (középszerű, de jól kutatja be)
+		- *Bál a Moulin de la Galette-ben* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg/1200px-Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg)
+		- *Luncheon on the Boating Party* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg/500px-Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg)
+	- [[Pissarro\|Pissarro]]
+		- *A párizsi Boulevard Montmartre* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg/640px-Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg)
 		- *A Boulevard Montmartre éjjel* ![](https://www.camillepissarro.org/assets/img/paintings/boulevard-montmartre-at-night.jpg)
 	- [[Edgard Degas\|Edgard Degas]]
 		- *Zenészek a zenekarban*
@@ -128,7 +128,7 @@
 	- [[Paul Verlaine\|Paul Verlaine]]
 	- [[Arthur Rimbaud\|Arthur Rimbaud]]
 	- [[private/Oscar Wilde\|Oscar Wilde]]
-	- [[Marcel Proust\|Marcel Proust]]
+	- [[private/Marcel Proust\|Marcel Proust]]
 	- [[public/Rilke\|Rilke]]
 - zenében
 	- [[public/Debussy\|Debussy]]

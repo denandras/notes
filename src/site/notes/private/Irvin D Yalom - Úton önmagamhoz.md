@@ -186,7 +186,7 @@
 	- [[Murakami Haruki\|Murakami Haruki]]
 	- [[J M Coetzee\|J M Coetzee]]
 - [[private/Marylin Yalom\|Marylin Yalom]] kedvencei
-	- [[Marcel Proust\|Marcel Proust]]
+	- [[private/Marcel Proust\|Marcel Proust]]
 	- [[Elena Ferrantére\|Elena Ferrantére]]
 	- [[Colm Tóbínra\|Colm Tóbínra]]
 	- [[Maxine Hong Kingston\|Maxine Hong Kingston]]
