@@ -11,9 +11,9 @@
 ## ?
 
 - eml. Tara Khozein
-- eml. Kolonczy Endre
-- eml. Egy hely (építész fórum)
-- eml. Anna Margit
+- eml. Koronczi Endre
+- eml. [Egy hely (építészfórum)](https://epiteszforum.hu/dosszie/egy-hely)
+- eml. Anna Margit magyar festő
 
 ## 1. félév
 
