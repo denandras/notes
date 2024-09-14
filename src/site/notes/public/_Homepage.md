@@ -12,7 +12,7 @@
 - [[public/magyar zenetöri\|magyar zenetöri]]
 - [[public/akusztika\|akusztika]]
 - [[public/művészettörténet\|művészettörténet]]
-- [[művészet menedzsment\|művészet menedzsment]]
+- [[public/művészet menedzsment\|művészet menedzsment]]
 
 ### Szabválok
 

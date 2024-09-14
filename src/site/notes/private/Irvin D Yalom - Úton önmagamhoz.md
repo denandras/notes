@@ -171,7 +171,7 @@
 - [[Henry Ward Trueblood - A Surgeon's War\|Henry Ward Trueblood - A Surgeon's War]]
 - [[private/Irvin D Yalom\|Irvin D Yalom]] az ő pártjukon áll:
 	- [[private/Lucretius\|Lucretius]]
-	- [[Christopher Hitchens\|Christopher Hitchens]]
+	- [[private/Christopher Hitchens\|Christopher Hitchens]]
 	- [[private/Sam Harris\|Sam Harris]]
 	- [[Richard Dawkins\|Richard Dawkins]]
 - kedvenc írói
@@ -192,6 +192,7 @@
 	- [[Maxine Hong Kingston\|Maxine Hong Kingston]]
 - [[Sabine Gisiger - Guru\|Sabine Gisiger - Guru]] film egy oregoni kommuna manipulatív vezetőjéről, Radzsnísről (későbbi [[private/Osho\|Osho]])
 - [[Sabine Gisiger - Yalom-terápia\|Sabine Gisiger - Yalom-terápia]] film
+	- [lásd](https://vimeo.com/ondemand/yalomscureextended)
 - szerető kedvesség meditáció
 - skizofrénia, bipoláris zavar, depresszió új pszichofarmakológiája
 - [[Fabrice Melquiot - The Unheatd of World\|Fabrice Melquiot - The Unheatd of World]]

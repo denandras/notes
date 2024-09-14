@@ -10,3 +10,5 @@
 - [[private/Irvin D Yalom - Egzisztenciális pszichoterápia\|Irvin D Yalom - Egzisztenciális pszichoterápia]]
 - [[Irvin D Yalom - Minden nappal közelebb\|Irvin D Yalom - Minden nappal közelebb]]
 - [[Irvin D Yalom - A magyar macska átka\|Irvin D Yalom - A magyar macska átka]]
+
+- [film róla](https://vimeo.com/ondemand/yalomscureextended)

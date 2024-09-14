@@ -91,3 +91,13 @@
 5. [[public/Stravinsky\|Stravinsky]]
 6. [[Messiaen\|Messiaen]]
 0. [[Prokofiev\|Prokofiev]]
+
+## MA 1. félév (MSz)
+
+- röpdolik, Google Classroom
+- második félév választható
+	- [[public/Wagner\|Wagner]] Nibelung előtti művei
+	- [[public/Wagner\|Wagner]] - Nibelung gyűrűje
+	- orosz zene
+
+1. [[public/1945 utáni magyar zene\|1945 utáni magyar zene]]
