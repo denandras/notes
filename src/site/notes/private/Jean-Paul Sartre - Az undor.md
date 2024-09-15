@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Jean-Paul Sartre - Az undor.md","permalink":"/egyeb/jean-paul-sartre-az-undor/","title":"Az undor"}
+{"dg-publish":true,"dg-path":"egyéb/Jean-Paul Sartre - Az undor.md","permalink":"/egyeb/jean-paul-sartre-az-undor/"}
 ---
 
 # Az undor

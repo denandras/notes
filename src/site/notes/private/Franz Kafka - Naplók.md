@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Franz Kafka - Naplók.md","permalink":"/egyeb/franz-kafka-naplok/","title":"Naplók"}
+{"dg-publish":true,"dg-path":"egyéb/Franz Kafka - Naplók.md","permalink":"/egyeb/franz-kafka-naplok/"}
 ---
 
 # Naplók

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Frank Herbert - Dűne.md","permalink":"/egyeb/frank-herbert-dune/","title":"Dűne"}
+{"dg-publish":true,"dg-path":"egyéb/Frank Herbert - Dűne.md","permalink":"/egyeb/frank-herbert-dune/"}
 ---
 
 # [[private/Frank Herbert - A Dűne messiása\|A Dűne messiása]] (2)

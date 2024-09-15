@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Kurt Vonnegut - Időomlás.md","permalink":"/egyeb/kurt-vonnegut-idoomlas/","title":"Időomlás"}
+{"dg-publish":true,"dg-path":"egyéb/Kurt Vonnegut - Időomlás.md","permalink":"/egyeb/kurt-vonnegut-idoomlas/"}
 ---
 
 ### Idegen szavak
