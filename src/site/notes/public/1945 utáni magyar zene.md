@@ -18,3 +18,9 @@
 		- [[Kodály\|Kodály]], [[public/Bartók\|Bartók]] -> behozzák a lemaradást
 		- de nem tud [[Kodály\|Kodály]] úgy tenni, mintha nem telt volna el 100 év - [[public/Liszt\|Liszt]]-féle, késő-romantikus kortárs zenei nyelvet használ
 		- "nemcsak behozta a lemaradást, hanem az európai kultúra élére állt" - [[Tóth Aladár\|Tóth Aladár]]
+- Hogyan viszonyul a 20. századi magyar zeneszerző [[Kodály\|Kodály]] kezdeményezéséhez? (hiányok utólagos betöltése)
+	- 1966: [[public/Kárpáti János\|Kárpáti János]] kritikája [[Durkó Zsolt - Una rapsodia ungherese\|Durkó Zsolt - Una rapsodia ungherese]]ről
+		- **una** - épít a prototípusra, ez 'csak egy' a sok közül
+		- legközelebbi múlt = [[public/Bartók\|Bartók]], őt invokálja
+		- már-már a kritikus is elvárja ezt a bartóki vonalat
+	- [[Lendvay Ernő\|Lendvay Ernő]] -> <- [[public/Kárpáti János\|Kárpáti János]] (elhanyagolás jelensége)
