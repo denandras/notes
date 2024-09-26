@@ -24,3 +24,7 @@
 		- legközelebbi múlt = [[public/Bartók\|Bartók]], őt invokálja
 		- már-már a kritikus is elvárja ezt a bartóki vonalat
 	- [[Lendvay Ernő\|Lendvay Ernő]] -> <- [[public/Kárpáti János\|Kárpáti János]] (elhanyagolás jelensége)
+- Classroom linkelve - [[Földesi Imre\|Földesi Imre]]
+	- megzenésítése nem triviális - régi nyelvi emlék, idegen
+	- eszébe sem jutna az embernek, hogy föl akarná idézni a középkori magyar világot
+	- azt emeli ki a történelemből, ami számára érdekes

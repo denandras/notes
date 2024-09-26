@@ -27,6 +27,8 @@
 - Hapák Péter portréfotós
 - [[Barabási Albert-László - A képlet\|Barabási Albert-László - A képlet]]
 	- [link](https://www.libri.hu/konyv/barabasi_albert-laszlo.a-keplet.html)
+- SOTE-Pázmány mentálhigiénés kurzusa (egy éves)
+- [[Esterházy Péter\|Esterházy Péter]]/"Csokonai Lili" könyve #később 
 
 ## 1. félév
 
@@ -106,8 +108,50 @@
 - U35 (<35 év)
 	- én a piacon
 	- oda menni, ahol a "top league" hub-ja van
-- milyen területeken van szükségem segítségre?
-- hogyan tudok másoknak segíteni?
+
+> milyen területeken van szükségem segítségre?
+> hogyan tudok másoknak segíteni?
+
+- projekt
+	- egyéni/együttes munka
+	- adott cél, időszak
+	- eleje és vége van
+	- limit/határ: időkeret, költség minőség
+- termék/márka
+	- utóbbi behúz csomó asszociációt
+	- pozicionál minket, a fogyasztóról is mond valamit
+	- az ember dominiánsan jelhasználó lény
+- termék -> márka
+	- pozicionálás (szituatív, helyzettől is függ)
+		- mit képvisel? Ki vagy te? Mik az erősségeid/képességeid?
+		- célcsoporthoz igazítva (közönség megismerése)
+		- folyamatos igazítás (a márka nem statikus)
+	- történetmesélés
+		- az emberi kultúra része, mindenki hallani akarja a sztorit
+		- adj okot, amiért szerethetlek
+		- a közönség a márka történetének a részévé válik (legalábbis így érzi)
+			- fontosnak érzi magát
+			- ezért megy ennyire a bulvár
+	- identitás/arculat
+		- nem csak vizuális
+		- színpadi jelenlét, stb. (minden számít)
+		- művészeted, repertoárválasztás, eszközök, kinézet, hang
+	- pricing
+		- olcsó/drága vagyok?
+		- mennyire értékeled magad/a munkád
+	- fogyasztói kapcsolatok
+		- tudja a közönséged, hogy számít!
+		- az elköteleződés segítésére
+- mire jó a márka?
+	- ismertté tesz
+	- pozicionál
+	- minőség
+	- hűség
+	- érték
+	- elköteleződés
+- hogyan?
+	- aktuális helyzet felmérése
+	- 
 ## 2. félév
 
 > Hogyan?
