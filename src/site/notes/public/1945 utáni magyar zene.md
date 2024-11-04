@@ -28,3 +28,6 @@
 	- megzenésítése nem triviális - régi nyelvi emlék, idegen
 	- eszébe sem jutna az embernek, hogy föl akarná idézni a középkori magyar világot
 	- azt emeli ki a történelemből, ami számára érdekes
+	- responzoriális ének
+	- megkésett melódia -> nem [[public/Bartók\|Bartók]], hanem [[Kodály\|Kodály]] miatt
+		- a zene maga viszont [[public/Bartók\|Bartók]] hatása
