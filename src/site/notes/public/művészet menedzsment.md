@@ -337,7 +337,31 @@
 - kép #később 
 - Gondold végig, tervezel-e, és ha igen, milyen kommunikációt tervezel megvalósítani az elkövetkezendő 12 hónapban
 
+#később kimaradó óra
 ### X. óra
+
+- márka értéke
+	- brand value - fontos, ha értékesíteni akarjuk a márkát
+		- a pénzügyi jelentőség, ami képviselve van
+		- mennyit fizetne bárki az adott márkáért?
+		- üzleti kérdés
+	- brand equity - mennyi hirdetés kell
+		- márka fontossága a fogyasztó szemében
+		- láthatóság, asszociáció, fogyasztói elkötelezettség
+		- marketing és üzleti stratégi része is
+- SWOT Analysis
+	- #később kép
+- miért csináljuk egyáltalán ezt az egészet?
+	- mission statement
+	- küldetés
+- hova tartunk és miért oda?
+	- jövőkép - mit szeretnék elérni ideálisan? Hová szeretnék eljutni 5-10 év távlatában?
+	- küldetés - mi dolgom van itt? Miért csinálom ezt? Mi a küldetésem, mi motivál, mit szeretnék elérni azzal, amit csinálok?
+- minden márkázás szituatív (Stella sör)
+- USP (unit selling proposition)
+	- egyedi ajánlat - mi az, amit egyedül én ajánlhatok?
+	- mivel tudom ezt alátámasztani?
+- házi kép #később 
 ## 2. félév
 
 > Hogyan?
