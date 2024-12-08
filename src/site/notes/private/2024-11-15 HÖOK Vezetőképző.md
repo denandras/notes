@@ -4,7 +4,7 @@
 
 ## Gazdasági szekció - tárgyalástechnika
 
-### 1. A vitákról
+### A vitákról
 
 - Challenger-katasztrófa
 	- űrsikló felrobban egyszerű tárgyalástechnikai hiba miatt
@@ -21,7 +21,7 @@
 - mi a tárgyalás?
 	- cél (sikerkritériummal)
 	- indok/érv/lépések
-	- kompromisszumképoesség
+	- kompromisszumképesség
 	- látszattárgyalás is létezik (lényeg a kézfogás, maga a tény, hogy a két fél leült)
 - lehetőségek
 	- nincs szabályrendszer, a két fél alakítja azt
@@ -81,3 +81,4 @@
 	- környezet hatása - változtatás bármin kizökkentheti a feleket
 		- rossz élmények azonos térben -> sémákba kondicionálódunk
 		- másik hely/asztal/ruházat
+- "biztos olvasta a hírt, hogy"

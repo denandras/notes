@@ -362,6 +362,50 @@
 	- egyedi ajánlat - mi az, amit egyedül én ajánlhatok?
 	- mivel tudom ezt alátámasztani?
 - házi kép #később 
+
+### X. óra
+
+- üzleti stratégiaépítésnél tervezzünk a rendszeres bevételekkel is
+
+
+### X. óra
+
+#később 
+
+### Beadandó
+
+A Művészeti menedzsment tárgy e szemeszterének teljesítéséhez kérem, készítsen el egy beadandó dokumentumot az alábbi – a félév során az egyes órákon adott feladatokban már tárgyalt, megválaszolt – pontokat követve! Kérem, gondolja át a szemeszter során egykor adott válaszait, és amennyiben szükséges, módosítsa azokat!
+
+1. Válasszon munkájához egy alanyt (személyt, formációt – pl. önmagát, kamaraegyüttesét, stb.)! Tüntesse fel azt címként!
+
+2. Bemutatkozás – Határozza meg / írja le / mutassa be a munkafolyamathoz választott alanyt legfeljebb 3 mondatban!
+
+3. Terület – Határozza meg milyen mező(k)ben tervezi a fenti alany a tevékenységét az elkövetkező 5–10 évben (pl. előadóművészet, klasszikus zene, zongora, szólista, Európa, stb.)!
+
+4. Tervek – Fogalmazza meg, mi a terve e területen! Határozza meg röviden közép- vagy hosszabb távú stratégiáját és a következő rövid távú taktikai lépését/lépéseit is!
+
+5. Versenykörnyezet – Határozza meg ki(k) a versenytársa(i)! (Nem feltétlenül név szerinti felsorolás, elsősorban meghatározás.)
+
+6. Mércék, inspirációk – Határozza meg ki(k) az inspiratív mércét (benchmark) jelentő személyek, formációk! (Nem feltétlenül csak a választott/kijelölt mezőn belül.)
+
+7. Jelenítse meg a választott alanyt bármilyen, szabadon választott vizuális eszközzel, technikával, műfajban, médiumban! (Ha kell, tüntessen fel linket, ahol elérhető az adott vizualizáció!)
+
+8. Készítse el SWOT-elemzését! Emlékezzen, hogy ez szituatív, így több lehetséges jövőbeli terv mellett több lehet szükséges – vagy válasszon egyet!
+
+9. Fogalmazza meg 1–1 mondatban küldetését és jövőképét!
+
+10. Készítse el az adott minta segítségével a márkadefinícióját! („Egy …milyen?… zenész/énekes/karmester/zeneszerző vagyok, aki …hogyan?… tud játszani/énekelni/vezényelni/komponálni a …kinek? milyen közönségnek?… hogy …milyen hatást érjen el?… .”)
+
+11. Sorolja fel verbális, vizuális és egyéb márkaazonosítóit!
+
+12. Vázolja fel támogató hálózatát! (Nem szükséges neveket feltüntetnie, elég, ha pl. az adott személy/intézmény funkcióját jelzi – pl. Budapesten dolgozó volt zenésztárs/barát, aki most zenei menedzser egy fontos/releváns intézményben.)
+
+13. Sorolja fel, milyen online / közösségi média felületeken tervez professzionális megjelenítést kialakítani a következő 12 hónapon belül!
+
++1 Határozza meg milyen területen van szüksége segítségre – és milyen területen tud segíteni másokon!
+
+Kérem, a lap tetején tüntesse fel az Ön saját nevét! Ha többen/közösen dolgoznak egy adott beadandón, kérem, tüntessék fel minden közreműködő nevét! (Ez esetben nem szükséges minden egyes közreműködőnek beadnia ugyanazt az anyagot.) Beadandó dokumentumát magyar vagy angol nyelven egyetlen dokumentumban, pdf formátumban küldje meg e-mailben a korosvolgyi.zoltan@gmail.com címre legkésőbb 2024. december 18-án szerdán éjfélig! Felhívom szíves figyelmét, hogy beadandója hiányában nem tudom értékelni és teljesítettnek tekinteni a kurzusát.
+
 ## 2. félév
 
 > Hogyan?
