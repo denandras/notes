@@ -372,7 +372,7 @@
 
 #később 
 
-### Beadandó
+### Beadandó ([[private/Dénes_András_MMI_2024–25_01\|Dénes_András_MMI_2024–25_01]])
 
 A Művészeti menedzsment tárgy e szemeszterének teljesítéséhez kérem, készítsen el egy beadandó dokumentumot az alábbi – a félév során az egyes órákon adott feladatokban már tárgyalt, megválaszolt – pontokat követve! Kérem, gondolja át a szemeszter során egykor adott válaszait, és amennyiben szükséges, módosítsa azokat!
 
@@ -406,6 +406,9 @@ A Művészeti menedzsment tárgy e szemeszterének teljesítéséhez kérem, ké
 
 Kérem, a lap tetején tüntesse fel az Ön saját nevét! Ha többen/közösen dolgoznak egy adott beadandón, kérem, tüntessék fel minden közreműködő nevét! (Ez esetben nem szükséges minden egyes közreműködőnek beadnia ugyanazt az anyagot.) Beadandó dokumentumát magyar vagy angol nyelven egyetlen dokumentumban, pdf formátumban küldje meg e-mailben a korosvolgyi.zoltan@gmail.com címre legkésőbb 2024. december 18-án szerdán éjfélig! Felhívom szíves figyelmét, hogy beadandója hiányában nem tudom értékelni és teljesítettnek tekinteni a kurzusát.
 
+Kérem, a dokumentumot nevezze el a következő sablont a saját nevével/nevükkel módosítva: “Vezetéknév_Keresztnév_MMI_2024–25_01”
+
+Az órákon elhangzottakhoz kapcsolódó diasorok továbbra is elérhetőek a csoport Google Classroom-oldalán
 ## 2. félév
 
 > Hogyan?
