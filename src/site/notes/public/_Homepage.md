@@ -21,5 +21,4 @@
 
 > Ha elírást találtál vagy más jegyzettel egészítenéd ki az oldalt, [írj egy emailt](mailto:contact@andrasdenes.com)!
 
-==HA FELVÉTELRE VAN SZÜKSÉGED, [KATT IDE](bit.ly/denandras-rec)):==
-## [Érdekel](bit.ly/denandras-rec)
+==HA FELVÉTELRE VAN SZÜKSÉGED, [KATT IDE](https://bit.ly/denandras-rec)):==
