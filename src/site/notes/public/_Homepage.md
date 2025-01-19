@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"_Homepage.md","permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
-Üdvözöllek a megújult honlapon!
 ## Ezen a Wikipedia-szerű oldalon megtalálható minden zeneakadémiai jegyzetem az alábbi témakörökben
 
 ### Kötelező tárgyak
@@ -21,3 +20,6 @@
 > Ebben a tudástárban találhatók #üres oldalak, amik a kapcsolódások miatt fontosak. Megtalálod továbbá [[private/Olvasott könyvek\|olvasott és kijegyzetelt könyveimet]], valamint [[public/idézetek\|idézetek]]et is.
 
 > Ha elírást találtál vagy más jegyzettel egészítenéd ki az oldalt, [írj egy emailt](mailto:contact@andrasdenes.com)!
+
+==HA FELVÉTELRE VAN SZÜKSÉGED? KATT IDE:==
+## [Érdekel](bit.ly/denandras-rec)

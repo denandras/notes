@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"művészet menedzsment.md","permalink":"/muveszet-menedzsment/"}
+{"dg-publish":true,"dg-path":"művészet menedzsment.sync-conflict-20241217-220031-2GDIRWB.md","permalink":"/muveszet-menedzsment-sync-conflict-20241217-220031-2-gdirwb/"}
 ---
 
 ## Aktuális
@@ -55,7 +55,6 @@
 - Ballanescu Quartet
 - mtmt.hu
 - https://thinkforward.wearesocial.com/
-- Rocktérítő film
 
 ## 1. félév
 
@@ -371,9 +370,9 @@
 
 ### X. óra
 
-#később 
+- 
 
-### Beadandó
+### Beadandó ([[private/Dénes_András_MMI_2024–25_01\|Dénes_András_MMI_2024–25_01]])
 
 A Művészeti menedzsment tárgy e szemeszterének teljesítéséhez kérem, készítsen el egy beadandó dokumentumot az alábbi – a félév során az egyes órákon adott feladatokban már tárgyalt, megválaszolt – pontokat követve! Kérem, gondolja át a szemeszter során egykor adott válaszait, és amennyiben szükséges, módosítsa azokat!
 
