@@ -424,6 +424,12 @@ Az órákon elhangzottakhoz kapcsolódó diasorok továbbra is elérhetőek a cs
 - A siker mérése
 - Új projekt előterjesztése (kreatív cucc / oktatás / stb.)
 - Élettervezés
+
+### X. óra
+
+- Visky András - Tudunk-e saját magunk kortársai lenni?
+- 
+
 ## Egyéb
 
 1. Karrieriroda tanácsadás

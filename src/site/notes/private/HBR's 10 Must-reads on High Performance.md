@@ -162,14 +162,14 @@
 	- a szervezet értékrendjéhez illően viselkednek
 	- karrierjükben gyorsabban haladnak
 
-#### A szervezetek szempontjai
+### A szervezetek szempontjai
 
 1. a jó eredmények mellett megbízhatóan kell viszonyulni a kollégákhoz és a főnökökhöz is
 2. az elején elég a technikai dolgokban kimagaslónak lenni, ezután a több lábon állás, pl. a vezető szerep tanulása a megfelelő lépés
 3. ismerd be, hogy a viselkedés számít
 	- a "megfelelő"-ből a "példakép/tanár" kategóriába
 
-#### A saját szempontok
+### A saját szempontok
 
 - áldozatokat hoznak, mert szeretnének a jón és a nagyon jón túl kimagasló eredményeket
 - nem csak gyorsan tanulnak, hanem könnyen lesznek kreatív ötleteik, amiket lefordítanak a szakmai nyelvre, produktív gyakorlatba
@@ -195,7 +195,180 @@
 ## Making Yourself Indispensable
 [[John H Zenger\|John H Zenger]], [[Joseph R Folkmann\|Joseph R Folkmann]], [[Scott K Edinger\|Scott K Edinger]]
 
-- 
+- az erősségeken dolgozni nehéz, sokkal apróbban látszik a hatása
+	- kiegészítő készségeken dolgozni (atléták cross-trainingje vs. haladó marathon futók)
+
+### The Interaction Effect
+
+- egyedül egy dolog kisebb hatást ér el, mint egy másikkal együtt (pl. edzés-diéta)
+- 16 vezetői tulajdonság
+	- mindegyik párosítható kb. 12 másikkal (competency companion)
+#### **Jellem**
+
+- Őszinteséget és tisztességet mutat
+- Törődik másokkal és figyelmet fordít rájuk
+- Megbízható
+- Optimizmust sugároz
+- Magabiztos
+- Inspirál és motivál másokat
+- Jól kezeli a bizonytalanságot
+- Határozott
+- Eredményekre összpontosít
+
+#### **Személyes képesség**
+
+- Magas szintű szakmai tudást mutat
+- Megoldja a problémákat és elemzi a kérdéseket
+- Kezdeményező
+- Jól szervezett és tervezési készségekkel rendelkezik
+- Határozott
+- Szereti a kihívásokat
+- Stratégiai szemléletet fejleszt
+- Önállóan cselekszik
+- Technikai szakértelmet mutat
+- Hatékonyan és széles körben kommunikál
+
+#### **Innováció**
+
+- Kész kockázatot vállalni és megkérdőjelezni a status quo-t
+- Támogatja a kockázatvállalást
+- Megoldja a problémákat és elemzi a kérdéseket
+- A változás élharcosa
+- Gyorsan tanul a sikerekből és a kudarcokból
+- Stratégiai szemléletet fejleszt
+- Kezdeményező
+
+#### **Önfejlesztés gyakorlása**
+
+- Meghallgat másokat
+- Nyitott mások ötleteire
+
+#### **Tisztelet mások iránt**
+
+- Tisztel másokat
+- Őszinteséget és tisztességet mutat
+- Inspirál és motivál másokat
+- Hatékony visszajelzést és fejlődési lehetőségeket nyújt
+- Kezdeményező
+- Kész kockázatot vállalni és megkérdőjelezni a status quo-t
+
+#### **Eredményorientáltság**
+
+- Eredményekre összpontosít
+- Jól szervezett és tervezett gondolkodást alkalmaz
+- Őszinteséget és tisztességet mutat
+- Előre látja a problémákat
+- Gyorsan észreveszi az elérhető eredményeket
+- Hatékony visszajelzést és fejlődési lehetőségeket nyújt
+- Kitűzi és eléri a célokat
+- Inspirál és motivál másokat
+- Kész kockázatot vállalni és megkérdőjelezni a status quo-t
+- Másokat támogat és meggyőz
+- Stratégiai szemléletet fejleszt
+- A változás élharcosa
+- Határozott
+- Szakmai és üzleti szakértelmet mutat
+- A bizonytalanságot jól kezeli
+- Kitart a feladatok mellett
+- Hatékonyan és széles körben kommunikál
+#### **Interperszonális készségek**
+
+- Hatékonyan és széles körben kommunikál
+- Inspirál és motivál másokat
+- Stratégiai szemléletet fejleszt
+- Kitűzi és eléri a célokat
+- Hatékonyan kezeli a külvilággal való kapcsolatokat
+- Megbízható
+- Bevon másokat
+- Üzeneteket fordít le érthetőbbé tétel érdekében
+- Megoldja a problémákat és elemzi a kérdéseket
+- Kezdeményező
+- Innovatív
+- Fejleszt másokat
+- Érzelmileg kapcsolódik másokhoz
+- Világos és egyértelmű irányokat mutat
+- Együttműködik és támogatja a csapatmunkát
+- Támogatja az innovációt
+- Változást képvisel
+- Példaképként szolgál
+
+#### **Kapcsolatok építése**
+
+- Együttműködik és elősegíti a csapatmunkát
+- Őszinteséget és tisztességet mutat
+- Fejleszti másokat
+- Meghallgat másokat
+- Hatékonyan és széles körben kommunikál
+- Elismerést és jutalmat biztosít
+- Befogadást és sokszínűséget gyakorol
+- Optimizmust sugároz
+- Gyakorolja az önfejlesztést
+
+#### **Önfejlesztés**
+
+- Törődik másokkal és figyelmet fordít rájuk
+- Mások sikeréből merít motivációt
+- Befogadást és sokszínűséget értékel
+- Stratégiai szemléletet fejleszt
+- Hatékony visszajelzést és fejlődési lehetőségeket nyújt
+- Inspirál és motivál másokat
+- Innovatív
+- Elismerést és jutalmat biztosít
+- Őszinte és tisztességes
+- Alkalmazkodik a változásokhoz
+
+#### **Vezetés és változáskezelés**
+
+- Stratégiai perspektívát fejleszt
+- Ügyfélközpontú gondolkodást alkalmaz
+- Innovatív
+- Megoldja a problémákat és elemzi a kérdéseket
+- Hatékonyan és széles körben kommunikál
+- Kitűzi és eléri a célokat
+- Üzleti éleslátást mutat
+- Másokat inspirál és motivál
+- Kapcsolatokat épít és hálózatot alakít ki
+- Elismerést és jutalmat biztosít
+- Befogadást és sokszínűséget gyakorol
+- A változások mellett áll ki
+- Eredményekre összpontosít
+- Kész kockázatot vállalni és megkérdőjelezni a status quo-t
+
+#### **Kapcsolódás a külvilághoz**
+
+- Széles perspektívát fejleszt
+- Stratégiai szemléletet alakít ki
+- Inspirál és motivál másokat
+- Erős értékeket képvisel
+- Kezdeményező
+- Információkat gyűjt és beépít
+- A változás élharcosa
+- Hatékonyan és széles körben kommunikál
+
+1. erősségek azonosítása
+	- mi számít?
+		- nem az önmagadról alkotott kép vagy egy objektív kép
+		- mások véleménye
+	- hogyan?
+		- pszichometrikus módon, mérhető rendszerben
+		- anonim kérdőívvel
+		- világítson rá a fatális hibákra (amik elnyomják az erősségeket)
+		- amíg nem az alsó 10%-ban van egy tulajdonság, nem muszáj foglalkozni vele
+	- nem mindenből a jónak lenni, hanem pár dologból a legjobbnak
+		- ez megengedi, hogy a gyengeségek ne számítsanak annyira
+		- az alsó és a felső harmadban levést egyetlen erősség választja el egymástól
+			- két erősség -> felső 25%
+			- három erősség -> felső 20%
+			- négy erősség -> felső 11%
+	- informális 360
+		- mik az erősségeim?
+		- van olyan hibám, ami fatális lehet - karriert veszélyeztető, ha nincs idejekorán észrevéve
+		- mi az a vezetői tulajdonság, amelynek legnagyobb hatása lenne a karrieremre?
+		- mi az a vezetői tulajdonság, melynek legnagyobb hatása van rád?
+2. egy erősség választása az alapján, hogy melyik tesz jót a szervezetnek, illetve melyik iránt érzel szenvedélyt
+3. kiegészítő tulajdonság választása
+4. lineáris önfejlesztés
+
 
 #
 
