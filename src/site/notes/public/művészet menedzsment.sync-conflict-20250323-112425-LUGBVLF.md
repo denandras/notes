@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"művészet menedzsment.md","permalink":"/muveszet-menedzsment/"}
+{"dg-publish":true,"dg-path":"művészet menedzsment.sync-conflict-20250323-112425-LUGBVLF.md","permalink":"/muveszet-menedzsment-sync-conflict-20250323-112425-lugbvlf/"}
 ---
 
 ## Aktuális
@@ -451,23 +451,10 @@ Az órákon elhangzottakhoz kapcsolódó diasorok továbbra is elérhetőek a cs
 		- jó cím
 - concertbooking
 
-### X. óra
+## X. óra
 
-- Sapientia szerzetesi rend
-- prezentáció
-- dokumentáció
-- strukturálatlan problémákból strukturált feladat
-- időzítés
-	- kétféle idő - Kronos, Kairos
-	- időbeli keret és hiánya
-- ne az időt menedzseljük, hanem magunkat
-	- mik azok a tevékenységek, amik nem oda vezetnek, ahova tartani szeretnénk
-	- tevékenységmonitorozás
-- feladat
-	- mérföldkövek vázolása
-	- időterv
-	- költségvetési terv
-
+- KEXP
+- 
 ## Egyéb
 
 1. Karrieriroda tanácsadás

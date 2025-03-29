@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"egyéb/HBR's 10 Must-reads on High Performance.md","permalink":"/egyeb/hbr-s-10-must-reads-on-high-performance/"}
 ---
 
-#
+
 ## Említések
 
 - [[Benjamin Bloom - Developing Talent in Young People\|Benjamin Bloom - Developing Talent in Young People]]
