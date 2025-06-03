@@ -56,6 +56,7 @@
 - mtmt.hu
 - https://thinkforward.wearesocial.com/
 - Rocktérítő film
+- Bakonybél templom
 
 ## 1. félév
 
@@ -468,6 +469,70 @@ Az órákon elhangzottakhoz kapcsolódó diasorok továbbra is elérhetőek a cs
 	- időterv
 	- költségvetési terv
 
+## Beadandó
+[[private/Dénes_András_MMI_2024–25_02\|Dénes_András_MMI_2024–25_02]]
+
+Készítse/készítsék el az e félévben Ön/Önök által választott (akár a one-pager összefoglalóban és a prezentációban már bemutatott, akár attól különböző) projekt írásos projektösszefoglalóját az alábbi pontok akár rövid, vázlatpontszerű, akár folyószövegként megfogalmazott megválaszolásával:
+
+  
+  
+
+0. Probléma (Mi a háttere a projektnek, milyen problémára válaszol?)
+
+  
+  
+
+1. Koncepció (Mi a projektötlet, a projekt lényege röviden?)
+
+  
+  
+
+2. Keretek (Melyek a projekt keretei akár idő, akár feladat/cél tekintetében?)
+
+  
+  
+
+3. Határok és korlátok (Vannak-e és ha igen, melyek a projekt pénzügyi, időbeli, erőforrásbeli megszorító tényezői?)
+
+  
+  
+
+4. Mérföldkövek és időterv (Melyek a projekt megvalósításának mérfölkövei, ezeket hogyan helyezné el időben?)
+
+  
+  
+
+5. Humán erőforrás-szükséglet (Kikre, milyen együttműködőkre van szüksége a projekt megvalósításához? Nem feltétlenül megnevezett személyek, elsősorban feladatkörök alapján.)
+
+  
+  
+
+6. Materiális igények (Melyek a projekt megvalósításához kapcsolódó tárgyi szükségletek?)
+
+  
+  
+
+7. Költségvetés (Melyek a projekt költségelemei, becsült költségei és azokat hogyan, milyen forrásból fedezné? Nem kell feltétlenül számszerű adatokat megadnia, az elemek sora és a gondolkodás számít.)
+
+  
+  
+
+8. Kockázatok (Melyek a projekt megvalósításának lehetséges/előrelátható kockázatai?)
+
+  
+  
+
+9. Jóváhagyások, megegyezések (Milyen jóváhagyásokra, megegyezésekre van szükség a projekt megvalósításához?)
+
+  
+  
+
+10. A projekt eredményességének értékelése (Milyen kritériumok alapján tekintené/k eredményesnek, sikeresnek a projektet? Hogyan értékelnék azt?)
+
+
+  
+
+Az elkészült dokumentumot a beadó/k nevével elnevezve (Vezetéknév-Keresztnév_MMI-2) pdf-ben elmentve küldje/küldjék el e-mailben a [korosvolgyi.zoltan@gmail.com](mailto:korosvolgyi.zoltan@gmail.com) címre. (Kérem, az itt feltüntetett címet használják!) Amennyiben a dokumentumot csapatban készítették, kérem, feltétlenül tüntessék fel minden a projektet jegyző nevét is! Határidő: 2025.04.27. vasárnap éjfél.
 ## Egyéb
 
 1. Karrieriroda tanácsadás

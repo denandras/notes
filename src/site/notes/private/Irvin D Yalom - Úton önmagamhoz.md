@@ -78,7 +78,7 @@
 	- [[Irvin D Yalom - Szemben a nappal\|Irvin D Yalom - Szemben a nappal]]
 	- [[Irvin D Yalom - Szólok a rendőrnek\|Irvin D Yalom - Szólok a rendőrnek]]
 	- [[Irvin D Yalom - Creatures of a Day\|Irvin D Yalom - Creatures of a Day]]
-		- utalva [[Marcus Aurelius- Elmélkedések\|Marcus Aurelius- Elmélkedések]]re
+		- utalva [[private/Marcus Aurelius- Elmélkedések\|Marcus Aurelius- Elmélkedések]]re
 	- [[Irvin D Yalom - Esendő dolgok\|Irvin D Yalom - Esendő dolgok]]
 - [[private/Sigmund Freud\|Sigmund Freud]]
 	- mentora, [[private/Josef Breuer\|Josef Breuer]]
