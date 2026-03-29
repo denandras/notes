@@ -12,5 +12,6 @@
 | [[private/Franz Kafka - Naplók\|Franz Kafka - Naplók]]                                       | ![\|100](https://europakiado.hu/content/2018/6/Product/300/107193F.gif)                                                                    | 800   | 4         |
 | [[private/Frank Herbert - Dűne\|Frank Herbert - Dűne]]                                       | ![\|100](https://s01.static.libri.hu/cover/b5/c/5828424_4.jpg)                                                                             | 594   | 5         |
 | [[private/Frank Herbert - A Dűne messiása\|Frank Herbert - A Dűne messiása]]                 | ![\|100](https://moly.hu/system/covers/big/covers_592985.jpg)                                                                              | 344   | 5         |
+| [[private/Frank Herbert - A Dűne gyermekei\|Frank Herbert - A Dűne gyermekei]]               | ![\|100](https://moly.hu/system/covers/big/covers_617645.jpg)                                                                              | 443   | 5         |
 
 { .block-language-dataview}
