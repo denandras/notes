@@ -23,17 +23,24 @@ A manierizmus a kb. 1530-tól 1600-ig tartó **stílustörténeti korszak** elne
 		- díszítettség
 		- sokszor tartalmaz reneszánsz elemeket, de a kombináció már nem reneszánsz
 		- [[Michelangelo\|Michelangelo]] - Biblioteca Laurenziana
+		  - ![Biblioteca Laurenziana](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Biblioteca_Laurenziana_aula.jpg/800px-Biblioteca_Laurenziana_aula.jpg)
 		- színpadias, megrendezett, látványos
 		- [[Giorgio Vasari\|Giorgio Vasari]] - Uffizi, Firenze
+		  - ![Uffizi](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Uffizi_Florence_dusk.jpg/800px-Uffizi_Florence_dusk.jpg)
 		- [[Giulio Romano\|Giulio Romano]] - Palazzo del Té, Mantova
+		  - ![Palazzo del Te](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Facciata_del_Palazzo_Te_%28Mantova%29.jpg/800px-Facciata_del_Palazzo_Te_%28Mantova%29.jpg)
 	- szobrászat
 		- példakép: Laokón szoborcsoport
+		  - ![Laocoön](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Laocoon_Pio-Clementino_Inv1059-1060-1061_MCR.jpg/800px-Laocoon_Pio-Clementino_Inv1059-1060-1061_MCR.jpg)
 		- [[Michelangelo\|Michelangelo]] - Pietá Rondanini
 			- félkész
+		  - ![Pietà Rondanini](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Michelangelos_Rondanini-Pieta.jpg/800px-Michelangelos_Rondanini-Pieta.jpg)
 		- [[Benvenuto Cellini\|Benvenuto Cellini]] - Perseus
 			- fej a kézben, teátrális
+		  - ![Perseus](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Perseus_with_the_Head_of_Medusa_by_Benvenuto_Cellini.jpg/800px-Perseus_with_the_Head_of_Medusa_by_Benvenuto_Cellini.jpg)
 		- [[Benvenuto Cellini\|Benvenuto Cellini]] - Sótartó
 			- használati, funkciós célon túli esztétika
+		  - ![Salt Cellar](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Saliera_by_Benvenuto_Cellini.jpg/800px-Saliera_by_Benvenuto_Cellini.jpg)
 	- festészet
 		- érzékiség, kacérság
 		- [[Pontormo\|Pontormo]] - vizitáció
@@ -41,34 +48,44 @@ A manierizmus a kb. 1530-tól 1600-ig tartó **stílustörténeti korszak** elne
 			- más fények
 			- mintha lebegnének
 			- *ajánlás: [[Bill Viola\|Bill Viola]] videómunkája*
+		  - ![Visitation](https://www.wga.hu/art/p/pontormo/3/05visita.jpg)
 		- [[Parmigianimo\|Parmigianimo]] - Hosszúnyakú Magdolna
 			- irrealitás, eltúlzottra való törekvés
+		  - ![Madonna with the Long Neck](https://www.wga.hu/art/p/parmigi/5/parmig5.jpg)
 		- [[Bronzino\|Bronzino]] - Allegory of the Triumph of Venus
 			- beállított, érzéki
+		  - ![Allegory of the Triumph of Venus](https://www.wga.hu/art/b/bronzino/venus.jpg)
 		- [[Tiziano Vecellio\|Tiziano Vecellio]] - Vénusz és Adonisz
 			- viharfelhők, fény rajtuk át
 			- mesterkélt
+		  - ![Venus and Adonis](https://www.wga.hu/art/t/titian/16/16titian.jpg)
 		- később: irrealitás, fantasztikum, illúzió, groteszk
 		- [[Tintoretto\|Tintoretto]] - Szent Márk
 			- fény-árnyék
 			- rövidülés
+		  - ![St. Mark](https://www.wga.hu/art/t/tintoret/1stmark.jpg)
 		- [[Tintoretto\|Tintoretto]] - Az utolsó vacsora
 			- hihetetlenül teátrális
 			- kontraszt
+		  - ![The Last Supper](https://www.wga.hu/art/t/tintoret/4supper.jpg)
 		- [[public/El Greco\|El Greco]] - Orgaz gróf temetése
 			- oltárkép
 			- kettévált kép: alul temetés, felül transzcendens világ
 			- (kétszintes kép: bizánci festészetből hozott dolog)
 			- konkrét megrendelés
 			- történet: Orgaz gróf rengeteg pénzt adott az egyháznak, ezért István protomártír elérkezett, hpgy eltemesse őt (-> adj sok pénzt az egyháznak, hogy jó sorsra juss)
+		  - ![Burial of Count Orgaz](https://www.wga.hu/art/g/greco_el/09/0901grec.jpg)
 		- [[public/El Greco\|El Greco]] - Krisztus a kereszttel
 			- diagonális, a kereszt balra felfelé, Krisztus tekintete jobbra felfelé mutat
 			- nem hétköznapi fényviszonyok
+		  - ![Christ Carrying the Cross](https://www.wga.hu/art/g/greco_el/05/0510grec.jpg)
 		- [[public/El Greco\|El Greco]] - Toledo
 			- (ajánlás: [[Makoto Fujimura\|Makoto Fujimura]] festő + [[Hit és tudás\|Hit és tudás]] könyve)
 			- jó alapanyag a 21. században is
+		  - ![View of Toledo](https://www.wga.hu/art/g/greco_el/03/0301grec.jpg)
 		- [[public/El Greco\|El Greco]] - Laokón
 			- nem másolás, hanem reflexió/fdolgozás
 			- nem esztétizáló világ, hanem dráma, rémület, elesettség
+		  - ![Laocoön](https://www.wga.hu/art/g/greco_el/10/1001grec.jpg)
 		- [[public/El Greco\|El Greco]]
 			-

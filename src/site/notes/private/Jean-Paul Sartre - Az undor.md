@@ -13,7 +13,7 @@
 ### Említések
 
 - [[public/Albert Camus\|Albert Camus]]
-	- [[Albert Camus - Közöny\|Albert Camus - Közöny]]
+	- [[private/Albert Camus - Közöny\|Albert Camus - Közöny]]
 - [[Jean-Paul Sartre - A Lét és a Semmi\|Jean-Paul Sartre - A Lét és a Semmi]]
 - [[public/Jean-Paul Sartre\|Jean-Paul Sartre]] - Főbelövendők klubja?
 - [[public/Jean-Paul Sartre\|Jean-Paul Sartre]] - A szavak

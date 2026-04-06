@@ -123,11 +123,15 @@
 	- elsőként tér el a megszokottól
 	- utolsó vacsora
 	- Madonna
+- [[Cimabue\|Cimabue]] - Madonna and Child Enthroned with Angels and St Francis
+![Cimabue - Madonna and Child Enthroned with Angels and St Francis](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cimabue_-_Madonna_Enthroned_with_the_Child%2C_St_Francis_and_Four_Angels_-_WGA04920.jpg/330px-Cimabue_-_Madonna_Enthroned_with_the_Child%2C_St_Francis_and_Four_Angels_-_WGA04920.jpg)
 - [[Duccio di Buonisegna\|Duccio di Buonisegna]]
 	- felfedezhetőek olyan apró elemek, amelyek jelzik a változást
 	- Madonna
 	- Péter és András apostolok elhívása (merész kép)
 	- Angyali üdvözlet
+- [[Duccio di Buonisegna\|Duccio di Buonisegna]] - Masetà
+![Duccio - Maestà]([https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Duccio_di_Buoninsegna_-_Maest%C3%A0_-_WGA06996.jpg/1280px-Duccio_di_Buoninsegna_-_Maest%C3%A0_-_WGA06996.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f0/Duccio_maesta1021.jpg))
 - építészet
 	- S Francesco, Assisi
 ### Trecento
@@ -142,6 +146,8 @@
 	- legenda: [[Cimabue\|Cimabue]] felfedezettje
 	- táblaképek, **freskóciklusok**
 	- szinte mind vallásos tematikájú
+- [[Giotto\|Giotto]] - Arena Chapel Frescoes
+![Giotto - Arena Chapel Frescoes](https://cdn.britannica.com/53/140953-050-B8D8AB61/Giotto-frescoes-Padua-Arena-Chapel-Italy.jpg)
 	- S Francesco, Assisi
 		- élettörténet
 		- szegénység vállalása
@@ -202,10 +208,14 @@
 	- Porta del Battistero
 	- Porta del Paradiso
 	- vonalperspektíva, enyészpont a képben
-- Donatello
+- [[Ghiberti\|Ghiberti]] - Gates of Paradise
+![Ghiberti - Gates of Paradise](https://nelson-atkins.org/gates/images/Gates-Paradise.jpg)
+- [[Donatello\|Donatello]]
 	- Firenze, **David szobor**
 		- *identitásképző eszköz*
 	- Padova, Gattamelata
+- [[Donatello\|Donatello]] - David
+![Donatello - David](https://assets-cdn.vam.ac.uk/2022/10/24/09/11/26/14f76578-f063-4230-9d9e-30bd5db17101/320.jpg)
 - Jacopo della Queroca
 	- Porta Magna (bélletes kapu)
 - Andrea del Verocchio
@@ -214,19 +224,21 @@
 #### Festészet
 - szépség, megfigyelés
 - szín-, levegőperspektíva
-- Perugino
+- [[Perugino\|Perugino]]
 	- táj nem kulisszaszerű
 	- valóságos perspektíva
-- Masaccio
+- [[Masaccio\|Masaccio]]
 	- illúziófestészet-szerű, teret nyit számunkra
-- Andrea Mantegna
+- [[Andrea Mantegna\|Andrea Mantegna]]
 	- halott Krisztus, rövidülés
 	- Szt. Sebestyén
-- Paolo Ucello
+- [[Paolo Ucello\|Paolo Ucello]]
 	- csatajelenet
 	- tökéletes szobor-festmény
-- Sandro Boticelli
+- [[Sandro Boticelli\|Sandro Boticelli]]
 	- megragadó
+- [[Botticelli\|Botticelli]] - Birth of Venus
+![Botticelli - Birth of Venus](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg)
 - Piero della Francesca
 	- matematikus, művész
 	- kiesett a kánonból halála után
@@ -240,3 +252,5 @@
 	- Battista Sforza és Federico da Montefeltro
 	- Krisztus ostorozása
 	- Brera Madonna
+- [[Piero della Francesca\|Piero della Francesca]] - Baptism of Christ
+![Piero della Francesca - Baptism of Christ](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Piero_della_Francesca_-_Baptism_of_Christ_-_WGA17595.jpg/960px-Piero_della_Francesca_-_Baptism_of_Christ_-_WGA17595.jpg)

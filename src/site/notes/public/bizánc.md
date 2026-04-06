@@ -57,7 +57,7 @@
 	- /ószövetségi szentháromság
 	- /Ábrahám vendégszeretete
 	- ~1411/1425
-	- Rubljov filmje (lassú, 3 órás)
+	- [[Tarkovszkij - Andrej Rubljov\|Tarkovszkij - Andrej Rubljov]] film (lassú, 3 órás)
 - A. R.: Megváltó, ~1410
 - Krisztus IX. Konstantinápolyi császárral és Zoé császárnéval
 	- Hagia Sophia, 11. sz.
