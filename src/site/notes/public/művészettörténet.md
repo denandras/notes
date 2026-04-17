@@ -73,158 +73,96 @@
 ### Kérdések
 - saját magamnak feltehető kérdésekből végtelen van a "mit tapasztalok?"-on túl
 
-- **Philippe de Champaigne**: *Vanitas*
-  - ![Vanitas](https://www.wga.hu/art/c/champaig/philippe/vanitas.jpg)
-- **Julien Boily**: *Memento Vastum*
-  - ![Memento Vastum](https://www.kortarsonline.hu/wp-content/uploads/2020/04/0416/Julien_Boily_painting.jpg)
+- [[Philippe de Champaigne\|Philippe de Champaigne]] - *Vanitas* ![](https://www.wga.hu/art/c/champaig/philippe/vanitas.jpg)
+- [[Julien Boily\|Julien Boily]] - *Memento Vastum* ![](https://www.kortarsonline.hu/wp-content/uploads/2020/04/0416/Julien_Boily_painting.jpg)
 
 - St Denis székesegyház
 	- a gótika kialakulása az [[opus francigeno\|opus francigeno]]ból
-- **Pekka Niittyvirta** & **Timo Aho**: *Lines*
-  - ![Lines](https://niittyvirta.com/wordpress/wp-content/uploads/2018/05/lines_2018-niittyvirta-aho-009.jpg)
+- [[Pekka Niittyvirta\|Pekka Niittyvirta]] & [[Timo Aho\|Timo Aho]] - *Lines* ![](https://niittyvirta.com/wordpress/wp-content/uploads/2018/05/lines_2018-niittyvirta-aho-009.jpg)
 
-- **Kazimir Malevics**: *Fekete négyzet*
+- [[Kazimir Malevics\|Kazimir Malevics]] - *Fekete négyzet*
 	- szuper-[[public/nativizmus\|nativizmus]], "objektlose Welt", maximális absztrakció, [[public/apofativizmus\|apofatikus]]
-	- [[public/via negativa\|via negativa]]
-	- ![Black Square](https://nlc.hu/uploads/2020/10/kazimir_malevich_1915_black_suprematic_square_oil_on_linen_canvas_79-5_x_79-5_cm_tretyakov_gallery_moscow.jpg)
+	- [[public/via negativa\|via negativa]] ![](https://artincontext.org/wp-content/uploads/2022/02/Kazimir-Malevich-Black-Square.jpg)
 
 - Teotihuacan, a Nap piramisa
-- **James Turrel**: *Roden Crater*
-	- hogyan látunk, látjuk-e a saját látásunkat?
-	- ![Roden Crater](https://s.wsj.net/public/resources/images/B3-CW190_TURREL_1000V_20190110165643.jpg)
+- [[James Turrel\|James Turrel]] - *Roden Crater*
+	- hogyan látunk, látjuk-e a saját látásunkat? ![](https://s.wsj.net/public/resources/images/B3-CW190_TURREL_1000V_20190110165643.jpg)
 
-- **André Kertész**: *A törött pad*
-  - ![The Broken Bench](https://fotomuzeum.hu/media/fenykep/01080091.jpg)
-- **Zellei Boglárka Éva**: *Ösvény a lelkek közt - pilisi transzcendentalitás*
-  - ![ösvény](https://blog.capacenter.hu/wp-content/uploads/2022/12/ZelleiBoglarkaEva_Az-Osveny-c-sorozatbol-2020_4-741x1024.jpg)
+- [[André Kertész\|André Kertész]] - *A törött pad* ![](https://fotomuzeum.hu/media/fenykep/01080091.jpg)
+- [[Zellei Boglárka Éva\|Zellei Boglárka Éva]] - *Ösvény a lelkek közt - pilisi transzcendentalitás* ![](https://blog.capacenter.hu/wp-content/uploads/2022/12/ZelleiBoglarkaEva_Az-Osveny-c-sorozatbol-2020_4-741x1024.jpg)
 
 ## Barokk festmények
 
 ### [[Giovanni Lorenzo Bernini\|Giovanni Lorenzo Bernini]]
-- **Bernini** - *Apolló és Daphné*
-  - ![Apollo and Daphne](https://www.wga.hu/art/b/bernini/gianlore/sculptur/1620/apollo_d.jpg)
-- **Bernini** - *Habakukk és az angyal*
-  - ![Habakkuk and the Angel](https://www.wga.hu/art/b/bernini/gianlore/sculptur/1650/habaku1.jpg)
-- **Bernini** - *Beata Ludovica Albertoni*
-  - ![Beata Ludovica Albertoni](https://www.wga.hu/art/b/bernini/gianlore/sculptur/1670/ludovica.jpg)
-- **Bernini** - *Szent Teréz extázisa*
-  - ![Ecstasy of Saint Teresa](https://www.wga.hu/art/b/bernini/gianlore/sculptur/1640/therese1.jpg)
-- **Bernini** - *Szent Longinus*
-  - ![Saint Longinus](https://www.wga.hu/art/b/bernini/gianlore/sculptur/1630/longinus.jpg)
+- [[Bernini\|Bernini]] - *Apolló és Daphné* ![](https://www.wga.hu/art/b/bernini/gianlore/sculptur/1620/apollo_d.jpg)
+- [[Bernini\|Bernini]] - *Habakukk és az angyal* ![](https://www.wga.hu/art/b/bernini/gianlore/sculptur/1650/habaku1.jpg)
+- [[Bernini\|Bernini]] - *Beata Ludovica Albertoni* ![](https://www.wga.hu/art/b/bernini/gianlore/sculptur/1670/ludovica.jpg)
+- [[Bernini\|Bernini]] - *Szent Teréz extázisa* ![](https://www.wga.hu/art/b/bernini/gianlore/sculptur/1640/therese1.jpg)
+- [[Bernini\|Bernini]] - *Szent Longinus* ![](https://www.wga.hu/art/b/bernini/gianlore/sculptur/1630/longinus.jpg)
 
 ### [[Caravaggio\|Caravaggio]]
-- **Caravaggio** - *Bacchus*
-  - ![Bacchus](https://www.wga.hu/art/c/caravagg/01/10bacch.jpg)
-- **Caravaggio** - *Beteg fiatal Bacchus*
-  - ![Sick Bacchus](https://www.wga.hu/art/c/caravagg/01/01bacch.jpg)
-- **Caravaggio** - *Szent Máté és az angyal*
-  - ![Caravaggio - Saint Matthew and the Angel](https://www.wga.hu/art/c/caravagg/04/26conta.jpg)
-- **Caravaggio** - *Szent Máté elhívása*
-  - ![The Calling of Saint Matthew](https://www.wga.hu/art/c/caravagg/04/23conta.jpg)
-- **Caravaggio** - *Szent Máté mártíromsága*
-  - ![The Martyrdom of Saint Matthew](https://www.wga.hu/art/c/caravagg/04/24conta.jpg)
-- **Caravaggio** - *Emmausi vacsora*
-  - ![Supper at Emmaus](https://www.wga.hu/art/c/caravagg/06/35emmau.jpg)
-- **Caravaggio** - *Szent Péter keresztrefeszítése*
-  - ![Caravaggio - Crucifixion of Saint Peter](https://www.wga.hu/art/c/caravagg/05/28ceras.jpg)
-- **Caravaggio** - *A szűz elszenderedése*
-  - ![Death of the Virgin](https://www.wga.hu/art/c/caravagg/07/45death0.jpg)
-- **Caravaggio** - *Szent János lefejezése*
-  - ![Beheading of Saint John](https://www.wga.hu/art/c/caravagg/10/62behead.jpg)
+- [[Caravaggio\|Caravaggio]] - *Bacchus* ![](https://www.wga.hu/art/c/caravagg/01/10bacch.jpg)
+- [[Caravaggio\|Caravaggio]] - *Beteg fiatal Bacchus* ![](https://www.wga.hu/art/c/caravagg/01/01bacch.jpg)
+- [[Caravaggio\|Caravaggio]] - *Szent Máté és az angyal* ![](https://www.wga.hu/art/c/caravagg/04/26conta.jpg)
+- [[Caravaggio\|Caravaggio]] - *Szent Máté elhívása* ![](https://www.wga.hu/art/c/caravagg/04/23conta.jpg)
+- [[Caravaggio\|Caravaggio]] - *Szent Máté mártíromsága* ![](https://www.wga.hu/art/c/caravagg/04/24conta.jpg)
+- [[Caravaggio\|Caravaggio]] - *Emmausi vacsora* ![](https://www.wga.hu/art/c/caravagg/06/35emmau.jpg)
+- [[Caravaggio\|Caravaggio]] - *Szent Péter keresztrefeszítése* ![](https://www.wga.hu/art/c/caravagg/05/28ceras.jpg)
+- [[Caravaggio\|Caravaggio]] - *A szűz elszenderedése* ![](https://www.wga.hu/art/c/caravagg/07/45death0.jpg)
+- [[Caravaggio\|Caravaggio]] - *Szent János lefejezése* ![](https://www.wga.hu/art/c/caravagg/10/62behead.jpg)
 
 ### [[Artemisia Gentileschi\|Artemisia Gentileschi]]
-- **Gentileschi** - *Zsuzsanna és a vének*
-  - ![Susanna and the Elders](https://www.wga.hu/art/g/gentiles/artemisi/susanna.jpg)
-- **Gentileschi** - *Judit és szolgálóleánya*
-  - ![Judith and her Maidservant](https://www.wga.hu/art/g/gentiles/artemisi/judith_m.jpg)
-- **Gentileschi** - *Judit lefejezi Holofernészt*
-  - ![Judith Beheading Holofernes](https://www.wga.hu/art/g/gentiles/artemisi/judit.jpg)
-- **Gentileschi** - *Mária Magdaléna extázisa*
-  - ![Penitent Mary Magdalene](https://www.wga.hu/art/g/gentiles/artemisi/mary_mag.jpg)
-- **Gentileschi** - *Önarckép a festészet allegóriájaként*
-  - ![Self-Portrait as the Allegory of Painting](https://www.wga.hu/art/g/gentiles/artemisi/selfport.jpg)
+- [[Gentileschi\|Gentileschi]] - *Zsuzsanna és a vének* ![](https://www.wga.hu/art/g/gentiles/artemisi/susanna.jpg)
+- [[Gentileschi\|Gentileschi]] - *Judit és szolgálóleánya* ![](https://www.wga.hu/art/g/gentiles/artemisi/judith_m.jpg)
+- [[Gentileschi\|Gentileschi]] - *Judit lefejezi Holofernészt* ![](https://www.wga.hu/art/g/gentiles/artemisi/judit.jpg)
+- [[Gentileschi\|Gentileschi]] - *Mária Magdaléna extázisa* ![](https://www.wga.hu/art/g/gentiles/artemisi/mary_mag.jpg)
+- [[Gentileschi\|Gentileschi]] - *Önarckép a festészet allegóriájaként* ![](https://www.wga.hu/art/g/gentiles/artemisi/selfport.jpg)
 
 ### [[Diego Velazquez\|Diego Velazquez]]
-- **Velazquez** - *Bréda feladása*
-  - ![Surrender of Breda](https://www.wga.hu/art/v/velazque/06/0601vela.jpg)
-- **Velazquez** - *Vénusz tükörvel*
-  - ![Venus at her Mirror](https://www.wga.hu/art/v/velazque/07/0701vela.jpg)
-- **Velazquez** - *X. Ince pápa képmása*
-  - ![Pope Innocent X](https://www.wga.hu/art/v/velazque/09/0902vela.jpg)
-- **Velazquez** - *Az udvarhölgyek (Las Meninas)*
-  - ![Las Meninas](https://www.wga.hu/art/v/velazque/08/0801vela.jpg)
+- [[Velazquez\|Velazquez]] - *Bréda feladása* ![](https://www.wga.hu/art/v/velazque/06/0601vela.jpg)
+- [[Velazquez\|Velazquez]] - *Vénusz tükörvel* ![](https://www.wga.hu/art/v/velazque/07/0701vela.jpg)
+- [[Velazquez\|Velazquez]] - *X. Ince pápa képmása* ![](https://www.wga.hu/art/v/velazque/09/0902vela.jpg)
+- [[Velazquez\|Velazquez]] - *Az udvarhölgyek (Las Meninas)* ![](https://www.wga.hu/art/v/velazque/08/0801vela.jpg)
 
 ### [[Anthony van Dyck\|Anthony van Dyck]]
-- **Van Dyck** - *A megkoronázott Krisztus*
-  - ![Van Dyck - Christ Crowned with Thorns](https://www.wga.hu/art/d/dyck_van/3other/crowning.jpg)
-- **Van Dyck** - *Nicolas Lanier portréja*
-  - ![Van Dyck - Portrait of Nicolas Lanier](https://upload.wikimedia.org/wikipedia/commons/a/ac/Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Nicholas_Lanier_%281588-1666%29_-_GG_501_-_Kunsthistorisches_Museum.jpg)
-- **Van Dyck** - *I. Károly M. de St Antoine-nal*
-  - ![Van Dyck - Charles I with M. de St Antoine](https://upload.wikimedia.org/wikipedia/commons/6/6c/Anthony_van_Dyck_-_Charles_I_%281600-49%29_with_M._de_St_Antoine_-_Google_Art_Project.jpg)
-- **Van Dyck** - *Önarckép napraforgóval*
-  - ![Van Dyck - Self-Portrait with Sunflower](https://www.wga.hu/art/d/dyck_van/1portrai/self_por.jpg)
+- [[Van Dyck\|Van Dyck]] - *A megkoronázott Krisztus* ![](https://www.wga.hu/art/d/dyck_van/3other/crowning.jpg)
+- [[Van Dyck\|Van Dyck]] - *Nicolas Lanier portréja* ![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Nicholas_Lanier_%281588-1666%29_-_GG_501_-_Kunsthistorisches_Museum.jpg)
+- [[Van Dyck\|Van Dyck]] - *I. Károly M. de St Antoine-nal* ![](https://upload.wikimedia.org/wikipedia/commons/6/6c/Anthony_van_Dyck_-_Charles_I_%281600-49%29_with_M._de_St_Antoine_-_Google_Art_Project.jpg)
+- [[Van Dyck\|Van Dyck]] - *Önarckép napraforgóval* ![](https://www.wga.hu/art/d/dyck_van/1portrai/self_por.jpg)
 
 ## Holland Aranykor festmények
 
 ### [[Peter Paul Rubens\|Peter Paul Rubens]]
-- **Rubens** - *Férfiportré, 1597*
-  - ![Rubens - Portrait of a Man](https://www.wga.hu/art/r/rubens/41portra/01schola.jpg)
-- **Rubens** - *Ausztriai Anna portréja, 1622*
-  - ![Rubens - Portrait of Anne of Austria](https://www.wga.hu/art/r/rubens/41portra/151anne.jpg)
-- **Rubens** - *Phaeton bukása*
-  - ![Fall of Phaeton](https://www.wga.hu/art/r/rubens/21mythol/02mythol.jpg)
-- **Rubens** - *Levétel a keresztről, 1618*
-  - ![Descent from the Cross](https://www.wga.hu/art/r/rubens/11religi/07desce.jpg)
-- **Rubens** - *Az ember bukása*
-  - ![Fall of Man](https://www.wga.hu/art/r/rubens/10religi/01religi.jpg)
-- **Rubens** - *Leukipposz lányainak elrablása*
-  - ![Rape of the Daughters of Leucippus](https://www.wga.hu/art/r/rubens/22mythol/28mythol.jpg)
-- **Rubens** - *A három Grácia*
-  - ![The Three Graces](https://www.wga.hu/art/r/rubens/23mythol/55mythol.jpg)
-- **Rubens** - *Vénusz a tükör előtt*
-  - ![Venus at a Mirror](https://www.wga.hu/art/r/rubens/22mythol/23mythol.jpg)
+- [[Rubens\|Rubens]] - *Férfiportré, 1597* ![](https://www.wga.hu/art/r/rubens/41portra/01schola.jpg)
+- [[Rubens\|Rubens]] - *Ausztriai Anna portréja, 1622* ![](https://www.wga.hu/art/r/rubens/41portra/151anne.jpg)
+- [[Rubens\|Rubens]] - *Phaeton bukása* ![](https://www.wga.hu/art/r/rubens/21mythol/02mythol.jpg)
+- [[Rubens\|Rubens]] - *Levétel a keresztről, 1618* ![](https://www.wga.hu/art/r/rubens/11religi/07desce.jpg)
+- [[Rubens\|Rubens]] - *Az ember bukása* ![](https://www.wga.hu/art/r/rubens/10religi/01religi.jpg)
+- [[Rubens\|Rubens]] - *Leukipposz lányainak elrablása* ![](https://www.wga.hu/art/r/rubens/22mythol/28mythol.jpg)
+- [[Rubens\|Rubens]] - *A három Grácia* ![](https://www.wga.hu/art/r/rubens/23mythol/55mythol.jpg)
+- [[Rubens\|Rubens]] - *Vénusz a tükör előtt* ![](https://www.wga.hu/art/r/rubens/22mythol/23mythol.jpg)
 
 ### [[Rembrandt\|Rembrandt]]
-- **Rembrandt** - *Önarcképek (1628, 1652, 1669)*
-  - ![Self-Portrait 1628](https://www.wga.hu/art/r/rembrand/27self/03sp1628.jpg)
-  - ![Self-Portrait 1652](https://www.wga.hu/art/r/rembrand/27self/16sp1658.jpg)
-  - ![Self-Portrait 1669](https://www.wga.hu/art/r/rembrand/27self/22sp1669.jpg)
-- **Rembrandt** - *Önarckép két körrel*
-  - ![Rembrandt - Self-Portrait with Two Circles](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/1280px-Rembrandt_Self-portrait_%28Kenwood%29.jpg)
-- **Rembrandt** - *Rembrandt és Saskia, avagy a tékozló fiú a tavernában*
-  - ![Rembrandt - Self-Portrait with Saskia](https://www.wga.hu/art/r/rembrand/41misc/06misc.jpg)
-- **Rembrandt** - *Saskia van Ulyenburg portréja*
-  - ![Rembrandt - Portrait of Saskia](https://www.wga.hu/art/r/rembrand/23portra/67portra.jpg)
-- **Rembrandt** - *A tékozló fiú visszatérése*
-  - ![Return of the Prodigal Son](https://www.wga.hu/art/r/rembrand/14biblic/70newtes.jpg)
-- **Rembrandt** - *A filozófus*
-  - ![Aristotle with a Bust of Homer](https://www.wga.hu/art/r/rembrand/17histor/03histor.jpg)
-- **Rembrandt** - *Dr. Tulp anatómiája*
-  - ![The Anatomy Lesson of Dr. Tulp](https://www.wga.hu/art/r/rembrand/26group/01group.jpg)
-- **Rembrandt** - *Éjjeli őrjárat*
-  - ![The Night Watch](https://www.wga.hu/art/r/rembrand/26group/05group.jpg)
-- **Rembrandt** - *A zsidó menyasszony*
-  - ![The Jewish Bride](https://www.wga.hu/art/r/rembrand/25portra/131portr.jpg)
-- **Rembrandt** - *Mészárszék*
-  - ![The Slaughtered Ox](https://www.wga.hu/art/r/rembrand/41misc/09misc.jpg)
-- **Rembrandt** - *Önarckép Saskiával*
-  - ![Rembrandt - Self-Portrait with Saskia](https://www.wga.hu/art/r/rembrand/41misc/06misc.jpg)
-- **Rembrandt** - *A három kereszt*
-  - ![The Three Crosses](https://www.wga.hu/art/r/rembrand/51etchin/2/0781.jpg)
+- [[Rembrandt\|Rembrandt]] - *Önarcképek (1628, 1652, 1669)* ![](https://www.wga.hu/art/r/rembrand/27self/03sp1628.jpg) ![](https://www.wga.hu/art/r/rembrand/27self/16sp1658.jpg) ![](https://www.wga.hu/art/r/rembrand/27self/22sp1669.jpg)
+- [[Rembrandt\|Rembrandt]] - *Önarckép két körrel* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/1280px-Rembrandt_Self-portrait_%28Kenwood%29.jpg)
+- [[Rembrandt\|Rembrandt]] - *Rembrandt és Saskia, avagy a tékozló fiú a tavernában* ![](https://www.wga.hu/art/r/rembrand/41misc/06misc.jpg)
+- [[Rembrandt\|Rembrandt]] - *Saskia van Ulyenburg portréja* ![](https://www.wga.hu/art/r/rembrand/23portra/67portra.jpg)
+- [[Rembrandt\|Rembrandt]] - *A tékozló fiú visszatérése* ![](https://www.wga.hu/art/r/rembrand/14biblic/70newtes.jpg)
+- [[Rembrandt\|Rembrandt]] - *A filozófus* ![](https://www.wga.hu/art/r/rembrand/17histor/03histor.jpg)
+- [[Rembrandt\|Rembrandt]] - *Dr. Tulp anatómiája* ![](https://www.wga.hu/art/r/rembrand/26group/01group.jpg)
+- [[Rembrandt\|Rembrandt]] - *Éjjeli őrjárat* ![](https://www.wga.hu/art/r/rembrand/26group/05group.jpg)
+- [[Rembrandt\|Rembrandt]] - *A zsidó menyasszony* ![](https://www.wga.hu/art/r/rembrand/25portra/131portr.jpg)
+- [[Rembrandt\|Rembrandt]] - *Mészárszék* ![](https://www.wga.hu/art/r/rembrand/41misc/09misc.jpg)
+- [[Rembrandt\|Rembrandt]] - *Önarckép Saskiával* ![](https://www.wga.hu/art/r/rembrand/41misc/06misc.jpg)
+- [[Rembrandt\|Rembrandt]] - *A három kereszt* ![](https://www.wga.hu/art/r/rembrand/51etchin/2/0781.jpg)
 
 ### [[Jan Vermeer van Delft\|Jan Vermeer van Delft]]
-- **Vermeer** - *A festészet allegóriája*
-  - ![The Art of Painting](https://www.wga.hu/art/v/vermeer/03c/25artpa.jpg)
-- **Vermeer** - *Az asztronómus*
-  - ![The Astronomer](https://www.wga.hu/art/v/vermeer/03d/28astro.jpg)
-- **Vermeer** - *A geográfus*
-  - ![The Geographer](https://www.wga.hu/art/v/vermeer/03d/29geogr.jpg)
-- **Vermeer** - *Tejet öntő nő*
-  - ![The Milkmaid](https://www.wga.hu/art/v/vermeer/02b/09milkm.jpg)
-- **Vermeer** - *Lány gyöngy fülbevalóval*
-  - ![Girl with a Pearl Earring](https://www.wga.hu/art/v/vermeer/03b/22pearl.jpg)
-- **Vermeer** - *A zeneóra*
-  - ![Vermeer - The Music Lesson](https://www.wga.hu/art/v/vermeer/03a/16ladyv.jpg)
+- [[Vermeer\|Vermeer]] - *A festészet allegóriája* ![](https://www.wga.hu/art/v/vermeer/03c/25artpa.jpg)
+- [[Vermeer\|Vermeer]] - *Az asztronómus* ![](https://www.wga.hu/art/v/vermeer/03d/28astro.jpg)
+- [[Vermeer\|Vermeer]] - *A geográfus* ![](https://www.wga.hu/art/v/vermeer/03d/29geogr.jpg)
+- [[Vermeer\|Vermeer]] - *Tejet öntő nő* ![](https://www.wga.hu/art/v/vermeer/02b/09milkm.jpg)
+- [[Vermeer\|Vermeer]] - *Lány gyöngy fülbevalóval* ![](https://www.wga.hu/art/v/vermeer/03b/22pearl.jpg)
+- [[Vermeer\|Vermeer]] - *A zeneóra* ![](https://www.wga.hu/art/v/vermeer/03a/16ladyv.jpg)
 
 > [[public/Luther\|Luther]]: A festményt nem nézni kell, hanem hallgatni. (beszélgetni vele)
 

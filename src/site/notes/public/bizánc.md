@@ -32,10 +32,10 @@
 - San Vitale, Ravenna, 402-425
 	- Iusztinianusz császár, 547, mozaik
 	- Theodora császárné
-- Galla Placidia mauzóleuma (5. sz. eleje)
+- [[Galla Placidia\|Galla Placidia]] mauzóleuma (5. sz. eleje)
 	- alapból temetkezés céljából épült
-- Areobindus Dagalaiphus konstantinápolyi konzul
-- Barberini lemez (6. sz.)
+- [[Areobindus Dagalaiphus konstantinápolyi konzul\|Areobindus Dagalaiphus konstantinápolyi konzul]]
+- [[Barberini\|Barberini]] lemez (6. sz.)
 - Hagia Sophia (532-'37)
 	- centrális alaprajz, kupola
 	- Hagia Eirené temploma mellette
@@ -44,7 +44,8 @@
 - Rabula kódex (6. sz.)
 	- ketté választott tér
 - [[Daphné\|Daphné]] kolostor, Athén
-- Feofan Grek: Jézus színeváltozása, 1408
+- [[public/Feofan Grek\|Feofan Grek]]: Jézus színeváltozása, 1408
+	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Transfiguration_by_Feofan_Grek_from_Spaso-Preobrazhensky_Cathedral_in_Pereslavl-Zalessky_%2815th_c%2C_Tretyakov_gallery%29.jpeg/960px-Transfiguration_by_Feofan_Grek_from_Spaso-Preobrazhensky_Cathedral_in_Pereslavl-Zalessky_%2815th_c%2C_Tretyakov_gallery%29.jpeg)
 	- görög festő
 	- expresszív
 	- tojástempera
@@ -52,12 +53,12 @@
 - F. G.: Doni miasszonyunk, 1390
 	- Theotokosz
 	- Istenszülő elszenderedése, 1392
-- Andrej Rubljov
+- [[Andrej Rubljov\|Andrej Rubljov]]
 	- szentháromság
 	- /ószövetségi szentháromság
 	- /Ábrahám vendégszeretete
 	- ~1411/1425
-	- [[Tarkovszkij - Andrej Rubljov\|Tarkovszkij - Andrej Rubljov]] film (lassú, 3 órás)
+	- [[public/Tarkovszkij - Andrej Rubljov\|Tarkovszkij - Andrej Rubljov]] film (lassú, 3 órás)
 - A. R.: Megváltó, ~1410
 - Krisztus IX. Konstantinápolyi császárral és Zoé császárnéval
 	- Hagia Sophia, 11. sz.
@@ -69,6 +70,7 @@
 		- frontalitás
 - II. (Szép) Ióannész Komnénosz biz. császár
 - Deesis mozaik
+	- ![](https://hagiasophiaturkey.com/wp-content/uploads/2017/11/Sketch-of-Deesis-Mosaic-Hagia-Sophia.jpg)
 - **Szicília**
 	- San Marco, Velence (978-1092)
 	- Santa Maria Assunta, Torcello, 15. sz.

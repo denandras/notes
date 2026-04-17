@@ -30,8 +30,8 @@
 		- -> sztoicizmus (sétálva beszélgetésből)
 	- dór, ión, korintusi oszlopok
 	- hatalmas fejlődés pár száz év alatt
-		- [[Pheidiász\|Pheidiász]]: Athéné, Aphrodité, Perthenon-fríz
-		- [[Mürón\|Mürón]]: Minotaurosz, Diszkobolusz
+		- [[Pheidiász\|Pheidiász]]: [[Athéné\|Athéné]], [[Aphrodité\|Aphrodité]], Perthenon-fríz
+		- [[Mürón\|Mürón]]: [[Minotaurosz\|Minotaurosz]], [[Diszkobolusz\|Diszkobolusz]]
 		- [[Polükleitosz\|Polükleitosz]]
 	- vörös alakos vázafestés (a fekete hátteret festik meg)
 		- itt már van perspektíva, rövidülés

@@ -13,13 +13,13 @@
 	- kilaposodnak a felületek - eml. [[Hokusai\|Hokusai]]
 - [[Edouard Manet\|Edouard Manet]] - *The Dead Christ With Angels*
 
-![Manet - Olympia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Manet%2C_%C3%89douard_-_Olympia%2C_1863.jpg/800px-Manet%2C_%C3%89douard_-_Olympia%2C_1863.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Manet%2C_%C3%89douard_-_Olympia%2C_1863.jpg/800px-Manet%2C_%C3%89douard_-_Olympia%2C_1863.jpg)
 - neoimpresszionizmus/pointillizmus
 - [[Georges Seurat\|Georges Seurat]] - *Vasárnap délután a La Grande Jatte szigetén*
 - [[Georges Seurat\|Georges Seurat]] - *A cirkusz*
 	- szimultán kontrasztos színek
 
-![Seurat - A Sunday Afternoon on the Island of La Grande Jatte](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/1280px-A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/1280px-A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg)
 - [[Paul Signac\|Paul Signac]] - *Nő ernyővel*
 - [[Paul Signac\|Paul Signac]] - Notre Dame de la Grande
 - [[Henri-Edmond Cross\|Henri-Edmond Cross]] - *L'aie du soir*
@@ -44,7 +44,7 @@
 		- az érzet a lényeg egyre inkább
 	- *Mont Sainte-Victoire és a Chateau Noir*
 
-![Cézanne - The Card Players](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Card_Players_by_Paul_C%C3%A9zanne%2C_2013-01-03_15-49-37.jpg/800px-The_Card_Players_by_Paul_C%C3%A9zanne%2C_2013-01-03_15-49-37.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Card_Players_by_Paul_C%C3%A9zanne%2C_2013-01-03_15-49-37.jpg/800px-The_Card_Players_by_Paul_C%C3%A9zanne%2C_2013-01-03_15-49-37.jpg)
 - [[public/Paul Gauguin\|Paul Gauguin]]
 	- színintenzitás, színmezők, dekoratív körvonalakkal
 	- egyszer csak nekivágott a festészetnek, maga mögött hagyva egy decens polgári életet
@@ -61,7 +61,7 @@
 	- *Lovasok a tengerparton*
 	- *Vincent [[private/Van Gogh\|Van Gogh]] napraforgókat fest*
 
-![Gauguin - Where Do We Come From? What Are We? Where Are We Going?](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paul_Gauguin%2C_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F.jpg/1280px-Paul_Gauguin%2C_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paul_Gauguin%2C_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F.jpg/1280px-Paul_Gauguin%2C_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F.jpg)
 - Vincent [[private/Van Gogh\|Van Gogh]]
 	- testvérével mindketten tanultak protestáns teológiát
 	- vonalak felépítése apró részekből
@@ -83,7 +83,7 @@
 	- *Templom Auvres-ben*
 	- *Varjak a búzamezőn*
 
-![Van Gogh - The Starry Night](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Van_Gogh_Starry_Night.jpg/1280px-Van_Gogh_Starry_Night.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Van_Gogh_Starry_Night.jpg/1280px-Van_Gogh_Starry_Night.jpg)
 - [[Henri de Toulouse-Latrec\|Henri de Toulouse-Latrec]]
 	- testileg hátrányos helyzetű
 	- gyerekként ágyban anyja szórakoztatásul festésre biztatja
@@ -129,7 +129,7 @@
 			- *Melegedő csontvázak*
 			- *Az ármány*
 			- ***Self-Portrait with Masks***
-		- **[[Giovanni Segantini\|Giovanni Segantini]]**
+		- [[Giovanni Segantini\|Giovanni Segantini]]
 			- ***A kéj büntetése***
 			- *Rossz anyák*
 			- *Ave Maria a tavon*
@@ -145,7 +145,7 @@
 			- *Pubertás*
 			- *Az élet tánca*
 
-![Munch - The Scream](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Scream.jpg/800px-The_Scream.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Scream.jpg/800px-The_Scream.jpg)
 		- Ausztria-Magyarország
 			- [[Csontváry Kosztka Tivadar\|Csontváry Kosztka Tivadar]]
 				- *Önarckép*
@@ -157,7 +157,7 @@
 				- *Öreg halász*
 				- *Szerelmesek találkozása*
 					- kallódott sokáig
-				- *A görőg színház romjai Taorminában*
+				- *A görög színház romjai Taorminában*
 				- *Zarándoklás a cédrusokhoz*
 				- *A magányos cédrus*
 		- Franciaország

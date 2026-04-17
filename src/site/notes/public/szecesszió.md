@@ -56,7 +56,7 @@
 		- *[[Mada Gertrude Primavesi\|Mada Gertrude Primavesi]]*
 		- *Barátnők*
 
-![Klimt - The Kiss](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gustav_Klimt_016.jpg/800px-Gustav_Klimt_016.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gustav_Klimt_016.jpg/800px-Gustav_Klimt_016.jpg)
 	- [[private/Egon Schiele\|Egon Schiele]]
 		- fiatalon került be a művészi életbe (és halt is meg)
 		- sokan nem tudtak vele mit kezdeni
@@ -66,7 +66,7 @@
 		- *Remeték*
 		- *Bíboros és apáca*
 
-![Schiele - The Family](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Egon_Schiele_-_The_Family_-_Google_Art_Project.jpg/800px-Egon_Schiele_-_The_Family_-_Google_Art_Project.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Egon_Schiele_-_The_Family_-_Google_Art_Project.jpg/800px-Egon_Schiele_-_The_Family_-_Google_Art_Project.jpg)
 - grafika
 	- [[Koloman Moser\|Koloman Moser]]
 		- [[private/Egon Schiele\|Egon Schiele]] ellentettje
@@ -91,12 +91,12 @@
 ### Csehország
 - [[Alfons Mucha\|Alfons Mucha]]
 
-![Mucha - Job](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mucha_-_Job.jpg/800px-Mucha_-_Job.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mucha_-_Job.jpg/800px-Mucha_-_Job.jpg)
 
 ### Spanyolország
 - [[Antoni Gaudí\|Antoni Gaudí]]
 
-![Gaudí - Casa Batlló](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Casa_Batll%C3%B3_1_Marc_2014.jpg/800px-Casa_Batll%C3%B3_1_Marc_2014.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Casa_Batll%C3%B3_1_Marc_2014.jpg/800px-Casa_Batll%C3%B3_1_Marc_2014.jpg)
 
 ### Németország
 - [[Josef Maria Olbrich\|Josef Maria Olbrich]]
@@ -106,7 +106,7 @@
 	- szabad anyaghasználat
 - [[Henry van de Verde\|Henry van de Verde]]
 
-![Horta - Hôtel Tassel](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Victor_Horta_Hotel_Tassel.JPG/800px-Victor_Horta_Hotel_Tassel.JPG)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Victor_Horta_Hotel_Tassel.JPG/800px-Victor_Horta_Hotel_Tassel.JPG)
 
 ### Franciaország
 - [[Emile Gallé\|Emile Gallé]]

@@ -4,4 +4,4 @@
 
 Pietro Francesco Cavalli
 
-Olasz barokk zeneszerző, a velencei operaiskola [[public/Monteverdi\|Monteverdi]] mellett legkiemelkedőbb alakja. ([wiki](https://www.wikiwand.com/hu/Francesco_Cavalli))
+Olasz barokk zeneszerző, a velencei operaiskola [[public/Monteverdi\|Monteverdi]] mellett legkiemelkedőbb alakja. ([wiki](https://hu.wikipedia.org/wiki/Francesco_Cavalli))

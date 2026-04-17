@@ -28,7 +28,7 @@
 	- természet ereje
 	- sötét-világos, színkontraszt, turbulencia (<- [[public/barokk a művészettörténetben\|barokk]])
 
-![Géricault - The Raft of the Medusa](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Th%C3%A9odore_G%C3%A9ricault%2C_Le_Radeau_de_la_M%C3%A9duse.jpg/1280px-Th%C3%A9odore_G%C3%A9ricault%2C_Le_Radeau_de_la_M%C3%A9duse.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Th%C3%A9odore_G%C3%A9ricault%2C_Le_Radeau_de_la_M%C3%A9duse.jpg/1280px-Th%C3%A9odore_G%C3%A9ricault%2C_Le_Radeau_de_la_M%C3%A9duse.jpg)
 - [[Eugéne Delacroix\|Eugéne Delacroix]]
 	- klasszicista szürkeség ellen
 	- francia
@@ -38,7 +38,7 @@
 		- minden vibrál, mozog, tombol
 	- *A szabadság vezeti a népet*
 
-![Delacroix - Liberty Leading the People](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eug%C3%A8ne_Delacroix_-_Liberty_Leading_the_People_-_Google_Art_Project.jpg/1280px-Eug%C3%A8ne_Delacroix_-_Liberty_Leading_the_People_-_Google_Art_Project.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eug%C3%A8ne_Delacroix_-_Liberty_Leading_the_People_-_Google_Art_Project.jpg/1280px-Eug%C3%A8ne_Delacroix_-_Liberty_Leading_the_People_-_Google_Art_Project.jpg)
 - [[public/John Constable\|John Constable]]
 	- angol tájképfestő
 	- *Wivenhoe Park*
@@ -48,7 +48,7 @@
 	- *Stonehenge*
 	- *Tengerparti tanulmány esőfelhővel* 1824 - merész kép
 
-![Constable - Salisbury Cathedral from the Meadows](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Salisbury_Cathedral_from_the_Meadows_-_John_Constable.jpg/1280px-Salisbury_Cathedral_from_the_Meadows_-_John_Constable.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Salisbury_Cathedral_from_the_Meadows_-_John_Constable.jpg/1280px-Salisbury_Cathedral_from_the_Meadows_-_John_Constable.jpg)
 - [[William Turner\|William Turner]]
 	- akvarell, plen air
 	- természeti jelenségek, modern technika
@@ -61,7 +61,7 @@
 		- iparosodás, gőzgép
 		- eml. antropocén és holocén korszak
 
-![Turner - The Fighting Temeraire](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/The_Fighting_Temeraire_tugged_to_her_Last_Berth_to_be_broken_up%2C_1838_-_J.M.W._Turner.jpg/1280px-The_Fighting_Temeraire_tugged_to_her_Last_Berth_to_be_broken_up%2C_1838_-_J.M.W._Turner.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/The_Fighting_Temeraire_tugged_to_her_Last_Berth_to_be_broken_up%2C_1838_-_J.M.W._Turner.jpg/1280px-The_Fighting_Temeraire_tugged_to_her_Last_Berth_to_be_broken_up%2C_1838_-_J.M.W._Turner.jpg)
 - [[Francisco José de Goya y Lucientes\|Francisco José de Goya y Lucientes]]
 	- barokk és rokokó folytatója
 	- romantika jegyei
@@ -84,7 +84,7 @@
 	- *Szaturnusz felfalja gyermekét*
 		- durva képek, ma itt: Prado, Madrid
 
-![Goya - The Third of May 1808](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg/1280px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg/1280px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg)
 - [[William Blake\|William Blake]]
 	- költő, festő, grafikus, nyomdász
 	- sajátos vallásfilozófia
@@ -101,7 +101,7 @@
 		- furcsa szörnyeteg, előlép a függönyök mögül
 	- saját verseskötetek illusztrálása
 
-![Blake - The Ancient of Days](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Blake_ancient_of_days.jpg/800px-Blake_ancient_of_days.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Blake_ancient_of_days.jpg/800px-Blake_ancient_of_days.jpg)
 - [[Caspar David Friedrich\|Caspar David Friedrich]]
 	- természet
 	- tájábrázolás metafizikus, transzcendens módon
@@ -130,7 +130,7 @@
 		- [[Caspar David Friedrich\|Caspar David Friedrich]] saját maga áll háttal?
 		- svéd geopolitikai kapcsolat, identitás
 
-![Friedrich - Wanderer above the Sea of Fog](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/800px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/800px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
 ## Szobrászat
 
 - [[Izsó Miklós\|Izsó Miklós]]

@@ -2,4 +2,4 @@
 {"dg-publish":true,"dg-path":"Diderot.md","permalink":"/diderot/"}
 ---
 
-## [Wiki](https://www.wikiwand.com/hu/Denis_Diderot)
+## [Wiki](https://hu.wikipedia.org/wiki/Denis_Diderot)

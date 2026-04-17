@@ -2,4 +2,4 @@
 {"dg-publish":true,"dg-path":"Jacopo Peri.md","permalink":"/jacopo-peri/"}
 ---
 
-## [Wiki](https://www.wikiwand.com/hu/Jacopo_Peri)
+## [Wiki](https://hu.wikipedia.org/wiki/Jacopo_Peri)

@@ -4,4 +4,4 @@
 
 Rainer Maria Rilke
 - osztrák impresszionista költő
-## [wiki](https://www.wikiwand.com/hu/Rainer_Maria_Rilke)
+## [wiki](https://hu.wikipedia.org/wiki/Rainer_Maria_Rilke)

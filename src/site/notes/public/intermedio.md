@@ -2,4 +2,4 @@
 {"dg-publish":true,"dg-path":"intermedio.md","permalink":"/intermedio/"}
 ---
 
-## [Wiki](https://www.wikiwand.com/en/Intermedio)
+## [Wiki](https://en.wikipedia.org/wiki/Intermedio)

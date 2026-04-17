@@ -49,9 +49,9 @@
 			- civil várost rommá bombáztak, erődemonstráció
 			- eltörött valami
 
-![Picasso - Guernica](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pablo_Picasso%2C_1937_-_Guernica%2C_Paris%2C_Mus%C3%A9e_national_d%27art_moderne%2C_Centre_Georges_Pompidou.jpg/1280px-Pablo_Picasso%2C_1937_-_Guernica%2C_Paris%2C_Mus%C3%A9e_national_d%27art_moderne%2C_Centre_Georges_Pompidou.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pablo_Picasso%2C_1937_-_Guernica%2C_Paris%2C_Mus%C3%A9e_national_d%27art_moderne%2C_Centre_Georges_Pompidou.jpg/1280px-Pablo_Picasso%2C_1937_-_Guernica%2C_Paris%2C_Mus%C3%A9e_national_d%27art_moderne%2C_Centre_Georges_Pompidou.jpg)
 - expresszionizmus
-	- valamennyi absztrachálódás van benne, de nem dominánsan geometrikus
+	- valamennyi absztrichálódás van benne, de nem dominánsan geometrikus
 	- erős színek, festői gesztusok
 	- fauvizmus -><- 10-15 év különbség, kritikusabb, gyomorszorítóbb képeket megfogalmazó dolog
 	- hosszú történet, poszt-expresszionizmus
@@ -66,18 +66,18 @@
 	- [[Georg Grosz\|Georg Grosz]]
 		- *Köztársasági automatonok*
 		- *Napfogyatkozás*
-	- **[[Emil Nolde\|Emil Nolde]]**
+	- [[Emil Nolde\|Emil Nolde]]
 		- keresztény téma
 		- *Próféta
 		- *Temetés*
-	- **[[Chaim Soutine\|Chaim Soutine]]**
+	- [[Chaim Soutine\|Chaim Soutine]]
 		- *Önarckép*
 		- *Kettéhasított marha*
 			- eml. [[private/Van Gogh\|Van Gogh]]
 			- eml. [[Rembrant\|Rembrant]]
 	- [[Wassily Kandinsky\|Wassily Kandinsky]]
 
-![Kandinsky - Composition VII](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kandinsky_-_Composition_VII.jpg/1280px-Kandinsky_-_Composition_VII.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kandinsky_-_Composition_VII.jpg/1280px-Kandinsky_-_Composition_VII.jpg)
 - bauhaus (1919-33)
 	- mai tárgykultúránk erős befolyásolója
 	- eml. Arts and Crafts
@@ -119,7 +119,7 @@
 	- [[Piet Mondrian\|Piet Mondrian]]
 		- *Tableau I*
 
-![Mondrian - Composition with Red Blue and Yellow](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Composition_with_Red_Blue_and_Yellow%2C_1930%2C_Mondrian.jpg/800px-Composition_with_Red_Blue_and_Yellow%2C_1930%2C_Mondrian.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Composition_with_Red_Blue_and_Yellow%2C_1930%2C_Mondrian.jpg/800px-Composition_with_Red_Blue_and_Yellow%2C_1930%2C_Mondrian.jpg)
 - futurizmus
 	- [[Giacomo Balla\|Giacomo Balla]]
 		- *Pórázon vezetett kutya dinamizmusa*
@@ -129,7 +129,7 @@
 		- *Futballista dinamizmusa*
 		- *A folytonosság egyedi formái a térben* (szobor)
 
-![Boccioni - Unique Forms of Continuity in Space](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Unique_Forms_of_Continuity_in_Space_by_Umberto_Boccioni%2C_1913%2C_%28cast_1931%29%2C_Museum_of_Modern_Art%2C_NYC.jpg/800px-Unique_Forms_of_Continuity_in_Space_by_Umberto_Boccioni%2C_1913%2C_%28cast_1931%29%2C_Museum_of_Modern_Art%2C_NYC.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Unique_Forms_of_Continuity_in_Space_by_Umberto_Boccioni%2C_1913%2C_%28cast_1931%29%2C_Museum_of_Modern_Art%2C_NYC.jpg/800px-Unique_Forms_of_Continuity_in_Space_by_Umberto_Boccioni%2C_1913%2C_%28cast_1931%29%2C_Museum_of_Modern_Art%2C_NYC.jpg)
 - dadaizmus
 	- Avant-garde művészeti irányzat
 	- 1916 Zürich, Cabaret Voltaire
@@ -141,7 +141,7 @@
 	- [[Marcel Duchamp\|Marcel Duchamp]]
 		- *Szökőkút* (pissoire kiállítva, szignózva álnéven)
 
-![Duchamp - Fountain](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%27Fountain%27_by_Marcel_Duchamp_%28replica%29.JPG/800px-%27Fountain%27_by_Marcel_Duchamp_%28replica%29.JPG)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%27Fountain%27_by_Marcel_Duchamp_%28replica%29.JPG/800px-%27Fountain%27_by_Marcel_Duchamp_%28replica%29.JPG)
 	- [[Hanna Höch\|Hanna Höch]]
 		- *Vágás a dadaista konyhakéssel az utolsó weimari sörhasú németországi kulturális....*
 - szürrealizmus
@@ -157,8 +157,8 @@
 		- *Ruhaállvány*
 	- [[Salvador Dalí\|Salvador Dalí]]
 
-![Dalí - The Persistence of Memory](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Persistence_of_Memory.jpg/800px-The_Persistence_of_Memory.jpg)
-	- **[[Giorgio de Chirico\|Giorgio de Chirico]]**
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Persistence_of_Memory.jpg/800px-The_Persistence_of_Memory.jpg)
+	- [[Giorgio de Chirico\|Giorgio de Chirico]]
 	- [[René Magritte\|René Magritte]]
 		- nettó belga nyárspolgár
 - Marc [[Chagall\|Chagall]]
@@ -227,7 +227,7 @@
 	- abaztrakt művészet + szürrealizmus (automatikus alkotás)
 	- [[Jackson Pollock\|Jackson Pollock]]
 
-![Pollock - Number 31](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pollock-No-31.jpg/800px-Pollock-No-31.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pollock-No-31.jpg/800px-Pollock-No-31.jpg)
 	- [[Mark Rothko\|Mark Rothko]]
 		- Dallas, Rothko-Chapel
 		- ablakok a transzcendensbe
@@ -235,7 +235,7 @@
 		- meditatív
 		- eml. [[Morton Feldman\|Morton Feldman]] zenéje az átadásra írva
 
-![Rothko - No. 61 Rust and Blue](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mark_Rothko%2C_No._61_%28Rust_and_Blue%29.jpg/800px-Mark_Rothko%2C_No._61_%28Rust_and_Blue%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mark_Rothko%2C_No._61_%28Rust_and_Blue%29.jpg/800px-Mark_Rothko%2C_No._61_%28Rust_and_Blue%29.jpg)
 	- [[Barnett Newman\|Barnett Newman]]
 	- [[Jasper Johns\|Jasper Johns]]
 - op-art
@@ -249,13 +249,13 @@
 		- combined paintings
 		- restaurátorok gyűlölik
 	- [[Roy Liechtenstein\|Roy Liechtenstein]]
-		- kis comics kéoek felnagyítása
+		- kis comics kilóek felnagyítása
 	- [[Andy Warhol\|Andy Warhol]]
 		- szerialitás, szitanyomat
 		- áruházi dekoratőr
 		- rutén, Szlovákiából
 
-![Warhol - Marilyn Diptych](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marilyn_diptych.jpg/800px-Marilyn_diptych.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marilyn_diptych.jpg/800px-Marilyn_diptych.jpg)
 - Arte Povera, Happening, Conceptualism
 	- [[Lucio Fontana\|Lucio Fontana]]
 	- [[Yves Klein\|Yves Klein]]

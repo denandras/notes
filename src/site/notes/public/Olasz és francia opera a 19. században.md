@@ -277,7 +277,7 @@
 		- Fülöp koronázását követően játszódik
 		- **a nagyszabású tömegjelenetben Carlos az uralkodó elé vezeti a flamandok küldöttségét, akiknek kérését azonban Fülöp elutasítja**
 		- *Carlos* ekkor kardot emel rá -> Posa márki lefegyverzi​
-		- koronázás & eretnekégetés (*[autodafé](https://www.wikiwand.com/hu/Autodaf%C3%A9)*) -> *Don Carlos* nem ért egyet apjával
+		- koronázás & eretnekégetés (*[autodafé](https://hu.wikipedia.org/wiki/Autodaf%C3%A9)*) -> *Don Carlos* nem ért egyet apjával
 	- "Vérrel és vassal!" <- Otto von Bismarck is ezt mondta az egységesítéssel kapcsolatban
 
 - duett a mostohaanyába szeretett fiú és barátja közt (miközben átsétál a király és királyné a helyszínen, (belső) vívódás)

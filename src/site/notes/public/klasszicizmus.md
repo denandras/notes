@@ -55,17 +55,13 @@
 - szobrászat
 	- [[Jean-Antoine Houdon\|Jean-Antoine Houdon]]
 		- antikvitás szobrászati világa mintát jelent - de nem másolja, hanem felhasználja
-		- *[[public/Voltaire\|Voltaire]]-büszt*
-		  - ![Voltaire bust](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Voltaire_by_Houdon.jpg/800px-Voltaire_by_Houdon.jpg)
-		- *Washington-portré*
-		  - ![Washington](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Houdon_G_Washington.jpg/800px-Houdon_G_Washington.jpg)
+		- *[[public/Voltaire\|Voltaire]]-büszt* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Voltaire_by_Houdon.jpg/800px-Voltaire_by_Houdon.jpg)
+		- *Washington-portré* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Houdon_G_Washington.jpg/800px-Houdon_G_Washington.jpg)
 	- [[Antonio Canova\|Antonio Canova]]
 		- itáliai antik szobrászat tanulmányozása direktben
 		- visszakapcsol az antik kultúrára, nem kópiával, hanem megörökölt komolex megformálással
-		- *A három grácia*
-		  - ![Three Graces](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Canova-Three_Gracia.jpg/800px-Canova-Three_Gracia.jpg)
-		- *Orpheus*
-		  - ![Orpheus](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Canova_orfeo.jpg/800px-Canova_orfeo.jpg)
+		- *A három grácia* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Canova-Three_Gracia.jpg/800px-Canova-Three_Gracia.jpg)
+		- *Orpheus* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Canova_orfeo.jpg/800px-Canova_orfeo.jpg)
 		- női test
 			- tisztán, visszafogottan, hűvösen jeleníti meg a szépséget
 	- [[Bertel Thorvaldsen\|Bertel Thorvaldsen]]
@@ -74,31 +70,24 @@
 		- *Krisztus*
 			- újfajta interpretáció
 			- antik ruházat
-			- nyugodt, kimért, hűvös
-		  - ![Christ](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Thorvaldsen_Christus.jpg/800px-Thorvaldsen_Christus.jpg)
-		- *Iaszón*
-		  - ![Jason](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Thorvaldsen_Jason.jpg/800px-Thorvaldsen_Jason.jpg)
-		- *Ganümédesz Jupiter sasát itatja*
-		  - ![Ganymede](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ganymede_watering_Jupiter_s_eagle_by_Bertel_Thorvaldsen.jpg/800px-Ganymede_watering_Jupiter_s_eagle_by_Bertel_Thorvaldsen.jpg)
+			- nyugodt, kimért, hűvös ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Thorvaldsen_Christus.jpg/800px-Thorvaldsen_Christus.jpg)
+		- *Iaszón* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Thorvaldsen_Jason.jpg/800px-Thorvaldsen_Jason.jpg)
+		- *Ganümédesz Jupiter sasát itatja* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ganymede_watering_Jupiter_s_eagle_by_Bertel_Thorvaldsen.jpg/800px-Ganymede_watering_Jupiter_s_eagle_by_Bertel_Thorvaldsen.jpg)
 		- *Vénusz*
 			- antik szépségideál
 			- mentesül minden áterotizáltságtól
-			- mértéktartóbb
-		  - ![Venus](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Venus_Thorvaldsen.jpg/800px-Venus_Thorvaldsen.jpg)
+			- mértéktartóbb ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Venus_Thorvaldsen.jpg/800px-Venus_Thorvaldsen.jpg)
 	- [[Ferenczy István\|Ferenczy István]]
 		- tanult Bécsben
 		- gyalog ment Rómába
 			- "ha valaki tanulni akar, akkor tanulni fog"
 		- [[Bertel Thorvaldsen\|Bertel Thorvaldsen]] műhelye
 		- romantikusabb ideák
-		- *Pásztorleányka*
-		  - ![Shepherd Girl](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ferenczy_Pásztorleányka.jpg/800px-Ferenczy_Pásztorleányka.jpg)
+		- *Pásztorleányka* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ferenczy_Pásztorleányka.jpg/800px-Ferenczy_Pásztorleányka.jpg)
 		- *Kölcsey*
-			- antik trónus
-		  - ![Kölcsey](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ferenczy_Kölcsey.jpg/800px-Ferenczy_Kölcsey.jpg)
+			- antik trónus ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ferenczy_Kölcsey.jpg/800px-Ferenczy_Kölcsey.jpg)
 		- *Csokonai-büszt*
-			- magyar nemzeti jelleg, azonban antikvitás jeleként a költői babérkoszorú is ott van
-		  - ![Csokonai](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ferenczy_Csokonai.jpg/800px-Ferenczy_Csokonai.jpg)
+			- magyar nemzeti jelleg, azonban antikvitás jeleként a költői babérkoszorú is ott van ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ferenczy_Csokonai.jpg/800px-Ferenczy_Csokonai.jpg)
 - egyszerű öltözködéskultúra
 	- oldott, antik, szabadon eső drapériák
 	- test természetes vonalait követő, letisztult ruhák
@@ -117,72 +106,49 @@
 			- be tud "csontosodni", amikor biztonságra törekszünk
 		- *A horatiusok esküje*
 			- festői világban történeti tárgyú esemény, heroikus pillanat - de nem barokk kép, klasszikus ideálhoz húz
-			- hiányzik belőle az örvénylés, dinamizálódás
-		  - ![Oath of the Horatii](https://www.wga.hu/art/d/david_j/2/201david.jpg)
-		- *A szabin nők elrablása*
-		  - ![Intervention of the Sabine Women](https://www.wga.hu/art/d/david_j/3/311david.jpg)
-		- *Marat halála*
-		  - ![Death of Marat](https://www.wga.hu/art/d/david_j/3/301david.jpg)
-		- *[[I. Napóleon\|I. Napóleon]] a Szt. Bernát hágónál*
-		  - ![Napoleon at St. Bernard](https://www.wga.hu/art/d/david_j/4/402david.jpg)
-		- *Madame Recamier*
-		  - ![Madame Recamier](https://www.wga.hu/art/d/david_j/4/401david.jpg)
+			- hiányzik belőle az örvénylés, dinamizálódás ![](https://www.wga.hu/art/d/david_j/2/201david.jpg)
+		- *A szabin nők elrablása* ![](https://www.wga.hu/art/d/david_j/3/311david.jpg)
+		- *Marat halála* ![](https://www.wga.hu/art/d/david_j/3/301david.jpg)
+		- *[[I. Napóleon\|I. Napóleon]] a Szt. Bernát hágónál* ![](https://www.wga.hu/art/d/david_j/4/402david.jpg)
+		- *Madame Recamier* ![](https://www.wga.hu/art/d/david_j/4/401david.jpg)
 	- [[Jean Auguste Dominique Ingres\|Jean Auguste Dominique Ingres]]
 		- [[Jacques Louis David\|Jacques Louis David]] tanítványa
 		- hegedűs, [[public/Paganini\|Paganini]] haverja
 		- antik + reneszánsz hatás
 		- akadémia
-		- *[[I. Napóleon\|I. Napóleon]] a császári trónon*
-		  - ![Napoleon on Imperial Throne](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ingres%2C_Napoleon_on_his_Imperial_throne.jpg/800px-Ingres%2C_Napoleon_on_his_Imperial_throne.jpg)
+		- *[[I. Napóleon\|I. Napóleon]] a császári trónon* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ingres%2C_Napoleon_on_his_Imperial_throne.jpg/800px-Ingres%2C_Napoleon_on_his_Imperial_throne.jpg)
 		- *A nagy fürdőző*
-			- intim szituáció erotikus felhang nélkül
-		  - ![Valpincon Bather](https://www.wga.hu/art/i/ingres/02ingres.jpg)
-		- *Nagy odaliszk*
-		  - ![Grande Odalisque](https://www.wga.hu/art/i/ingres/03ingres.jpg)
-		- *A forrás*
-		  - ![The Source](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jean-Auguste-Dominique_Ingres_-_The_Source_-_Google_Art_Project_2.jpg/800px-Jean-Auguste-Dominique_Ingres_-_The_Source_-_Google_Art_Project_2.jpg)
-		- *A törökfürdő*
-		  - ![Turkish Bath](https://www.wga.hu/art/i/ingres/17ingres.jpg)
+			- intim szituáció erotikus felhang nélkül ![](https://www.wga.hu/art/i/ingres/02ingres.jpg)
+		- *Nagy odaliszk* ![](https://www.wga.hu/art/i/ingres/03ingres.jpg)
+		- *A forrás* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jean-Auguste-Dominique_Ingres_-_The_Source_-_Google_Art_Project_2.jpg/800px-Jean-Auguste-Dominique_Ingres_-_The_Source_-_Google_Art_Project_2.jpg)
+		- *A törökfürdő* ![](https://www.wga.hu/art/i/ingres/17ingres.jpg)
 	- [[William Hogarth\|William Hogarth]]
 		- nem tanult festőnek, ezüstműves
 		- metszőként kezdett
 		- festő, grafikus, rézmetsző
 		- angol festő, aki nem importálva lett
-		- *Önarckép mopszlival*
-		  - ![Self Portrait with Pug](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/William_Hogarth_by_William_Hogarth.jpg/800px-William_Hogarth_by_William_Hogarth.jpg)
+		- *Önarckép mopszlival* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/William_Hogarth_by_William_Hogarth.jpg/800px-William_Hogarth_by_William_Hogarth.jpg)
 		- irdatlanul szatirikus figura
 		- tükröt tart a tátsadalomnak
 		- alkoholizmus
 			- nem volt Londonban iható csapvíz
-			- *Gin Lane*
-		  - ![Gin Lane](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gin_Lane.jpg/800px-Gin_Lane.jpg)
-		- *A szajha útja* sorozat
-		  - ![Harlot's Progress](https://www.wga.hu/art/h/hogarth/harlot.jpg)
-		- *Választási mulatság*
-		  - ![Election Entertainment](https://www.wga.hu/art/h/hogarth/elect01.jpg)
+			- *Gin Lane* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gin_Lane.jpg/800px-Gin_Lane.jpg)
+		- *A szajha útja* sorozat ![](https://www.wga.hu/art/h/hogarth/harlot.jpg)
+		- *Választási mulatság* ![](https://www.wga.hu/art/h/hogarth/elect01.jpg)
 		- *David Garrick mint III. Richárd*
-			- festő sírjánál [[David Garrick\|David Garrick]] mondott beszédet
-		  - ![Garrick as Richard III](https://www.wga.hu/art/h/hogarth/garrick.jpg)
+			- festő sírjánál [[David Garrick\|David Garrick]] mondott beszédet ![](https://www.wga.hu/art/h/hogarth/garrick.jpg)
 	- [[Joshua Rheinolde\|Joshua Rheinolde]]
 	- [[Thomas Gainsborough\|Thomas Gainsborough]]
 	- [[id. Markó Károly\|id. Markó Károly]]
-		- *Tivoli tájkép*
-		  - ![Tivoli landscape](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/K%C3%A1roly_Mark%C3%B3_the_Elder_-_Landscape_at_Tivoli.jpg/1280px-K%C3%A1roly_Mark%C3%B3_the_Elder_-_Landscape_at_Tivoli.jpg)
-		- *Visegrád*
-		  - ![Visegrád](https://www.wga.hu/art/m/marko/father/01marko.jpg)
+		- *Tivoli tájkép* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/K%C3%A1roly_Mark%C3%B3_the_Elder_-_Landscape_at_Tivoli.jpg/1280px-K%C3%A1roly_Mark%C3%B3_the_Elder_-_Landscape_at_Tivoli.jpg)
+		- *Visegrád* ![](https://www.wga.hu/art/m/marko/father/01marko.jpg)
 		- *A puszta*
 			- miért a puszta a magyar jellegzetesség?
-			- az első vasútvonal Kecskemét felé indult
-		  - ![The Puszta](https://www.wga.hu/art/m/marko/father/10marko.jpg)
+			- az első vasútvonal Kecskemét felé indult ![](https://www.wga.hu/art/m/marko/father/10marko.jpg)
 	- [[Barabás Miklós\|Barabás Miklós]]
 		- arcképfestő
-		- *Galambposta*
-		  - ![Pigeon Post](https://www.wga.hu/art/b/barabas/pidgeon.jpg)
-		- *Batthyány Lajos gróf*
-		  - ![Batthyány portrait](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Barab%C3%A1s_Mikl%C3%B3s_-_Gr%C3%B3f_Batthy%C3%A1ny_Lajos.jpg/800px-Barab%C3%A1s_Mikl%C3%B3s_-_Gr%C3%B3f_Batthy%C3%A1ny_Lajos.jpg)
-		- *[[public/Liszt\|Liszt]] Ferenc*
-		  - ![Liszt portrait](https://www.wga.hu/art/b/barabas/liszt_f.jpg)
-		- *Vásárra induló román család*
-		  - ![Romanian Family](https://www.wga.hu/art/b/barabas/rumanian.jpg)
-		- *A lánchíd alapkőtétele*
-		  - ![Chain Bridge foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barab%C3%A1s_Mikl%C3%B3s_-_A_L%C3%A1nch%C3%ADd_alapk%C5%91let%C3%A9tele.jpg/800px-Barab%C3%A1s_Mikl%C3%B3s_-_A_L%C3%A1nch%C3%ADd_alapk%C5%91let%C3%A9tele.jpg)
+		- *Galambposta* ![](https://www.wga.hu/art/b/barabas/pidgeon.jpg)
+		- *Batthyány Lajos gróf* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Barab%C3%A1s_Mikl%C3%B3s_-_Gr%C3%B3f_Batthy%C3%A1ny_Lajos.jpg/800px-Barab%C3%A1s_Mikl%C3%B3s_-_Gr%C3%B3f_Batthy%C3%A1ny_Lajos.jpg)
+		- *[[public/Liszt\|Liszt]] Ferenc* ![](https://www.wga.hu/art/b/barabas/liszt_f.jpg)
+		- *Vásárra induló román család* ![](https://www.wga.hu/art/b/barabas/rumanian.jpg)
+		- *A lánchíd alapkőtétele* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barab%C3%A1s_Mikl%C3%B3s_-_A_L%C3%A1nch%C3%ADd_alapk%C5%91let%C3%A9tele.jpg/800px-Barab%C3%A1s_Mikl%C3%B3s_-_A_L%C3%A1nch%C3%ADd_alapk%C5%91let%C3%A9tele.jpg)

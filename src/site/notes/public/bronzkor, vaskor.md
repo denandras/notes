@@ -36,7 +36,7 @@
 	- kultúra
 		- hősi cselekedetek, harc
 		- vadászat
-		- temetkezés - **Agamemnón király arany maszkja**
+		- temetkezés - **[[Agamemnón király\|Agamemnón király]] arany maszkja**
 ## Vaskor
 - **Kus** (Kusita Királyság)
 	- mai Szudán

@@ -14,4 +14,4 @@ Az **új organum** a műfaj 12. századi formája. A vox principalis továbbra i
 
 Az organum fénykora a 12. századi Notre-Dame iskola, Leoninus és Perotinus két-, három- és négyszólamú kompozíciói. Az organum még a 13. század első felében is nagy népszerűségnek örvendett egész Nyugat-Európában, de aztán lassan kiment a divatból. Legtovább Angliában tartotta magát.
 
-forrás: [wiki](https://www.wikiwand.com/hu/Organum)
+forrás: [wiki](https://hu.wikipedia.org/wiki/Organum)

@@ -6,4 +6,4 @@ Giacomo Puccini
 
 <mark>1858-1924</mark>
 
-## [Wiki](https://www.wikiwand.com/hu/Puccini)
+## [Wiki](https://hu.wikipedia.org/wiki/Puccini)
