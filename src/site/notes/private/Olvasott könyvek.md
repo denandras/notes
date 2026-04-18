@@ -4,6 +4,7 @@
 
 | File                                                                                            | Borító                                                                                                                                     | Oldal | Értékelés |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----- | --------- |
+| [[sources/books/Tisza_Kata_Hipnozis\|Tisza_Kata_Hipnozis]]                                   | ![\|100](\-)                                                                                                                               | \-    | \-        |
 | [[private/Albert Camus - Közöny\|Albert Camus - Közöny]]                                     | ![\|100](https://s01.static.libri.hu/cover/18/d/9106608_4.jpg)                                                                             | \-    | 5         |
 | [[private/Frank Herbert - Dűne\|Frank Herbert - Dűne]]                                       | ![\|100](https://s01.static.libri.hu/cover/b5/c/5828424_4.jpg)                                                                             | 594   | 5         |
 | [[private/Franz Kafka - Naplók\|Franz Kafka - Naplók]]                                       | ![\|100](https://europakiado.hu/content/2018/6/Product/300/107193F.gif)                                                                    | 800   | 4         |
