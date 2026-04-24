@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Pierre-Alexandre Monsigny.md","permalink":"/pierre-alexandre-monsigny/"}
+{"dg-publish":true,"permalink":"/public/pierre-alexandre-monsigny/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [Wiki](https://www.wikiwand.com/en/Pierre-Alexandre_Monsigny)
+
+

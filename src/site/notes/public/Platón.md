@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Platón.md","permalink":"/platon/"}
+{"dg-publish":true,"permalink":"/public/platon/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-[[private/Szókratész\|Szókratész]] tanítványa
 
-#üres 
+[[private/Szókratész\|Szókratész]] tanítványa

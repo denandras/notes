@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Jean-Paul Sartre - Az undor.md","permalink":"/egyeb/jean-paul-sartre-az-undor/"}
+{"dg-publish":true,"permalink":"/private/jean-paul-sartre-az-undor/","dg-note-properties":{"author":["[[public/Jean-Paul Sartre\|Jean-Paul Sartre]]"],"date":"2024-01-24 22:50","cover":"https://moly.hu/system/covers/big/covers_79522.jpg?1395368974","isbn":null,"type":["könyv"],"pages":300,"rating":3,"status":["have read"]}}
 ---
 
 # Az undor
 
 ### Idegen szavak
 
-- manicheizmus
-- glaszékesztyű
-- brevárium
+idegenszo:: [[public/manicheizmus\|manicheizmus]]
+idegenszo:: [[public/glaszékesztyű\|glaszékesztyű]]
+idegenszo:: [[public/brevárium\|brevárium]]
 
 ### Említések
 

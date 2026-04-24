@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Il Matrimonio Segreto.md","permalink":"/il-matrimonio-segreto/"}
+{"dg-publish":true,"permalink":"/public/il-matrimonio-segreto/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-A titkos házasság
 
-- [[public/Domenico Cimarosa\|Domenico Cimarosa]] 1766-os operája.
-- [[public/opera buffa\|opera buffa]]
+A titkos házasság

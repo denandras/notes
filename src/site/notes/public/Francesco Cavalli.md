@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Francesco Cavalli.md","permalink":"/francesco-cavalli/"}
+{"dg-publish":true,"permalink":"/public/francesco-cavalli/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-Pietro Francesco Cavalli
 
-Olasz barokk zeneszerző, a velencei operaiskola [[public/Monteverdi\|Monteverdi]] mellett legkiemelkedőbb alakja. ([wiki](https://hu.wikipedia.org/wiki/Francesco_Cavalli))
+Pietro Francesco Cavalli

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Artaria.md","permalink":"/artaria/"}
+{"dg-publish":true,"permalink":"/public/artaria/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [Wiki](https://en.wikipedia.org/wiki/Artaria)
 
 #üres 

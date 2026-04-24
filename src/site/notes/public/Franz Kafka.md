@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Franz Kafka.md","permalink":"/franz-kafka/"}
+{"dg-publish":true,"permalink":"/public/franz-kafka/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 #üres 
-- [[Franz Kafka - Az átváltozás\|Franz Kafka - Az átváltozás]]
-- [[Franz Kafka - A per\|Franz Kafka - A per]]
-- [[private/Franz Kafka - Naplók\|Franz Kafka - Naplók]]

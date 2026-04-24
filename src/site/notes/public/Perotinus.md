@@ -1,4 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Perotinus.md","permalink":"/perotinus/"}
+{"dg-publish":true,"permalink":"/public/perotinus/","dg-note-properties":{"type":"fogalom"}}
 ---
+
+
 

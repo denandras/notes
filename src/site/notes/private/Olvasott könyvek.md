@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Olvasott könyvek.md","permalink":"/egyeb/olvasott-koenyvek/"}
+{"dg-publish":true,"permalink":"/private/olvasott-koenyvek/","dg-note-properties":{}}
 ---
 
 | File                                                                                            | Borító                                                                                                                                     | Oldal | Értékelés |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----- | --------- |
-| [[sources/books/Tisza_Kata_Hipnozis\|Tisza_Kata_Hipnozis]]                                   | ![\|100](\-)                                                                                                                               | \-    | \-        |
 | [[private/Albert Camus - Közöny\|Albert Camus - Közöny]]                                     | ![\|100](https://s01.static.libri.hu/cover/18/d/9106608_4.jpg)                                                                             | \-    | 5         |
 | [[private/Frank Herbert - Dűne\|Frank Herbert - Dűne]]                                       | ![\|100](https://s01.static.libri.hu/cover/b5/c/5828424_4.jpg)                                                                             | 594   | 5         |
 | [[private/Franz Kafka - Naplók\|Franz Kafka - Naplók]]                                       | ![\|100](https://europakiado.hu/content/2018/6/Product/300/107193F.gif)                                                                    | 800   | 4         |
 | [[private/Irvin D Yalom - Úton önmagamhoz\|Irvin D Yalom - Úton önmagamhoz]]                 | ![\|100](https://lira.erbacdn.net/upload/M_28/rek1/554/2990554.jpg)                                                                        | 400   | 4         |
+| [[private/Nancy Fraser - Kannibál kapitalizmus\|Nancy Fraser - Kannibál kapitalizmus]]       | ![\|100](https://s01.static.libri.hu/cover/94/6/10762552_4.jpg)                                                                            | 276   | \-        |
 | [[private/Tisza Kata - Hipnózis 6-kor\|Tisza Kata - Hipnózis 6-kor]]                         | ![\|100](https://assets.moly.hu/system/covers/big/covers_760773.jpg)                                                                       | 284   | \-        |
 | [[private/Jean-Paul Sartre - Az undor\|Jean-Paul Sartre - Az undor]]                         | ![\|100](https://moly.hu/system/covers/big/covers_79522.jpg?1395368974)                                                                    | 300   | 3         |
+| [[private/Soltész Béla - Osztatlan közös\|Soltész Béla - Osztatlan közös]]                   | ![\|100](https://book24.hu/content/2025/4/Product/4618269.jpg)                                                                             | 240   | \-        |
 | [[private/Kurt Vonnegut - Időomlás\|Kurt Vonnegut - Időomlás]]                               | ![\|100](https://s01.static.libri.hu/cover/5d/e/7950635_4.jpg)                                                                             | 278   | 5         |
 | [[private/HBR's 10 Must-reads on High Performance\|HBR's 10 Must-reads on High Performance]] | ![\|100](https://cdn11.bigcommerce.com/s-yneuaokjib/images/stencil/250x260/attribute_rule_images/139358_source_1695399363.png?imbypass=on) | 192   | 5         |
 | [[private/Oliver Burkeman - Az élet rövid\|Oliver Burkeman - Az élet rövid]]                 | ![\|100](https://s01.static.libri.hu/cover/f1/4/8455928_4.jpg)                                                                             | 268   | 5         |

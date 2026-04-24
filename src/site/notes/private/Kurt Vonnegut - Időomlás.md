@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Kurt Vonnegut - Időomlás.md","permalink":"/egyeb/kurt-vonnegut-idoomlas/"}
+{"dg-publish":true,"permalink":"/private/kurt-vonnegut-idoomlas/","dg-note-properties":{"author":["[[Kurt Vonnegut]]"],"cover":"https://s01.static.libri.hu/cover/5d/e/7950635_4.jpg","isbn":9789632276762,"type":["könyv"],"pages":278,"rating":5,"status":["have read"]}}
 ---
 
 ### Idegen szavak
 
-- epifánia
+idegenszo:: [[public/epifánia\|epifánia]]
 ### Említések
 
 - [[Ernest Hemingway - Az öreg halász és a tenger\|Ernest Hemingway - Az öreg halász és a tenger]]

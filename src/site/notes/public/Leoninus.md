@@ -1,3 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Leoninus.md","permalink":"/leoninus/"}
+{"dg-publish":true,"permalink":"/public/leoninus/","dg-note-properties":{"type":"fogalom"}}
 ---
+
+
+

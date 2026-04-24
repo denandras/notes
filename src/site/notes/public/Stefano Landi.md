@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Stefano Landi.md","permalink":"/stefano-landi/"}
+{"dg-publish":true,"permalink":"/public/stefano-landi/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 - [[public/St Alessio\|St Alessio]] szerzője
-- A [[public/Barberini család\|Barberini család]] foglalkoztatta 1630 körül

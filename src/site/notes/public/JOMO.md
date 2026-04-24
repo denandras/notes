@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"JOMO.md","permalink":"/jomo/"}
+{"dg-publish":true,"permalink":"/public/jomo/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 a kimaradás élvezete, pl. házasság

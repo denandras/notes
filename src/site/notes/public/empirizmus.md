@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"empirizmus.md","permalink":"/empirizmus/"}
+{"dg-publish":true,"permalink":"/public/empirizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-tapasztalás alapján való tájékozódás/tudásszerzés
 
-[[Francis Bacon\|Francis Bacon]]
+tapasztalás alapján való tájékozódás/tudásszerzés

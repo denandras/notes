@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Reutter.md","permalink":"/reutter/"}
+{"dg-publish":true,"permalink":"/public/reutter/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-Johann Georg Reutter
 
-## [wiki](https://www.wikiwand.com/en/Johann_Georg_Reutter#/Reutter_and_Haydn)
+Johann Georg Reutter

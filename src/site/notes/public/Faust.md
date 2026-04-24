@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Faust.md","permalink":"/faust/"}
+{"dg-publish":true,"permalink":"/public/faust/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-[[public/Goethe\|Goethe]]
 
-- inspiráló műként szolgált számukra:
-	- [[public/Gounod\|Gounod]]
-	- [[public/Berlioz\|Berlioz]]
-	- [[public/Liszt\|Liszt]]
-	- [[Rubinstein\|Rubinstein]]
-	- [[Boito\|Boito]]
-	- [[public/Wagner\|Wagner]]
-	- [[Spohr\|Spohr]]
+[[public/Goethe\|Goethe]]

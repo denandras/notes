@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Jacopo Peri.md","permalink":"/jacopo-peri/"}
+{"dg-publish":true,"permalink":"/public/jacopo-peri/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [Wiki](https://hu.wikipedia.org/wiki/Jacopo_Peri)
+
+

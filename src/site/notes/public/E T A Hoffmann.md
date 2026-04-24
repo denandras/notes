@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"E T A Hoffmann.md","permalink":"/e-t-a-hoffmann/"}
+{"dg-publish":true,"permalink":"/public/e-t-a-hoffmann/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 kora legkítűnőbb zenekritikusa
-
-![](https://pushkinpress.com/wp-content/uploads/2020/08/HOFFMANN-WEBSITE.jpg) #később 
-
-[[Az arany virágcserép\|Az arany virágcserép]] mű
-

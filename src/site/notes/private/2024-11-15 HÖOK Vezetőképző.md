@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/2024-11-15 HÖOK Vezetőképző.md","permalink":"/egyeb/2024-11-15-h-oe-ok-vezetokepzo/"}
+{"dg-publish":true,"permalink":"/private/2024-11-15-h-oe-ok-vezetokepzo/","dg-note-properties":{"type":null,"subject":null}}
 ---
 
 ## Gazdasági szekció - tárgyalástechnika

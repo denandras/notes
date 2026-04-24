@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Quantz.md","permalink":"/quantz/"}
+{"dg-publish":true,"permalink":"/public/quantz/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [Wiki](https://www.wikiwand.com/en/Johann_Joachim_Quantz)
+
+

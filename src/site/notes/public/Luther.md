@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Luther.md","permalink":"/luther/"}
+{"dg-publish":true,"permalink":"/public/luther/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [wiki](https://hu.wikipedia.org/wiki/Luther_M%C3%A1rton)
+
+

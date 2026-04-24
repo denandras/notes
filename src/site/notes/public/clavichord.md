@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"clavichord.md","permalink":"/clavichord/"}
+{"dg-publish":true,"permalink":"/public/clavichord/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 Tafelklavier, klavikord, clavecin

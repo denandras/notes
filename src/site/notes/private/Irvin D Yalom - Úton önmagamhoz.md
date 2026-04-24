@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Irvin D Yalom - Úton önmagamhoz.md","permalink":"/egyeb/irvin-d-yalom-uton-oenmagamhoz/"}
+{"dg-publish":true,"permalink":"/private/irvin-d-yalom-uton-oenmagamhoz/","dg-note-properties":{"author":["[[private/Irvin D Yalom\|Irvin D Yalom]]"],"cover":"https://lira.erbacdn.net/upload/M_28/rek1/554/2990554.jpg","isbn":9789633559147,"type":["könyv"],"pages":400,"rating":4,"status":["have read"]}}
 ---
 
 # Úton önmagamhoz
 ### Idegen szavak
 
-- **hübrisz**: A görög eredetű kifejezés, amely arra utal, amikor valaki túlzottan arrogáns, és emiatt elbizakodottságában megsérti az isteneket vagy a morális normákat. Gyakran bűnhődéssel végződik a görög tragédiákban.
-- **voyerizmus**: Egy szexuális jellegű deviancia, amelyben az egyén másokat figyel meg titokban intim helyzetekben (például vetkőzés, szexuális tevékenység közben), és ebből szerez kielégülést.
-- **szoliptikus**: A szolipszizmus szóból ered, ami egy filozófiai nézet, mely szerint csak a saját tudatunk biztos létezésű, minden más (beleértve a külvilágot és más embereket) létezése bizonytalan.
-- **kontingens**: Olyan dologra vagy eseményre utal, ami nem szükségszerűen következik be, hanem véletlenszerű vagy a körülményektől függ. A filozófiában a kontingens ellentéte a szükségszerűnek.
-- **ikonoklazmus**: képrombolás, szenteket, isteneket megjelenítő ábrázolások eltávolítása, lerombolása.
-- **joviális**: nyájas, kedélyes modorú, derült, jó kedélyű
-- rekvizítum
+idegenszo:: [[public/hübrisz\|hübrisz]]
+idegenszo:: [[public/voyerizmus\|voyerizmus]]
+idegenszo:: [[public/szoliptikus\|szoliptikus]]
+idegenszo:: [[public/kontingens\|kontingens]]
+idegenszo:: [[public/ikonoklazmus\|ikonoklazmus]]
+idegenszo:: [[public/joviális\|joviális]]
+idegenszo:: [[public/rekvizítum\|rekvizítum]]
 ### Említések
 
 - [[public/Franz Kafka\|Franz Kafka]]

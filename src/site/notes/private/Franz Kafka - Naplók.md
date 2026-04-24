@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Franz Kafka - Naplók.md","permalink":"/egyeb/franz-kafka-naplok/"}
+{"dg-publish":true,"permalink":"/private/franz-kafka-naplok/","dg-note-properties":{"author":["[[Franz Kafka]]"],"cover":"https://europakiado.hu/content/2018/6/Product/300/107193F.gif","isbn":9630786454,"type":["könyv"],"pages":800,"rating":4,"status":["have read"]}}
 ---
 
 # Naplók

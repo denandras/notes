@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Gounod.md","permalink":"/gounod/"}
+{"dg-publish":true,"permalink":"/public/gounod/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 #üres 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Nagy Frigyes.md","permalink":"/nagy-frigyes/"}
+{"dg-publish":true,"permalink":"/public/nagy-frigyes/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 felvilágosult abszolutista uralkodó
-fuvolista
-komponisták írtak neki, pl. [[public/Quantz\|Quantz]]

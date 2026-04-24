@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Victor Hugo - Mazeppa.md","permalink":"/victor-hugo-mazeppa/"}
+{"dg-publish":true,"permalink":"/public/victor-hugo-mazeppa/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-[[public/Victor Hugo\|Victor Hugo]]
 
-[[George Byron\|George Byron]] is feldolgozta ezt a romantikában felkapott történetet ([[public/Farkas András - Liszt - Mazeppa\|Farkas András - Liszt - Mazeppa]])
+[[public/Victor Hugo\|Victor Hugo]]

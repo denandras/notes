@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Puccini.md","permalink":"/puccini/"}
+{"dg-publish":true,"permalink":"/public/puccini/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 Giacomo Puccini
-
-<mark>1858-1924</mark>
-
-## [Wiki](https://hu.wikipedia.org/wiki/Puccini)

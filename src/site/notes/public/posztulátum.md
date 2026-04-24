@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"posztulátum.md","permalink":"/posztulatum/"}
+{"dg-publish":true,"permalink":"/public/posztulatum/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 = alapközlés

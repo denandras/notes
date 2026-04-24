@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Orsatto Giustiniani.md","permalink":"/orsatto-giustiniani/"}
+{"dg-publish":true,"permalink":"/public/orsatto-giustiniani/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [Wiki](https://www.wikiwand.com/en/Giustiniani)
+
+

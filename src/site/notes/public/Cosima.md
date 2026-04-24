@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Cosima.md","permalink":"/cosima/"}
+{"dg-publish":true,"permalink":"/public/cosima/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 [[public/Liszt\|Liszt]] lánya
-- házastársa [[public/Hans von Bülow\|Hans von Bülow]], majd elhagyja [[public/Wagner\|Wagner]]ért

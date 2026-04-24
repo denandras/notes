@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"René Descartes.md","permalink":"/rene-descartes/"}
+{"dg-publish":true,"permalink":"/public/rene-descartes/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-[[public/racionalizmus\|racionalizmus]]
 
-* Karteziánus kor
-	* "Gondolkodom, tehát vagyok."
-	* minden dolog megkérdőjelezése: szkepticizmus
-	* [[public/empirizmus\|empirizmus]]
+[[public/racionalizmus\|racionalizmus]]

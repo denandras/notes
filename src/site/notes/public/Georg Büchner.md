@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Georg Büchner.md","permalink":"/georg-buechner/"}
+{"dg-publish":true,"permalink":"/public/georg-buechner/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 #üres 

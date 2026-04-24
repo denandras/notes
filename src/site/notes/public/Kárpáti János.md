@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Kárpáti János.md","permalink":"/karpati-janos/"}
+{"dg-publish":true,"permalink":"/public/karpati-janos/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 - könyv: [[Kárpáti János - A kelet zenéje\|Kárpáti János - A kelet zenéje]]
-- a [[Zeneakadémia\|Zeneakadémia]] könyvtárának egykori igazgatója
-- [[public/Bartók\|Bartók]] vonósnégyeseiről könyvet írt

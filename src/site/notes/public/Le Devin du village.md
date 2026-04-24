@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Le Devin du village.md","permalink":"/le-devin-du-village/"}
+{"dg-publish":true,"permalink":"/public/le-devin-du-village/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-[[public/Rousseau\|Rousseau]]
 
-- szerelmes pár, akiket egy varázsló összeboronál
-- [[Favart\|Favart]] a librettista
-- német fordítása ebből lett [[public/Mozart\|Mozart]] [[Bastien\|Bastien]] c. darabja
-- egyszerűség, életközeliség
+[[public/Rousseau\|Rousseau]]

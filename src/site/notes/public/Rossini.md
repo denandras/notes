@@ -1,4 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Rossini.md","permalink":"/rossini/"}
+{"dg-publish":true,"permalink":"/public/rossini/","dg-note-properties":{"type":"fogalom"}}
 ---
+
+
 

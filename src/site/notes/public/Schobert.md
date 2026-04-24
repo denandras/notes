@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Schobert.md","permalink":"/schobert/"}
+{"dg-publish":true,"permalink":"/public/schobert/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-<mark>véletlen sem</mark> [[public/Schubert\|Schubert]]
 
-Johann Schobert (Szilézia)
+<mark>véletlen sem</mark> [[public/Schubert\|Schubert]]

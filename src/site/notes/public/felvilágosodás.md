@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"felvilágosodás.md","permalink":"/felvilagosodas/"}
+{"dg-publish":true,"permalink":"/public/felvilagosodas/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-[[Montesquieu\|Montesquieu]]
-[[public/Voltaire\|Voltaire]]
-[[public/Diderot\|Diderot]]
-[[public/René Descartes\|René Descartes]]
 
-[[public/racionalizmus\|racionalizmus]]
+[[Montesquieu\|Montesquieu]]

@@ -1,4 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Attaignant.md","permalink":"/attaignant/"}
+{"dg-publish":true,"permalink":"/public/attaignant/","dg-note-properties":{"type":"fogalom"}}
 ---
+
+
 

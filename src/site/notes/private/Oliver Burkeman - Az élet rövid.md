@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Oliver Burkeman - Az élet rövid.md","permalink":"/egyeb/oliver-burkeman-az-elet-roevid/"}
+{"dg-publish":true,"permalink":"/private/oliver-burkeman-az-elet-roevid/","dg-note-properties":{"author":["[[Oliver Burkeman\|Oliver Burkeman]]"],"permalink":"oliver-burkeman-az-elet-rovid","cover":"https://s01.static.libri.hu/cover/f1/4/8455928_4.jpg","isbn":9789633109724,"type":["könyv"],"pages":268,"rating":5,"status":["have read"]}}
 ---
 
 [[Oliver Burkeman\|Oliver Burkeman]] - 4000 Weeks

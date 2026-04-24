@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Auenbrugger kisasszonyok.md","permalink":"/auenbrugger-kisasszonyok/"}
+{"dg-publish":true,"permalink":"/public/auenbrugger-kisasszonyok/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-[[Marianne von Auenbrugger\|Marianne von Auenbrugger]] & [[Caterina Franziska\|Caterina Franziska]]
 
-[[public/Haydn\|Haydn]] és [[public/Salieri\|Salieri]] tanítványai
+[[Marianne von Auenbrugger\|Marianne von Auenbrugger]] & [[Caterina Franziska\|Caterina Franziska]]

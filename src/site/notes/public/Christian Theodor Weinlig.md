@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Christian Theodor Weinlig.md","permalink":"/christian-theodor-weinlig/"}
+{"dg-publish":true,"permalink":"/public/christian-theodor-weinlig/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 - a lipcsei Tamás templom kántora
-	- (csakúgy, mint [[public/Bach\|Bach]] volt)

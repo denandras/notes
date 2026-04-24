@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Leonardo Vinci.md","permalink":"/leonardo-vinci/"}
+{"dg-publish":true,"permalink":"/public/leonardo-vinci/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 Nem összetévesztendő [[Leonardo da Vinci\|Leonardo da Vinci]]vel

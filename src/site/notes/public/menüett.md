@@ -1,3 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"menüett.md","permalink":"/menueett/"}
+{"dg-publish":true,"permalink":"/public/menueett/","dg-note-properties":{"type":"fogalom"}}
 ---
+
+
+

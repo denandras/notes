@@ -1,33 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"1945 utáni magyar zene.md","permalink":"/1945-utani-magyar-zene/"}
+{"dg-publish":true,"permalink":"/public/1945-utani-magyar-zene/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 - eml. [[Slavoj Zizek\|Slavoj Zizek]]
-- [[Kroó György\|Kroó György]]
-- [[Durkó Zsolt\|Durkó Zsolt]] - [Halotti beszéd](https://www.foldesimre.hu/oldal.asp?id=71)
-- 1868 - kritika
-	- [[Durkó Zsolt\|Durkó Zsolt]] darabja Budapest 100. évfordulójára (megkésve)
-	- "megkésett dallam" - nem akart középkori zenét kitalálni
-		- kitekintés: vannak kultúrák, ahol nem kell ilyet kitalálni
-	- eml. [[Kodály - Megkésett melódiák\|Kodály - Megkésett melódiák]]
-		- [[Berzsenyi\|Berzsenyi]]
-		- [[Kölcsey\|Kölcsey]]
-	- Miért nem kapott a 18. századi magyar vers zenét?
-		- képzés hiánya
-		- konzi, színház, udvari zenekarok, zenekari kultúra hiánya
-		- [[Kodály\|Kodály]], [[public/Bartók\|Bartók]] -> behozzák a lemaradást
-		- de nem tud [[Kodály\|Kodály]] úgy tenni, mintha nem telt volna el 100 év - [[public/Liszt\|Liszt]]-féle, késő-romantikus kortárs zenei nyelvet használ
-		- "nemcsak behozta a lemaradást, hanem az európai kultúra élére állt" - [[Tóth Aladár\|Tóth Aladár]]
-- Hogyan viszonyul a 20. századi magyar zeneszerző [[Kodály\|Kodály]] kezdeményezéséhez? (hiányok utólagos betöltése)
-	- 1966: [[public/Kárpáti János\|Kárpáti János]] kritikája [[Durkó Zsolt - Una rapsodia ungherese\|Durkó Zsolt - Una rapsodia ungherese]]ről
-		- **una** - épít a prototípusra, ez 'csak egy' a sok közül
-		- legközelebbi múlt = [[public/Bartók\|Bartók]], őt invokálja
-		- már-már a kritikus is elvárja ezt a bartóki vonalat
-	- [[Lendvay Ernő\|Lendvay Ernő]] -> <- [[public/Kárpáti János\|Kárpáti János]] (elhanyagolás jelensége)
-- Classroom linkelve - [[Földesi Imre\|Földesi Imre]]
-	- megzenésítése nem triviális - régi nyelvi emlék, idegen
-	- eszébe sem jutna az embernek, hogy föl akarná idézni a középkori magyar világot
-	- azt emeli ki a történelemből, ami számára érdekes
-	- responzoriális ének
-	- megkésett melódia -> nem [[public/Bartók\|Bartók]], hanem [[Kodály\|Kodály]] miatt
-		- a zene maga viszont [[public/Bartók\|Bartók]] hatása

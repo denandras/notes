@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Simon Sechter.md","permalink":"/simon-sechter/"}
+{"dg-publish":true,"permalink":"/public/simon-sechter/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 - [[public/Schubert\|Schubert]] utolsó éveiben elment hozzá ellenpontot tanulni

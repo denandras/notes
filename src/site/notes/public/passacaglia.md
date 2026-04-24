@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"passacaglia.md","permalink":"/passacaglia/"}
+{"dg-publish":true,"permalink":"/public/passacaglia/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 Ereszkedő, ostinato basszusmenettel rendelkező tánczene, a [[public/ciaccona\|ciaccona]] rokonműfaja
-## [wiki](https://hu.wikipedia.org/wiki/Passacaglia)

@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Tolvaj szarka.md","permalink":"/tolvaj-szarka/"}
+{"dg-publish":true,"permalink":"/public/tolvaj-szarka/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 [[public/Rossini\|Rossini]] operája

@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"intermezzo.md","permalink":"/intermezzo/"}
+{"dg-publish":true,"permalink":"/public/intermezzo/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 közjáték
-2 felvonás közé iktatott zene

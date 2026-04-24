@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Musica Enchiriadis.md","permalink":"/musica-enchiriadis/"}
+{"dg-publish":true,"permalink":"/public/musica-enchiriadis/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-az első fennmaradt írás a polifónia szabályairól, szerzője ismeretlen
 
-## [wiki](https://www.wikiwand.com/en/Musica_enchiriadis)
+az első fennmaradt írás a polifónia szabályairól, szerzője ismeretlen

@@ -1,12 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"magyar zenetöri.md","permalink":"/magyar-zenetoeri/"}
+{"dg-publish":true,"permalink":"/public/magyar-zenetoeri/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 (MSz)
-
-## Első félév
-
-- vizsga: kéthetente röpdolgozat (3p)
-	- előző óra anyaga
-	- akinek összejön 3, nem kell vizsgázni
-- [[public/Bartók\|Bartók]]

@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Komlós - Fortepianók és zenéjük.md","permalink":"/komlos-fortepianok-es-zenejuek/"}
+{"dg-publish":true,"permalink":"/public/komlos-fortepianok-es-zenejuek/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 [[Komlós Katalin\|Komlós Katalin]] - Fortepianók és zenéjük

@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Germaine Tailleferre.md","permalink":"/germaine-tailleferre/"}
+{"dg-publish":true,"permalink":"/public/germaine-tailleferre/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [wiki](https://www.wikiwand.com/hu/Germaine_Tailleferre)
+
+

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/HBR's 10 Must-reads on High Performance.md","permalink":"/egyeb/hbr-s-10-must-reads-on-high-performance/"}
+{"dg-publish":true,"permalink":"/private/hbr-s-10-must-reads-on-high-performance/","dg-note-properties":{"author":["[[Harvard Business Review]]"],"cover":"https://cdn11.bigcommerce.com/s-yneuaokjib/images/stencil/250x260/attribute_rule_images/139358_source_1695399363.png?imbypass=on","isbn":9781647823467,"type":["könyv"],"pages":192,"rating":5,"status":["started"]}}
 ---
 
 

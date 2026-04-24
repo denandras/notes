@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"centralizmus.md","permalink":"/centralizmus/"}
+{"dg-publish":true,"permalink":"/public/centralizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 minden központilag van működtetve

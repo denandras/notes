@@ -1,4 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Walter Scott.md","permalink":"/walter-scott/"}
+{"dg-publish":true,"permalink":"/public/walter-scott/","dg-note-properties":{"type":"fogalom"}}
 ---
+
+
 

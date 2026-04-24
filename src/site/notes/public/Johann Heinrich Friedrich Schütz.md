@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Johann Heinrich Friedrich Schütz.md","permalink":"/johann-heinrich-friedrich-schuetz/"}
+{"dg-publish":true,"permalink":"/public/johann-heinrich-friedrich-schuetz/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 Ő <mark>NEM</mark> [[public/Schütz\|Schütz]]!!!

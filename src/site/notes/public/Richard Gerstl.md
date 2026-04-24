@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Richard Gerstl.md","permalink":"/richard-gerstl/"}
+{"dg-publish":true,"permalink":"/public/richard-gerstl/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [wiki](https://en.wikipedia.org/wiki/Richard_Gerstl)
+
+

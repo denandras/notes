@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Kaiser-kvártett.md","permalink":"/kaiser-kvartett/"}
+{"dg-publish":true,"permalink":"/public/kaiser-kvartett/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [[public/Haydn\|Haydn]]
+
+

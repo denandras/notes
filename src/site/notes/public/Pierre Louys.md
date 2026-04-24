@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Pierre Louys.md","permalink":"/pierre-louys/"}
+{"dg-publish":true,"permalink":"/public/pierre-louys/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [wiki](https://www.wikiwand.com/hu/Pierre_Lou%C3%BFs)
+
+

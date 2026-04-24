@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Palestrina.md","permalink":"/palestrina/"}
+{"dg-publish":true,"permalink":"/public/palestrina/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 # Giovanni Pierluigi da Palestrina
-## [wiki](https://www.wikiwand.com/hu/Giovanni_Pierluigi_da_Palestrina)

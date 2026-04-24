@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Albert Camus.md","permalink":"/albert-camus/"}
+{"dg-publish":true,"permalink":"/public/albert-camus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 #üres 
-- [[private/Albert Camus - Közöny\|Albert Camus - Közöny]]
-- [[Albert Camus - Az idegen\|Albert Camus - Az idegen]]

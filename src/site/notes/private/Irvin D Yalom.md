@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Irvin D Yalom.md","permalink":"/egyeb/irvin-d-yalom/"}
+{"dg-publish":true,"permalink":"/private/irvin-d-yalom/","dg-note-properties":{"type":["személy"],"subject":null}}
 ---
 
 - [[private/Irvin D Yalom - Úton önmagamhoz\|Irvin D Yalom - Úton önmagamhoz]]

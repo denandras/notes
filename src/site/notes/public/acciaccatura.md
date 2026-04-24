@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"acciaccatura.md","permalink":"/acciaccatura/"}
+{"dg-publish":true,"permalink":"/public/acciaccatura/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-> = szimultán mordent
-> = egy alsó szomszédos hangnak a **feloldással együtt** történő leütése
 
-A hallgató számára itt az okoz nehézséget, hogy elfogadja a disszonáns hang egyidejű feloldását, úgy, hogy ne várjon további feloldást a következő akkordoktól.
+> = szimultán mordent

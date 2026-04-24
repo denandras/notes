@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"sinfonia da chiesa.md","permalink":"/sinfonia-da-chiesa/"}
+{"dg-publish":true,"permalink":"/public/sinfonia-da-chiesa/","dg-note-properties":{"type":"fogalom"}}
 ---
 
+
 - templomi szimfónia
-- lassú nyitótétel
-- hatással van rá a romantika
-- [[public/Haydn\|Haydn]] ilyen műve gregorián dallamot idéz

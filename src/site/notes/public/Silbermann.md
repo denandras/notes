@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Silbermann.md","permalink":"/silbermann/"}
+{"dg-publish":true,"permalink":"/public/silbermann/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-Gottfried Silbermann
 
-## [Wiki](https://www.wikiwand.com/hu/Gottfried_Silbermann)
+Gottfried Silbermann

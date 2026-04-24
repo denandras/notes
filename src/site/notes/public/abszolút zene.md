@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"abszolút zene.md","permalink":"/abszolut-zene/"}
+{"dg-publish":true,"permalink":"/public/abszolut-zene/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 - [A. Gergely András - Lehet-e "abszolút" egy zene? (cikk)](https://www.parlando.hu/2022/2022-3/Gergely_Andras.htm)

@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"intermedio.md","permalink":"/intermedio/"}
+{"dg-publish":true,"permalink":"/public/intermedio/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [Wiki](https://en.wikipedia.org/wiki/Intermedio)
+
+

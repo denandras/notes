@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Fumeux fux parfume.md","permalink":"/fumeux-fux-parfume/"}
+{"dg-publish":true,"permalink":"/public/fumeux-fux-parfume/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 # [link](https://www.youtube.com/watch?v=0_rH2a-rg6Y)

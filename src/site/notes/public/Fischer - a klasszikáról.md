@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Fischer - a klasszikáról.md","permalink":"/fischer-a-klasszikarol/"}
+{"dg-publish":true,"permalink":"/public/fischer-a-klasszikarol/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 [[Wilhelm Fischer\|Wilhelm Fischer]] - A bécsi klasszikus stílus fejlődéséhez

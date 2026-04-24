@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Diderot.md","permalink":"/diderot/"}
+{"dg-publish":true,"permalink":"/public/diderot/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-## [Wiki](https://hu.wikipedia.org/wiki/Denis_Diderot)
+
+

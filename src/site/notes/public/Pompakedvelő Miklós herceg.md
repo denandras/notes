@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Pompakedvelő Miklós herceg.md","permalink":"/pompakedvelo-miklos-herceg/"}
+{"dg-publish":true,"permalink":"/public/pompakedvelo-miklos-herceg/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 [[public/Esterházy\|Esterházy]] Miklós József

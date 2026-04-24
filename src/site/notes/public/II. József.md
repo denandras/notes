@@ -1,4 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"II. József.md","permalink":"/ii-jozsef/"}
+{"dg-publish":true,"permalink":"/public/ii-jozsef/","dg-note-properties":{"type":"fogalom"}}
 ---
+
+
 

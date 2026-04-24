@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Montaigne.md","permalink":"/montaigne/"}
+{"dg-publish":true,"permalink":"/public/montaigne/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 #üres 

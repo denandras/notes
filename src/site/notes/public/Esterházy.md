@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Esterházy.md","permalink":"/esterhazy/"}
+{"dg-publish":true,"permalink":"/public/esterhazy/","dg-note-properties":{"type":"fogalom"}}
 ---
+
 
 Esterházy család

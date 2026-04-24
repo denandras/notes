@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Rousseau.md","permalink":"/rousseau/"}
+{"dg-publish":true,"permalink":"/public/rousseau/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-Jean-Jacques Rousseau
 
-- <mark>1712-1778</mark>
+Jean-Jacques Rousseau

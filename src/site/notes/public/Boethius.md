@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Boethius.md","permalink":"/boethius/"}
+{"dg-publish":true,"permalink":"/public/boethius/","dg-note-properties":{"type":"fogalom"}}
 ---
 
-Anicius Manlius T S Boethius
-==480-524==
 
-- római kori szenátor, consul, magister officiorum, polihisztor, történész
-- egyik fő műve a [[public/De institutione musica\|De institutione musica]]
-## [wiki](https://en.m.wikipedia.org/wiki/Boethius)
+Anicius Manlius T S Boethius
