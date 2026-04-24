@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/irvin-d-yalom/","dg-note-properties":{"permalink":"/private/irvin-d-yalom/"}}
+{"dg-publish":true,"permalink":"/private/irvin-d-yalom/","dg-note-properties":{"type":["személy"],"permalink":"/private/irvin-d-yalom/"}}
 ---
 
 

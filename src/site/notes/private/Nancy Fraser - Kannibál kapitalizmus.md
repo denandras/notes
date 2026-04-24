@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/nancy-fraser-kannibal-kapitalizmus/","dg-note-properties":{"permalink":"/private/nancy-fraser-kannibal-kapitalizmus/"}}
+{"dg-publish":true,"permalink":"/private/nancy-fraser-kannibal-kapitalizmus/","dg-note-properties":{"type":["könyv"],"author":["[[Nancy Fraser]]"],"cover":"https://s01.static.libri.hu/cover/94/6/10762552_4.jpg","isbn":9789635723652,"pages":276,"status":["reading"],"permalink":"nancy-fraser-kannibal-kapitalizmus"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/tisza-kata-hipnozis-6-kor/","title":"Hipnózis 6-kor","dg-note-properties":{"permalink":"/private/tisza-kata-hipnozis-6-kor/","title":"Hipnózis 6-kor"}}
+{"dg-publish":true,"permalink":"/private/tisza-kata-hipnozis-6-kor/","title":"Hipnózis 6-kor","dg-note-properties":{"type":["könyv"],"author":["[[Tisza Kata]]"],"title":"Hipnózis 6-kor","cover":"https://assets.moly.hu/system/covers/big/covers_760773.jpg","isbn":9789635095827,"pages":284,"status":["have read"],"permalink":"/private/tisza-kata-hipnozis-6-kor/"}}
 ---
 
 

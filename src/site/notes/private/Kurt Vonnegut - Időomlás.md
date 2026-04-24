@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/kurt-vonnegut-idoomlas/","dg-note-properties":{"permalink":"/private/kurt-vonnegut-idoomlas/"}}
+{"dg-publish":true,"permalink":"/private/kurt-vonnegut-idoomlas/","dg-note-properties":{"type":["könyv"],"author":["[[Kurt Vonnegut]]"],"cover":"https://s01.static.libri.hu/cover/5d/e/7950635_4.jpg","isbn":9789632276762,"pages":278,"rating":5,"status":["have read"],"permalink":"/private/kurt-vonnegut-idoomlas/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/albert-camus-koezoeny/","title":"Közöny","dg-note-properties":{"permalink":"/private/albert-camus-koezoeny/","title":"Közöny"}}
+{"dg-publish":true,"permalink":"/private/albert-camus-koezoeny/","title":"Közöny","dg-note-properties":{"type":["könyv"],"author":["[[Albert Camus]]"],"title":"Közöny","cover":"https://s01.static.libri.hu/cover/18/d/9106608_4.jpg","rating":5,"status":["have read"],"permalink":"/private/albert-camus-koezoeny/"}}
 ---
 
 

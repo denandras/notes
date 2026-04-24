@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/frank-herbert-a-dune-gyermekei/","dg-note-properties":{"permalink":"/private/frank-herbert-a-dune-gyermekei/"}}
+{"dg-publish":true,"permalink":"/private/frank-herbert-a-dune-gyermekei/","dg-note-properties":{"type":["könyv"],"author":["[[Frank Herbert]]"],"cover":"https://moly.hu/system/covers/big/covers_617645.jpg","isbn":9789635664597,"pages":443,"rating":5,"status":["have read"],"permalink":"/private/frank-herbert-a-dune-gyermekei/"}}
 ---
 
 
