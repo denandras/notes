@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Haydn.md","permalink":"/haydn/"}
+{"dg-publish":true,"dg-path":"Haydn.md","permalink":"/haydn/","dg-note-properties":{"permalink":"/haydn/"}}
 ---
+
 
 Joseph Haydn
 

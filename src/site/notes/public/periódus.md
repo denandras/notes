@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"periódus.md","permalink":"/periodus/"}
+{"dg-publish":true,"dg-path":"periódus.md","permalink":"/periodus/","dg-note-properties":{"permalink":"/periodus/"}}
 ---
+
 
 = zenei kérdés-felelet
 

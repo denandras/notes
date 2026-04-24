@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Leonardo Bruni Aretino.md","permalink":"/leonardo-bruni-aretino/"}
+{"dg-publish":true,"dg-path":"Leonardo Bruni Aretino.md","permalink":"/leonardo-bruni-aretino/","dg-note-properties":{"permalink":"/leonardo-bruni-aretino/"}}
 ---
+
 
 - első [[public/modernitás\|modern]] történész (1370-1444)
 - három korszakot különített el

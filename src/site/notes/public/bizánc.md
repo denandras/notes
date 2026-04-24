@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"bizánc.md","permalink":"/bizanc/"}
+{"dg-publish":true,"dg-path":"bizánc.md","permalink":"/bizanc/","dg-note-properties":{"permalink":"/bizanc/"}}
 ---
+
 
 - retronim kifejezés[^7]
 	- 1557: [[Hieronymus Wolf\|Hieronymus Wolf]] (Corpus Hystoriae Byzantinae)

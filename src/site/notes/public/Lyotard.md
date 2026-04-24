@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Lyotard.md","permalink":"/lyotard/"}
+{"dg-publish":true,"dg-path":"Lyotard.md","permalink":"/lyotard/","dg-note-properties":{"permalink":"/lyotard/"}}
 ---
+
 
 Jean-Francois Lyotard
 

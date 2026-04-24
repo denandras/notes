@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"ballada.md","permalink":"/ballada/"}
+{"dg-publish":true,"dg-path":"ballada.md","permalink":"/ballada/","dg-note-properties":{"permalink":"/ballada/"}}
 ---
+
 
 - irodalmi divat, 18. század
 	- [[Thomas Percy\|Thomas Percy]] balladáskötete

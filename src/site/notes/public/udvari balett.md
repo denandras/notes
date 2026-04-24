@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"udvari balett.md","permalink":"/udvari-balett/"}
+{"dg-publish":true,"dg-path":"udvari balett.md","permalink":"/udvari-balett/","dg-note-properties":{"permalink":"/udvari-balett/"}}
 ---
+
 
 ballet de court
 vokális zene sok tétellel, mindegyik műnek van témája

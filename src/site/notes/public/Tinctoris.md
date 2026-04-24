@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Tinctoris.md","permalink":"/tinctoris/"}
+{"dg-publish":true,"dg-path":"Tinctoris.md","permalink":"/tinctoris/","dg-note-properties":{"permalink":"/tinctoris/"}}
 ---
+
 
 zeneelméletíró
 

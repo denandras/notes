@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Le Devin du village.md","permalink":"/le-devin-du-village/"}
+{"dg-publish":true,"dg-path":"Le Devin du village.md","permalink":"/le-devin-du-village/","dg-note-properties":{"permalink":"/le-devin-du-village/"}}
 ---
+
 
 [[public/Rousseau\|Rousseau]]
 

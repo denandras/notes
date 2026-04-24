@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Humanizmus.md","permalink":"/humanizmus/"}
+{"dg-publish":true,"dg-path":"Humanizmus.md","permalink":"/humanizmus/","dg-note-properties":{"permalink":"/humanizmus/"}}
 ---
+
 
 Humanista gondolkodás
 

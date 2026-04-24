@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"hangszeres zene a 17. században.md","permalink":"/hangszeres-zene-a-17-szazadban/"}
+{"dg-publish":true,"dg-path":"hangszeres zene a 17. században.md","permalink":"/hangszeres-zene-a-17-szazadban/","dg-note-properties":{"permalink":"/hangszeres-zene-a-17-szazadban/"}}
 ---
+
 
 - korabeli gondolkodás: vokális zene az első, hangszeres a vokális szolgája
 	- ma: a hangszeres zene a 17. században ért a tetőpontra

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Hugo Wolf.md","permalink":"/hugo-wolf/"}
+{"dg-publish":true,"dg-path":"Hugo Wolf.md","permalink":"/hugo-wolf/","dg-note-properties":{"permalink":"/hugo-wolf/"}}
 ---
+
 
 <mark>1860-1903</mark>
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Kálnoky László - Szférák zenéje.md","permalink":"/kalnoky-laszlo-szferak-zeneje/"}
+{"dg-publish":true,"dg-path":"Kálnoky László - Szférák zenéje.md","permalink":"/kalnoky-laszlo-szferak-zeneje/","dg-note-properties":{"permalink":"/kalnoky-laszlo-szferak-zeneje/"}}
 ---
+
 
 [Link](https://reader.dia.hu/document/Kalnoky_Laszlo-Osszegyujtott_versek-1000)
 ## Szférák zenéje

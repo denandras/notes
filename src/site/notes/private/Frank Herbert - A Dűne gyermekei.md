@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/private/frank-herbert-a-dune-gyermekei/","dg-note-properties":{"author":["[[Frank Herbert]]"],"cover":"https://moly.hu/system/covers/big/covers_617645.jpg","isbn":9789635664597,"type":["könyv"],"pages":443,"rating":5,"status":["have read"]}}
+{"dg-publish":true,"permalink":"/private/frank-herbert-a-dune-gyermekei/","dg-note-properties":{"permalink":"/private/frank-herbert-a-dune-gyermekei/"}}
 ---
+
 
 # [[private/Frank Herbert - A Dűne messiása\|A Dűne messiása]] (2) | [[private/Frank Herbert - A Dűne Istencsászára\|A Dűne Istencsászára]] (4)
 # A Dűne gyermekei (3)

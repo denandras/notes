@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Monteverdi.md","permalink":"/monteverdi/"}
+{"dg-publish":true,"dg-path":"Monteverdi.md","permalink":"/monteverdi/","dg-note-properties":{"permalink":"/monteverdi/"}}
 ---
+
 
 # Claudio Monteverdi
 - <mark>1567-1643</mark>

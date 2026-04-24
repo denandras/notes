@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Codex Calixtinus.md","permalink":"/codex-calixtinus/"}
+{"dg-publish":true,"dg-path":"Codex Calixtinus.md","permalink":"/codex-calixtinus/","dg-note-properties":{"permalink":"/codex-calixtinus/"}}
 ---
+
 
 ## [wiki](https://www.wikiwand.com/hu/Kallixtusz-k%C3%B3dex)
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Frank Herbert - A Dűne messiása.md","permalink":"/egyeb/frank-herbert-a-dune-messiasa/","title":"A Dűne messiása"}
+{"dg-publish":true,"dg-path":"egyéb/Frank Herbert - A Dűne messiása.md","permalink":"/egyeb/frank-herbert-a-dune-messiasa/","title":"A Dűne messiása","dg-note-properties":{"permalink":"/egyeb/frank-herbert-a-dune-messiasa/","title":"A Dűne messiása"}}
 ---
+
 
 # [[private/Frank Herbert - Dűne\|<-]] [[private/Frank Herbert - A Dűne gyermekei\|->]]
 # A Dűne messiása (2)

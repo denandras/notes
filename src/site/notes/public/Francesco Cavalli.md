@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Francesco Cavalli.md","permalink":"/francesco-cavalli/"}
+{"dg-publish":true,"dg-path":"Francesco Cavalli.md","permalink":"/francesco-cavalli/","dg-note-properties":{"permalink":"/francesco-cavalli/"}}
 ---
+
 
 Pietro Francesco Cavalli
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Antonio Vivaldi.md","permalink":"/antonio-vivaldi/"}
+{"dg-publish":true,"dg-path":"Antonio Vivaldi.md","permalink":"/antonio-vivaldi/","dg-note-properties":{"permalink":"/antonio-vivaldi/"}}
 ---
+
 
 <mark>1768-1741</mark>
 

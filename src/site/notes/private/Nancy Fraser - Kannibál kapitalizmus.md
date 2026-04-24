@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/private/nancy-fraser-kannibal-kapitalizmus/","dg-note-properties":{"author":["[[Nancy Fraser]]"],"permalink":"nancy-fraser-kannibal-kapitalizmus","cover":"https://s01.static.libri.hu/cover/94/6/10762552_4.jpg","isbn":9789635723652,"type":["könyv"],"pages":276,"rating":null,"status":["reading"]}}
+{"dg-publish":true,"permalink":"/private/nancy-fraser-kannibal-kapitalizmus/","dg-note-properties":{"permalink":"/private/nancy-fraser-kannibal-kapitalizmus/"}}
 ---
+
 
 ### Idegen szavak
 

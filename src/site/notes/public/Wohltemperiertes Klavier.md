@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Wohltemperiertes Klavier.md","permalink":"/wohltemperiertes-klavier/"}
+{"dg-publish":true,"dg-path":"Wohltemperiertes Klavier.md","permalink":"/wohltemperiertes-klavier/","dg-note-properties":{"permalink":"/wohltemperiertes-klavier/"}}
 ---
+
 

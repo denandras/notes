@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Chopin.md","permalink":"/chopin/"}
+{"dg-publish":true,"dg-path":"Chopin.md","permalink":"/chopin/","dg-note-properties":{"permalink":"/chopin/"}}
 ---
+
 
 <mark>1810-1849</mark>
 

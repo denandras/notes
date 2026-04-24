@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Les Trosqueurs.md","permalink":"/les-trosqueurs/"}
+{"dg-publish":true,"dg-path":"Les Trosqueurs.md","permalink":"/les-trosqueurs/","dg-note-properties":{"permalink":"/les-trosqueurs/"}}
 ---
+
 
 [[public/Antoine Dauvergne\|Antoine Dauvergne]]
 A csereberélők

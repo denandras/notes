@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Boethius.md","permalink":"/boethius/"}
+{"dg-publish":true,"dg-path":"Boethius.md","permalink":"/boethius/","dg-note-properties":{"permalink":"/boethius/"}}
 ---
+
 
 Anicius Manlius T S Boethius
 ==480-524==

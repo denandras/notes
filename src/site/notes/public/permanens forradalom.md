@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"permanens forradalom.md","permalink":"/permanens-forradalom/"}
+{"dg-publish":true,"dg-path":"permanens forradalom.md","permalink":"/permanens-forradalom/","dg-note-properties":{"permalink":"/permanens-forradalom/"}}
 ---
+
 
 - milyen kiutak vannak a [[public/rokokó\|rokokó]]ból?
 	- [[public/klasszicizmus\|klasszicizmus]]
@@ -127,8 +128,8 @@
 - irodalom
 	- [[Paul Verlaine\|Paul Verlaine]]
 	- [[Arthur Rimbaud\|Arthur Rimbaud]]
-	- [[Oscar Wilde\|Oscar Wilde]]
-	- [[Marcel Proust\|Marcel Proust]]
+	- [[private/Oscar Wilde\|Oscar Wilde]]
+	- [[private/Marcel Proust\|Marcel Proust]]
 	- [[public/Rilke\|Rilke]]
 - zenében
 	- [[public/Debussy\|Debussy]]

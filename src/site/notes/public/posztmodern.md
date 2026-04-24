@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"posztmodern.md","permalink":"/posztmodern/"}
+{"dg-publish":true,"dg-path":"posztmodern.md","permalink":"/posztmodern/","dg-note-properties":{"permalink":"/posztmodern/"}}
 ---
+
 
 > [[P Sloterdijk\|P Sloterdijk]]: *"Aki szédül, az nincs informálva"*
 > (de nem mindenki szeret szédülni)
@@ -13,7 +14,7 @@
 - [ ] [[Francis Bacon\|Francis Bacon]] - filozófus
 - [ ] [[public/René Descartes\|René Descartes]], [[public/Rousseau\|Rousseau]], [[public/Diderot\|Diderot]] - filozófusok
 - [ ] [[Sigmund Baumann\|Sigmund Baumann]] - szociológus
-- [ ] [[Sigmund Freud\|Sigmund Freud]] - pszichoanalitikus
+- [ ] [[private/Sigmund Freud\|Sigmund Freud]] - pszichoanalitikus
 - [ ] [[public/Platón\|Platón]] - filozófus
 - [ ] [[Nietzsche\|Nietzsche]] - filozófus
 - [ ] [[Dragomán - Fehér király\|Dragomán - Fehér király]] - regény
@@ -34,13 +35,13 @@
 - [ ] [[R Barthes - A szerző halála\|R Barthes - A szerző halála]] esszé - esszéíró, filozófus ([link](http://www.irodalomelmelet.atw.hu/barthes.pdf))
 - [ ] [[Derrida\|Derrida]] - filozófus
 - [ ] [[Vajda Mihály\|Vajda Mihály]] - festőművész
-- [ ] [[Franz Kafka\|Franz Kafka]] egypercesei
+- [ ] [[public/Franz Kafka\|Franz Kafka]] egypercesei
 - [ ] [[Varró Dániel\|Varró Dániel]] - költő
 - [ ] [[Nemes Z Márió\|Nemes Z Márió]] - író
 - [ ] [[Pethő Barnabás\|Pethő Barnabás]] filozófus
 - [ ] [[Agyak a tartályban\|Agyak a tartályban]] (Putnam, filozófiai szemle) - filozófiai írás
 - [ ] [[Bibó István\|Bibó István]] - politikai gondolkodó
-- [ ] [[John Locke\|John Locke]] - filozófus
+- [ ] [[private/John Locke\|John Locke]] - filozófus
 - [ ] [[A holtak nem halnak meg\|A holtak nem halnak meg]] film
 - [ ] [[Kosztolányi - Édes Anna\|Kosztolányi - Édes Anna]] - regény
 - [ ] [[Krúdy - Szindbád-regények\|Krúdy - Szindbád-regények]] - regények

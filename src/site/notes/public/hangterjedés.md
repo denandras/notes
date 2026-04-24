@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"hangterjedés.md","permalink":"/hangterjedes/"}
+{"dg-publish":true,"dg-path":"hangterjedés.md","permalink":"/hangterjedes/","dg-note-properties":{"permalink":"/hangterjedes/"}}
 ---
+
 
 - rugalmas közeg kell
 	- a levegő nyomható

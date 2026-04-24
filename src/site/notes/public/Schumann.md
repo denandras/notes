@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Schumann.md","permalink":"/schumann/"}
+{"dg-publish":true,"dg-path":"Schumann.md","permalink":"/schumann/","dg-note-properties":{"permalink":"/schumann/"}}
 ---
+
 
 <3 [[Clara Schumann\|Clara Schumann]]
 ### Robert Schumann

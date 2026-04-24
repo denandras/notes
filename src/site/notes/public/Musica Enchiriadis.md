@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Musica Enchiriadis.md","permalink":"/musica-enchiriadis/"}
+{"dg-publish":true,"dg-path":"Musica Enchiriadis.md","permalink":"/musica-enchiriadis/","dg-note-properties":{"permalink":"/musica-enchiriadis/"}}
 ---
+
 
 az első fennmaradt írás a polifónia szabályairól, szerzője ismeretlen
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Bartók.md","permalink":"/bartok/"}
+{"dg-publish":true,"dg-path":"Bartók.md","permalink":"/bartok/","dg-note-properties":{"permalink":"/bartok/"}}
 ---
+
 
 [[public/zenetöri\|zenetöri]] & [[public/magyar zenetöri\|magyar zenetöri]] egyesítve
 

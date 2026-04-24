@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"romantika.md","permalink":"/romantika/"}
+{"dg-publish":true,"dg-path":"romantika.md","permalink":"/romantika/","dg-note-properties":{"permalink":"/romantika/"}}
 ---
+
 
 - ellentmondás az antikkal, hatás-ellenhatás
 	- sok szempontból hiányt hagy maga mögött a klasszicizmus

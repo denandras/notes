@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"szimfónia.md","permalink":"/szimfonia/"}
+{"dg-publish":true,"dg-path":"szimfónia.md","permalink":"/szimfonia/","dg-note-properties":{"permalink":"/szimfonia/"}}
 ---
+
 
 ### Eredete
 

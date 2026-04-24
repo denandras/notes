@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"új utak.md","permalink":"/uj-utak/"}
+{"dg-publish":true,"dg-path":"új utak.md","permalink":"/uj-utak/","dg-note-properties":{"permalink":"/uj-utak/"}}
 ---
+
 
 - a látásmód megváltozása
 	- új média
@@ -53,8 +54,8 @@
 	- *Nevermore (O Taiti)*
 	- ***Honnan jövünk? Kik vagyunk? Hová tartunk?***
 	- *Lovasok a tengerparton*
-	- *Vincent [[Van Gogh\|Van Gogh]] napraforgókat fest*
-- Vincent [[Van Gogh\|Van Gogh]]
+	- *Vincent [[private/Van Gogh\|Van Gogh]] napraforgókat fest*
+- Vincent [[private/Van Gogh\|Van Gogh]]
 	- testvérével mindketten tanultak protestáns teológiát
 	- vonalak felépítése apró részekből
 	- színek kavalkádja
@@ -105,7 +106,7 @@
 	- Belgium
 		- [[Fernand Khnopf\|Fernand Khnopf]]
 			- *Csend*
-			- hatás: [[Gustav Klimt\|Gustav Klimt]]
+			- hatás: [[private/Gustav Klimt\|Gustav Klimt]]
 			- *A Szfinx ölelése*
 			- *Az elhagyott város*
 		- [[Félicien Rops\|Félicien Rops]]

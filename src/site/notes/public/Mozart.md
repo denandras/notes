@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Mozart.md","permalink":"/mozart/"}
+{"dg-publish":true,"dg-path":"Mozart.md","permalink":"/mozart/","dg-note-properties":{"permalink":"/mozart/"}}
 ---
+
 
 Wolfgang Amadeus Mozart
 

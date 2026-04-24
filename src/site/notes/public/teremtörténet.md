@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"teremtörténet.md","permalink":"/teremtoertenet/"}
+{"dg-publish":true,"dg-path":"teremtörténet.md","permalink":"/teremtoertenet/","dg-note-properties":{"permalink":"/teremtoertenet/"}}
 ---
+
 
 - Epidaurosz
 	- nem véletlenül van a drámában a kórus

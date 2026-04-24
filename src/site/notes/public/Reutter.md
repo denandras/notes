@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Reutter.md","permalink":"/reutter/"}
+{"dg-publish":true,"dg-path":"Reutter.md","permalink":"/reutter/","dg-note-properties":{"permalink":"/reutter/"}}
 ---
+
 
 Johann Georg Reutter
 

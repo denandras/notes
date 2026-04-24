@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"posztmodern művészet.md","permalink":"/posztmodern-muveszet/"}
+{"dg-publish":true,"dg-path":"posztmodern művészet.md","permalink":"/posztmodern-muveszet/","dg-note-properties":{"permalink":"/posztmodern-muveszet/"}}
 ---
+
 
 ### Posztmodern művészet
 
@@ -65,7 +66,7 @@
 	- [[Örkény - Egypercesek\|Örkény - Egypercesek]]
 	- short story = rövidtörténet (a novellánál is rövidebb, sokminden van kihagyva)
 	- a dúsítást úgy éri el, hogy a hiányra épít
-	- [[Franz Kafka\|Franz Kafka]] egypercesei
+	- [[public/Franz Kafka\|Franz Kafka]] egypercesei
 - ha a szerző nyilatkozik, az sem ad bizonyosságot
 	- ő is hazudhat
 	- [[Prokofiev\|Prokofiev]] - Klasszikus szimfónia

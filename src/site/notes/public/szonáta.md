@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"szonáta.md","permalink":"/szonata/"}
+{"dg-publish":true,"dg-path":"szonáta.md","permalink":"/szonata/","dg-note-properties":{"permalink":"/szonata/"}}
 ---
+
 
 `16. sz-ban` az addig csak énekelt canzonekat hangszerrel is előadták -> canson da sonar
 

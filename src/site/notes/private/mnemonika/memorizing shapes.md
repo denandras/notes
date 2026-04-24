@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/mnemonika/memorizing shapes.md","permalink":"/egyeb/mnemonika/memorizing-shapes/"}
+{"dg-publish":true,"dg-path":"egyéb/mnemonika/memorizing shapes.md","permalink":"/egyeb/mnemonika/memorizing-shapes/","dg-note-properties":{"permalink":"/egyeb/mnemonika/memorizing-shapes/"}}
 ---
+
 
 ## The Shaper System
 

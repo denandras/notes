@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Don Carlos.md","permalink":"/don-carlos/"}
+{"dg-publish":true,"dg-path":"Don Carlos.md","permalink":"/don-carlos/","dg-note-properties":{"permalink":"/don-carlos/"}}
 ---
+
 
 [[public/Verdi\|Verdi]], **[[public/Giacomo Meyerbeer\|Giacomo Meyerbeer]]**
 

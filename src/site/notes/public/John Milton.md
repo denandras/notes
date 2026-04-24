@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"John Milton.md","permalink":"/john-milton/"}
+{"dg-publish":true,"dg-path":"John Milton.md","permalink":"/john-milton/","dg-note-properties":{"permalink":"/john-milton/"}}
 ---
+
 
 ## [wiki](https://www.wikiwand.com/hu/John_Milton)

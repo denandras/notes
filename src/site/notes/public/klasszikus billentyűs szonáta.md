@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"klasszikus billentyűs szonáta.md","permalink":"/klasszikus-billentyus-szonata/"}
+{"dg-publish":true,"dg-path":"klasszikus billentyűs szonáta.md","permalink":"/klasszikus-billentyus-szonata/","dg-note-properties":{"permalink":"/klasszikus-billentyus-szonata/"}}
 ---
+
 
 [[public/Komlós - Fortepianók és zenéjük\|Komlós - Fortepianók és zenéjük]]
 

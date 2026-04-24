@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Comédie ballet.md","permalink":"/comedie-ballet/"}
+{"dg-publish":true,"dg-path":"Comédie ballet.md","permalink":"/comedie-ballet/","dg-note-properties":{"permalink":"/comedie-ballet/"}}
 ---
+
 
 zenei színház és prózai között (tételek között próza) - akkori musical
 

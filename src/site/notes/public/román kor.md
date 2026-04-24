@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"román kor.md","permalink":"/roman-kor/"}
+{"dg-publish":true,"dg-path":"román kor.md","permalink":"/roman-kor/","dg-note-properties":{"permalink":"/roman-kor/"}}
 ---
+
 
 ### Preromán kor (500-1000)
 - elemek egybeolvasztása

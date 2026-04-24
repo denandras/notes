@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Haydn és az oratórium.md","permalink":"/haydn-es-az-oratorium/"}
+{"dg-publish":true,"dg-path":"Haydn és az oratórium.md","permalink":"/haydn-es-az-oratorium/","dg-note-properties":{"permalink":"/haydn-es-az-oratorium/"}}
 ---
+
 
 [[public/Haydn\|Haydn]]
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"zene és irodalom.md","permalink":"/zene-es-irodalom/"}
+{"dg-publish":true,"dg-path":"zene és irodalom.md","permalink":"/zene-es-irodalom/","dg-note-properties":{"permalink":"/zene-es-irodalom/"}}
 ---
+
 
 > - szabvál
 > - [[public/Kovács Zoltán\|Kovács Zoltán]] bölcsész

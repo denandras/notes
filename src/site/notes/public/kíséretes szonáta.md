@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"kíséretes szonáta.md","permalink":"/kiseretes-szonata/"}
+{"dg-publish":true,"dg-path":"kíséretes szonáta.md","permalink":"/kiseretes-szonata/","dg-note-properties":{"permalink":"/kiseretes-szonata/"}}
 ---
+
 
 - elterjedt
 	- Párizs: [[Guillemain\|Guillemain]], [[public/Schobert\|Schobert]], [[Eckard\|Eckard]]

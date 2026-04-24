@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/idezetek/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/idezetek/","dg-note-properties":{"permalink":"/public/idezetek/"}}
 ---
+
 
 
 ```dataview

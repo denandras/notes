@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"őskor.md","permalink":"/oskor/"}
+{"dg-publish":true,"dg-path":"őskor.md","permalink":"/oskor/","dg-note-properties":{"permalink":"/oskor/"}}
 ---
+
 
 - a legfontosabb szó a *valószínűsíthetően*
 	- sokminden mostanában derül ki

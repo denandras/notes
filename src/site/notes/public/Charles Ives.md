@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Ives.md","permalink":"/charles-ives/"}
+{"dg-publish":true,"dg-path":"Charles Ives.md","permalink":"/charles-ives/","dg-note-properties":{"permalink":"/charles-ives/"}}
 ---
+
 
 
 <mark>1874-1954</mark>

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/episztemikus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/episztemikus/","dg-note-properties":{"permalink":"/public/episztemikus/"}}
 ---
+
 
 
 Nyelvészeti kifejezés. Tudáson, ismereten alapuló.

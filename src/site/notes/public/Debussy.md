@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Debussy.md","permalink":"/debussy/"}
+{"dg-publish":true,"dg-path":"Debussy.md","permalink":"/debussy/","dg-note-properties":{"permalink":"/debussy/"}}
 ---
+
 
 - <mark>1862-1918</mark>
 - *Suite bergamasque* (1890 körül kezdte)
@@ -30,7 +31,7 @@
 			- [[Jules Massenet\|Jules Massenet]]
 			- [[Camille Saint-Saens\|Camille Saint-Saens]]
 				- első filmzene
-			- [[Gounod\|Gounod]]
+			- [[public/Gounod\|Gounod]]
 			- [[Vincent d'Indy\|Vincent d'Indy]] [Venszan Dendi]
 			- [[Paul Dukas\|Paul Dukas]] [Dükász?/Düká]
 				- görög ősök

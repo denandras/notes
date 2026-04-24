@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Lohengrin.md","permalink":"/lohengrin/"}
+{"dg-publish":true,"dg-path":"Lohengrin.md","permalink":"/lohengrin/","dg-note-properties":{"permalink":"/lohengrin/"}}
 ---
+
 
 [[public/Wagner\|Wagner]]
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Rilke.md","permalink":"/rilke/"}
+{"dg-publish":true,"dg-path":"Rilke.md","permalink":"/rilke/","dg-note-properties":{"permalink":"/rilke/"}}
 ---
+
 
 Rainer Maria Rilke
 - osztrák impresszionista költő

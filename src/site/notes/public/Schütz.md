@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Schütz.md","permalink":"/schuetz/"}
+{"dg-publish":true,"dg-path":"Schütz.md","permalink":"/schuetz/","dg-note-properties":{"permalink":"/schuetz/"}}
 ---
+
 
 Heinrich Schütz
 <mark>1585-1672</mark>

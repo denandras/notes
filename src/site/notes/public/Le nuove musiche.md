@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Le nuove musiche.md","permalink":"/le-nuove-musiche/"}
+{"dg-publish":true,"dg-path":"Le nuove musiche.md","permalink":"/le-nuove-musiche/","dg-note-properties":{"permalink":"/le-nuove-musiche/"}}
 ---
+
 
 - [[public/Giulio Caccini\|Giulio Caccini]] [[public/monódikus stílus\|monódikus stílus]]ú, népszerű gyűjteménye
 	- gyors információáramlás

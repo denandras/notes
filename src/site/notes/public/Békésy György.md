@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Békésy György.md","permalink":"/bekesy-gyoergy/"}
+{"dg-publish":true,"dg-path":"Békésy György.md","permalink":"/bekesy-gyoergy/","dg-note-properties":{"permalink":"/bekesy-gyoergy/"}}
 ---
+
 
 - Nobel-díj a halláskutatásért
 - alapkutatásba kezdett, mert nem hitt a halláselméletekben

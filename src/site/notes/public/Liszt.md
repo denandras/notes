@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Liszt.md","permalink":"/liszt/"}
+{"dg-publish":true,"dg-path":"Liszt.md","permalink":"/liszt/","dg-note-properties":{"permalink":"/liszt/"}}
 ---
+
 
 Liszt Ferenc
 <mark>1811-1886</mark>

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"John Field.md","permalink":"/john-field/"}
+{"dg-publish":true,"dg-path":"John Field.md","permalink":"/john-field/","dg-note-properties":{"permalink":"/john-field/"}}
 ---
+
 
 - ír virtuóz
 	- nemzetközi karrier

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"reneszánsz.md","permalink":"/reneszansz/"}
+{"dg-publish":true,"dg-path":"reneszánsz.md","permalink":"/reneszansz/","dg-note-properties":{"permalink":"/reneszansz/"}}
 ---
+
 
 ## A zenében
 

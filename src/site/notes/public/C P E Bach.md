@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"C P E Bach.md","permalink":"/c-p-e-bach/"}
+{"dg-publish":true,"dg-path":"C P E Bach.md","permalink":"/c-p-e-bach/","dg-note-properties":{"permalink":"/c-p-e-bach/"}}
 ---
+
 
 # Carl Philipp Emanuel Bach
 

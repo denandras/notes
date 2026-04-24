@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Schubert.md","permalink":"/schubert/"}
+{"dg-publish":true,"dg-path":"Schubert.md","permalink":"/schubert/","dg-note-properties":{"permalink":"/schubert/"}}
 ---
+
 
 Franz Schubert
 

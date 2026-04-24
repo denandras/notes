@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"sinfonia da chiesa.md","permalink":"/sinfonia-da-chiesa/"}
+{"dg-publish":true,"dg-path":"sinfonia da chiesa.md","permalink":"/sinfonia-da-chiesa/","dg-note-properties":{"permalink":"/sinfonia-da-chiesa/"}}
 ---
+
 
 - templomi szimfónia
 - lassú nyitótétel

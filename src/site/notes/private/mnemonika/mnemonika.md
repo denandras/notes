@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/mnemonika/mnemonika.md","permalink":"/egyeb/mnemonika/mnemonika/"}
+{"dg-publish":true,"dg-path":"egyéb/mnemonika/mnemonika.md","permalink":"/egyeb/mnemonika/mnemonika/","dg-note-properties":{"permalink":"/egyeb/mnemonika/mnemonika/"}}
 ---
+
 
 > Mnemotechnikán vagy mnemonikán az emlékezést segítő módszereket értünk. Az ezekhez használt kulcsszavakat, képeket memoriternek nevezzük.
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"szonátarondó.md","permalink":"/szonatarondo/"}
+{"dg-publish":true,"dg-path":"szonátarondó.md","permalink":"/szonatarondo/","dg-note-properties":{"permalink":"/szonatarondo/"}}
 ---
+
 
 Szonátarondó
 Szonáta és rondeau keveredése

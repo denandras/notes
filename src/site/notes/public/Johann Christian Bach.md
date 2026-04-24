@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Johann Christian Bach.md","permalink":"/johann-christian-bach/"}
+{"dg-publish":true,"dg-path":"Johann Christian Bach.md","permalink":"/johann-christian-bach/","dg-note-properties":{"permalink":"/johann-christian-bach/"}}
 ---
+
 
 > [[public/Bach\|Bach]] gyermeke, Lipcsében született, <mark>1735-1782</mark>
 

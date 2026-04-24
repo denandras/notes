@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"romantikus dal.md","permalink":"/romantikus-dal/"}
+{"dg-publish":true,"dg-path":"romantikus dal.md","permalink":"/romantikus-dal/","dg-note-properties":{"permalink":"/romantikus-dal/"}}
 ---
+
 
 [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
 

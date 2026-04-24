@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Berlioz.md","permalink":"/berlioz/"}
+{"dg-publish":true,"dg-path":"Berlioz.md","permalink":"/berlioz/","dg-note-properties":{"permalink":"/berlioz/"}}
 ---
+
 
 <mark>1803-1869</mark>
 

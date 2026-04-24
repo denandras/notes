@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Domenico Cimarosa.md","permalink":"/domenico-cimarosa/"}
+{"dg-publish":true,"dg-path":"Domenico Cimarosa.md","permalink":"/domenico-cimarosa/","dg-note-properties":{"permalink":"/domenico-cimarosa/"}}
 ---
+
 
 <mark>1749-1801</mark>
 

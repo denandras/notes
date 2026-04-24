@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"zenetöri 2 félév összefoglalás.md","permalink":"/zenetoeri-2-felev-oesszefoglalas/"}
+{"dg-publish":true,"dg-path":"zenetöri 2 félév összefoglalás.md","permalink":"/zenetoeri-2-felev-oesszefoglalas/","dg-note-properties":{"permalink":"/zenetoeri-2-felev-oesszefoglalas/"}}
 ---
+
 
 1.  **Barokk zene**
 	- szó

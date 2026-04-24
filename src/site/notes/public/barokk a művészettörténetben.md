@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"barokk a művészettörténetben.md","permalink":"/barokk-a-muveszettoertenetben/"}
+{"dg-publish":true,"dg-path":"barokk a művészettörténetben.md","permalink":"/barokk-a-muveszettoertenetben/","dg-note-properties":{"permalink":"/barokk-a-muveszettoertenetben/"}}
 ---
+
 
 - kifejezés: olasz/portugál
 	- szabálytalanság/szokatlanság

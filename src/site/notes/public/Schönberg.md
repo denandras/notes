@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Schönberg.md","permalink":"/schoenberg/"}
+{"dg-publish":true,"dg-path":"Schönberg.md","permalink":"/schoenberg/","dg-note-properties":{"permalink":"/schoenberg/"}}
 ---
+
 
 # Arnold Schönberg
 [[Schönberg.jpg\|Schönberg.jpg]]

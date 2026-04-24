@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Gluck - Orfeo.md","permalink":"/gluck-orfeo/"}
+{"dg-publish":true,"dg-path":"Gluck - Orfeo.md","permalink":"/gluck-orfeo/","dg-note-properties":{"permalink":"/gluck-orfeo/"}}
 ---
+
 
 [[public/Gluck\|Gluck]]
 [[public/Sturm und Drang\|Sturm und Drang]] előzménye

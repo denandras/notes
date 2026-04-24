@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"francia barokk.md","permalink":"/francia-barokk/"}
+{"dg-publish":true,"dg-path":"francia barokk.md","permalink":"/francia-barokk/","dg-note-properties":{"permalink":"/francia-barokk/"}}
 ---
+
 
 -   barokk zene a feledésbe merül
 -   `20.` század eleje, 2. vh után újrafelfedezés

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Rousseau.md","permalink":"/rousseau/"}
+{"dg-publish":true,"dg-path":"Rousseau.md","permalink":"/rousseau/","dg-note-properties":{"permalink":"/rousseau/"}}
 ---
+
 
 Jean-Jacques Rousseau
 

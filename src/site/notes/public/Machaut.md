@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Machaut.md","permalink":"/machaut/"}
+{"dg-publish":true,"dg-path":"Machaut.md","permalink":"/machaut/","dg-note-properties":{"permalink":"/machaut/"}}
 ---
+
 
 # Gillaume de Machaut
 

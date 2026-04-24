@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"zenetöri 2 félév syllabus.md","permalink":"/zenetoeri-2-felev-syllabus/"}
+{"dg-publish":true,"dg-path":"zenetöri 2 félév syllabus.md","permalink":"/zenetoeri-2-felev-syllabus/","dg-note-properties":{"permalink":"/zenetoeri-2-felev-syllabus/"}}
 ---
+
 
 1. BAROKK ZENE?
 A „barokk” kifejezés jelentése; a zenetörténeti korszak időbeli határai (a stílusváltozás 1600

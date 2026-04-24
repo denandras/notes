@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Az agy.md","permalink":"/az-agy/"}
+{"dg-publish":true,"dg-path":"Az agy.md","permalink":"/az-agy/","dg-note-properties":{"permalink":"/az-agy/"}}
 ---
+
 
 adalék:
 > Broca 1861-ben egy néma ember agytekervényeiben talált egy sérült

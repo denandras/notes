@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/private/irvin-d-yalom/","dg-note-properties":{"type":["személy"],"subject":null}}
+{"dg-publish":true,"permalink":"/private/irvin-d-yalom/","dg-note-properties":{"permalink":"/private/irvin-d-yalom/"}}
 ---
+
 
 - [[private/Irvin D Yalom - Úton önmagamhoz\|Irvin D Yalom - Úton önmagamhoz]]
 - [[private/Irvin D Yalom - Amikor Nietzsche sírt\|Irvin D Yalom - Amikor Nietzsche sírt]]

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Lully.md","permalink":"/lully/"}
+{"dg-publish":true,"dg-path":"Lully.md","permalink":"/lully/","dg-note-properties":{"permalink":"/lully/"}}
 ---
+
 
 Giovanni Battista Lully
 [[public/francia barokk\|francia barokk]] megteremtője, olasz táncos-énekes

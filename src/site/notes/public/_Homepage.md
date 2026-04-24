@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"_Homepage.md","permalink":"/homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"_Homepage.md","permalink":"/homepage/","tags":["gardenEntry"],"dg-note-properties":{"permalink":"/homepage/","tags":["gardenEntry"]}}
 ---
+
 
 Üdvözöllek a megújult honlapon!
 ## Ezen a Wikipedia-szerű oldalon megtalálható minden zeneakadémiai jegyzetem az alábbi témakörökben
@@ -12,7 +13,7 @@
 - [[public/magyar zenetöri\|magyar zenetöri]]
 - [[public/akusztika\|akusztika]]
 - [[public/művészettörténet\|művészettörténet]]
-- [[művészet menedzsment\|művészet menedzsment]]
+- [[public/művészet menedzsment\|művészet menedzsment]]
 
 ### Szabválok
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Moliere.md","permalink":"/moliere/"}
+{"dg-publish":true,"dg-path":"Moliere.md","permalink":"/moliere/","dg-note-properties":{"permalink":"/moliere/"}}
 ---
+
 
 # Moliere (Jean-Baptiste Poclain)
 

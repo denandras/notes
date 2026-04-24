@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"posztmodern filozófia.md","permalink":"/posztmodern-filozofia/"}
+{"dg-publish":true,"dg-path":"posztmodern filozófia.md","permalink":"/posztmodern-filozofia/","dg-note-properties":{"permalink":"/posztmodern-filozofia/"}}
 ---
+
 
 ### Posztmodern filozófia
 
@@ -20,7 +21,7 @@
 	- ha a tigrisek verődnek nyájjá, az is nyáj
 	- ismerte [[public/Wagner\|Wagner]]t
 - pszichoanalízis
-	- [[Sigmund Freud\|Sigmund Freud]]
+	- [[private/Sigmund Freud\|Sigmund Freud]]
 		- az emberi gondolkodás nem tudja kezelni magát a tudattalan jelenléte miatt
 		- nem az észhasználat a lényeges
 	- [[Jacques Lacan\|Jacques Lacan]]

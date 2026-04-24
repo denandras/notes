@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Johann Stamitz.md","permalink":"/johann-stamitz/"}
+{"dg-publish":true,"dg-path":"Johann Stamitz.md","permalink":"/johann-stamitz/","dg-note-properties":{"permalink":"/johann-stamitz/"}}
 ---
+
 
 Jan Stamic
 

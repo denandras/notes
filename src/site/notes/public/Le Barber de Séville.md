@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Le Barber de Séville.md","permalink":"/le-barber-de-seville/"}
+{"dg-publish":true,"dg-path":"Le Barber de Séville.md","permalink":"/le-barber-de-seville/","dg-note-properties":{"permalink":"/le-barber-de-seville/"}}
 ---
+
 
 [[public/Mozart\|Mozart]] - Sevillai borbély
 

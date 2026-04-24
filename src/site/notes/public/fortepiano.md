@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"fortepiano.md","permalink":"/fortepiano/"}
+{"dg-publish":true,"dg-path":"fortepiano.md","permalink":"/fortepiano/","dg-note-properties":{"permalink":"/fortepiano/"}}
 ---
+
 
 [[public/Cristofori\|Cristofori]]
 

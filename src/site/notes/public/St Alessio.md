@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"St Alessio.md","permalink":"/st-alessio/"}
+{"dg-publish":true,"dg-path":"St Alessio.md","permalink":"/st-alessio/","dg-note-properties":{"permalink":"/st-alessio/"}}
 ---
+
 
 Szent Elek
 

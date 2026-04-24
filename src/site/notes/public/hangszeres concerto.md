@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"hangszeres concerto.md","permalink":"/hangszeres-concerto/"}
+{"dg-publish":true,"dg-path":"hangszeres concerto.md","permalink":"/hangszeres-concerto/","dg-note-properties":{"permalink":"/hangszeres-concerto/"}}
 ---
+
 
 - mindenféle hangszeres darab
 - [[public/Schütz\|Schütz]]

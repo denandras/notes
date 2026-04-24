@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Baldassare Galuppi.md","permalink":"/baldassare-galuppi/"}
+{"dg-publish":true,"dg-path":"Baldassare Galuppi.md","permalink":"/baldassare-galuppi/","dg-note-properties":{"permalink":"/baldassare-galuppi/"}}
 ---
+
 
 <mark>1706-85</mark>
 

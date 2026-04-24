@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"acciaccatura.md","permalink":"/acciaccatura/"}
+{"dg-publish":true,"dg-path":"acciaccatura.md","permalink":"/acciaccatura/","dg-note-properties":{"permalink":"/acciaccatura/"}}
 ---
+
 
 > = szimultán mordent
 > = egy alsó szomszédos hangnak a **feloldással együtt** történő leütése

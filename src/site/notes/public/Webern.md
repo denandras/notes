@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Webern.md","permalink":"/webern/"}
+{"dg-publish":true,"dg-path":"Webern.md","permalink":"/webern/","dg-note-properties":{"permalink":"/webern/"}}
 ---
+
 
 - Dr Anton von Webern
 - 1883-1945

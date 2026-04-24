@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/private/kurt-vonnegut-idoomlas/","dg-note-properties":{"author":["[[Kurt Vonnegut]]"],"cover":"https://s01.static.libri.hu/cover/5d/e/7950635_4.jpg","isbn":9789632276762,"type":["könyv"],"pages":278,"rating":5,"status":["have read"]}}
+{"dg-publish":true,"permalink":"/private/kurt-vonnegut-idoomlas/","dg-note-properties":{"permalink":"/private/kurt-vonnegut-idoomlas/"}}
 ---
+
 
 ### Idegen szavak
 

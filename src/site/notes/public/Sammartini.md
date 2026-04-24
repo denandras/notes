@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Sammartini.md","permalink":"/sammartini/"}
+{"dg-publish":true,"dg-path":"Sammartini.md","permalink":"/sammartini/","dg-note-properties":{"permalink":"/sammartini/"}}
 ---
+
 
 Giovanni Battista Sammartini
 

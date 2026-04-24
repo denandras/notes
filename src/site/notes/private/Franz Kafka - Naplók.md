@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/private/franz-kafka-naplok/","dg-note-properties":{"author":["[[Franz Kafka]]"],"cover":"https://europakiado.hu/content/2018/6/Product/300/107193F.gif","isbn":9630786454,"type":["könyv"],"pages":800,"rating":4,"status":["have read"]}}
+{"dg-publish":true,"permalink":"/private/franz-kafka-naplok/","dg-note-properties":{"permalink":"/private/franz-kafka-naplok/"}}
 ---
+
 
 # Naplók
 ### Említések

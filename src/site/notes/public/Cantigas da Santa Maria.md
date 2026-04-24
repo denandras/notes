@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Cantigas da Santa Maria.md","permalink":"/cantigas-da-santa-maria/"}
+{"dg-publish":true,"dg-path":"Cantigas da Santa Maria.md","permalink":"/cantigas-da-santa-maria/","dg-note-properties":{"permalink":"/cantigas-da-santa-maria/"}}
 ---
+
 
 ## [link](http://www.cantigasdesantamaria.com)
 

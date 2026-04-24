@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Jean Coteau.md","permalink":"/jean-coteau/"}
+{"dg-publish":true,"dg-path":"Jean Coteau.md","permalink":"/jean-coteau/","dg-note-properties":{"permalink":"/jean-coteau/"}}
 ---
+
 
 - *Kakas és Paprikajancsi* #később 
 	- [[public/aforizma\|aforizma]]gyűjtemény

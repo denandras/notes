@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"akusztika.md","permalink":"/akusztika/"}
+{"dg-publish":true,"dg-path":"akusztika.md","permalink":"/akusztika/","dg-note-properties":{"permalink":"/akusztika/"}}
 ---
+
 
 #
 
@@ -34,7 +35,7 @@
 - [[public/Időérzékelés\|időérzékelés]]
 - [[public/hangterjedés\|hangterjedés]]
 
-### ([[public/Akusztika tételek\|Akusztika tételek]])
+### ([[public/akusztika tételek\|Akusztika tételek]])
 
 ### [[public/Akusztika fogalmak\|Akusztika fogalmak]]
 

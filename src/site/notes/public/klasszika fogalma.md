@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"klasszika fogalma.md","permalink":"/klasszika-fogalma/"}
+{"dg-publish":true,"dg-path":"klasszika fogalma.md","permalink":"/klasszika-fogalma/","dg-note-properties":{"permalink":"/klasszika-fogalma/"}}
 ---
+
 
 ![](https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg?mtime=1562681232)
 

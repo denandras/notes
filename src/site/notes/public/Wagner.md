@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Wagner.md","permalink":"/wagner/"}
+{"dg-publish":true,"dg-path":"Wagner.md","permalink":"/wagner/","dg-note-properties":{"permalink":"/wagner/"}}
 ---
+
 
 ![](https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2017/10/Richard-Wagner.jpg)
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"vonósnégyes.md","permalink":"/vonosnegyes/"}
+{"dg-publish":true,"dg-path":"vonósnégyes.md","permalink":"/vonosnegyes/","dg-note-properties":{"permalink":"/vonosnegyes/"}}
 ---
+
 
 - a klasszika legfontosabb kamarazenei műfaja
 	- kamara = szoba

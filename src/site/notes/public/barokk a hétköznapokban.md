@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"barokk a hétköznapokban.md","permalink":"/barokk-a-hetkoeznapokban/"}
+{"dg-publish":true,"dg-path":"barokk a hétköznapokban.md","permalink":"/barokk-a-hetkoeznapokban/","dg-note-properties":{"permalink":"/barokk-a-hetkoeznapokban/"}}
 ---
+
 
 - a barokk a zenében olyan, mint egy évben a nyár
 - burjánzó, túlzó, fülledt

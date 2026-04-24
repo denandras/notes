@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Időérzékelés.md","permalink":"/idoerzekeles/"}
+{"dg-publish":true,"dg-path":"Időérzékelés.md","permalink":"/idoerzekeles/","dg-note-properties":{"permalink":"/idoerzekeles/"}}
 ---
+
 
 - relatív
 - vannak olyan sejtjeing, amelyek ezt mérik

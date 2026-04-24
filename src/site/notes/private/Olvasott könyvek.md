@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Olvasott könyvek.md","permalink":"/egyeb/olvasott-koenyvek/"}
+{"dg-publish":true,"dg-path":"egyéb/Olvasott könyvek.md","permalink":"/egyeb/olvasott-koenyvek/","dg-note-properties":{"permalink":"/egyeb/olvasott-koenyvek/"}}
 ---
+
 
 | File                                                                            | Borító                                                         | Oldal | Értékelés |
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----- | --------- |

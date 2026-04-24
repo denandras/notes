@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Le nozze di Figaro.md","permalink":"/le-nozze-di-figaro/"}
+{"dg-publish":true,"dg-path":"Le nozze di Figaro.md","permalink":"/le-nozze-di-figaro/","dg-note-properties":{"permalink":"/le-nozze-di-figaro/"}}
 ---
+
 
 [[public/Mozart\|Mozart]]
 

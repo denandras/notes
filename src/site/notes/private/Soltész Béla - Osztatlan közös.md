@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/private/soltesz-bela-osztatlan-koezoes/","title":"Osztatlan közös","dg-note-properties":{"author":["[[Soltész Béla]]"],"cover":"https://book24.hu/content/2025/4/Product/4618269.jpg","isbn":9789636206086,"type":["könyv"],"pages":240,"rating":null,"status":["reading"],"title":"Osztatlan közös"}}
+{"dg-publish":true,"permalink":"/private/soltesz-bela-osztatlan-koezoes/","title":"Osztatlan közös","dg-note-properties":{"permalink":"/private/soltesz-bela-osztatlan-koezoes/","title":"Osztatlan közös"}}
 ---
+
 
 
 # Osztatlan közös

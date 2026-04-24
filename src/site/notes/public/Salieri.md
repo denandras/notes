@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Salieri.md","permalink":"/salieri/"}
+{"dg-publish":true,"dg-path":"Salieri.md","permalink":"/salieri/","dg-note-properties":{"permalink":"/salieri/"}}
 ---
+
 
 Antonio Salieri
 

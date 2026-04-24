@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"modern idők.md","permalink":"/modern-idok/"}
+{"dg-publish":true,"dg-path":"modern idők.md","permalink":"/modern-idok/","dg-note-properties":{"permalink":"/modern-idok/"}}
 ---
+
 
 - modernitás, modernizmus
 	- jól periodizálható?
@@ -13,7 +14,7 @@
 	- nincs egy fajta detektálható művészeti megközelítés
 	- párhuzamosan haladnak egymás mellett
 - ellentmondások ekkor is voltak, nem csak a [[public/posztmodern\|posztmodern]]ben
-- [[Van Gogh\|Van Gogh]]
+- [[private/Van Gogh\|Van Gogh]]
 - [[Cezanne\|Cezanne]]
 - [[public/Paul Gauguin\|Paul Gauguin]]
 - [[Henri de Toulouse-Latrec\|Henri de Toulouse-Latrec]]
@@ -71,7 +72,7 @@
 	- **[[Chaim Soutine\|Chaim Soutine]]**
 		- *Önarckép*
 		- *Kettéhasított marha*
-			- eml. [[Van Gogh\|Van Gogh]]
+			- eml. [[private/Van Gogh\|Van Gogh]]
 			- eml. [[Rembrant\|Rembrant]]
 	- [[Wassily Kandinsky\|Wassily Kandinsky]]
 - bauhaus (1919-33)
@@ -255,7 +256,7 @@
 	- [[Francis Bacon\|Francis Bacon]]
 		- [[Diego Velazquez\|Diego Velazquez]]-feldolgozás
 	- [[Lucien Freud\|Lucien Freud]]
-		- [[Sigmund Freud\|Sigmund Freud]] unokája
+		- [[private/Sigmund Freud\|Sigmund Freud]] unokája
 
 - [[Vajda Lajos\|Vajda Lajos]]
 - [[Bálint Endre\|Bálint Endre]]

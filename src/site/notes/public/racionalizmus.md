@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"racionalizmus.md","permalink":"/racionalizmus/"}
+{"dg-publish":true,"dg-path":"racionalizmus.md","permalink":"/racionalizmus/","dg-note-properties":{"permalink":"/racionalizmus/"}}
 ---
+
 
 - [[public/René Descartes\|René Descartes]]
 - [[Baruch Spinosa\|Baruch Spinosa]]
-- [[Gottfried Leibnitz\|Gottfried Leibnitz]]
+- [[private/Gottfried Leibnitz\|Gottfried Leibnitz]]
 
 - [[public/empirizmus\|empirizmus]]

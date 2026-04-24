@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Gluck.md","permalink":"/gluck/"}
+{"dg-publish":true,"dg-path":"Gluck.md","permalink":"/gluck/","dg-note-properties":{"permalink":"/gluck/"}}
 ---
+
 
 Christoph Willibald Gluck
 

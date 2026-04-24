@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"világi műfajok a 16. században.md","permalink":"/vilagi-mufajok-a-16-szazadban/"}
+{"dg-publish":true,"dg-path":"világi műfajok a 16. században.md","permalink":"/vilagi-mufajok-a-16-szazadban/","dg-note-properties":{"permalink":"/vilagi-mufajok-a-16-szazadban/"}}
 ---
+
 
 -   francia területeken lévő műfajok
 -   kottanyomtatás
     -   [[Petrucci\|Petrucci]] - igényes, de túl aprólékos
-    -   [[Attaignant\|Attaignant]]
+    -   [[public/Attaignant\|Attaignant]]
     -   szólamok külön füzetben
 -   **vokális kamarazenék, otthon**
     -   **[[párizsi chanzon\|párizsi chanzon]]**

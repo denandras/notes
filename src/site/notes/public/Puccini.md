@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Puccini.md","permalink":"/puccini/"}
+{"dg-publish":true,"dg-path":"Puccini.md","permalink":"/puccini/","dg-note-properties":{"permalink":"/puccini/"}}
 ---
+
 
 Giacomo Puccini
 

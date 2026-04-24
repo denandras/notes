@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"organum.md","permalink":"/organum/"}
+{"dg-publish":true,"dg-path":"organum.md","permalink":"/organum/","dg-note-properties":{"permalink":"/organum/"}}
 ---
+
 
 Az organum a többszólamú zenei kompozíciók összefoglaló neve a 9–12. században.
 

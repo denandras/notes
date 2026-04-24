@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Christopher H Gibbs - The life of Schubert.md","permalink":"/christopher-h-gibbs-the-life-of-schubert/"}
+{"dg-publish":true,"dg-path":"Christopher H Gibbs - The life of Schubert.md","permalink":"/christopher-h-gibbs-the-life-of-schubert/","dg-note-properties":{"permalink":"/christopher-h-gibbs-the-life-of-schubert/"}}
 ---
+
 
 ### 00. Schubert tegnap
 

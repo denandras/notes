@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"klasszicizmus.md","permalink":"/klasszicizmus/"}
+{"dg-publish":true,"dg-path":"klasszicizmus.md","permalink":"/klasszicizmus/","dg-note-properties":{"permalink":"/klasszicizmus/"}}
 ---
+
 
 - francia forradalom
 - abszolút monarchiák, kiegyezés, de a polgárság megerősödik

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"szecesszió.md","permalink":"/szecesszio/"}
+{"dg-publish":true,"dg-path":"szecesszió.md","permalink":"/szecesszio/","dg-note-properties":{"permalink":"/szecesszio/"}}
 ---
+
 
 - 19. század vége
 - fin de siécle
@@ -45,7 +46,7 @@
 - 1903: Wiener Werkstätte
 	- piacosítják a termékeket
 - festészet
-	- [[Gustav Klimt\|Gustav Klimt]]
+	- [[private/Gustav Klimt\|Gustav Klimt]]
 		- 3 megrendelt fakultásképből 2-t nem fogadtak el -> kivonulás
 		- *Judit és Holofernész*
 		- *[[public/Beethoven\|Beethoven]]-fríz*
@@ -55,7 +56,7 @@
 		- *Fasor a Schloss Kammer parkban*
 		- *[[Mada Gertrude Primavesi\|Mada Gertrude Primavesi]]*
 		- *Barátnők*
-	- [[Egon Schiele\|Egon Schiele]]
+	- [[private/Egon Schiele\|Egon Schiele]]
 		- fiatalon került be a művészi életbe (és halt is meg)
 		- sokan nem tudtak vele mit kezdeni
 		- szegénység, betegség, börtön, spanyolnátha
@@ -65,7 +66,7 @@
 		- *Bíboros és apáca*
 - grafika
 	- [[Koloman Moser\|Koloman Moser]]
-		- [[Egon Schiele\|Egon Schiele]] ellentettje
+		- [[private/Egon Schiele\|Egon Schiele]] ellentettje
 - építészet
 	- [[Otto Wagner\|Otto Wagner]]
 		- bécsi metrórendszer első vonalának állomásai
@@ -78,10 +79,10 @@
 		- karakteresen geometrikus vonal
 		- Stoclé palota
 			- "olyan házat akarok, amilyen senkinek nincs"
-			- [[Gustav Klimt\|Gustav Klimt]] kifestette az étkezőt
+			- [[private/Gustav Klimt\|Gustav Klimt]] kifestette az étkezőt
 		- 
 - pszichológia, pszichoanalízis
-	- [[Sigmund Freud\|Sigmund Freud]]
+	- [[private/Sigmund Freud\|Sigmund Freud]]
 	- szexualitásra visszavezetett problémák
 
 ### Csehország

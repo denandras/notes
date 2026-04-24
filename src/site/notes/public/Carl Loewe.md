@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Carl Loewe.md","permalink":"/carl-loewe/"}
+{"dg-publish":true,"dg-path":"Carl Loewe.md","permalink":"/carl-loewe/","dg-note-properties":{"permalink":"/carl-loewe/"}}
 ---
+
 
 
 <mark>1796-1868</mark>

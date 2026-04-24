@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Mahler.md","permalink":"/mahler/"}
+{"dg-publish":true,"dg-path":"Mahler.md","permalink":"/mahler/","dg-note-properties":{"permalink":"/mahler/"}}
 ---
+
 
 ![](https://images.universal-music.de/img/assets/278/278414/992/720/gustav-mahler-c-dg.jpg)
 

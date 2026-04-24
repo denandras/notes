@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Mendelssohn.md","permalink":"/mendelssohn/"}
+{"dg-publish":true,"dg-path":"Mendelssohn.md","permalink":"/mendelssohn/","dg-note-properties":{"permalink":"/mendelssohn/"}}
 ---
+
 
 Felix Mendelssohnn-Bartholdy
 

@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Oliver Burkeman - Az élet rövid.md","permalink":"/egyeb/oliver-burkeman-az-elet-roevid/","title":"Az élet rövid"}
+{"dg-publish":true,"dg-path":"egyéb/Oliver Burkeman - Az élet rövid.md","permalink":"/egyeb/oliver-burkeman-az-elet-roevid/","title":"Az élet rövid","dg-note-properties":{"permalink":"/egyeb/oliver-burkeman-az-elet-roevid/","title":"Az élet rövid"}}
 ---
+
 
 [[Oliver Burkeman\|Oliver Burkeman]] - 4000 Weeks
 ## Említések
 
 - [ ] [[Edward T Hall\|Edward T Hall]]
 - [ ] [[Malcolm Harris\|Malcolm Harris]]
-- [ ] [[Carl Jung\|Carl Jung]]
+- [ ] [[private/Carl Jung\|Carl Jung]]
 - [ ] [[Gary Eberle\|Gary Eberle]]
 - [ ] [[Mumford - Technics and Civilization\|Mumford - Technics and Civilization]]
 - [ ] [[Nietzsche\|Nietzsche]] 1887-es esszéje a multitasking egészségtelenségéről ([[Nietzsche - A vidám tudomány\|Nietzsche - A vidám tudomány]])
@@ -35,7 +36,7 @@
 - [ ] [[Mary Oliver\|Mary Oliver]] költő
 - [ ] [[Harry Frankfurt\|Harry Frankfurt]] filozófus
 - [ ] [[James Williams - Stand Out for Our Light\|James Williams - Stand Out for Our Light]]
-- [ ] [[T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
+- [ ] [[private/T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
 - [ ] [[Gregg Krech - The Art of taking Action\|Gregg Krech - The Art of taking Action]]
 - [ ] [[John Tarrant - You Don't Have to Know\|John Tarrant - You Don't Have to Know]]
 - [ ] [[David Cain - You Never Have Time, Only Intentions\|David Cain - You Never Have Time, Only Intentions]]
@@ -44,7 +45,7 @@
 - [ ] [[Alan Watts\|Alan Watts]] "spirituális humorista", [[New Age\|New Age]]-filozófus
 	- [ ] [[Alan Watts - From Time to Eternity\|Alan Watts - From Time to Eternity]]
 - [ ] [[Alexander Herzen\|Alexander Herzen]] filozófus
-- [ ] [[Sam Harris\|Sam Harris]] podcastja
+- [ ] [[private/Sam Harris\|Sam Harris]] podcastja
 - [ ] [[Robert Pirsing - A zen és a motorkerékpár-ápolás művészete\|Robert Pirsing - A zen és a motorkerékpár-ápolás művészete]]
 - [ ] [[Thich Nhat Hanh\|Thich Nhat Hanh]]
 	- [ ] [[Thich Nhat Hanh - The Miracle of Mindfulness\|Thich Nhat Hanh - The Miracle of Mindfulness]]
@@ -93,7 +94,7 @@
 - [ ] [[Cal Newport - Deep Work\|Cal Newport - Deep Work]]
 - [ ] [[John Acuff - Finish, Give Yourself the Gift of Done\|John Acuff - Finish, Give Yourself the Gift of Done]]
 - [ ] [[Nellie Bowles - Is the Answer to Phone Addiction a Worse Phone\|Nellie Bowles - Is the Answer to Phone Addiction a Worse Phone]]
-- [ ] [[William James - The Principle of Psychology\|William James - The Principle of Psychology]]
+- [ ] [[private/William James - The Principle of Psychology\|William James - The Principle of Psychology]]
 - [ ] [[Shizen Young - The Science of Enlightment\|Shizen Young - The Science of Enlightment]]
 - [ ] [[Susan Jeffers - Embracing Uncertainty\|Susan Jeffers - Embracing Uncertainty]]
 - [ ] [[Blaise Pascal - Gondolatok\|Blaise Pascal - Gondolatok]]
@@ -176,7 +177,7 @@
 - ellenállás a közepes prioritású ügyek csábításának
 	- nemcsak azokra kell tudni nemet mondani, amiket egyáltalán nem szeretnél megcsinálni, hanem azokra is, amiket **szeretnél, de nem elég fontosak**
 - az eredmény mindenképpen alulmúlja tökéletes elvárásainkat
-- [[Franz Kafka\|Franz Kafka]] szerelme, a valóság tökéletlensége
+- [[public/Franz Kafka\|Franz Kafka]] szerelme, a valóság tökéletlensége
 	- a döntés elkerülése
 - [[Henri Bergson - Idő és szabadság\|Henri Bergson - Idő és szabadság]]
 	- jobban szeretjük a reményt, mint a birtoklást
@@ -222,7 +223,7 @@
 > idézet:: csak a közösségi média van úgy kitalálva, hogy a megfelelő gombokat nyomogassa a lelkemben azért, hogy a figyelmemet továbbra is fenntartsa. Nem csoda hát, hogy a valóság többi része olykor képtelen versenyezni
 
 > idézet:: valami elterelte a figyelmünket arról, hogy valami elterelte a figyelmünket
-> [[T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
+> [[private/T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
 
 ### A belső megszakító
 
@@ -283,7 +284,7 @@
 
 - "a jó életminőség jót tesz a gazdaságnak" - miért nézzük az életet gazdasági szempontból?
 - a szabadidő is feladattá válik
-- [[Arisztotelész\|Arisztotelész]] szerint az önmagunkról való gondolkodád, a filozofikus elmélyülés a legnagyobb erény, mert önmagáért van (más tevékenységekkel ellentétben)
+- [[private/Arisztotelész\|Arisztotelész]] szerint az önmagunkról való gondolkodád, a filozofikus elmélyülés a legnagyobb erény, mert önmagáért van (más tevékenységekkel ellentétben)
 - az ünnep régen kötelező pihenés volt
 - ipari forradalom
 	- pihenés = erőforrás, instrumentalizálódik
@@ -393,7 +394,7 @@
 	- Min változtatnál, ha nem azt néznéd, lesz-e a cselekedeteidnek gyümölcse?
 		- Milyen tevékenységeket éreznél fontosnak, ha nem lenne az életedben belátható következménye tetteidnek?
 - a lemondást követően kihozhatod magadból a legtöbbet
-- *Szép csendben tedd csak a következő legszükségesebb dolgot. Ha úgy érzed, nem tudod, mi az, az azt jelenti, sok pénzed van, amit értelmetlen spekulációkra költhet.* ([[Carl Jung\|Carl Jung]])
+- *Szép csendben tedd csak a következő legszükségesebb dolgot. Ha úgy érzed, nem tudod, mi az, az azt jelenti, sok pénzed van, amit értelmetlen spekulációkra költhet.* ([[private/Carl Jung\|Carl Jung]])
 
 > idézet:: Azért nem tudunk az életünk pillanatai fölé kerekedni, mert mi magunk vagyunk azok a pillanatok.
 

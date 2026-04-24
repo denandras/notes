@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Paisiello.md","permalink":"/paisiello/"}
+{"dg-publish":true,"dg-path":"Paisiello.md","permalink":"/paisiello/","dg-note-properties":{"permalink":"/paisiello/"}}
 ---
+
 
 # Giovanni Paisiello
 

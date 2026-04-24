@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"opera a 18. század közepén.md","permalink":"/opera-a-18-szazad-koezepen/"}
+{"dg-publish":true,"dg-path":"opera a 18. század közepén.md","permalink":"/opera-a-18-szazad-koezepen/","dg-note-properties":{"permalink":"/opera-a-18-szazad-koezepen/"}}
 ---
+
 
 - [[public/opera buffa\|opera buffa]] vált jellemzővé
 - áriák mellett duettek és nagyobb énekes együttesek jelennek meg

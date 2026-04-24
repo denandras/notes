@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Stradivari.md","permalink":"/stradivari/"}
+{"dg-publish":true,"dg-path":"Stradivari.md","permalink":"/stradivari/","dg-note-properties":{"permalink":"/stradivari/"}}
 ---
+
 
 Antonio Stradivari
 

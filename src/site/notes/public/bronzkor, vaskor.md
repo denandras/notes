@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"bronzkor, vaskor.md","permalink":"/bronzkor-vaskor/"}
+{"dg-publish":true,"dg-path":"bronzkor, vaskor.md","permalink":"/bronzkor-vaskor/","dg-note-properties":{"permalink":"/bronzkor-vaskor/"}}
 ---
+
 
 > kompozit istenségek
 

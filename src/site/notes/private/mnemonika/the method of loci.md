@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/mnemonika/the method of loci.md","permalink":"/egyeb/mnemonika/the-method-of-loci/"}
+{"dg-publish":true,"dg-path":"egyéb/mnemonika/the method of loci.md","permalink":"/egyeb/mnemonika/the-method-of-loci/","dg-note-properties":{"permalink":"/egyeb/mnemonika/the-method-of-loci/"}}
 ---
+
 
 - [[Simonides of Ceos\|Simonides of Ceos]]
 - [[Cicero\|Cicero]]

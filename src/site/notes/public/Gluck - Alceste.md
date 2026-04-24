@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Gluck - Alceste.md","permalink":"/gluck-alceste/"}
+{"dg-publish":true,"dg-path":"Gluck - Alceste.md","permalink":"/gluck-alceste/","dg-note-properties":{"permalink":"/gluck-alceste/"}}
 ---
+
 
 [[public/Gluck\|Gluck]]: Alkésztisz
 - leszámol minden ferdeséggel, mely a szerzők hiúságából fakad, és lealacsonyítja a populáris cirádás zenét

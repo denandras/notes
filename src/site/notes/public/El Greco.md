@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"El Greco.md","permalink":"/el-greco/"}
+{"dg-publish":true,"dg-path":"El Greco.md","permalink":"/el-greco/","dg-note-properties":{"permalink":"/el-greco/"}}
 ---
+
 
 - nem az eredeti neve
 - krétai ikonfestő iskolában tanult

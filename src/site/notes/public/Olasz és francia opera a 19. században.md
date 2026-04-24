@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Olasz és francia opera a 19. században.md","permalink":"/olasz-es-francia-opera-a-19-szazadban/"}
+{"dg-publish":true,"dg-path":"Olasz és francia opera a 19. században.md","permalink":"/olasz-es-francia-opera-a-19-szazadban/","dg-note-properties":{"permalink":"/olasz-es-francia-opera-a-19-szazadban/"}}
 ---
+
 
 [[Julian Budden - Verdi\|Julian Budden - Verdi]]
 

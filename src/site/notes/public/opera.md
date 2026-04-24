@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"opera.md","permalink":"/opera/"}
+{"dg-publish":true,"dg-path":"opera.md","permalink":"/opera/","dg-note-properties":{"permalink":"/opera/"}}
 ---
+
 
 [[public/Humanizmus\|humanizmus]], [[public/semi-opera\|semi-opera]], [[public/opera buffa\|opera buffa]], [[public/opera seria\|opera seria]], udvari opera, velencei opera, [[public/monódikus stílus\|monódikus stílus]], [[public/Hyppolyte et Aricie\|Hyppolyte et Aricie]]
 __________________

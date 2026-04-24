@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"dalciklus.md","permalink":"/dalciklus/"}
+{"dg-publish":true,"dg-path":"dalciklus.md","permalink":"/dalciklus/","dg-note-properties":{"permalink":"/dalciklus/"}}
 ---
+
 
 - maguk a költemények ciklust alkotnak
 	- vagy a zeneszerző állítja össze

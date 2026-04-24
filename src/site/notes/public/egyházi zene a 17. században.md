@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"egyházi zene a 17. században.md","permalink":"/egyhazi-zene-a-17-szazadban/"}
+{"dg-publish":true,"dg-path":"egyházi zene a 17. században.md","permalink":"/egyhazi-zene-a-17-szazadban/","dg-note-properties":{"permalink":"/egyhazi-zene-a-17-szazadban/"}}
 ---
+
 
 -   [[public/opera\|opera]] és [[public/madrigál\|madrigál]] nyomtatva terjedt, de még mindig csak szűk körökben
 -   bárki által hallgatható: templomban

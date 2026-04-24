@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Idomeneo.md","permalink":"/idomeneo/"}
+{"dg-publish":true,"dg-path":"Idomeneo.md","permalink":"/idomeneo/","dg-note-properties":{"permalink":"/idomeneo/"}}
 ---
+
 
 [[public/Mozart\|Mozart]]
 

@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"Richard Strauss.md","permalink":"/richard-strauss/"}
+{"dg-publish":true,"dg-path":"Richard Strauss.md","permalink":"/richard-strauss/","dg-note-properties":{"permalink":"/richard-strauss/"}}
 ---
+
 
 <mark>1864-1949</mark>
 
 - szemben áll a normális világgal
 - szecesszió
 	- van-e a zenében?
-	- [[Gustav Klimt\|Gustav Klimt]] - Csók
+	- [[private/Gustav Klimt\|Gustav Klimt]] - Csók
 	- [[zak\|zak]] építészete és freskója az első emeleten
 	- Kecskemét
 	- Nagyvárad
@@ -83,7 +84,7 @@
 		- Heródes először vonakodik, de végül enged Salome kérésének, és megöleti János keresztelőt, aki fejét lefejezik
 		- az opera tragikus befejezéssel zárul, Salome János keresztelő fejéhez vonzódik, és azt csókolgatja, aminek következtében Heródes Antipás dühösen rendeli el Salome kivégzését
 			- szerelemben egyesülnek a halállal
-	- [[Oscar Wilde\|Oscar Wilde]] drámát írt belőle
+	- [[private/Oscar Wilde\|Oscar Wilde]] drámát írt belőle
 	- belső félelem kivetítése: nem szecesszió, hanem expresszionizmus
 		- milyen a Hold? Mindenkinek más
 	- abban a hitben él, hogy van egy zenei nyelv, amit használ, és a végleteit használja ki

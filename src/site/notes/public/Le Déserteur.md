@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Le Déserteur.md","permalink":"/le-deserteur/"}
+{"dg-publish":true,"dg-path":"Le Déserteur.md","permalink":"/le-deserteur/","dg-note-properties":{"permalink":"/le-deserteur/"}}
 ---
+
 
 [[public/Pierre-Alexandre Monsigny\|Pierre-Alexandre Monsigny]]
 

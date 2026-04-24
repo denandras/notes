@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Arcangelo Corelli.md","permalink":"/arcangelo-corelli/"}
+{"dg-publish":true,"dg-path":"Arcangelo Corelli.md","permalink":"/arcangelo-corelli/","dg-note-properties":{"permalink":"/arcangelo-corelli/"}}
 ---
+
 
 1653-1713
 

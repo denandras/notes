@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"gáláns stílus.md","permalink":"/galans-stilus/"}
+{"dg-publish":true,"dg-path":"gáláns stílus.md","permalink":"/galans-stilus/","dg-note-properties":{"permalink":"/galans-stilus/"}}
 ---
+
 
 <mark>~1720~1770</mark>
 = zenei rokokó

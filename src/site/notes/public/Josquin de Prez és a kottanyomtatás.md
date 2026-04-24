@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Josquin de Prez és a kottanyomtatás.md","permalink":"/josquin-de-prez-es-a-kottanyomtatas/"}
+{"dg-publish":true,"dg-path":"Josquin de Prez és a kottanyomtatás.md","permalink":"/josquin-de-prez-es-a-kottanyomtatas/","dg-note-properties":{"permalink":"/josquin-de-prez-es-a-kottanyomtatas/"}}
 ---
+
 
 
 -   Ki volt Josquin?
@@ -40,7 +41,7 @@
             -   150-200 hercegséghez elkerült, de szűk elit privilégiuma volt a kottavásárlás
         -   rányomtatta a vonalakat, majd kottát, szöveget, és egyebet
         -   néhány évvel későbbi kiadvány csak Josquin darabjait tartalmazza
--   **[[Attaignant\|Attaignant]]** új módszere
+-   **[[public/Attaignant\|Attaignant]]** új módszere
     -   betűfémhez hasonló "kottafém"
         -   nem annyira szép, mint [[Ottavio Petrucci\|Ottavio Petrucci]]é
     -   kapcsolat a betűkkel, ligatúra jelentése

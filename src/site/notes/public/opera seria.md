@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"opera seria.md","permalink":"/opera-seria/"}
+{"dg-publish":true,"dg-path":"opera seria.md","permalink":"/opera-seria/","dg-note-properties":{"permalink":"/opera-seria/"}}
 ---
+
 
 ### A barokkban
 

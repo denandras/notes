@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"szonátaforma.md","permalink":"/szonataforma/"}
+{"dg-publish":true,"dg-path":"szonátaforma.md","permalink":"/szonataforma/","dg-note-properties":{"permalink":"/szonataforma/"}}
 ---
+
 
 klasszikus szonáta
 - uralkodó a klasszikus zenében
