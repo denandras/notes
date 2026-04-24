@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"_Homepage.md","permalink":"/homepage/","tags":["gardenEntry"],"dg-note-properties":{"permalink":"/homepage/","tags":["gardenEntry"]}}
 ---
 
-
-Üdvözöllek a megújult honlapon!
 ## Ezen a Wikipedia-szerű oldalon megtalálható minden zeneakadémiai jegyzetem az alábbi témakörökben
 
 ### Kötelező tárgyak
