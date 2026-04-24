@@ -1,6 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/sophocles/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Sophocles.md","permalink":"/sophocles/"}
 ---
-
-
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/oliver-burkeman-az-elet-roevid/","dg-note-properties":{"author":["[[Oliver Burkeman\|Oliver Burkeman]]"],"permalink":"oliver-burkeman-az-elet-rovid","cover":"https://s01.static.libri.hu/cover/f1/4/8455928_4.jpg","isbn":9789633109724,"type":["könyv"],"pages":268,"rating":5,"status":["have read"]}}
+{"dg-publish":true,"dg-path":"egyéb/Oliver Burkeman - Az élet rövid.md","permalink":"/egyeb/oliver-burkeman-az-elet-roevid/","title":"Az élet rövid"}
 ---
 
 [[Oliver Burkeman\|Oliver Burkeman]] - 4000 Weeks
@@ -7,10 +7,10 @@
 
 - [ ] [[Edward T Hall\|Edward T Hall]]
 - [ ] [[Malcolm Harris\|Malcolm Harris]]
-- [ ] [[private/Carl Jung\|Carl Jung]]
+- [ ] [[Carl Jung\|Carl Jung]]
 - [ ] [[Gary Eberle\|Gary Eberle]]
 - [ ] [[Mumford - Technics and Civilization\|Mumford - Technics and Civilization]]
-- [ ] [[private/Friedrich Nietzsche\|Friedrich Nietzsche]] 1887-es esszéje a multitasking egészségtelenségéről ([[Nietzsche - A vidám tudomány\|Nietzsche - A vidám tudomány]])
+- [ ] [[Nietzsche\|Nietzsche]] 1887-es esszéje a multitasking egészségtelenségéről ([[Nietzsche - A vidám tudomány\|Nietzsche - A vidám tudomány]])
 - [ ] [[Brian Tracy - Tartsd kézben az időt, tartsd kézben az életedet\|Brian Tracy - Tartsd kézben az időt, tartsd kézben az életedet]]
 - [ ] [[Beuce Tift - Already Free\|Beuce Tift - Already Free]] pszichiáter
 - [ ] [[Morten Svenstrup - Towards a New Time Culture\|Morten Svenstrup - Towards a New Time Culture]]
@@ -30,13 +30,12 @@
 - [ ] [[Costica Bradatan - Why Do Anything\|Costica Bradatan - Why Do Anything]] NY Times, 2016
 - [ ] [[Henri Bergson - Idő és szabadság\|Henri Bergson - Idő és szabadság]]
 - [ ] [[Robert Goodin - On Settling\|Robert Goodin - On Settling]]
-- [[private/Viktor Frankl\|Viktor Frankl]]
-	- [ ] [[Viktor Frankl - Az élet értelméről\|Viktor Frankl - Az élet értelméről]]
+- [ ] [[Viktor Frankl - Az élet értelméről\|Viktor Frankl - Az élet értelméről]]
 - [ ] [[Seneca - Az élet rövidségéről\|Seneca - Az élet rövidségéről]]
 - [ ] [[Mary Oliver\|Mary Oliver]] költő
 - [ ] [[Harry Frankfurt\|Harry Frankfurt]] filozófus
 - [ ] [[James Williams - Stand Out for Our Light\|James Williams - Stand Out for Our Light]]
-- [ ] [[private/T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
+- [ ] [[T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
 - [ ] [[Gregg Krech - The Art of taking Action\|Gregg Krech - The Art of taking Action]]
 - [ ] [[John Tarrant - You Don't Have to Know\|John Tarrant - You Don't Have to Know]]
 - [ ] [[David Cain - You Never Have Time, Only Intentions\|David Cain - You Never Have Time, Only Intentions]]
@@ -45,7 +44,7 @@
 - [ ] [[Alan Watts\|Alan Watts]] "spirituális humorista", [[New Age\|New Age]]-filozófus
 	- [ ] [[Alan Watts - From Time to Eternity\|Alan Watts - From Time to Eternity]]
 - [ ] [[Alexander Herzen\|Alexander Herzen]] filozófus
-- [ ] [[private/Sam Harris\|Sam Harris]] podcastja
+- [ ] [[Sam Harris\|Sam Harris]] podcastja
 - [ ] [[Robert Pirsing - A zen és a motorkerékpár-ápolás művészete\|Robert Pirsing - A zen és a motorkerékpár-ápolás művészete]]
 - [ ] [[Thich Nhat Hanh\|Thich Nhat Hanh]]
 	- [ ] [[Thich Nhat Hanh - The Miracle of Mindfulness\|Thich Nhat Hanh - The Miracle of Mindfulness]]
@@ -94,7 +93,7 @@
 - [ ] [[Cal Newport - Deep Work\|Cal Newport - Deep Work]]
 - [ ] [[John Acuff - Finish, Give Yourself the Gift of Done\|John Acuff - Finish, Give Yourself the Gift of Done]]
 - [ ] [[Nellie Bowles - Is the Answer to Phone Addiction a Worse Phone\|Nellie Bowles - Is the Answer to Phone Addiction a Worse Phone]]
-- [ ] [[private/William James - The Principle of Psychology\|William James - The Principle of Psychology]]
+- [ ] [[William James - The Principle of Psychology\|William James - The Principle of Psychology]]
 - [ ] [[Shizen Young - The Science of Enlightment\|Shizen Young - The Science of Enlightment]]
 - [ ] [[Susan Jeffers - Embracing Uncertainty\|Susan Jeffers - Embracing Uncertainty]]
 - [ ] [[Blaise Pascal - Gondolatok\|Blaise Pascal - Gondolatok]]
@@ -177,7 +176,7 @@
 - ellenállás a közepes prioritású ügyek csábításának
 	- nemcsak azokra kell tudni nemet mondani, amiket egyáltalán nem szeretnél megcsinálni, hanem azokra is, amiket **szeretnél, de nem elég fontosak**
 - az eredmény mindenképpen alulmúlja tökéletes elvárásainkat
-- [[public/Franz Kafka\|Franz Kafka]] szerelme, a valóság tökéletlensége
+- [[Franz Kafka\|Franz Kafka]] szerelme, a valóság tökéletlensége
 	- a döntés elkerülése
 - [[Henri Bergson - Idő és szabadság\|Henri Bergson - Idő és szabadság]]
 	- jobban szeretjük a reményt, mint a birtoklást
@@ -223,7 +222,7 @@
 > idézet:: csak a közösségi média van úgy kitalálva, hogy a megfelelő gombokat nyomogassa a lelkemben azért, hogy a figyelmemet továbbra is fenntartsa. Nem csoda hát, hogy a valóság többi része olykor képtelen versenyezni
 
 > idézet:: valami elterelte a figyelmünket arról, hogy valami elterelte a figyelmünket
-> [[private/T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
+> [[T S Eliot - Burnt Norton in Four Quartets\|T S Eliot - Burnt Norton in Four Quartets]]
 
 ### A belső megszakító
 
@@ -284,7 +283,7 @@
 
 - "a jó életminőség jót tesz a gazdaságnak" - miért nézzük az életet gazdasági szempontból?
 - a szabadidő is feladattá válik
-- [[private/Arisztotelész\|Arisztotelész]] szerint az önmagunkról való gondolkodád, a filozofikus elmélyülés a legnagyobb erény, mert önmagáért van (más tevékenységekkel ellentétben)
+- [[Arisztotelész\|Arisztotelész]] szerint az önmagunkról való gondolkodád, a filozofikus elmélyülés a legnagyobb erény, mert önmagáért van (más tevékenységekkel ellentétben)
 - az ünnep régen kötelező pihenés volt
 - ipari forradalom
 	- pihenés = erőforrás, instrumentalizálódik
@@ -394,7 +393,7 @@
 	- Min változtatnál, ha nem azt néznéd, lesz-e a cselekedeteidnek gyümölcse?
 		- Milyen tevékenységeket éreznél fontosnak, ha nem lenne az életedben belátható következménye tetteidnek?
 - a lemondást követően kihozhatod magadból a legtöbbet
-- *Szép csendben tedd csak a következő legszükségesebb dolgot. Ha úgy érzed, nem tudod, mi az, az azt jelenti, sok pénzed van, amit értelmetlen spekulációkra költhet.* ([[private/Carl Jung\|Carl Jung]])
+- *Szép csendben tedd csak a következő legszükségesebb dolgot. Ha úgy érzed, nem tudod, mi az, az azt jelenti, sok pénzed van, amit értelmetlen spekulációkra költhet.* ([[Carl Jung\|Carl Jung]])
 
 > idézet:: Azért nem tudunk az életünk pillanatai fölé kerekedni, mert mi magunk vagyunk azok a pillanatok.
 

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/jean-racine/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Jean Racine.md","permalink":"/jean-racine/"}
 ---
-
 
 [[public/Moliere\|Moliere]] kortársa, drámaíró

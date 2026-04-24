@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/paul-sacher/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Paul Sacher.md","permalink":"/paul-sacher/"}
 ---
-
 
 svájci karmester/kortárszenei impresszárió

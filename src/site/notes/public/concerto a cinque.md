@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/concerto-a-cinque/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"concerto a cinque.md","permalink":"/concerto-a-cinque/"}
 ---
 
-
 [[public/hangszeres concerto\|hangszeres concerto]]
+

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/antoine-dauvergne/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Antoine Dauvergne.md","permalink":"/antoine-dauvergne/"}
 ---
 
-
-#üres 
+## [Wiki](https://www.wikiwand.com/en/Antoine_Dauvergne)

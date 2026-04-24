@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/karl-emil-franzos/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Karl Emil Franzos.md","permalink":"/karl-emil-franzos/"}
 ---
 
-
-
+## [wiki](https://www.wikiwand.com/en/Karl_Emil_Franzos)

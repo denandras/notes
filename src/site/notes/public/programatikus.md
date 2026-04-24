@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/public/programatikus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"programatikus.md","permalink":"/programatikus/"}
 ---
 
-
 = programszerű
+
+-   programadó, programot kifejtő
+-   program szerinti

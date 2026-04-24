@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/haut-contre/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"haut-contre.md","permalink":"/haut-contre/"}
 ---
-
 
 magas tenor

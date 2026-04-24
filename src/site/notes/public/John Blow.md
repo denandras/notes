@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/john-blow/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"John Blow.md","permalink":"/john-blow/"}
 ---
 
-
-
+## [Wiki](https://www.wikiwand.com/hu/John_Blow)

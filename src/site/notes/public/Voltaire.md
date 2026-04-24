@@ -1,6 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/voltaire/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Voltaire.md","permalink":"/voltaire/"}
 ---
 
-
-#üres 

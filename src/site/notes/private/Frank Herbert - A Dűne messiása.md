@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/private/frank-herbert-a-dune-messiasa/","dg-note-properties":{"author":["[[Gáspár András]]","[[Frank Herbert]]"],"cover":"https://moly.hu/system/covers/big/covers_592985.jpg","isbn":9789635666089,"category":"regény","type":["könyv"],"pages":344,"rating":5,"status":["have read"]}}
+{"dg-publish":true,"dg-path":"egyéb/Frank Herbert - A Dűne messiása.md","permalink":"/egyeb/frank-herbert-a-dune-messiasa/","title":"A Dűne messiása"}
 ---
 
-# [[private/Frank Herbert - Dűne\|Dűne]] (1) | [[private/Frank Herbert - A Dűne gyermekei\|A Dűne gyermekei]] (3)
+# [[private/Frank Herbert - Dűne\|<-]] [[private/Frank Herbert - A Dűne gyermekei\|->]]
 # A Dűne messiása (2)
 
 ### Idegen szavak
 
-idegenszo:: [[public/atavizmus\|atavizmus]]
-idegenszo:: [[public/apologéta\|apologéta]]
+- [[public/atavizmus\|atavizmus]]
+- apologéta
 ### Dalok
 
 - 60
@@ -22,8 +22,6 @@ idegenszo:: [[public/apologéta\|apologéta]]
 - következetes de kiszámíthatatlan sztori
 - nem cliché a vége, szép, de nem giccses
 ### Idézetek
-
-> idézet:: De hogy rendezel bármit anélkül, hogy magadat rendbe tennéd? (169)
 
 > idézet:: Minden látomás az úton lévő embereké, azoké, akik később érik el céljukat. A látomás alatt az embernek át kell haladni a sötétségen, ahol nem lehet megkülönböztetni a valóságot az anyagtalan véletlenektől. Az ember a soha el nem érhető teljességre vágyik. Vágyakozás közben azonban elveszítjük a jelent. (219)
 

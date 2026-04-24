@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szillogizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"szillogizmus.md","permalink":"/szillogizmus/"}
 ---
-
 
 Két állítás után egy logikailag egyértelmű harmadik állítás

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/alfred-musset/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Alfred Musset.md","permalink":"/alfred-musset/"}
 ---
 
-
-#üres
+## [Wiki](https://www.wikiwand.com/hu/Alfred_de_Musset)

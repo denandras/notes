@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/leopold-mozart/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Leopold Mozart.md","permalink":"/leopold-mozart/"}
 ---
-
 
 [[public/Mozart\|Mozart]] édesapja

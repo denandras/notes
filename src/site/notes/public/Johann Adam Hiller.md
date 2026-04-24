@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/johann-adam-hiller/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Johann Adam Hiller.md","permalink":"/johann-adam-hiller/"}
 ---
-
 
 legfontosabb [[public/Singspiel\|Singspiel]] szerző

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/kovacs-zoltan/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Kovács Zoltán.md","permalink":"/kovacs-zoltan/"}
 ---
-
 
 bölcsész

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/don-giovanni/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Don Giovanni.md","permalink":"/don-giovanni/"}
 ---
-
 
 [[public/Mozart\|Mozart]]

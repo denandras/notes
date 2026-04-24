@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/vincenzo-galilei/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Vincenzo Galilei.md","permalink":"/vincenzo-galilei/"}
 ---
-
 
 [[public/Galileo Galilei\|Galileo Galilei]] apja

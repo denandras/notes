@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/alberti-basszus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Alberti-basszus.md","permalink":"/alberti-basszus/"}
 ---
-
 
 - akkordfelbontás, elmossa a szólamok kontrapunktikus önállóságát

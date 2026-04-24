@@ -1,6 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/xiv-lajos/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"XIV. Lajos.md","permalink":"/xiv-lajos/"}
 ---
-
-
 

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/eduard-hanslick/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Eduard Hanslick.md","permalink":"/eduard-hanslick/"}
 ---
-
 
 zenei kritikus, esztéta, a zene gyakorlatából indult ki

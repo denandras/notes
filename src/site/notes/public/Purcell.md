@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/purcell/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Purcell.md","permalink":"/purcell/"}
 ---
-
 
 Henry Purcell

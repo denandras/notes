@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/matepassio/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Mátépassió.md","permalink":"/matepassio/"}
 ---
-
 
 [[public/Bach\|Bach]]

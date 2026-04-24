@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/aforizma/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"aforizma.md","permalink":"/aforizma/"}
 ---
-
 
 tömören és szellemesen megfogalmazott igazság, bölcs és magvas mondás

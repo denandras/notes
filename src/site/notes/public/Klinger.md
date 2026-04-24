@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/klinger/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Klinger.md","permalink":"/klinger/"}
 ---
-
 
 Friedrich Maximilian Klinger

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/lasso/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Lasso.md","permalink":"/lasso/"}
 ---
-
 
 Orlando di Lasso, Lassus

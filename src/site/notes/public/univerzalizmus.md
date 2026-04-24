@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/univerzalizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"univerzalizmus.md","permalink":"/univerzalizmus/"}
 ---
-
 
 ha valaki máshogy gondolja, az helytelen

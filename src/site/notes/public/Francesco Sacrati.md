@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/francesco-sacrati/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Francesco Sacrati.md","permalink":"/francesco-sacrati/"}
 ---
 
-
 - a velencei operajátszás fiatal úttörője
+- 17. századi születésű

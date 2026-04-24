@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/antonio-vivaldi/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"Antonio Vivaldi.md","permalink":"/antonio-vivaldi/"}
 ---
 
-
 <mark>1768-1741</mark>
+
+## [Wiki](https://www.wikiwand.com/hu/Antonio_Vivaldi)

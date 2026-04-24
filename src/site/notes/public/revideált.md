@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/revidealt/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"revideált.md","permalink":"/revidealt/"}
 ---
-
 
 = újraellenőrzött

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/zarzuela/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"zarzuela.md","permalink":"/zarzuela/"}
 ---
-
 
 spanyol barokk műfaj
