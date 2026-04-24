@@ -21,4 +21,4 @@
 
 > Ebben a tudástárban találhatók üres oldalak, amik a kapcsolódások miatt fontosak.
 
-> Ha elírást találtál vagy más jegyzettel egészítenéd ki az oldalt, [írj egy emailt](mailto:contact@andrasdenes.com)!
+> Ha elírást találtál, vagy más jegyzettel egészítenéd ki az oldalt, [írj egy emailt](mailto:contact@andrasdenes.com)!
