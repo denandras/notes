@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"szimfónia.md","permalink":"/szimfonia/","dg-note-properties":{"permalink":"/szimfonia/"}}
+{"dg-publish":true,"permalink":"/public/szimfonia/","dg-note-properties":{"subject":["zenetöri"],"type":["műfaj"]}}
 ---
-
 
 ### Eredete
 
@@ -20,7 +19,8 @@
 	- [[public/menüett\|menüett]]/[[public/scherzo\|scherzo]]
 	- gyors, [[public/szonátaforma\|szonátaforma]]
 - sinfonia da chiesa 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sinfonia-da-chiesa/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/public/sinfonia-da-chiesa/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -39,7 +39,8 @@
 - első nagy mestere [[public/Haydn\|Haydn]] [->](Haydn#^szimfoniai)
 	- (Haydn Il distrattoja kísérőzene volt, tételek között játszották)
 - Sammartini 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sammartini/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/public/sammartini/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -57,7 +58,7 @@ Giovanni Battista Sammartini
 </div></div>
 
 - Johann Stamitz 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/johann-stamitz/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/public/johann-stamitz/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -72,6 +73,3 @@ Jan Stamic
 </div></div>
 
 - [[public/Mozart\|Mozart]] szimfóniái
-
----
-[^]: [[5. A szimfónia a 18. században.pdf\|5. A szimfónia a 18. században.pdf]]

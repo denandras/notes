@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Varázsfuvola.md","permalink":"/varazsfuvola/","dg-note-properties":{"permalink":"/varazsfuvola/"}}
+{"dg-publish":true,"permalink":"/public/varazsfuvola/","dg-note-properties":{"subject":["zenetöri"],"type":["mű"]}}
 ---
-
 
 [[public/Mozart\|Mozart]]
 

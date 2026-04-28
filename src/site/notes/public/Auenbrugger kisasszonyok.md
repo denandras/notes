@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Auenbrugger kisasszonyok.md","permalink":"/auenbrugger-kisasszonyok/","dg-note-properties":{"permalink":"/auenbrugger-kisasszonyok/"}}
+{"dg-publish":true,"permalink":"/public/auenbrugger-kisasszonyok/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 [[Marianne von Auenbrugger\|Marianne von Auenbrugger]] & [[Caterina Franziska\|Caterina Franziska]]
 

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Esterházy.md","permalink":"/esterhazy/","dg-note-properties":{"permalink":"/esterhazy/"}}
+{"dg-publish":true,"permalink":"/public/esterhazy/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 Esterházy család

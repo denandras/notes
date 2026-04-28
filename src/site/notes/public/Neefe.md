@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Neefe.md","permalink":"/neefe/","dg-note-properties":{"permalink":"/neefe/"}}
+{"dg-publish":true,"permalink":"/public/neefe/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 # Christian Gottlob Neefe
 

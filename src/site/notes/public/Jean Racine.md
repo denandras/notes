@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Jean Racine.md","permalink":"/jean-racine/","dg-note-properties":{"permalink":"/jean-racine/"}}
+{"dg-publish":true,"permalink":"/public/jean-racine/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 [[public/Moliere\|Moliere]] kortársa, drámaíró

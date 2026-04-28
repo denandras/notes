@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":"Perotinus.md","permalink":"/perotinus/","dg-note-properties":{"permalink":"/perotinus/"}}
+{"dg-publish":true,"permalink":"/public/perotinus/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 

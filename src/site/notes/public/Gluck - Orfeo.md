@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Gluck - Orfeo.md","permalink":"/gluck-orfeo/","dg-note-properties":{"permalink":"/gluck-orfeo/"}}
+{"dg-publish":true,"permalink":"/public/gluck-orfeo/","dg-note-properties":{"subject":["zenetöri"],"type":["mű"]}}
 ---
-
 
 [[public/Gluck\|Gluck]]
 [[public/Sturm und Drang\|Sturm und Drang]] előzménye

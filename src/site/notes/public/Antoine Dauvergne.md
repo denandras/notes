@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Antoine Dauvergne.md","permalink":"/antoine-dauvergne/","dg-note-properties":{"permalink":"/antoine-dauvergne/"}}
+{"dg-publish":true,"permalink":"/public/antoine-dauvergne/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
 
-
 ## [Wiki](https://www.wikiwand.com/en/Antoine_Dauvergne)
+
+#üres 

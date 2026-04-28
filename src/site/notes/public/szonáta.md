@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"szonáta.md","permalink":"/szonata/","dg-note-properties":{"permalink":"/szonata/"}}
+{"dg-publish":true,"permalink":"/public/szonata/","dg-note-properties":{"subject":["zenetöri"],"type":["műfaj"]}}
 ---
-
 
 `16. sz-ban` az addig csak énekelt canzonekat hangszerrel is előadták -> canson da sonar
 

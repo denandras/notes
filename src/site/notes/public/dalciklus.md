@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"dalciklus.md","permalink":"/dalciklus/","dg-note-properties":{"permalink":"/dalciklus/"}}
+{"dg-publish":true,"permalink":"/public/dalciklus/","dg-note-properties":{"subject":["zenetöri"],"type":["műfaj"]}}
 ---
-
 
 - maguk a költemények ciklust alkotnak
 	- vagy a zeneszerző állítja össze
@@ -17,6 +16,3 @@
 - [[public/Schumann#Dalciklusai - 1840 (a dalok éve)\|Schumann]] [dalciklusai](Schumann)
 - [[public/Brahms\|Brahms]] dalciklusai
 - [[public/Hugo Wolf\|Hugo Wolf]]
-
----
-[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf\|Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Don Carlos.md","permalink":"/don-carlos/","dg-note-properties":{"permalink":"/don-carlos/"}}
+{"dg-publish":true,"permalink":"/public/don-carlos/","dg-note-properties":{"subject":["zenetöri"],"type":["mű"]}}
 ---
-
 
 [[public/Verdi\|Verdi]], **[[public/Giacomo Meyerbeer\|Giacomo Meyerbeer]]**
 

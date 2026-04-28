@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/szindikalizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/private/izmusok/szindikalizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"szindikalizmus"}}
 ---
 
 

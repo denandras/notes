@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Rilke.md","permalink":"/rilke/","dg-note-properties":{"permalink":"/rilke/"}}
+{"dg-publish":true,"permalink":"/public/rilke/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 Rainer Maria Rilke
 - osztrák impresszionista költő

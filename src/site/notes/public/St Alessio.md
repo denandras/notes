@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"St Alessio.md","permalink":"/st-alessio/","dg-note-properties":{"permalink":"/st-alessio/"}}
+{"dg-publish":true,"permalink":"/public/st-alessio/","dg-note-properties":{"subject":["zenetöri"],"type":["mű"]}}
 ---
-
 
 Szent Elek
 

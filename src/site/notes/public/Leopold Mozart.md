@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Leopold Mozart.md","permalink":"/leopold-mozart/","dg-note-properties":{"permalink":"/leopold-mozart/"}}
+{"dg-publish":true,"permalink":"/public/leopold-mozart/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 [[public/Mozart\|Mozart]] édesapja

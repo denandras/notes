@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Cristofori.md","permalink":"/cristofori/","dg-note-properties":{"permalink":"/cristofori/"}}
+{"dg-publish":true,"permalink":"/public/cristofori/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 Bartolomeo Cristofori
 [[public/fortepiano\|fortepiano]] készítője

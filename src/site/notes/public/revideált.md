@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"revideált.md","permalink":"/revidealt/","dg-note-properties":{"permalink":"/revidealt/"}}
+{"dg-publish":true,"permalink":"/public/revidealt/","dg-note-properties":{"subject":["zenetöri"],"type":["fogalom"]}}
 ---
-
 
 = újraellenőrzött

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"sonata da camera.md","permalink":"/sonata-da-camera/","dg-note-properties":{"permalink":"/sonata-da-camera/"}}
+{"dg-publish":true,"permalink":"/public/sonata-da-camera/","dg-note-properties":{"subject":["zenetöri"],"type":["műfaj"]}}
 ---
-
 
 szobai [[public/szonáta\|szonáta]] (tánc)

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Zemlinsky.md","permalink":"/zemlinsky/","dg-note-properties":{"permalink":"/zemlinsky/"}}
+{"dg-publish":true,"permalink":"/public/zemlinsky/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 Szeretője [[public/Alma Schindler\|Alma Schindler]]

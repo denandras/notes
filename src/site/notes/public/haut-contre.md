@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"haut-contre.md","permalink":"/haut-contre/","dg-note-properties":{"permalink":"/haut-contre/"}}
+{"dg-publish":true,"permalink":"/public/haut-contre/","dg-note-properties":{"subject":["zenetöri"],"type":["fogalom"]}}
 ---
-
 
 magas tenor

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"René Descartes.md","permalink":"/rene-descartes/","dg-note-properties":{"permalink":"/rene-descartes/"}}
+{"dg-publish":true,"permalink":"/public/rene-descartes/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 [[public/racionalizmus\|racionalizmus]]
 

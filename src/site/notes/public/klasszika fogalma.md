@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"klasszika fogalma.md","permalink":"/klasszika-fogalma/","dg-note-properties":{"permalink":"/klasszika-fogalma/"}}
+{"dg-publish":true,"permalink":"/public/klasszika-fogalma/","dg-note-properties":{"subject":["zenetöri"],"type":["korszak"]}}
 ---
-
 
 ![](https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg?mtime=1562681232)
 
@@ -57,5 +56,4 @@ egyszerűsége -><- barokk polifónia
 - nagy karmester-egyéniségek: [[public/Gossec\|Gossec]], [[public/Sammartini\|Sammartini]], [[Jommelli\|Jommelli]], [[public/Johann Stamitz\|Johann Stamitz]], [[public/Gluck\|Gluck]], [[public/Haydn\|Haydn]]
 
 ---
-[^1]: [[public/Dent - Italian Opera in the 18th Century\|Dent - Italian Opera in the 18th Century]], [[public/Fischer - a klasszikáról\|Fischer - a klasszikáról]], [[Adler - a bécsi klasszikus iskola\|Adler - a bécsi klasszikus iskola]], [[Charles Rosen - A klasszikus stílus\|Charles Rosen - A klasszikus stílus]],[[public/Jones - Music in Vienna\|Jones - Music in Vienna]], [[public/James Webster - 19th Century Music\|James Webster - 19th Century Music]], [[public/Komlós - Fortepianók és zenéjük\|Komlós - Fortepianók és zenéjük]]
-[^]: [[1. A „bécsi klasszika” fogalma és a 18. századi zenetörténet periodizálásának problémái.pdf\|1. A „bécsi klasszika” fogalma és a 18. századi zenetörténet periodizálásának problémái.pdf]]
+[^1]: [[public/Dent - Italian Opera in the 18th Century\|Dent - Italian Opera in the 18th Century]], [[public/Fischer - a klasszikáról\|Fischer - a klasszikáról]], [[Adler - a bécsi klasszikus iskola\|Adler - a bécsi klasszikus iskola]], [[Charles Rosen - A klasszikus stílus\|Charles Rosen - A klasszikus stílus]], [[public/Jones - Music in Vienna\|Jones - Music in Vienna]], [[public/James Webster - 19th Century Music\|James Webster - 19th Century Music]], [[public/Komlós - Fortepianók és zenéjük\|Komlós - Fortepianók és zenéjük]]

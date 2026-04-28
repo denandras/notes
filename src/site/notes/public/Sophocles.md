@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":"Sophocles.md","permalink":"/sophocles/","dg-note-properties":{"permalink":"/sophocles/"}}
+{"dg-publish":true,"permalink":"/public/sophocles/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 

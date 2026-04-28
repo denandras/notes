@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Hyppolyte et Aricie.md","permalink":"/hyppolyte-et-aricie/","dg-note-properties":{"permalink":"/hyppolyte-et-aricie/"}}
+{"dg-publish":true,"permalink":"/public/hyppolyte-et-aricie/","dg-note-properties":{"subject":["zenetöri"],"type":["mű"]}}
 ---
-
 
 Hippolütosz és Arikia
 

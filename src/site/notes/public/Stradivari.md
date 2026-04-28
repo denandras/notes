@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Stradivari.md","permalink":"/stradivari/","dg-note-properties":{"permalink":"/stradivari/"}}
+{"dg-publish":true,"permalink":"/public/stradivari/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 Antonio Stradivari
 

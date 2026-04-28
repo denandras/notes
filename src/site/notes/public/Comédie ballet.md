@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Comédie ballet.md","permalink":"/comedie-ballet/","dg-note-properties":{"permalink":"/comedie-ballet/"}}
+{"dg-publish":true,"permalink":"/public/comedie-ballet/","dg-note-properties":{"subject":["zenetöri"],"type":["műfaj"]}}
 ---
-
 
 zenei színház és prózai között (tételek között próza) - akkori musical
 
-## [Wiki](https://www.wikiwand.com/en/Com%C3%A9die-ballet)
+## [wiki](https://www.wikiwand.com/en/Com%C3%A9die-ballet)

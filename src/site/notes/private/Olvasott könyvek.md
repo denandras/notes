@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Olvasott könyvek.md","permalink":"/egyeb/olvasott-koenyvek/","dg-note-properties":{"permalink":"/egyeb/olvasott-koenyvek/"}}
+{"dg-publish":true,"permalink":"/private/olvasott-koenyvek/","dg-note-properties":{"permalink":"/egyeb/olvasott-koenyvek/"}}
 ---
 
 

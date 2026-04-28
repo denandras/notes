@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Alberti.md","permalink":"/alberti/","dg-note-properties":{"permalink":"/alberti/"}}
+{"dg-publish":true,"permalink":"/public/alberti/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 # Domenico Alberti
 

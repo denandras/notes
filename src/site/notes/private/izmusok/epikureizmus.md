@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/epikureizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/private/izmusok/epikureizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"epikureizmus"}}
 ---
 
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"hangszeres concerto.md","permalink":"/hangszeres-concerto/","dg-note-properties":{"permalink":"/hangszeres-concerto/"}}
+{"dg-publish":true,"permalink":"/public/hangszeres-concerto/","dg-note-properties":{"subject":["zenetöri"],"type":["műfaj"]}}
 ---
-
 
 - mindenféle hangszeres darab
 - [[public/Schütz\|Schütz]]

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/private/2024-11-15-h-oe-ok-vezetokepzo/","dg-note-properties":{"permalink":"/private/2024-11-15-h-oe-ok-vezetokepzo/"}}
+{"dg-publish":true,"permalink":"/private/2024-11-15-h-oe-ok-vezetokepzo/","dg-note-properties":{"type":null,"subject":null}}
 ---
-
 
 ## Gazdasági szekció - tárgyalástechnika
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Mendelssohn.md","permalink":"/mendelssohn/","dg-note-properties":{"permalink":"/mendelssohn/"}}
+{"dg-publish":true,"permalink":"/public/mendelssohn/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 Felix Mendelssohnn-Bartholdy
 

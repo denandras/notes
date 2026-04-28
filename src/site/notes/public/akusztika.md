@@ -37,7 +37,7 @@
 
 ### ([[public/akusztika tételek\|Akusztika tételek]])
 
-### [[public/Akusztika fogalmak\|Akusztika fogalmak]]
+### [[public/akusztika fogalmak\|Akusztika fogalmak]]
 
 
 

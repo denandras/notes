@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Carl Czerny.md","permalink":"/carl-czerny/","dg-note-properties":{"permalink":"/carl-czerny/"}}
+{"dg-publish":true,"permalink":"/public/carl-czerny/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
-
 
 [[public/Beethoven\|Beethoven]]-tanítvány

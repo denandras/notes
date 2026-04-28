@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"reneszánsz.md","permalink":"/reneszansz/","dg-note-properties":{"permalink":"/reneszansz/"}}
+{"dg-publish":true,"permalink":"/public/reneszansz/","dg-note-properties":{"subject":["zenetöri","művészettörténet"],"type":["korszak"]}}
 ---
-
 
 ## A zenében
 
 ### a 15. sz. meghatározó műfajai
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a-15-sz-meghatarozo-mufajai/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/public/a-15-sz-meghatarozo-mufajai/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -124,11 +123,13 @@
 	- elsőként tér el a megszokottól
 	- utolsó vacsora
 	- Madonna
+- [[Cimabue\|Cimabue]] - Madonna and Child Enthroned with Angels and St Francis ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cimabue_-_Madonna_Enthroned_with_the_Child%2C_St_Francis_and_Four_Angels_-_WGA04920.jpg/330px-Cimabue_-_Madonna_Enthroned_with_the_Child%2C_St_Francis_and_Four_Angels_-_WGA04920.jpg)
 - [[Duccio di Buonisegna\|Duccio di Buonisegna]]
 	- felfedezhetőek olyan apró elemek, amelyek jelzik a változást
 	- Madonna
 	- Péter és András apostolok elhívása (merész kép)
 	- Angyali üdvözlet
+- [[Duccio di Buonisegna\|Duccio di Buonisegna]] - Masetà ![](https://upload.wikimedia.org/wikipedia/commons/f/f0/Duccio_maesta1021.jpg)
 - építészet
 	- S Francesco, Assisi
 ### Trecento
@@ -143,6 +144,7 @@
 	- legenda: [[Cimabue\|Cimabue]] felfedezettje
 	- táblaképek, **freskóciklusok**
 	- szinte mind vallásos tematikájú
+- [[Giotto\|Giotto]] - Arena Chapel Frescoes ![](https://cdn.britannica.com/53/140953-050-B8D8AB61/Giotto-frescoes-Padua-Arena-Chapel-Italy.jpg)
 	- S Francesco, Assisi
 		- élettörténet
 		- szegénység vállalása
@@ -184,7 +186,7 @@
 	- firenzei dóm kupolája (amit Giotto kezdett el)
 	- Pazzi-kápolna, Firenze
 - Michelozzo di Bartolomeo
-	- városi nemesi palota mintapéldája: Palazzo Medici
+	- városi nemesi palota mintapéldánya: Palazzo Medici
 - Leon Battista Alberti
 	- építész és teoretikus
 		- Tíz könyv az építészetről
@@ -203,10 +205,12 @@
 	- Porta del Battistero
 	- Porta del Paradiso
 	- vonalperspektíva, enyészpont a képben
-- Donatello
+- [[Ghiberti\|Ghiberti]] - Gates of Paradise ![](https://nelson-atkins.org/gates/images/Gates-Paradise.jpg)
+- [[Donatello\|Donatello]]
 	- Firenze, **David szobor**
 		- *identitásképző eszköz*
 	- Padova, Gattamelata
+- [[Donatello\|Donatello]] - David ![](https://assets-cdn.vam.ac.uk/2022/10/24/09/11/26/14f76578-f063-4230-9d9e-30bd5db17101/320.jpg)
 - Jacopo della Queroca
 	- Porta Magna (bélletes kapu)
 - Andrea del Verocchio
@@ -215,19 +219,20 @@
 #### Festészet
 - szépség, megfigyelés
 - szín-, levegőperspektíva
-- Perugino
+- [[Perugino\|Perugino]]
 	- táj nem kulisszaszerű
 	- valóságos perspektíva
-- Masaccio
+- [[Masaccio\|Masaccio]]
 	- illúziófestészet-szerű, teret nyit számunkra
-- Andrea Mantegna
+- [[Andrea Mantegna\|Andrea Mantegna]]
 	- halott Krisztus, rövidülés
 	- Szt. Sebestyén
-- Paolo Ucello
+- [[Paolo Ucello\|Paolo Ucello]]
 	- csatajelenet
 	- tökéletes szobor-festmény
-- Sandro Boticelli
+- [[Sandro Boticelli\|Sandro Boticelli]]
 	- megragadó
+- [[Botticelli\|Botticelli]] - Birth of Venus ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg)
 - Piero della Francesca
 	- matematikus, művész
 	- kiesett a kánonból halála után
@@ -241,3 +246,4 @@
 	- Battista Sforza és Federico da Montefeltro
 	- Krisztus ostorozása
 	- Brera Madonna
+- [[Piero della Francesca\|Piero della Francesca]] - Baptism of Christ ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Piero_della_Francesca_-_Baptism_of_Christ_-_WGA17595.jpg/960px-Piero_della_Francesca_-_Baptism_of_Christ_-_WGA17595.jpg)
