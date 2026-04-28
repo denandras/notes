@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/pap-janos-a-zenei-akusztika-alapjai/","dg-note-properties":{"subject":"akusztika","type":"forrás"}}
+{"dg-publish":true,"dg-path":"Pap János - A zenei akusztika alapjai.md","permalink":"/pap-janos-a-zenei-akusztika-alapjai/","dg-note-properties":{"permalink":"/public/pap-janos-a-zenei-akusztika-alapjai/"}}
 ---
 
-## [link](https://transfer.it/t/8UV8mY531ZwI)
+
+
+

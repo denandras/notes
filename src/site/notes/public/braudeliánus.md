@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/braudelianus/","dg-note-properties":{"permalink":"/public/braudelianus/"}}
+{"dg-publish":true,"dg-path":"braudeliánus.md","permalink":"/braudelianus/","dg-note-properties":{"permalink":"/public/braudelianus/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/uroborosz/","dg-note-properties":{"permalink":"/public/uroborosz/"}}
+{"dg-publish":true,"dg-path":"uroborosz.md","permalink":"/uroborosz/","dg-note-properties":{"permalink":"/public/uroborosz/"}}
 ---
 
 

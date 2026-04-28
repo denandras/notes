@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/kannibalizal/","dg-note-properties":{"permalink":"/public/kannibalizal/"}}
+{"dg-publish":true,"dg-path":"kannibalizál.md","permalink":"/kannibalizal/","dg-note-properties":{"permalink":"/public/kannibalizal/"}}
 ---
 
 

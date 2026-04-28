@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/abundance/","dg-note-properties":{"permalink":"/public/abundance/"}}
+{"dg-publish":true,"dg-path":"abundance.md","permalink":"/abundance/","dg-note-properties":{"permalink":"/public/abundance/"}}
 ---
 
 

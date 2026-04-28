@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/vicissitude/","dg-note-properties":{"permalink":"/public/vicissitude/"}}
+{"dg-publish":true,"dg-path":"vicissitude.md","permalink":"/vicissitude/","dg-note-properties":{"permalink":"/public/vicissitude/"}}
 ---
 
 

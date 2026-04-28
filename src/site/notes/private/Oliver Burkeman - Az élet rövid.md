@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/oliver-burkeman-az-elet-roevid/","title":"Az élet rövid","dg-note-properties":{"permalink":"/egyeb/oliver-burkeman-az-elet-roevid/","title":"Az élet rövid"}}
+{"dg-publish":true,"permalink":"/private/oliver-burkeman-az-elet-roevid/","title":"Az élet rövid","dg-note-properties":{"permalink":"/private/oliver-burkeman-az-elet-roevid/","title":"Az élet rövid"}}
 ---
 
 

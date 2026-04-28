@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/stance/","dg-note-properties":{"permalink":"/public/stance/"}}
+{"dg-publish":true,"dg-path":"stance.md","permalink":"/stance/","dg-note-properties":{"permalink":"/public/stance/"}}
 ---
 
 

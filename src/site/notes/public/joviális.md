@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/jovialis/","dg-note-properties":{"permalink":"/public/jovialis/"}}
+{"dg-publish":true,"dg-path":"joviális.md","permalink":"/jovialis/","dg-note-properties":{"permalink":"/public/jovialis/"}}
 ---
 
 

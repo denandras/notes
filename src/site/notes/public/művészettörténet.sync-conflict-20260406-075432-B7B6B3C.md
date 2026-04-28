@@ -34,7 +34,7 @@
 - [[public/barokk a művészettörténetben\|barokk a művészettörténetben]]
 	- [[public/holland aranykor\|holland aranykor]]
 - [[public/rokokó\|rokokó]]
-- [[private/izmusok/klasszicizmus\|klasszicizmus]]
+- [[public/klasszicizmus\|klasszicizmus]]
 - [[public/romantika\|romantika]]
 - [[public/permanens forradalom\|permanens forradalom]]
 - [[public/új utak\|új utak]]

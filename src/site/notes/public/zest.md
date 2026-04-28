@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/zest/","dg-note-properties":{"permalink":"/public/zest/"}}
+{"dg-publish":true,"dg-path":"zest.md","permalink":"/zest/","dg-note-properties":{"permalink":"/public/zest/"}}
 ---
 
 

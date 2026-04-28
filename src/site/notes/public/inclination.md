@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/inclination/","dg-note-properties":{"permalink":"/public/inclination/"}}
+{"dg-publish":true,"dg-path":"inclination.md","permalink":"/inclination/","dg-note-properties":{"permalink":"/public/inclination/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/pristine/","dg-note-properties":{"permalink":"/public/pristine/"}}
+{"dg-publish":true,"dg-path":"pristine.md","permalink":"/pristine/","dg-note-properties":{"permalink":"/public/pristine/"}}
 ---
 
 

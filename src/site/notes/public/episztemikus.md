@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/episztemikus/","dg-note-properties":{"permalink":"/public/episztemikus/"}}
+{"dg-publish":true,"dg-path":"episztemikus.md","permalink":"/episztemikus/","dg-note-properties":{"permalink":"/public/episztemikus/"}}
 ---
 
 
