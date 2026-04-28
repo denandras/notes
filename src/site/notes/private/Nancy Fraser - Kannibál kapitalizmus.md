@@ -8,7 +8,7 @@
 - idegenszo:: [[public/kannibalizál\|kannibalizál]]
 - idegenszo:: [[public/uroborosz\|uroborosz]]
 - idegenszo:: [[public/kommodifikálás\|kommodifikálás]]
-- idegenszo:: [[public/fordizmus\|fordizmus]]
+- idegenszo:: [[private/izmusok/fordizmus\|fordizmus]]
 - idegenszo:: [[public/episztemikus\|episztemikus]]
 - idegenszo:: [[public/derivatíva\|derivatíva]]
 - idegenszo:: [[public/braudeliánus\|braudeliánus]]
@@ -16,6 +16,7 @@
 - idegenszo:: [[public/ontológia\|ontológia]]
 - idegenszo:: [[public/meritokrácia\|meritokrácia]]
 - idegenszo:: [[public/hegemónia\|hegemónia]]
+- idegenszo:: [[public/holisztikus\|holisztikus]]
 ### Említések
 
 - [[Kapitalkritik\|Kapitalkritik]] hagyományai
@@ -32,6 +33,7 @@
 - [[Lukács György - Az eldologiasodás és a proletariátus tudata\|Lukács György - Az eldologiasodás és a proletariátus tudata]]
 - [[Sara Ruddick - Mathernal Thinking - Towards a Politics of Peace\|Sara Ruddick - Mathernal Thinking - Towards a Politics of Peace]]
 - [[Nancy Fraser - Struggle over Needs. Outline of a Socialist-Feminist Critical Theory of Late-Capitalist Political Culture\|Nancy Fraser - Struggle over Needs. Outline of a Socialist-Feminist Critical Theory of Late-Capitalist Political Culture]]
+- [[James O’Connor - Capitalism, Nature, Socialism. A Theoretical Introduction\|James O’Connor - Capitalism, Nature, Socialism. A Theoretical Introduction]]
 ### Vélemény
 
 - 

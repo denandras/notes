@@ -7,7 +7,7 @@
 ### Idegen szavak
 
 idegenszo:: [[public/hübrisz\|hübrisz]]
-idegenszo:: [[public/voyerizmus\|voyerizmus]]
+idegenszo:: [[private/izmusok/voyerizmus\|voyerizmus]]
 idegenszo:: [[public/szoliptikus\|szoliptikus]]
 idegenszo:: [[public/kontingens\|kontingens]]
 idegenszo:: [[public/ikonoklazmus\|ikonoklazmus]]

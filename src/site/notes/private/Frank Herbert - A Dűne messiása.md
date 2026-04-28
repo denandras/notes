@@ -8,7 +8,7 @@
 
 ### Idegen szavak
 
-- [[public/atavizmus\|atavizmus]]
+- [[private/izmusok/atavizmus\|atavizmus]]
 - apologéta
 ### Dalok
 

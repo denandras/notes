@@ -257,7 +257,7 @@
 
 [[public/Verdi\|Verdi]], **[[public/Giacomo Meyerbeer\|Giacomo Meyerbeer]]**
 
-> 1867 -- 48-as politikai [[idealizmus\|idealizmus]], az emberek hisznek a haladásban -> az emberekben realizálódik a reménytelenség
+> 1867 -- 48-as politikai [[private/izmusok/idealizmus\|idealizmus]], az emberek hisznek a haladásban -> az emberekben realizálódik a reménytelenség
 
 - elnyomásellenes
 - politikai szuverenitás

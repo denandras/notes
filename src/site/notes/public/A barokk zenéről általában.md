@@ -17,7 +17,7 @@
 - Humanista értelmiségiek Itáliában - görög-római modellek a zenébe	
 * szó:
 	- igazgyöngy-halászok elnevezése
-	- túlhajtott [[public/szillogizmus\|szillogizmus]], nyakatekert okoskodás
+	- túlhajtott [[private/izmusok/szillogizmus\|szillogizmus]], nyakatekert okoskodás
 	- [[public/Rousseau\|Rousseau]]: Zenei lexikon: negatív jelzőkkel illetett, bonyolult stílus
 	* [[Jacob Burckhardt\|Jacob Burckhardt]]: a [[public/reneszánsz\|reneszánsz]] rontott dialektusa
 	* [[Heinrich Wölfflin\|Heinrich Wölfflin]]: racionális, kontrollált, kiegyensúlyozott

@@ -3,4 +3,4 @@
 ---
 
 
-Svájci [[public/Humanizmus\|humanista]]
+Svájci [[private/izmusok/humanizmus\|humanista]]

@@ -31,11 +31,11 @@
 
 ### Második félév
 
-- [[public/manierizmus\|manierizmus]]
+- [[private/izmusok/manierizmus\|manierizmus]]
 - [[public/barokk a művészettörténetben\|barokk a művészettörténetben]]
 	- [[public/holland aranykor\|holland aranykor]]
 - [[public/rokokó\|rokokó]]
-- [[public/klasszicizmus\|klasszicizmus]]
+- [[private/izmusok/klasszicizmus\|klasszicizmus]]
 - [[public/romantika\|romantika]]
 - [[public/permanens forradalom\|permanens forradalom]]
 - [[public/új utak\|új utak]]
@@ -82,7 +82,7 @@
 - [[Pekka Niittyvirta\|Pekka Niittyvirta]] & [[Timo Aho\|Timo Aho]]: Lines
 
 - [[Kazimir Malevics\|Kazimir Malevics]]: Fekete négyzet
-	- szuper-[[public/nativizmus\|nativizmus]], "objektlose Welt", maximális absztrakció, [[public/apofativizmus\|apofatikus]]
+	- szuper-[[private/izmusok/nativizmus\|nativizmus]], "objektlose Welt", maximális absztrakció, [[private/izmusok/apofativizmus\|apofatikus]]
 	- [[public/via negativa\|via negativa]]
 
 - Teotihuacan, a Nap piramisa

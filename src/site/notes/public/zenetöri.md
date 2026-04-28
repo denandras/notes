@@ -16,7 +16,7 @@
 6. [[public/a 15. sz. meghatározó műfajai\|a 15. sz. meghatározó műfajai]]
 7. [[public/Josquin de Prez és a kottanyomtatás\|Josquin de Prez és a kottanyomtatás]]
 8. [[public/világi műfajok a 16. században\|világi műfajok a 16. században]]
-9. [[public/Humanizmus\|humanizmus]] és az első operák
+9. [[private/izmusok/humanizmus\|humanizmus]] és az első operák
 
 
 ## Második félév - Barokk (FG)

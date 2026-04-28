@@ -7,7 +7,7 @@
 
 ### Idegen szavak
 
-idegenszo:: [[public/manicheizmus\|manicheizmus]]
+idegenszo:: [[private/izmusok/manicheizmus\|manicheizmus]]
 idegenszo:: [[public/glaszékesztyű\|glaszékesztyű]]
 idegenszo:: [[public/brevárium\|brevárium]]
 

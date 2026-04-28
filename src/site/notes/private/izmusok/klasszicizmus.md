@@ -1,0 +1,155 @@
+---
+{"dg-publish":true,"dg-path":"klasszicizmus.md","permalink":"/klasszicizmus/","dg-note-properties":{"permalink":"/klasszicizmus/"}}
+---
+
+
+- francia forradalom
+- abszolút monarchiák, kiegyezés, de a polgárság megerősödik
+	- kapitalizálódik
+- erősödő polgárság
+
+- a jó ízlés határai
+- túlzások elvetése
+- polgári visszafogottság
+- kijózanodás
+- felvilágosodás
+
+- [[Gombrich\|Gombrich]]: ez az egész teljes Anglia
+	- mérsékelt idő, protestantizmus
+	- mértéktartó ízlés, józan ész
+- merre van a kiút?
+	- "Minden út [[Róma\|Róma]]ba vezet"
+	- klasszikus művészet tanulmányozása: régészet
+	- [[Joachim Winckelmann\|Joachim Winckelmann]] (német művészettörténész): *Az ókori művészet története*
+	- [[Giovanni Battista Piranese\|Giovanni Battista Piranese]] épület-metszetei (sokszorosítható)
+- építészet
+	- konkrét klasszikus minta
+	- erősebb polgári hangsúly
+	- tömör formák, oszloprendek
+	- túldíszítettség
+	- [[Karl F Schinkel\|Karl F Schinkel]] - Altes Museum, Berlin
+	- [[Pollack Mihály\|Pollack Mihály]] - Nemzeti Múzeum
+	- [[Pollack Mihály\|Pollack Mihály]] - Deák téri evangélikus templom
+	- [[Hild József\|Hild József]] - Egri székesegyház
+	- [[Hild József\|Hild József]] - Esztergomi bazilika
+	- [[Péchy Mihály\|Péchy Mihály]] - Debreceni nagytemplom
+	- [[Anglia\|Anglia]]
+		- palladianizmus (reneszánsz késői hatása)
+		- inspiráció: [[Andrea Pallafio\|Andrea Pallafio]] építész mintakönyve
+	- `18.` század
+		- Gothic Revival: [[Horace Walpole\|Horace Walpole]] [[Strawberry Hill House\|Strawberry Hill House]] (gótikus, "dark" világ)
+		- kínai pagoda:
+		- görög megújhodás
+	- [[Észak-Amerika\|Észak-Amerika]]
+		- kolóniák saját államalakulatokat alapítanak
+		- [[Thomas Jefferson\|Thomas Jefferson]]
+			- USA 3. elnöke
+			- építész is, saját házát tervezte meg
+		- klasszikus épületek mintaként szolgálnak a középületekhez
+	- [[Franciaország\|Franciaország]]
+		- [[Empire\|Empire]]
+		- [[I. Napóleon\|I. Napóleon]] császársága alatt kifejlődött stílus
+		- [[Egyiptom\|Egyiptom]], [[Afrika\|Afrika]]
+			- anyagok is, ébenfa, elefántcsont
+		- [[Párizs\|Párizs]] [[Panthéon\|Panthéon]], [[Madeleine\|Madeleine]], [[Étoile\|Étoile]] diadalív
+		- békéscsabai lutheránus templom
+- szobrászat
+	- [[Jean-Antoine Houdon\|Jean-Antoine Houdon]]
+		- antikvitás szobrászati világa mintát jelent - de nem másolja, hanem felhasználja
+		- *[[public/Voltaire\|Voltaire]]-büszt*
+		- *Washington-portré*
+	- [[Antonio Canova\|Antonio Canova]]
+		- itáliai antik szobrászat tanulmányozása direktben
+		- visszakapcsol az antik kultúrára, nem kópiával, hanem megörökölt komolex megformálással
+		- *A három grácia*
+		- *[[Orpheus\|Orpheus]]*
+		- női test
+			- tisztán, visszafogottan, hűvösen jeleníti meg a szépséget
+	- [[Bertel Thorvaldsen\|Bertel Thorvaldsen]]
+		- dán szobrász, [[Antonio Canova\|Antonio Canova]] örököse
+		- [[Itália\|Itália]]ba utazik
+		- *[[Krisztus\|Krisztus]]*
+			- újfajta interpretáció
+			- antik ruházat
+			- nyugodt, kimért, hűvös
+		- *[[Iaszón\|Iaszón]]*
+		- *[[Ganümédesz\|Ganümédesz]] [[Jupiter\|Jupiter]] sasát itatja*
+		- *[[Vénusz\|Vénusz]]*
+			- antik szépségideál
+			- mentesül minden áterotizáltságtól
+			- mértéktartóbb
+	- [[Ferenczy István\|Ferenczy István]]
+		- tanult [[Bécs\|Bécs]]ben
+		- gyalog ment [[Róma\|Róma]]ba
+			- "ha valaki tanulni akar, akkor tanulni fog"
+		- [[Bertel Thorvaldsen\|Bertel Thorvaldsen]] műhelye
+		- romantikusabb ideák
+		- *[[Pásztorleányka\|Pásztorleányka]]*
+		- *Kölcsey*
+			- antik trónus
+		- *Csokonai-büszt*
+			- magyar nemzeti jelleg, azonban antikvitás jeleként a költői babérkoszorú is ott van
+- egyszerű öltözködéskultúra
+	- oldott, antik, szabadon eső drapériák
+	- test természetes vonalait követő, letisztult ruhák
+	- kevés decorum
+	- nincs mesterkélt paróka, rizsporos arcpúder
+- festészet
+	- [[Jacques Louis David\|Jacques Louis David]]
+		- [[Francois Boucher\|Francois Boucher]]-rokonság
+		- teljesen mást gondolt a festészetről és világról
+		- francia forradalom aktív résztvevője, Konvent tagja
+		- eml. Louvre a francia forradalom hozománya
+		- akadémia, majd akadémiaellenesség
+			- első művészeti akadémia
+			- sztenderdizálta a művészeti színvonalat és oktatást
+			- közös nevező: antikvitást meg kell ütni
+			- be tud "csontosodni", amikor biztonságra törekszünk
+		- *A horatiusok esküje*
+			- festői világban történeti tárgyú esemény, heroikus pillanat - de nem barokk kép, klasszikus ideálhoz húz
+			- hiányzik belőle az örvénylés, dinamizálódás
+		- *A szabin nők elrablása*
+		- *Marat halála*
+		- *[[I. Napóleon\|I. Napóleon]] a Szt. Bernát hágónál*
+		- *Madame Recamier*
+	- [[Jean Auguste Dominique Ingres\|Jean Auguste Dominique Ingres]]
+		- [[Jacques Louis David\|Jacques Louis David]] tanítványa
+		- hegedűs, [[public/Paganini\|Paganini]] haverja
+		- antik + reneszánsz hatás
+		- akadémia
+		- *[[I. Napóleon\|I. Napóleon]] a császári trónon*
+		- *A nagy fürdőző*
+			- intim szituáció erotikus felhang nélkül
+		- *Nagy odaliszk*
+		- *A forrás*
+		- *A törökfürdő*
+	- [[William Hogarth\|William Hogarth]]
+		- nem tanult festőnek, ezüstműves
+		- metszőként kezdett
+		- festő, grafikus, rézmetsző
+		- angol festő, aki nem importálva lett
+		- *Önarckép mopszlival*
+		- irdatlanul szatirikus figura
+		- tükröt tart a tátsadalomnak
+		- alkoholizmus
+			- nem volt Londonban iható csapvíz
+			- *Gin Lane*
+		- *A szajha útja* sorozat
+		- *Választási mulatság*
+		- *David Garrick mint III. Richárd*
+			- festő sírjánál [[David Garrick\|David Garrick]] mondott beszédet
+	- [[Joshua Rheinolde\|Joshua Rheinolde]]
+	- [[Thomas Gainsborough\|Thomas Gainsborough]]
+	- [[id. Markó Károly\|id. Markó Károly]]
+		- *Tivoli tájkép*
+		- *Visegrád*
+		- *A puszta*
+			- miért a puszta a magyar jellegzetesség?
+			- az első vasútvonal Kecskemét felé indult
+	- [[Barabás Miklós\|Barabás Miklós]]
+		- arcképfestő
+		- *Galambposta*
+		- *Batthyány Lajos gróf*
+		- *[[public/Liszt\|Liszt]] Ferenc*
+		- *Vásárra induló román család*
+		- *A lánchíd alapkőtétele*

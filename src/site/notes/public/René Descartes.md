@@ -3,9 +3,9 @@
 ---
 
 
-[[public/racionalizmus\|racionalizmus]]
+[[private/izmusok/racionalizmus\|racionalizmus]]
 
 * Karteziánus kor
 	* "Gondolkodom, tehát vagyok."
 	* minden dolog megkérdőjelezése: szkepticizmus
-	* [[public/empirizmus\|empirizmus]]
+	* [[private/izmusok/empirizmus\|empirizmus]]

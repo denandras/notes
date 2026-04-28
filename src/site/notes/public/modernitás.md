@@ -11,9 +11,9 @@
 	- 1960-72: lakótelep felrobbantása az építészetben, Gadamer: Igazság és módszer (eljutunk-e az igazságig, amikor egy műalkotással dolgozunk - szemben a régi "már tartalmazza" elmélettel)
 		- a műalkotásban soha nem bírhat rejtett jelentéssel, mindig az alkotó és befogadó párbeszédje
 		- minden előadás jó: parttalan relativizmus
-- [[public/racionalizmus\|racionalizmus]]
+- [[private/izmusok/racionalizmus\|racionalizmus]]
 	- [[public/René Descartes\|René Descartes]], Leibnitz, Kant
-	- [[public/empirizmus\|empirizmus]]
+	- [[private/izmusok/empirizmus\|empirizmus]]
 	- az ember racionális megértése, [[public/Rousseau\|Rousseau]], [[public/Diderot\|Diderot]]
 	- cél/értékracionalizmus
 		- meg kell tudnunk valamit indokolni
@@ -26,8 +26,8 @@
 		- [[Sigmund Baumann\|Sigmund Baumann]] elemzése a holokauszttal kapcsolatban
 			- zsidóság -> Madagaszkár
 		- a töltény drága
-- [[public/univerzalizmus\|univerzalizmus]]: ha valaki máshogy gondolja, az helytelen
-- [[public/centralizmus\|centralizmus]]: minden központilag van működtetve
+- [[private/izmusok/univerzalizmus\|univerzalizmus]]: ha valaki máshogy gondolja, az helytelen
+- [[private/izmusok/centralizmus\|centralizmus]]: minden központilag van működtetve
 - [[globalizmus\|globalizmus]]
 - a posztmodern szereti a technikát, ha uralhatja
 - haladáselvűség: a modernitásban fejlődés

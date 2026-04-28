@@ -8,4 +8,4 @@
 [[public/Diderot\|Diderot]]
 [[public/René Descartes\|René Descartes]]
 
-[[public/racionalizmus\|racionalizmus]]
+[[private/izmusok/racionalizmus\|racionalizmus]]
