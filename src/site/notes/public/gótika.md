@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"gótika.md","permalink":"/gotika/","dg-note-properties":{"permalink":"/gotika/"}}
+{"dg-publish":true,"permalink":"/public/gotika/","dg-note-properties":{"subject":["művészettörténet"],"type":["korszak"]}}
 ---
-
 
 ## Gótika (12-16. sz.)
 

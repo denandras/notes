@@ -7,7 +7,7 @@
 > "színpadi stílus", "énekelt recitálás" - beszéd és ének között
 
 ### Eredete
-[[private/izmusok/humanizmus\|humanizmus]]
+[[public/Humanizmus\|humanizmus]]
 - "a mai, a polifonikus zene egyenessn arculcsapása az antik gondolatnak, otromba germán modor"
 - szó, ritmus, hang
 - [[public/Glareanus\|Glareanus]]: énekeljük így a klasszikus ódákat

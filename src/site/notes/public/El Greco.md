@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"El Greco.md","permalink":"/el-greco/","dg-note-properties":{"permalink":"/el-greco/"}}
+{"dg-publish":true,"permalink":"/public/el-greco/","dg-note-properties":{"subject":["művészettörténet"],"type":["személy"]}}
 ---
-
 
 - nem az eredeti neve
 - krétai ikonfestő iskolában tanult

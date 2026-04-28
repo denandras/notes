@@ -3,7 +3,7 @@
 ---
 
 
-[[private/izmusok/humanizmus\|humanizmus]], [[public/semi-opera\|semi-opera]], [[public/opera buffa\|opera buffa]], [[public/opera seria\|opera seria]], udvari opera, velencei opera, [[public/monódikus stílus\|monódikus stílus]], [[public/Hyppolyte et Aricie\|Hyppolyte et Aricie]]
+[[public/Humanizmus\|humanizmus]], [[public/semi-opera\|semi-opera]], [[public/opera buffa\|opera buffa]], [[public/opera seria\|opera seria]], udvari opera, velencei opera, [[public/monódikus stílus\|monódikus stílus]], [[public/Hyppolyte et Aricie\|Hyppolyte et Aricie]]
 __________________
 
 > Milyen közegben jött létre ez a műfaj?

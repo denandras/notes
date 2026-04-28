@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Artaria.md","permalink":"/artaria/","dg-note-properties":{"permalink":"/artaria/"}}
+{"dg-publish":true,"permalink":"/public/artaria/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
 
-
 ## [Wiki](https://www.wikiwand.com/en/Artaria)
+
+#üres 

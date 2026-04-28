@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"őskor.md","permalink":"/oskor/","dg-note-properties":{"permalink":"/oskor/"}}
+{"dg-publish":true,"permalink":"/public/oskor/","dg-note-properties":{"subject":["művészettörténet"],"type":["korszak"]}}
 ---
-
 
 - a legfontosabb szó a *valószínűsíthetően*
 	- sokminden mostanában derül ki
@@ -23,7 +22,7 @@
 		- **az első műalkotások nem feltétlenül dekorációnak születtek**
 		- *konvencionális érték*: elbeszélés, szertartás kelléke, mitológia, vallás -> **ettől van identitásunk**
 - [[Tillmann József\|Tillmann József]] filozófus
-- a [[public/felvilágosodás\|felvilágosodás]] kivonta a varázslatot a művészetből, csak [[private/izmusok/racionalizmus\|racionálisan]] vizsgálta azt
+- a [[public/felvilágosodás\|felvilágosodás]] kivonta a varázslatot a művészetből, csak [[public/racionalizmus\|racionálisan]] vizsgálta azt
 	- a varázslat a [[public/vernakuláris\|vernakuláris]] kultúrában abszolút tovább él
 	- a népdal is több a hangoknál - fontos, hogy honnan jött a közlő, környezet, stb.
 	- *reenchantment* - újraelvarázsosítás

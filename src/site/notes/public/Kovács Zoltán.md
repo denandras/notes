@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Kovács Zoltán.md","permalink":"/kovacs-zoltan/","dg-note-properties":{"permalink":"/kovacs-zoltan/"}}
+{"dg-publish":true,"permalink":"/public/kovacs-zoltan/","dg-note-properties":{"subject":["posztmodern","zene és irodalom"],"type":["személy"]}}
 ---
-
 
 bölcsész

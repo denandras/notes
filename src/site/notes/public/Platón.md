@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Platón.md","permalink":"/platon/","dg-note-properties":{"permalink":"/platon/"}}
+{"dg-publish":true,"permalink":"/public/platon/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
 
+[[private/Szókratész\|Szókratész]] tanítványa
 
+#üres 

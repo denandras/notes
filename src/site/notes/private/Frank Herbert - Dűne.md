@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"egyéb/Frank Herbert - Dűne.md","permalink":"/egyeb/frank-herbert-dune/","title":"Dűne","dg-note-properties":{"permalink":"/egyeb/frank-herbert-dune/","title":"Dűne"}}
+{"dg-publish":true,"permalink":"/private/frank-herbert-dune/","dg-note-properties":{"author":["[[Frank Herbert]]"],"cover":"https://s01.static.libri.hu/cover/b5/c/5828424_4.jpg","type":["könyv"],"isbn":9789635663491,"pages":594,"rating":5,"status":["have read"]}}
 ---
 
-
-# [[private/Frank Herbert - A Dűne messiása\|->]]
-# Dűne (1)
+# Dűne (1) | [[private/Frank Herbert - A Dűne messiása\|A Dűne messiása]] (2)
 
 ### Ami megfogott benne
 - egy egész univerzumot jelenít meg, sok apró részlettel tarkítva

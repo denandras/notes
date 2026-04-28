@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"posztmodern.md","permalink":"/posztmodern/","dg-note-properties":{"permalink":"/posztmodern/"}}
+{"dg-publish":true,"permalink":"/public/posztmodern/","dg-note-properties":{"subject":["posztmodern"],"type":["témakör"]}}
 ---
-
 
 > [[P Sloterdijk\|P Sloterdijk]]: *"Aki szédül, az nincs informálva"*
 > (de nem mindenki szeret szédülni)
@@ -16,7 +15,7 @@
 - [ ] [[Sigmund Baumann\|Sigmund Baumann]] - szociológus
 - [ ] [[private/Sigmund Freud\|Sigmund Freud]] - pszichoanalitikus
 - [ ] [[public/Platón\|Platón]] - filozófus
-- [ ] [[Nietzsche\|Nietzsche]] - filozófus
+- [ ] [[private/Friedrich Nietzsche\|Friedrich Nietzsche]] - filozófus
 - [ ] [[Dragomán - Fehér király\|Dragomán - Fehér király]] - regény
 - [ ] [[Koyaanisqatsi\|Koyaanisqatsi]] - film
 - [ ] [[I'm your man\|I'm your man]] film
@@ -50,7 +49,7 @@
 - [ ] [[A szurkos kezű királyfiak\|A szurkos kezű királyfiak]] - regény
 - [ ] [[Az ember tragédiája\|Az ember tragédiája]] - dráma
 - [ ] [[Báró Kemény Zsigmond\|Báró Kemény Zsigmond]] - író
-- [ ] [[Jean Paul Sartre - A fal\|Jean Paul Sartre - A fal]] - novella
+- [ ] [[Jean-Paul Sartre - A fal\|Jean-Paul Sartre - A fal]] - novella
 - [ ] [[Martin McDonald\|Martin McDonald]] - [festőművész](https://www.martinmacdonaldartist.com/)
 - [ ] [[Tóth Krisztina - Porhó\|Tóth Krisztina - Porhó]] - regény
 - [ ] [[Szinyei - Eigel István\|Szinyei - Eigel István]] - festőművész
@@ -64,7 +63,7 @@
 - [ ] [[Új Zenei Újság\|Új Zenei Újság]] - zenei folyóirat
 - [ ] [[public/Bach\|Bach]] - [[public/Mátépassió\|Mátépassió]] - zenei kompozíció
 - [ ] [[public/Schiller\|Schiller]] - író, filozófus
-- [ ] [[Kant\|Kant]] - filozófus
+- [ ] [[private/Immanuel Kant\|Immanuel Kant]] - filozófus
 - [ ] [[Philippe Glass\|Philippe Glass]] - zeneszerző
 - [ ] [[Hundertwasser\|Hundertwasser]] építész
 - [ ] [[Fudzsimoto Szószuke\|Fudzsimoto Szószuke]] - építész
@@ -91,7 +90,7 @@
 - [ ] [[Lázár Ervin - Szegény Dzsoni és Árnika\|Lázár Ervin - Szegény Dzsoni és Árnika]] - mese
 - [ ] [[A szurkos kezű királyfiak\|A szurkos kezű királyfiak]] - regény
 - [ ] [[Báró Kemény Zsigmond\|Báró Kemény Zsigmond]] - író
-- [ ] [[Jean Paul Sartre - A fal\|Jean Paul Sartre - A fal]] - novella
+- [ ] [[Jean-Paul Sartre - A fal\|Jean-Paul Sartre - A fal]] - novella
 - [ ] [[Tóth Krisztina - Porhó\|Tóth Krisztina - Porhó]] - regény
 - [ ] [[Szinyei - Eigel István\|Szinyei - Eigel István]] - festőművész
 - [ ] [[Pasi Ilmari Jääskeläinen - Don városi rejtekjáratok\|Pasi Ilmari Jääskeläinen - Don városi rejtekjáratok]] - regény
@@ -181,7 +180,7 @@
 - megváltozott a lét egésze
 	- [[public/Platón\|Platón]]: itt vagyunk, látjuk a hamis világot, az ideákból egy van, és az igaz, szép és jó
 	- a létező kerüljön közel a léthez
-	- [[Nietzsche\|Nietzsche]] - Esztelen ember: elfelejtettük Istent
+	- [[private/Friedrich Nietzsche\|Friedrich Nietzsche]] - Esztelen ember: elfelejtettük Istent
 	- az van, amit mi magunk adunk a világunknak, elfelejtettük a világlényeg létezését
 		- civilizátum, jó is és rossz is
 	- egzisztencializmus van, nincs elidegenedés sem, nincs más cél

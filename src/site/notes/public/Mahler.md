@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Mahler.md","permalink":"/mahler/","dg-note-properties":{"permalink":"/mahler/"}}
+{"dg-publish":true,"permalink":"/public/mahler/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
 ---
-
 
 ![](https://images.universal-music.de/img/assets/278/278414/992/720/gustav-mahler-c-dg.jpg)
 
@@ -69,7 +68,7 @@
 	- *3. szimfónia*
 		- 6 tétel
 		- 4-5. vokális
-		- [[Nietzsche\|Nietzsche]] (*Also Sprach Sarathustra*-idézet később megtagadva)
+		- [[private/Friedrich Nietzsche\|Friedrich Nietzsche]] (*Also Sprach Sarathustra*-idézet később megtagadva)
 			- `+` *Des Knaben Wunderhorn*
 	- *4. G-dúr*
 		- utolsó tételben szoprán szóló
