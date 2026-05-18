@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/zarzuela/","dg-note-properties":{"permalink":"/public/zarzuela/"}}
+{"dg-publish":true,"dg-path":"zarzuela.md","permalink":"/zarzuela/","dg-note-properties":{"permalink":"/public/zarzuela/"}}
 ---
 
 

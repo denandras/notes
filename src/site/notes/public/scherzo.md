@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/scherzo/","dg-note-properties":{"permalink":"/public/scherzo/"}}
+{"dg-publish":true,"dg-path":"scherzo.md","permalink":"/scherzo/","dg-note-properties":{"permalink":"/public/scherzo/"}}
 ---
 
 

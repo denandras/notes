@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/varazsfuvola/","dg-note-properties":{"permalink":"/varazsfuvola/"}}
+{"dg-publish":true,"dg-path":"Varázsfuvola.md","permalink":"/varazsfuvola/","dg-note-properties":{"permalink":"/varazsfuvola/"}}
 ---
 
 

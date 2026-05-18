@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/utilitarizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"utilitarizmus.md","permalink":"/utilitarizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

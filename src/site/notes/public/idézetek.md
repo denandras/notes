@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/idezetek/","dg-note-properties":{"permalink":"/public/idezetek/"}}
+{"dg-publish":true,"dg-path":"idézetek.md","permalink":"/idezetek/","dg-note-properties":{"permalink":"/public/idezetek/"}}
 ---
 
 

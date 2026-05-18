@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/fumeux-fux-parfume/","dg-note-properties":{"permalink":"/public/fumeux-fux-parfume/"}}
+{"dg-publish":true,"dg-path":"Fumeux fux parfume.md","permalink":"/fumeux-fux-parfume/","dg-note-properties":{"permalink":"/public/fumeux-fux-parfume/"}}
 ---
 
 

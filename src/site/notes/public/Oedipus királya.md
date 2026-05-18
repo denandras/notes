@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/oedipus-kiralya/","dg-note-properties":{"permalink":"/oedipus-kiralya/"}}
+{"dg-publish":true,"dg-path":"Oedipus királya.md","permalink":"/oedipus-kiralya/","dg-note-properties":{"permalink":"/oedipus-kiralya/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/farkas-andras-liszt-mazeppa/","dg-note-properties":{"permalink":"/farkas-andras-liszt-mazeppa/"}}
+{"dg-publish":true,"dg-path":"Farkas András - Liszt - Mazeppa.md","permalink":"/farkas-andras-liszt-mazeppa/","dg-note-properties":{"permalink":"/farkas-andras-liszt-mazeppa/"}}
 ---
 
 

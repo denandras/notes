@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/strukturalizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"strukturalizmus.md","permalink":"/strukturalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

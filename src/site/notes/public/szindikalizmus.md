@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szindikalizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"szindikalizmus.md","permalink":"/szindikalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

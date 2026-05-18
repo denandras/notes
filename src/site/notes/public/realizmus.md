@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/realizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"realizmus.md","permalink":"/realizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

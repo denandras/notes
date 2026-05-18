@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szimbolizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"szimbolizmus.md","permalink":"/szimbolizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

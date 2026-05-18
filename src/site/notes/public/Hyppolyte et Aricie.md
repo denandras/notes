@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/hyppolyte-et-aricie/","dg-note-properties":{"permalink":"/public/hyppolyte-et-aricie/"}}
+{"dg-publish":true,"dg-path":"Hyppolyte et Aricie.md","permalink":"/hyppolyte-et-aricie/","dg-note-properties":{"permalink":"/public/hyppolyte-et-aricie/"}}
 ---
 
 

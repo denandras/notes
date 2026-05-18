@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szolipszizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"szolipszizmus.md","permalink":"/szolipszizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

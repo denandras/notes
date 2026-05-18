@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/ontologia/","dg-note-properties":{"permalink":"/public/ontologia/"}}
+{"dg-publish":true,"dg-path":"ontológia.md","permalink":"/ontologia/","dg-note-properties":{"permalink":"/public/ontologia/"}}
 ---
 
 

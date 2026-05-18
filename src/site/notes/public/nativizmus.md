@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/nativizmus/","dg-note-properties":{"permalink":"/public/nativizmus/"}}
+{"dg-publish":true,"dg-path":"nativizmus.md","permalink":"/nativizmus/","dg-note-properties":{"permalink":"/public/nativizmus/"}}
 ---
 
 

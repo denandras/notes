@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/teremtoertenet/","dg-note-properties":{"permalink":"/teremtoertenet/"}}
+{"dg-publish":true,"dg-path":"teremtörténet.md","permalink":"/teremtoertenet/","dg-note-properties":{"permalink":"/teremtoertenet/"}}
 ---
 
 

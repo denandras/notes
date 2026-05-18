@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/ateizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"ateizmus.md","permalink":"/ateizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

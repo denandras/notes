@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/naturalizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"naturalizmus.md","permalink":"/naturalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

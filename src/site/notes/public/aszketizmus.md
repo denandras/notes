@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/aszketizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"aszketizmus.md","permalink":"/aszketizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

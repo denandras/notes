@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/eradicate/","dg-note-properties":{"permalink":"/public/eradicate/"}}
+{"dg-publish":true,"dg-path":"eradicate.md","permalink":"/eradicate/","dg-note-properties":{"permalink":"/public/eradicate/"}}
 ---
 
 

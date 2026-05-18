@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/posztmodern-filozofia/","dg-note-properties":{"type":"témakör"}}
+{"dg-publish":true,"dg-path":"posztmodern filozófia.md","permalink":"/posztmodern-filozofia/","dg-note-properties":{"type":"témakör"}}
 ---
 
 

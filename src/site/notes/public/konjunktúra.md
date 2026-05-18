@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/konjunktura/","dg-note-properties":{"permalink":"/public/konjunktura/"}}
+{"dg-publish":true,"dg-path":"konjunktúra.md","permalink":"/konjunktura/","dg-note-properties":{"permalink":"/public/konjunktura/"}}
 ---
 
 

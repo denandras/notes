@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/inventarium/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"inventárium.md","permalink":"/inventarium/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

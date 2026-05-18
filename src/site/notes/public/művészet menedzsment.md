@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/muveszet-menedzsment/","dg-note-properties":{"permalink":"/public/muveszet-menedzsment/"}}
+{"dg-publish":true,"dg-path":"művészet menedzsment.md","permalink":"/muveszet-menedzsment/","dg-note-properties":{"permalink":"/public/muveszet-menedzsment/"}}
 ---
 
 

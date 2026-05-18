@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/romantizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"romantizmus.md","permalink":"/romantizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

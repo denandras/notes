@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/fordizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"fordizmus.md","permalink":"/fordizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

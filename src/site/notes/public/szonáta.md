@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szonata/","dg-note-properties":{"permalink":"/szonata/"}}
+{"dg-publish":true,"dg-path":"szonáta.md","permalink":"/szonata/","dg-note-properties":{"permalink":"/szonata/"}}
 ---
 
 

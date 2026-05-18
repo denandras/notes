@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/arcangelo-corelli/","dg-note-properties":{"permalink":"/public/arcangelo-corelli/"}}
+{"dg-publish":true,"dg-path":"Arcangelo Corelli.md","permalink":"/arcangelo-corelli/","dg-note-properties":{"permalink":"/public/arcangelo-corelli/"}}
 ---
 
 

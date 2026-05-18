@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/dalciklus/","dg-note-properties":{"permalink":"/public/dalciklus/"}}
+{"dg-publish":true,"dg-path":"dalciklus.md","permalink":"/dalciklus/","dg-note-properties":{"permalink":"/public/dalciklus/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/meritokracia/","dg-note-properties":{"permalink":"/public/meritokracia/"}}
+{"dg-publish":true,"dg-path":"meritokrácia.md","permalink":"/meritokracia/","dg-note-properties":{"permalink":"/public/meritokracia/"}}
 ---
 
 

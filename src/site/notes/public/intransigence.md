@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/intransigence/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"intransigence.md","permalink":"/intransigence/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/kommunizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"kommunizmus.md","permalink":"/kommunizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

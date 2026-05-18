@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/gotika/","dg-note-properties":{"permalink":"/gotika/"}}
+{"dg-publish":true,"dg-path":"gótika.md","permalink":"/gotika/","dg-note-properties":{"permalink":"/gotika/"}}
 ---
 
 

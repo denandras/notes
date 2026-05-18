@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/posztmodern/","dg-note-properties":{"permalink":"/public/posztmodern/"}}
+{"dg-publish":true,"dg-path":"posztmodern.md","permalink":"/posztmodern/","dg-note-properties":{"permalink":"/public/posztmodern/"}}
 ---
 
 

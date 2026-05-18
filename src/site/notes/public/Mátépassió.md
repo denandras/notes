@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/matepassio/","dg-note-properties":{"permalink":"/matepassio/"}}
+{"dg-publish":true,"dg-path":"Mátépassió.md","permalink":"/matepassio/","dg-note-properties":{"permalink":"/matepassio/"}}
 ---
 
 

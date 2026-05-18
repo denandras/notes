@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/a-nemet-opera/","dg-note-properties":{"permalink":"/a-nemet-opera/"}}
+{"dg-publish":true,"dg-path":"A német opera.md","permalink":"/a-nemet-opera/","dg-note-properties":{"permalink":"/a-nemet-opera/"}}
 ---
 
 

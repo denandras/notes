@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/meritokratizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"meritokratizmus.md","permalink":"/meritokratizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

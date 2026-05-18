@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/hangterjedes/","dg-note-properties":{"permalink":"/hangterjedes/"}}
+{"dg-publish":true,"dg-path":"hangterjedés.md","permalink":"/hangterjedes/","dg-note-properties":{"permalink":"/hangterjedes/"}}
 ---
 
 

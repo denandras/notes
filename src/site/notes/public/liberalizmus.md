@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/liberalizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"liberalizmus.md","permalink":"/liberalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

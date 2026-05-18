@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/intellektualizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"intellektualizmus.md","permalink":"/intellektualizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

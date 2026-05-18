@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/haendel/","dg-note-properties":{"permalink":"/haendel/"}}
+{"dg-publish":true,"dg-path":"Händel.md","permalink":"/haendel/","dg-note-properties":{"permalink":"/haendel/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/posztmodern-muveszet/","dg-note-properties":{"permalink":"/posztmodern-muveszet/"}}
+{"dg-publish":true,"dg-path":"posztmodern művészet.md","permalink":"/posztmodern-muveszet/","dg-note-properties":{"permalink":"/posztmodern-muveszet/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/le-nuove-musiche/","dg-note-properties":{"permalink":"/public/le-nuove-musiche/"}}
+{"dg-publish":true,"dg-path":"Le nuove musiche.md","permalink":"/le-nuove-musiche/","dg-note-properties":{"permalink":"/public/le-nuove-musiche/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/akusztika-tetelek/","dg-note-properties":{"permalink":"/akusztika-tetelek/"}}
+{"dg-publish":true,"dg-path":"Akusztika tételek.md","permalink":"/akusztika-tetelek/","dg-note-properties":{"permalink":"/akusztika-tetelek/"}}
 ---
 
 

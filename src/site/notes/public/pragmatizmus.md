@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/pragmatizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"pragmatizmus.md","permalink":"/pragmatizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

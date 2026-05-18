@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/moliere/","dg-note-properties":{"permalink":"/public/moliere/"}}
+{"dg-publish":true,"dg-path":"Moliere.md","permalink":"/moliere/","dg-note-properties":{"permalink":"/public/moliere/"}}
 ---
 
 

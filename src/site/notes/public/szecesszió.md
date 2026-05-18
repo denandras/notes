@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szecesszio/","dg-note-properties":{"permalink":"/szecesszio/"}}
+{"dg-publish":true,"dg-path":"szecesszió.md","permalink":"/szecesszio/","dg-note-properties":{"permalink":"/szecesszio/"}}
 ---
 
 

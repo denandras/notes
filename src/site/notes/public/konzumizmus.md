@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/konzumizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"konzumizmus.md","permalink":"/konzumizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

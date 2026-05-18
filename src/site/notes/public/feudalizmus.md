@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/feudalizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"feudalizmus.md","permalink":"/feudalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

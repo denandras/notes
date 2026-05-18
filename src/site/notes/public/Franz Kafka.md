@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/franz-kafka/","dg-note-properties":{"permalink":"/public/franz-kafka/"}}
+{"dg-publish":true,"dg-path":"Franz Kafka.md","permalink":"/franz-kafka/","dg-note-properties":{"permalink":"/public/franz-kafka/"}}
 ---
 
 

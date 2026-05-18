@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/agnoszticizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"agnoszticizmus.md","permalink":"/agnoszticizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

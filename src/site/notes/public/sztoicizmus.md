@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/sztoicizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"sztoicizmus.md","permalink":"/sztoicizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

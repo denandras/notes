@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/antropocentrizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"antropocentrizmus.md","permalink":"/antropocentrizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

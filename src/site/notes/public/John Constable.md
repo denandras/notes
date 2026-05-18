@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/john-constable/","dg-note-properties":{"permalink":"/public/john-constable/"}}
+{"dg-publish":true,"dg-path":"John Constable.md","permalink":"/john-constable/","dg-note-properties":{"permalink":"/public/john-constable/"}}
 ---
 
 

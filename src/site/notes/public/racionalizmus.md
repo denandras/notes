@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/racionalizmus/","dg-note-properties":{"permalink":"/public/racionalizmus/"}}
+{"dg-publish":true,"dg-path":"racionalizmus.md","permalink":"/racionalizmus/","dg-note-properties":{"permalink":"/public/racionalizmus/"}}
 ---
 
 

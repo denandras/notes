@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/egoizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"egoizmus.md","permalink":"/egoizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

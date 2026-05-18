@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/kiseretes-szonata/","dg-note-properties":{"permalink":"/kiseretes-szonata/"}}
+{"dg-publish":true,"dg-path":"kíséretes szonáta.md","permalink":"/kiseretes-szonata/","dg-note-properties":{"permalink":"/kiseretes-szonata/"}}
 ---
 
 

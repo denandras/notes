@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/leopold-mozart/","dg-note-properties":{"permalink":"/public/leopold-mozart/"}}
+{"dg-publish":true,"dg-path":"Leopold Mozart.md","permalink":"/leopold-mozart/","dg-note-properties":{"permalink":"/public/leopold-mozart/"}}
 ---
 
 

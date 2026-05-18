@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/hangszigeteles/","dg-note-properties":{"permalink":"/hangszigeteles/"}}
+{"dg-publish":true,"dg-path":"hangszigetelés.md","permalink":"/hangszigeteles/","dg-note-properties":{"permalink":"/hangszigeteles/"}}
 ---
 
 

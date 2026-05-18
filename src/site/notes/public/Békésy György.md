@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/bekesy-gyoergy/","dg-note-properties":{"permalink":"/bekesy-gyoergy/"}}
+{"dg-publish":true,"dg-path":"Békésy György.md","permalink":"/bekesy-gyoergy/","dg-note-properties":{"permalink":"/bekesy-gyoergy/"}}
 ---
 
 

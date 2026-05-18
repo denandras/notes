@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/relativizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"relativizmus.md","permalink":"/relativizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

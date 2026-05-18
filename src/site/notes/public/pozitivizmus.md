@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/pozitivizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"pozitivizmus.md","permalink":"/pozitivizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

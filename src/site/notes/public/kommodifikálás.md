@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/kommodifikalas/","dg-note-properties":{"permalink":"/public/kommodifikalas/"}}
+{"dg-publish":true,"dg-path":"kommodifikálás.md","permalink":"/kommodifikalas/","dg-note-properties":{"permalink":"/public/kommodifikalas/"}}
 ---
 
 

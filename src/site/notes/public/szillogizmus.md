@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szillogizmus/","dg-note-properties":{"permalink":"/public/szillogizmus/"}}
+{"dg-publish":true,"dg-path":"szillogizmus.md","permalink":"/szillogizmus/","dg-note-properties":{"permalink":"/public/szillogizmus/"}}
 ---
 
 

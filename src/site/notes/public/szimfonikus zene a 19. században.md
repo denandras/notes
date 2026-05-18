@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szimfonikus-zene-a-19-szazadban/","dg-note-properties":{"permalink":"/szimfonikus-zene-a-19-szazadban/"}}
+{"dg-publish":true,"dg-path":"szimfonikus zene a 19. században.md","permalink":"/szimfonikus-zene-a-19-szazadban/","dg-note-properties":{"permalink":"/szimfonikus-zene-a-19-szazadban/"}}
 ---
 
 

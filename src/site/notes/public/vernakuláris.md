@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/vernakularis/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"vernakuláris.md","permalink":"/vernakularis/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

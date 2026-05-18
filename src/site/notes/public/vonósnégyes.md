@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/vonosnegyes/","dg-note-properties":{"permalink":"/vonosnegyes/"}}
+{"dg-publish":true,"dg-path":"vonósnégyes.md","permalink":"/vonosnegyes/","dg-note-properties":{"permalink":"/vonosnegyes/"}}
 ---
 
 

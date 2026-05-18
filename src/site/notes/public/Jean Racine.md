@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/jean-racine/","dg-note-properties":{"permalink":"/public/jean-racine/"}}
+{"dg-publish":true,"dg-path":"Jean Racine.md","permalink":"/jean-racine/","dg-note-properties":{"permalink":"/public/jean-racine/"}}
 ---
 
 

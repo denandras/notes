@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szuerrealizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"szürrealizmus.md","permalink":"/szuerrealizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/apologeta/","dg-note-properties":{"permalink":"/public/apologeta/"}}
+{"dg-publish":true,"dg-path":"apologéta.md","permalink":"/apologeta/","dg-note-properties":{"permalink":"/public/apologeta/"}}
 ---
 
 

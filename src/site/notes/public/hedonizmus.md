@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/hedonizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"hedonizmus.md","permalink":"/hedonizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

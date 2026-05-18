@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/monizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"monizmus.md","permalink":"/monizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

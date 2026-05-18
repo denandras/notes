@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/glaszekesztyu/","dg-note-properties":{"permalink":"/public/glaszekesztyu/"}}
+{"dg-publish":true,"dg-path":"glaszékesztyű.md","permalink":"/glaszekesztyu/","dg-note-properties":{"permalink":"/public/glaszekesztyu/"}}
 ---
 
 

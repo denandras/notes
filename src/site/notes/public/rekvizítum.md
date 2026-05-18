@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/rekvizitum/","dg-note-properties":{"permalink":"/public/rekvizitum/"}}
+{"dg-publish":true,"dg-path":"rekvizítum.md","permalink":"/rekvizitum/","dg-note-properties":{"permalink":"/public/rekvizitum/"}}
 ---
 
 

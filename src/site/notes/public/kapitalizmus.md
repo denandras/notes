@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/kapitalizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"kapitalizmus.md","permalink":"/kapitalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/romantika/","dg-note-properties":{"permalink":"/public/romantika/"}}
+{"dg-publish":true,"dg-path":"romantika.md","permalink":"/romantika/","dg-note-properties":{"permalink":"/public/romantika/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/modern-idok/","dg-note-properties":{"permalink":"/modern-idok/"}}
+{"dg-publish":true,"dg-path":"modern idők.md","permalink":"/modern-idok/","dg-note-properties":{"permalink":"/modern-idok/"}}
 ---
 
 

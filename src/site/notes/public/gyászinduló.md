@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/gyaszindulo/","dg-note-properties":{"permalink":"/gyaszindulo/"}}
+{"dg-publish":true,"dg-path":"gyászinduló.md","permalink":"/gyaszindulo/","dg-note-properties":{"permalink":"/gyaszindulo/"}}
 ---
 
 

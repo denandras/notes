@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/konstruktivizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"konstruktivizmus.md","permalink":"/konstruktivizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

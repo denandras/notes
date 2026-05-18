@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/mahler/","dg-note-properties":{"permalink":"/public/mahler/"}}
+{"dg-publish":true,"dg-path":"Mahler.md","permalink":"/mahler/","dg-note-properties":{"permalink":"/public/mahler/"}}
 ---
 
 

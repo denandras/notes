@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/gluck-orfeo/","dg-note-properties":{"permalink":"/public/gluck-orfeo/"}}
+{"dg-publish":true,"dg-path":"Gluck - Orfeo.md","permalink":"/gluck-orfeo/","dg-note-properties":{"permalink":"/public/gluck-orfeo/"}}
 ---
 
 

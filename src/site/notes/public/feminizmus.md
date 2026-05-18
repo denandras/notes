@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/feminizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"feminizmus.md","permalink":"/feminizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

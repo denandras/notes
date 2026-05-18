@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/zenetoeri-1-felev-vizsga/","dg-note-properties":{"permalink":"/zenetoeri-1-felev-vizsga/"}}
+{"dg-publish":true,"dg-path":"zenetöri 1 félév vizsga.md","permalink":"/zenetoeri-1-felev-vizsga/","dg-note-properties":{"permalink":"/zenetoeri-1-felev-vizsga/"}}
 ---
 
 

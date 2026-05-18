@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/superficial/","dg-note-properties":{"permalink":"/public/superficial/"}}
+{"dg-publish":true,"dg-path":"superficial.md","permalink":"/superficial/","dg-note-properties":{"permalink":"/public/superficial/"}}
 ---
 
 

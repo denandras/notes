@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/utopianizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"utopianizmus.md","permalink":"/utopianizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

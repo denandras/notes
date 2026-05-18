@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/unprecedented/","dg-note-properties":{"permalink":"/public/unprecedented/"}}
+{"dg-publish":true,"dg-path":"unprecedented.md","permalink":"/unprecedented/","dg-note-properties":{"permalink":"/public/unprecedented/"}}
 ---
 
 

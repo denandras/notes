@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/alien/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"alien.md","permalink":"/alien/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

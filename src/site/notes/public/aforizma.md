@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/aforizma/","dg-note-properties":{"permalink":"/public/aforizma/"}}
+{"dg-publish":true,"dg-path":"aforizma.md","permalink":"/aforizma/","dg-note-properties":{"permalink":"/public/aforizma/"}}
 ---
 
 

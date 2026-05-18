@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/kalnoky-laszlo-szferak-zeneje/","dg-note-properties":{"permalink":"/kalnoky-laszlo-szferak-zeneje/"}}
+{"dg-publish":true,"dg-path":"Kálnoky László - Szférák zenéje.md","permalink":"/kalnoky-laszlo-szferak-zeneje/","dg-note-properties":{"permalink":"/kalnoky-laszlo-szferak-zeneje/"}}
 ---
 
 

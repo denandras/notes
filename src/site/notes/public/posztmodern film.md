@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/posztmodern-film/","dg-note-properties":{"permalink":"/public/posztmodern-film/"}}
+{"dg-publish":true,"dg-path":"posztmodern film.md","permalink":"/posztmodern-film/","dg-note-properties":{"permalink":"/public/posztmodern-film/"}}
 ---
 
 

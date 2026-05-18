@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/egyhazi-zene-a-17-szazadban/","dg-note-properties":{"permalink":"/egyhazi-zene-a-17-szazadban/"}}
+{"dg-publish":true,"dg-path":"egyházi zene a 17. században.md","permalink":"/egyhazi-zene-a-17-szazadban/","dg-note-properties":{"permalink":"/egyhazi-zene-a-17-szazadban/"}}
 ---
 
 

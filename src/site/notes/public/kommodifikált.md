@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/kommodifikalt/","dg-note-properties":{"permalink":"/public/kommodifikalt/"}}
+{"dg-publish":true,"dg-path":"kommodifikált.md","permalink":"/kommodifikalt/","dg-note-properties":{"permalink":"/public/kommodifikalt/"}}
 ---
 
 

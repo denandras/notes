@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/zemlinsky/","dg-note-properties":{"permalink":"/public/zemlinsky/"}}
+{"dg-publish":true,"dg-path":"Zemlinsky.md","permalink":"/zemlinsky/","dg-note-properties":{"permalink":"/public/zemlinsky/"}}
 ---
 
 

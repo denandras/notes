@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/konzervatizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"konzervatizmus.md","permalink":"/konzervatizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

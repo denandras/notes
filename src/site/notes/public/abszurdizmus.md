@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/abszurdizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"abszurdizmus.md","permalink":"/abszurdizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

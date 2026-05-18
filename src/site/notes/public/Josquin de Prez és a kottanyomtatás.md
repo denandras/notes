@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/josquin-de-prez-es-a-kottanyomtatas/","dg-note-properties":{"permalink":"/josquin-de-prez-es-a-kottanyomtatas/"}}
+{"dg-publish":true,"dg-path":"Josquin de Prez és a kottanyomtatás.md","permalink":"/josquin-de-prez-es-a-kottanyomtatas/","dg-note-properties":{"permalink":"/josquin-de-prez-es-a-kottanyomtatas/"}}
 ---
 
 

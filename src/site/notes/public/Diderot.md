@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/diderot/","dg-note-properties":{"permalink":"/public/diderot/"}}
+{"dg-publish":true,"dg-path":"Diderot.md","permalink":"/diderot/","dg-note-properties":{"permalink":"/public/diderot/"}}
 ---
 
 

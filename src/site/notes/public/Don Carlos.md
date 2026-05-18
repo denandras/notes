@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/don-carlos/","dg-note-properties":{"permalink":"/public/don-carlos/"}}
+{"dg-publish":true,"dg-path":"Don Carlos.md","permalink":"/don-carlos/","dg-note-properties":{"permalink":"/public/don-carlos/"}}
 ---
 
 

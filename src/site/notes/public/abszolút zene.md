@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/abszolut-zene/","dg-note-properties":{"permalink":"/abszolut-zene/"}}
+{"dg-publish":true,"dg-path":"abszolút zene.md","permalink":"/abszolut-zene/","dg-note-properties":{"permalink":"/abszolut-zene/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/transzhumanizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"transzhumanizmus.md","permalink":"/transzhumanizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

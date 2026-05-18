@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/fatalizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"fatalizmus.md","permalink":"/fatalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

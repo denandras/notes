@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/multidiszciplinaris/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"multidiszciplináris.md","permalink":"/multidiszciplinaris/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

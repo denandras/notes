@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/concerto/","dg-note-properties":{"permalink":"/public/concerto/"}}
+{"dg-publish":true,"dg-path":"concerto.md","permalink":"/concerto/","dg-note-properties":{"permalink":"/public/concerto/"}}
 ---
 
 

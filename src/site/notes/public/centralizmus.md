@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/centralizmus/","dg-note-properties":{"permalink":"/public/centralizmus/"}}
+{"dg-publish":true,"dg-path":"centralizmus.md","permalink":"/centralizmus/","dg-note-properties":{"permalink":"/public/centralizmus/"}}
 ---
 
 

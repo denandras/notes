@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/peszimizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"dg-path":"peszimizmus.md","permalink":"/peszimizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/le-deserteur/","dg-note-properties":{"permalink":"/le-deserteur/"}}
+{"dg-publish":true,"dg-path":"Le Déserteur.md","permalink":"/le-deserteur/","dg-note-properties":{"permalink":"/le-deserteur/"}}
 ---
 
 

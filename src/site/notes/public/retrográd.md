@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/retrograd/","dg-note-properties":{"permalink":"/public/retrograd/"}}
+{"dg-publish":true,"dg-path":"retrográd.md","permalink":"/retrograd/","dg-note-properties":{"permalink":"/public/retrograd/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/urhatnam-szolgalo/","dg-note-properties":{"permalink":"/urhatnam-szolgalo/"}}
+{"dg-publish":true,"dg-path":"Úrhatnám szolgáló.md","permalink":"/urhatnam-szolgalo/","dg-note-properties":{"permalink":"/urhatnam-szolgalo/"}}
 ---
 
 
