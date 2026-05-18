@@ -15,7 +15,16 @@ module.exports = {
       if (data.tags.indexOf("gardenEntry") != -1) {
         return "/";
       }
-      return data.permalink || undefined;
+      if (data.permalink) {
+        return data.permalink;
+      }
+      // Preserve folder structure: notes/folder/subfolder/file.md -> /folder/subfolder/file/
+      const inputPath = data.page?.inputPath || "";
+      const notesMatch = inputPath.match(/\/notes\/(.+)\.md$/);
+      if (notesMatch) {
+        return "/" + notesMatch[1] + "/";
+      }
+      return undefined;
     },
     basesNotes: (data) => {
       if (!data.collections || !data.collections.note) return [];
