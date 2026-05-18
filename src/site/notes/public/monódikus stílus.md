@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"monódikus stílus.md","permalink":"/monodikus-stilus/","dg-note-properties":{"permalink":"/monodikus-stilus/"}}
+{"dg-publish":true,"permalink":"/public/monodikus-stilus/","dg-note-properties":{"permalink":"/monodikus-stilus/"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > "színpadi stílus", "énekelt recitálás" - beszéd és ének között
 
 ### Eredete
-[[public/Humanizmus\|humanizmus]]
+[[public/humanizmus\|humanizmus]]
 - "a mai, a polifonikus zene egyenessn arculcsapása az antik gondolatnak, otromba germán modor"
 - szó, ritmus, hang
 - [[public/Glareanus\|Glareanus]]: énekeljük így a klasszikus ódákat

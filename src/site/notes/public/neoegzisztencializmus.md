@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/neoegzisztencializmus/","dg-note-properties":{"subject":["posztmodern"],"type":["fogalom"]}}
+{"dg-publish":true,"permalink":"/public/neoegzisztencializmus/","dg-note-properties":{"permalink":"/public/neoegzisztencializmus/"}}
 ---
+
 
 > A neoegzisztencialista filozófia egy olyan filozófiai irányzat, amely az egzisztencializmustól származik, de későbbi fejleményekre és változásokra épít. Az egzisztencializmus egy filozófiai irányzat, amely az emberi létezés, a szabadság, a felelősség és a létezés abszurditása iránti érdeklődést helyezi előtérbe. A neoegzisztencializmus pedig az egzisztencialista gondolatokat továbbfejleszti és modernizálja.
 

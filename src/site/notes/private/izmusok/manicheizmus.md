@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/manicheizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"manicheizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/manicheizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

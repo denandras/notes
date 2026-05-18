@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/antropocentrizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"antropocentrizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/antropocentrizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

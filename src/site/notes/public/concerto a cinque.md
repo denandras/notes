@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/concerto-a-cinque/","dg-note-properties":{"subject":["zenetöri"],"type":["műfaj"]}}
+{"dg-publish":true,"permalink":"/public/concerto-a-cinque/","dg-note-properties":{"permalink":"/public/concerto-a-cinque/"}}
 ---
+
 
 [[public/hangszeres concerto\|hangszeres concerto]]
 

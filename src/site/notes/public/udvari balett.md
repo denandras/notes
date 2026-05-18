@@ -3,6 +3,7 @@
 ---
 
 
+
 ballet de court
 vokális zene sok tétellel, mindegyik műnek van témája
 dinamizmus nélküli [[public/opera\|opera]]

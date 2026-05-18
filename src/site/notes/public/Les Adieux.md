@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/les-adieux/","dg-note-properties":{"subject":["zenetöri"],"type":["mű"]}}
+{"dg-publish":true,"permalink":"/public/les-adieux/","dg-note-properties":{"permalink":"/public/les-adieux/"}}
 ---
+
 
 [[public/Beethoven\|Beethoven]] - op. 81a
 

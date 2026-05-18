@@ -3,6 +3,7 @@
 ---
 
 
+
 #
 
 **Dr. Pap János**
@@ -35,9 +36,9 @@
 - [[public/Időérzékelés\|időérzékelés]]
 - [[public/hangterjedés\|hangterjedés]]
 
-### ([[public/akusztika tételek\|Akusztika tételek]])
+### ([[public/Akusztika tételek\|Akusztika tételek]])
 
-### [[public/akusztika fogalmak\|Akusztika fogalmak]]
+### [[public/Akusztika fogalmak\|Akusztika fogalmak]]
 
 
 

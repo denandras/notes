@@ -3,6 +3,7 @@
 ---
 
 
+
 - tonálisan zárt egység
 	- kezd és zár ugyanabban a hangnemben
 	- jellegzetes téma

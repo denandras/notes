@@ -3,6 +3,7 @@
 ---
 
 
+
 - észak-itáliai születésű
 - orgonista, egyházi zeneszerző
 - hírnév: op. 1 billentyűs szonáták

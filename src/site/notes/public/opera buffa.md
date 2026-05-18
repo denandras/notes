@@ -3,6 +3,7 @@
 ---
 
 
+
 > komikus intermezzo: rövid
 > rövid és éles [[public/opera\|opera]], általában úr-szolga vagy szerető-szobalány viszony intrikáit mutatja be.
 

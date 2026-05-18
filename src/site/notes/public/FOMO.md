@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/fomo/","dg-note-properties":{"type":["fogalom"],"subject":null}}
+{"dg-publish":true,"permalink":"/public/fomo/","dg-note-properties":{"permalink":"/public/fomo/"}}
 ---
+
 
 fear of missing out, a "kimaradástól" való félelem

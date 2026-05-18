@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Tarkovszkij - Andrej Rubljov.md","permalink":"/tarkovszkij-andrej-rubljov/","dg-note-properties":{"permalink":"/public/tarkovszkij-andrej-rubljov/"}}
+{"dg-publish":true,"dg-path":"Tarkovszkij - Andrej Rubljov.md","permalink":"/tarkovszkij-andrej-rubljov/","dg-note-properties":{"permalink":"/tarkovszkij-andrej-rubljov/"}}
 ---
+
 
 
 

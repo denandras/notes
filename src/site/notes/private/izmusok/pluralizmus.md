@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/pluralizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"pluralizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/pluralizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

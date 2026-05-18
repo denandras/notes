@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hangszeres virtuózok és műveik a 19. században.md","permalink":"/hangszeres-virtuozok-es-muveik-a-19-szazadban/","dg-note-properties":{"permalink":"/hangszeres-virtuozok-es-muveik-a-19-szazadban/"}}
+{"dg-publish":true,"permalink":"/public/hangszeres-virtuozok-es-muveik-a-19-szazadban/","dg-note-properties":{"permalink":"/hangszeres-virtuozok-es-muveik-a-19-szazadban/"}}
 ---
 
 

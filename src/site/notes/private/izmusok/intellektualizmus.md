@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/intellektualizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"intellektualizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/intellektualizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

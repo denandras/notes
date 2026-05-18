@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/univerzalizmus/","dg-note-properties":{"subject":"posztmodern","type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/univerzalizmus/","dg-note-properties":{"permalink":"/public/univerzalizmus/"}}
 ---
+
 
 ha valaki máshogy gondolja, az helytelen

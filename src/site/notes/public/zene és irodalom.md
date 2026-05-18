@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/zene-es-irodalom/","dg-note-properties":{"subject":"zene és irodalom","type":"témakör"}}
+{"dg-publish":true,"permalink":"/public/zene-es-irodalom/","dg-note-properties":{"permalink":"/zene-es-irodalom/"}}
 ---
+
 
 > - szabvál
 > - [[public/Kovács Zoltán\|Kovács Zoltán]] bölcsész
@@ -28,7 +29,7 @@
 - akárhogy értelmezhető
 	- hermeneutika ([[Hirsch\|Hirsch]]): a jó értelmezések sora végtelen, a rosszakat észre lehet venni
 - esztétika-filozófia
-	- '30-as évek: [[private/izmusok/strukturalizmus\|strukturalizmus]] - a mű tudományosan értelmezhető
+	- '30-as évek: [[public/strukturalizmus\|strukturalizmus]] - a mű tudományosan értelmezhető
 	- ma: alkotó-műalkotás-befogadó
 		- a befogadó lesz a fontos (befogadásesztétika)
 		- [[Derrida\|Derrida]]-féle dekonstrukció -> totális szubjektivitás

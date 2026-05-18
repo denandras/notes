@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/public/opera/","dg-note-properties":{"subject":["zenetöri"],"type":["műfaj"]}}
+{"dg-publish":true,"permalink":"/public/opera/","dg-note-properties":{"permalink":"/public/opera/"}}
 ---
 
-[[public/Humanizmus\|humanizmus]], [[public/semi-opera\|semi-opera]], [[public/opera buffa\|opera buffa]], [[public/opera seria\|opera seria]], udvari opera, velencei opera, [[public/monódikus stílus\|monódikus stílus]], [[public/Hyppolyte et Aricie\|Hyppolyte et Aricie]]
+
+[[public/humanizmus\|humanizmus]], [[public/semi-opera\|semi-opera]], [[public/opera buffa\|opera buffa]], [[public/opera seria\|opera seria]], udvari opera, velencei opera, [[public/monódikus stílus\|monódikus stílus]], [[public/Hyppolyte et Aricie\|Hyppolyte et Aricie]]
 __________________
 
 > Milyen közegben jött létre ez a műfaj?

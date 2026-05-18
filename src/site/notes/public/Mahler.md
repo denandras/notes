@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/mahler/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
+{"dg-publish":true,"permalink":"/public/mahler/","dg-note-properties":{"permalink":"/public/mahler/"}}
 ---
+
 
 ![](https://images.universal-music.de/img/assets/278/278414/992/720/gustav-mahler-c-dg.jpg)
 

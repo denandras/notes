@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/berlioz/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
+{"dg-publish":true,"permalink":"/public/berlioz/","dg-note-properties":{"permalink":"/public/berlioz/"}}
 ---
+
 
 <mark>1803-1869</mark>
 

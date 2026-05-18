@@ -3,6 +3,7 @@
 ---
 
 
+
 felvilágosult abszolutista uralkodó
 fuvolista
 komponisták írtak neki, pl. [[public/Quantz\|Quantz]]

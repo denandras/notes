@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/monizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"monizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/monizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

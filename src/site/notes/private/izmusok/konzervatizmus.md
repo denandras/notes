@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/konzervatizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"konzervatizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/konzervatizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

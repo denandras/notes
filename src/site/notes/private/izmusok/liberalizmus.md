@@ -3,6 +3,8 @@
 ---
 
 
-A liberalizmus politikai és filozófiai ideológia, amely az egyéni szabadságot, a joguralmat és az emberi jogokat helyezi középpontba. A liberálisok szerint az állam feladata az egyéni szabadság védelme, nem pedig annak korlátozása. A személyi szabadság, a joguralom és az egyéni jogok védelme.
+A liberalizmus, más néven szabadelvűség, a szabadságot jelentő latin libertas szó után alapvetően a személyes szabadságon és törvény előtti egyenlőségen alapul, vagyis a szabad gondolatok széles spektrumát jelentő eszmerendszer, melyek közös vonása, hogy az egyén szabadságát jelölik meg mint legfontosabb politikai célt.
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Liberalizmus))
+Gyökerei a 17–18. századra, a felvilágosodás idejére nyúlnak vissza. Olyan korábbi alapvető elveket tagadott meg, mint az uralkodók isteni felhatalmazása, az öröklött kiváltságok, államvallás és protekcionizmus.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Liberalizmus)

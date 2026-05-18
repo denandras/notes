@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"holisztikus.md","permalink":"/holisztikus/","dg-note-properties":{"permalink":"/public/holisztikus/"}}
+{"dg-publish":true,"dg-path":"holisztikus.md","permalink":"/holisztikus/","dg-note-properties":{"permalink":"/holisztikus/"}}
 ---
+
 
 
 **holisztikus** (ógörög *holosz* – egész, teljes)

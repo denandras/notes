@@ -3,6 +3,7 @@
 ---
 
 
+
 [[public/Mozart\|Mozart]]
 
 > A mű színpadra állítása nem kis feladat. Technikai és hangi követelmények szempontjából az Idomeneo nagy igényeket támaszt. Nagyszabású és bonyolult színházi apparátust, nagy létszámú kórust igényel.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/feudalizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"feudalizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/feudalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

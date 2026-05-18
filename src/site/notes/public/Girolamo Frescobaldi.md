@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/girolamo-frescobaldi/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
+{"dg-publish":true,"permalink":"/public/girolamo-frescobaldi/","dg-note-properties":{"permalink":"/public/girolamo-frescobaldi/"}}
 ---
+
 
 - elsősorban hangszeres zenéje miatt vált ismertté
 	- Toccatak és Partiták

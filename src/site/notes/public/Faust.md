@@ -3,6 +3,7 @@
 ---
 
 
+
 [[public/Goethe\|Goethe]]
 
 - inspiráló műként szolgált számukra:

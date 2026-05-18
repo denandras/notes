@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/oskor/","dg-note-properties":{"subject":["művészettörténet"],"type":["korszak"]}}
+{"dg-publish":true,"permalink":"/public/oskor/","dg-note-properties":{"permalink":"/oskor/"}}
 ---
+
 
 - a legfontosabb szó a *valószínűsíthetően*
 	- sokminden mostanában derül ki

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/opera-seria/","dg-note-properties":{"subject":["zenetöri"],"type":["műfaj"]}}
+{"dg-publish":true,"permalink":"/public/opera-seria/","dg-note-properties":{"permalink":"/public/opera-seria/"}}
 ---
+
 
 ### A barokkban
 

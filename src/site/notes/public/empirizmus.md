@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/empirizmus/","dg-note-properties":{"subject":"posztmodern","type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/empirizmus/","dg-note-properties":{"permalink":"/public/empirizmus/"}}
 ---
+
 
 tapasztalás alapján való tájékozódás/tudásszerzés
 

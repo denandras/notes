@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/strukturalizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"strukturalizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/strukturalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

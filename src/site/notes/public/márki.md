@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"márki.md","permalink":"/marki/","dg-note-properties":{"permalink":"/marki/"}}
+{"dg-publish":true,"permalink":"/public/marki/","dg-note-properties":{"permalink":"/marki/"}}
 ---
 
 

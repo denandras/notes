@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"román kor.md","permalink":"/roman-kor/","dg-note-properties":{"permalink":"/roman-kor/"}}
+{"dg-publish":true,"permalink":"/public/roman-kor/","dg-note-properties":{"permalink":"/roman-kor/"}}
 ---
 
 

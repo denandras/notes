@@ -4,4 +4,5 @@
 
 
 
+
 Having a tendency or preference towards something; being likely to act in a certain way.

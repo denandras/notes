@@ -3,6 +3,7 @@
 ---
 
 
+
 adalék:
 > Broca 1861-ben egy néma ember agytekervényeiben talált egy sérült
 > Brodmann-mezőt

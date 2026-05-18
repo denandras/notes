@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/bizanc/","dg-note-properties":{"subject":["művészettörténet"],"type":["korszak"]}}
+{"dg-publish":true,"permalink":"/public/bizanc/","dg-note-properties":{"permalink":"/bizanc/"}}
 ---
+
 
 - retronim kifejezés[^7]
 	- 1557: [[Hieronymus Wolf\|Hieronymus Wolf]] (Corpus Hystoriae Byzantinae)
@@ -57,7 +58,7 @@
 	- /ószövetségi szentháromság
 	- /Ábrahám vendégszeretete
 	- ~1411/1425
-	- [[public/Tarkovszkij - Andrej Rubljov\|Tarkovszkij - Andrej Rubljov]] film (lassú, 3 órás)
+	- Rubljov filmje (lassú, 3 órás)
 - A. R.: Megváltó, ~1410
 - Krisztus IX. Konstantinápolyi császárral és Zoé császárnéval
 	- Hagia Sophia, 11. sz.

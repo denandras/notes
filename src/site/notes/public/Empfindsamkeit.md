@@ -3,6 +3,7 @@
 ---
 
 
+
 szentimentalizmus, Empfindsamer Stil
 
 = érzékenység, szentimentalizmus

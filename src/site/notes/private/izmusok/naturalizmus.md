@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/naturalizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"naturalizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/naturalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 
-A naturalizmus filozófiai irányzat, amely szerint a természeten kívül nincs más valóság, és minden jelenség természeti törvényekkel magyarázható. A naturalisták elutasítják a természetfeletti magyarázatokat. A természetes törvények és a megfigyelhető természetre alapozott szemlélet.
+A naturalizmus több jelentésű kifejezés:
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Naturalizmus_(filoz%C3%B3fia)))
+**Filozófia:** A naturalizmus filozófiai irányzat, amely szerint minden jelenség – beleértve a mentális és társadalmi folyamatokat is – a természet törvényeivel magyarázható. Elutasítja a természetfeletti vagy nem fizikai okok feltételezését.
+
+**Művészet:** A naturalizmus irodalmi és művészeti irányzat a 19. század második feléből, amely a valóságnak a lehető leghűbb, tudományos szemléletű ábrázolására törekedett. A realizmus továbbfejlesztése, amely az emberi sorsot társadalmi és biológiai determináltságként mutatja be.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Naturalizmus)

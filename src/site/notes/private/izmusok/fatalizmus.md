@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/fatalizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"fatalizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/fatalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 
-A fatalizmus filozófiai álláspont, miszerint az események előre elrendeltek és az ember nem tudja megváltoztatni őket. A fatalista szerint a jövő már meg van írva, és az emberi akarat hatástalan. A fatalizmus a hit, miszerint minden esemény előre meghatározott és elkerülhetetlen.
+A fatalizmus az a hit, hogy a jövő determinált, meghatározott és semmit sem tehetünk ez ellen. A fatalizmus elfogadása maga után vonja azt a meggyőződést, hogy az akaratunkkal nem befolyásolhatjuk a jövőnket.
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Fatalizmus))
+A fatalizmus gyökere az ókori emberek hitvilágában megtalálható. A görög mitológiában Anankénak (görögül Ἀνάγκη) a végzet és az elkerülhetetlen sors istennőjének három lánya Klóthó (Fonó), Lakheszisz (Sorsjuttató), Atroposz (Kérlelhetetlen) határozzák meg életünket, és semmit sem tehetünk ez ellen.
+
+A fatalizmusban való hit mind a három monoteista vallásban (judaizmus, kereszténység, iszlám) jelen van. Mindhárom vallásban a sors vagy végzet az előre rendelés teológiai dogmájából vezethető le.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Fatalizmus)

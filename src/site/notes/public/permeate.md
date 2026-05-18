@@ -4,4 +4,5 @@
 
 
 
+
 To spread or pass through every part of something; to infiltrate or saturate.

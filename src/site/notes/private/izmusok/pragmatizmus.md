@@ -3,6 +3,10 @@
 ---
 
 
-A pragmatizmus filozófiai irányzat, amely szerint az igazság és a tudás értelme a gyakorlati alkalmazásukban mutatkozik meg. A pragmatisták szerint egy állítás értelme a következményeiből adódik. A gyakorlati haszon és a tapasztalat alapú megközelítés.
+A pragmatizmus amerikai eredetű filozófiai irányzat, a pragmatika alkalmazott területe. E szerint egy elmélet igazsága vagy helyessége annak gyakorlati működőképességében és eredményességében nyilvánul meg.
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Pragmatizmus))
+Francis Bacon empirikus hagyománya – amit Thomas Hobbes, John Locke és David Hume vitt tovább – hatott leginkább az első pragmatikusokra. A pragmatikus szó sok Kant-szövegben is megtalálható.
+
+A 19. században alapították meg az akkoriban erősödő Egyesült Államokban a Metafizikai Klub két tagja: Charles Sanders Peirce és William James. A pragmatizmus megnevezést legelőször James használta, azonban a későbbiek során Peirce, hogy elhatárolódjon Jamestől, a pragmaticizmus szót használta.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Pragmatizmus)

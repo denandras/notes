@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"gáláns stílus.md","permalink":"/galans-stilus/","dg-note-properties":{"permalink":"/galans-stilus/"}}
+{"dg-publish":true,"permalink":"/public/galans-stilus/","dg-note-properties":{"permalink":"/galans-stilus/"}}
 ---
 
 

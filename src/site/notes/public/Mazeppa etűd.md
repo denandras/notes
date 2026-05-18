@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/mazeppa-etud/","dg-note-properties":{"subject":["zenetöri"],"type":["mű"]}}
+{"dg-publish":true,"permalink":"/public/mazeppa-etud/","dg-note-properties":{"permalink":"/mazeppa-etud/"}}
 ---
+
 
 > Hogyan lesz egy billentyűs etűdből szimfonikus darab?
 

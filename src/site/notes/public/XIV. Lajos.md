@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/xiv-lajos/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
+{"dg-publish":true,"permalink":"/public/xiv-lajos/","dg-note-properties":{"permalink":"/public/xiv-lajos/"}}
 ---
+
 

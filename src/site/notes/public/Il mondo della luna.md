@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/il-mondo-della-luna/","dg-note-properties":{"subject":["zenetöri"],"type":["mű"]}}
+{"dg-publish":true,"permalink":"/public/il-mondo-della-luna/","dg-note-properties":{"permalink":"/public/il-mondo-della-luna/"}}
 ---
+
 
 - [[public/Baldassare Galuppi\|Baldassare Galuppi]] 1750-es [[public/opera buffa\|opera buffa]]ja
 - [[Carlo Goldoni\|Carlo Goldoni]] librettója

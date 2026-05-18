@@ -3,6 +3,10 @@
 ---
 
 
-Az idealizmus filozófiai irányzat, amely szerint a valóság alapvetően szellemi vagy eszmei természetű. Az idealisták szerint az anyag nem önálló létező, hanem a tudat vagy az eszme megnyilvánulása. A felfogás szerint a szellemiség vagy az eszme alapvetőbb, mint az anyag.
+Az idealizmus többjelentésű kifejezés. A mindennapi életben az ideálokért való lelkesedés, amikor valaki egy meggyőződés híve és ezért hajlandó sok mindent háttérbe szorítani.
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Idealizmus_(filoz%C3%B3fia)))
+A filozófiában olyan fogalmak és világnézetek széles körét jelölő kifejezés, amely a materializmussal szemben az eszményeket tartja előbbre valóknak. Általában az a gondolkodásmód, amely a valóság legfőbb elvének a szellemet, az észt tartja. A metafizikai idealizmus szerint igazán csak a szellem létezik, az ismeretelméleti idealizmus szerint a külvilág csupán mint tudatunk tartalma van meg.
+
+A filozófiában a léttel szemben a tudat elsőbbségét hirdető irányzat. A filozófia alapkérdésében abból indul ki, hogy elsődleges az embertől független vagy emberi szellem, az eszme, a tudat.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Idealizmus)

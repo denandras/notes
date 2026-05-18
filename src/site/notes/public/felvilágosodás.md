@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/felvilagosodas/","dg-note-properties":{"subject":["zenetöri"],"type":["fogalom","korszak"]}}
+{"dg-publish":true,"permalink":"/public/felvilagosodas/","dg-note-properties":{"permalink":"/felvilagosodas/"}}
 ---
+
 
 [[Montesquieu\|Montesquieu]]
 [[public/Voltaire\|Voltaire]]

@@ -3,6 +3,8 @@
 ---
 
 
-Az abszolutizmus vagy abszolút monarchia a monarchia egy olyan formája, amelyben az uralkodó autokratikus hatalommal rendelkezik, nem korlátozzák az írott törvények, törvényhozás vagy szokások. Európában főleg az újkori (16–18. század) államszerkezeti forma, amely a feudális rendszerek legfejlettebb államformája volt. Az abszolutista állam mindinkább központosította a politikai hatalmat, eltávolította a kereskedelem belső akadályait, és támogatta a külső vámokat az idegen versenytársakkal szemben.
+Az abszolutizmus a rendiség visszaszorítása után létrejövő egyszemélyi uralom. Támaszait, a hadsereget és a hivatalnoki kart állami pénzekből tartják fenn.
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Abszol%C3%BAt_monarchia))
+Az abszolút monarchia abszolutista államforma, ahol az állam feje, az uralkodó bármiféle megkötés, jogi vagy másfajta szabályozás, legális ellenzék nélkül irányítja az országot. A felvilágosult abszolutizmus a felvilágosodás eszméit magáévá tevő abszolutista államforma.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Abszolutizmus)

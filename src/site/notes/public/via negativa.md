@@ -3,6 +3,7 @@
 ---
 
 
+
 - Istent nem lehet leírni, mert mindennél tökéletesebb
 - csak negatív állításokkal lehet kifejezni az ellentétét
 

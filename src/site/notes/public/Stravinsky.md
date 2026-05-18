@@ -3,6 +3,7 @@
 ---
 
 
+
 - 1882 június 5, Oranienbaum (Szentpétervártól nem messze)
 - -1971
 - Igor Fjodorevics Sztravinszkij

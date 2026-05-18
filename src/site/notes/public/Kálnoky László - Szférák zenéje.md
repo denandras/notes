@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/kalnoky-laszlo-szferak-zeneje/","dg-note-properties":{"subject":["zene és irodalom"],"type":["mű"]}}
+{"dg-publish":true,"permalink":"/public/kalnoky-laszlo-szferak-zeneje/","dg-note-properties":{"permalink":"/kalnoky-laszlo-szferak-zeneje/"}}
 ---
+
 
 [Link](https://reader.dia.hu/document/Kalnoky_Laszlo-Osszegyujtott_versek-1000)
 ## Szférák zenéje

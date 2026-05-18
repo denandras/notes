@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/pozitivizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"pozitivizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/pozitivizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

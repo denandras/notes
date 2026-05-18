@@ -3,6 +3,7 @@
 ---
 
 
+
 - Milanoi Conservatoirebe nem vették fel
 - első operája: 1839
 - **sok opera '47-ig**

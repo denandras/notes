@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/romantika/","dg-note-properties":{"subject":["művészettörténet"],"type":["korszak"]}}
+{"dg-publish":true,"permalink":"/public/romantika/","dg-note-properties":{"permalink":"/public/romantika/"}}
 ---
+
 
 - ellentmondás az antikkal, hatás-ellenhatás
 	- sok szempontból hiányt hagy maga mögött a klasszicizmus

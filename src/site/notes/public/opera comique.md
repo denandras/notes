@@ -3,6 +3,7 @@
 ---
 
 
+
 [[Kroó György - A szabadító opera\|Kroó György - A szabadító opera]]
 
 > szélesebb nyilvánosság elé fordult (tehát a polgárok kiváltsága volt) (a vásári játékok művelése és befogadása persze elérhető volt bárki számára)

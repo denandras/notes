@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/public/zenetoeri/","dg-note-properties":{"subject":["zenetöri"],"type":["témakör"]}}
+{"dg-publish":true,"permalink":"/public/zenetoeri/","dg-note-properties":{"permalink":"/zenetoeri/"}}
 ---
 
-- [Zenetöri olvasnivalók, ajánlott irodalmak](https://storage.denandras.cloud/index.php/s/5BPrTPF3SreGqsz)
-- [Várkonyi tanár úr](https://varkonyitanarur.hu)
+
+- [Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
+- [egy random jó honlap](https://varkonyitanarur.hu)
 ## Első félév - Középkor-reneszánsz (FG)
 [[public/zenetöri 1 félév vizsga\|zenetöri 1 félév vizsga]]
 
@@ -15,7 +16,7 @@
 6. [[public/a 15. sz. meghatározó műfajai\|a 15. sz. meghatározó műfajai]]
 7. [[public/Josquin de Prez és a kottanyomtatás\|Josquin de Prez és a kottanyomtatás]]
 8. [[public/világi műfajok a 16. században\|világi műfajok a 16. században]]
-9. [[public/Humanizmus\|humanizmus]] és az első operák
+9. [[public/humanizmus\|humanizmus]] és az első operák
 
 
 ## Második félév - Barokk (FG)
@@ -91,13 +92,3 @@
 5. [[public/Stravinsky\|Stravinsky]]
 6. [[Messiaen\|Messiaen]]
 0. [[Prokofiev\|Prokofiev]]
-
-## MA 1. félév (MSz)
-
-- röpdolik, Google Classroom
-- második félév választható
-	- [[public/Wagner\|Wagner]] Nibelung előtti művei
-	- [[public/Wagner\|Wagner]] - Nibelung gyűrűje
-	- orosz zene
-
-1. [[public/1945 utáni magyar zene\|1945 utáni magyar zene]]

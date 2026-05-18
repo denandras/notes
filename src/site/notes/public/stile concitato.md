@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/stile-concitato/","dg-note-properties":{"subject":["zenetöri"],"type":["fogalom"]}}
+{"dg-publish":true,"permalink":"/public/stile-concitato/","dg-note-properties":{"permalink":"/public/stile-concitato/"}}
 ---
+
 
 [izgatott stílus], hangismétlés/tremolo

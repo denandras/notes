@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"aspiration.md","permalink":"/aspiration/","dg-note-properties":{"permalink":"/public/aspiration/"}}
+{"dg-publish":true,"dg-path":"aspiration.md","permalink":"/aspiration/","dg-note-properties":{"permalink":"/aspiration/"}}
 ---
+
 
 
 

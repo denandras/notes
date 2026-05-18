@@ -3,6 +3,7 @@
 ---
 
 
+
 -   barokk zene a feledésbe merül
 -   `20.` század eleje, 2. vh után újrafelfedezés
 -   francia forradalommal kettévágva

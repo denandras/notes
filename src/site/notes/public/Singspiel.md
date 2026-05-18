@@ -3,6 +3,7 @@
 ---
 
 
+
 > Hamburg: nagyobb opera
 > néhány fejedelmi opera (Bécs, Drezda)
 > populáris: Singspiel

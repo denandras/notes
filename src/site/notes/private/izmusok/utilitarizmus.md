@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/utilitarizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"utilitarizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/utilitarizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 
-Az utilitarizmus etikai elmélet, amely szerint a legmagasabb jó a legtöbb ember legnagyobb boldogsága. Az utilitarista szerint a cselekedeteket annak következményei alapján kell megítélni, hogy mennyit növelik az összesített boldogságot. A legnagyobb boldogságtömegre törekvő etikai rendszer.
+A haszonelvűség (másként utilitarizmus) Jeremy Bentham és John Stuart Mill nevéhez köthető 19. századi angolszász etika és az ehhez tartozó cselekvéselmélet. Az utilitarizmus szerint az emberek cselekedeteit az örömelv magyarázza: céljuk a boldogság maximalizálása és a fájdalom, a szenvedés minimalizálása.
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Utilitarizmus))
+E cél elérése érdekében racionálisan mérlegelik cselekvéseik szubjektív hasznosságát. Mindezt egyaránt megfogalmazhatjuk individuális nézőpontból (mindenki célja saját hasznosságának maximalizálása) és közösségi szempontból (a lehető legnagyobb boldogság a lehető legtöbb ember számára).
+
+A haszonelvűség, lévén konzekvencionalista (azaz a tett helyességét az eredménye igazolja), élesen szemben áll az arisztotelészi és keresztény etikával, ahol a jó cselekedet végrehajtása önmagában erényes.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Utilitarizmus)

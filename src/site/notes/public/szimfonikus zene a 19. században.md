@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/szimfonikus-zene-a-19-szazadban/","dg-note-properties":{"subject":["zenetöri"],"type":["korszak","műfaj"]}}
+{"dg-publish":true,"permalink":"/public/szimfonikus-zene-a-19-szazadban/","dg-note-properties":{"permalink":"/szimfonikus-zene-a-19-szazadban/"}}
 ---
+
 
 > szimfónia és szimfonikus költemény, BERLIOZ, SCHUBERT, MENDELSSOHN, SCHUMANN, LISZT, BRAHMS, az [[public/abszolút zene\|abszolút zene]] eszméje és az Újnémet Iskola]
 
@@ -26,3 +27,6 @@
 	- zene mint autonóm művészet
 	- [[public/Eduard Hanslick\|Eduard Hanslick]] - *a zenei szép*
 	- nem függ rajta kívüli tartalomtól, egyedül a hangokban és azok művészi összekapcsolásában rejlik szépsége, önmagukban vonzó hangzások
+
+---
+[^]: [[Általános zenetörténet IV. szemeszter - 6.tétel Szimfonikus zene a 19.sz.ban.pdf\|Általános zenetörténet IV. szemeszter - 6.tétel Szimfonikus zene a 19.sz.ban.pdf]]

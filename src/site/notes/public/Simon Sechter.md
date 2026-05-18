@@ -3,4 +3,5 @@
 ---
 
 
+
 - [[public/Schubert\|Schubert]] utolsó éveiben elment hozzá ellenpontot tanulni

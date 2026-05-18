@@ -3,6 +3,7 @@
 ---
 
 
+
 ## Kor
 - manierizmus
 - kereskedelem, tudomány, hadászat virágzása

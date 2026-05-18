@@ -3,6 +3,7 @@
 ---
 
 
+
 <mark>1860-1903</mark>
 
 - **[[Möricke\|Möricke]], [[Eichendorf\|Eichendorf]], [[public/Goethe\|Goethe]] versei**

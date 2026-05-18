@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/debussy/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
+{"dg-publish":true,"permalink":"/public/debussy/","dg-note-properties":{"permalink":"/public/debussy/"}}
 ---
+
 
 - <mark>1862-1918</mark>
 - *Suite bergamasque* (1890 körül kezdte)

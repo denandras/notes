@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/vilagi-mufajok-a-16-szazadban/","dg-note-properties":{"subject":["zenetöri"],"type":["korszak"]}}
+{"dg-publish":true,"permalink":"/public/vilagi-mufajok-a-16-szazadban/","dg-note-properties":{"permalink":"/vilagi-mufajok-a-16-szazadban/"}}
 ---
+
 
 -   francia területeken lévő műfajok
 -   kottanyomtatás

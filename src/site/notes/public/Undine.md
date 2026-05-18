@@ -3,6 +3,7 @@
 ---
 
 
+
 [[public/E T A Hoffmann\|E T A Hoffmann]][^1]
 
 > hasonlóság [[Tannhäuser\|Tannhäuser]]rel, [[A bolygó hollandi\|A bolygó hollandi]]val, [[public/Lohengrin\|Lohengrin]]nel, stb.

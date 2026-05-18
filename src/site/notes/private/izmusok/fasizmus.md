@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/fasizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"fasizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/fasizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

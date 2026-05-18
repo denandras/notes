@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Rilke - Orpheusz, Eurüdiké, Hermész.md","permalink":"/rilke-orpheusz-euruedike-hermesz/","dg-note-properties":{"permalink":"/rilke-orpheusz-euruedike-hermesz/"}}
+{"dg-publish":true,"permalink":"/public/rilke-orpheusz-euruedike-hermesz/","dg-note-properties":{"type":"mű"}}
 ---
 
 

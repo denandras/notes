@@ -3,6 +3,7 @@
 ---
 
 
+
 - irodalmi divat, 18. század
 	- [[Thomas Percy\|Thomas Percy]] balladáskötete
 	- [[Johann Gottfried Herder\|Johann Gottfried Herder]] *Volkslieder*-kötete sok nemzet kultúrájából

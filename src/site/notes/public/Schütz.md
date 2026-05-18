@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Schütz.md","permalink":"/schuetz/","dg-note-properties":{"permalink":"/schuetz/"}}
+{"dg-publish":true,"permalink":"/public/schuetz/","dg-note-properties":{"permalink":"/schuetz/"}}
 ---
 
 

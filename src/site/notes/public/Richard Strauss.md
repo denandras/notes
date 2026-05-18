@@ -3,6 +3,7 @@
 ---
 
 
+
 <mark>1864-1949</mark>
 
 - szemben áll a normális világgal

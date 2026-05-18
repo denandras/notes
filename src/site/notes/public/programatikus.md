@@ -3,6 +3,7 @@
 ---
 
 
+
 = programszerű
 
 -   programadó, programot kifejtő

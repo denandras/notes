@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/feminizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"feminizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/feminizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

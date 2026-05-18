@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/posztmodern-muveszet/","dg-note-properties":{"subject":"posztmodern"}}
+{"dg-publish":true,"permalink":"/public/posztmodern-muveszet/","dg-note-properties":{"permalink":"/posztmodern-muveszet/"}}
 ---
+
 
 ### Posztmodern művészet
 
@@ -37,7 +38,7 @@
 		- értékek feloldás nélküli ütköztetése
 	- [[Az ember tragédiája\|Az ember tragédiája]]
 	- [[Báró Kemény Zsigmond\|Báró Kemény Zsigmond]]
-- [[Jean-Paul Sartre - A fal\|Jean-Paul Sartre - A fal]] - egzisztencialista
+- [[Jean Paul Sartre - A fal\|Jean Paul Sartre - A fal]] - egzisztencialista
 - hierarchiaellenes: elit és pop közötti határ megszűnése
 - [[Martin McDonald\|Martin McDonald]]
 - Turing-teszt
@@ -106,7 +107,7 @@
 			- jobb emberré válás, emancipáció - [[public/Schiller\|Schiller]]
 	- most:
 		- [[public/Mátépassió\|Mátépassió]] élvezetet okozhat
-		- [[private/Immanuel Kant\|Immanuel Kant]] - találkozzunk a műalkotásokkal és kezdjük el megérteni saját életünket
+		- [[Kant\|Kant]] - találkozzunk a műalkotásokkal és kezdjük el megérteni saját életünket
 [[John Adams\|John Adams]], [[Philippe Glass\|Philippe Glass]]
 - körkép a posztmodern művészetről
 	- `20.` század végén a magas művészet visszaszorul

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/erdody-kvartett/","dg-note-properties":{"subject":["zenetöri"],"type":["mű"]}}
+{"dg-publish":true,"permalink":"/public/erdody-kvartett/","dg-note-properties":{"permalink":"/erdody-kvartett/"}}
 ---
+
 
 [[public/Haydn\|Haydn]]
 

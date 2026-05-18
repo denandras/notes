@@ -3,6 +3,7 @@
 ---
 
 
+
 - templomi szimfónia
 - lassú nyitótétel
 - hatással van rá a romantika

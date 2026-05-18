@@ -3,6 +3,7 @@
 ---
 
 
+
 Orfeo et Eurudice
 - [[public/Monteverdi\|Monteverdi]], 1607, Mantova
 - műfaj: *"favola di musica"* = zenei színmű, *"dramma per musica"* = dráma zenén keresztül

@@ -3,5 +3,6 @@
 ---
 
 
+
 - tanult [[public/Girolamo Frescobaldi\|Girolamo Frescobaldi]]nál
 - Bécsi császári udvar csemballistája

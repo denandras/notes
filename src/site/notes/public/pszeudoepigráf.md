@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pszeudoepigráf.md","permalink":"/pszeudoepigraf/","dg-note-properties":{"permalink":"/pszeudoepigraf/"}}
+{"dg-publish":true,"permalink":"/public/pszeudoepigraf/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

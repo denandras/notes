@@ -3,6 +3,7 @@
 ---
 
 
+
 # Carl Philipp Emanuel Bach
 
 > [[public/Bach\|Bach]] gyermeke, <mark>1714-1788</mark>, Weimarban született

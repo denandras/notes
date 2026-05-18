@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"szoliptikus.md","permalink":"/szoliptikus/","dg-note-properties":{"permalink":"/public/szoliptikus/"}}
+{"dg-publish":true,"dg-path":"szoliptikus.md","permalink":"/szoliptikus/","dg-note-properties":{"permalink":"/szoliptikus/"}}
 ---
+
 
 
 

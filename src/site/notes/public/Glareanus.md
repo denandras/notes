@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/glareanus/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
+{"dg-publish":true,"permalink":"/public/glareanus/","dg-note-properties":{"permalink":"/public/glareanus/"}}
 ---
 
-Svájci [[public/Humanizmus\|humanista]]
+
+Svájci [[public/humanizmus\|humanista]]

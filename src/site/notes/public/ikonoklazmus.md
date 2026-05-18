@@ -4,4 +4,5 @@
 
 
 
+
 Képrombolás, szenteket, isteneket megjelenítő ábrázolások eltávolítása, lerombolása.

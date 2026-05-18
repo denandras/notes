@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/poppea-megkoronazasa/","dg-note-properties":{"subject":["zenetöri"],"type":["mű"]}}
+{"dg-publish":true,"permalink":"/public/poppea-megkoronazasa/","dg-note-properties":{"permalink":"/poppea-megkoronazasa/"}}
 ---
+
 
 - pár évvel [[public/Monteverdi\|Monteverdi]] halála előtt (1643) mutatták be
 - ([[public/Francesco Cavalli\|Francesco Cavalli]] archívumot hozott létre, ezért fennmaradtak operák)

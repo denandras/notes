@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/idoerzekeles/","dg-note-properties":{"subject":"akusztika","type":null}}
+{"dg-publish":true,"permalink":"/public/idoerzekeles/","dg-note-properties":{"permalink":"/idoerzekeles/"}}
 ---
+
 
 - relatív
 - vannak olyan sejtjeing, amelyek ezt mérik

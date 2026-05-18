@@ -3,6 +3,7 @@
 ---
 
 
+
 [[public/Gluck\|Gluck]]: Alkésztisz
 - leszámol minden ferdeséggel, mely a szerzők hiúságából fakad, és lealacsonyítja a populáris cirádás zenét
 - vokális virtuozitás ne legyen az opera fő célja

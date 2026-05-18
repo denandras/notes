@@ -3,6 +3,7 @@
 ---
 
 
+
 Az organum a többszólamú zenei kompozíciók összefoglaló neve a 9–12. században.
 
 A többszólamú éneklés minden bizonnyal hosszú múltra tekinthet vissza, ám legkorábbi írott emlékei Európában csak a 9. század legvégéről származnak, a [[public/Musica Enchiriadis\|Musica Enchiriadis]], nevű traktátusból. Az organum ettől kezdve azt a gyakorlatot testesíti meg, hogy egy gregorián énekhez hozzáénekeltek egy másik szólamot. Ezt az eljárást még sokáig díszítésnek, tropizálásnak tekintették.

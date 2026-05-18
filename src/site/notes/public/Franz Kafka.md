@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/franz-kafka/","dg-note-properties":{"type":["személy"],"subject":["posztmodern"]}}
+{"dg-publish":true,"permalink":"/public/franz-kafka/","dg-note-properties":{"permalink":"/public/franz-kafka/"}}
 ---
+
 
 #üres 
 - [[Franz Kafka - Az átváltozás\|Franz Kafka - Az átváltozás]]

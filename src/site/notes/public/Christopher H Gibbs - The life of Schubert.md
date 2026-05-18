@@ -3,6 +3,7 @@
 ---
 
 
+
 ### 00. Schubert tegnap
 
 - [[public/Beethoven\|Beethoven]] hatása kikerülhetetlen volt

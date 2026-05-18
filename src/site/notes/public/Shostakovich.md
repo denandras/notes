@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/shostakovich/","dg-note-properties":{"subject":"zenetöri","type":null}}
+{"dg-publish":true,"permalink":"/public/shostakovich/","dg-note-properties":{"permalink":"/public/shostakovich/"}}
 ---
+
 
 - Dmitrij Dmitrijevics Shostakovich
 - <mark>1906-1975</mark>

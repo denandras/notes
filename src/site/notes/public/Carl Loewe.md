@@ -4,6 +4,7 @@
 
 
 
+
 <mark>1796-1868</mark>
 
 - Hallehoz közeli Löbejün

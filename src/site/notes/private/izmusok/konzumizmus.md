@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/konzumizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"konzumizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/konzumizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 
-A konzumizmus (vagy fogyasztóizmus) a kortárs társadalmak olyan jellemzője, amely egy társadalom lényegét a tagjai által – pénz vagy egyéb ellenérték fejében – nyújtott szolgáltatások, gyártott és értékesített termékek fogyasztásában látja. A konzumizmus a fogyasztói társadalomhoz kapcsolódó értékrend, amelyben a boldogság és az életminőség mércéje az anyagi javak birtoklása és fogyasztása.
+A konzumizmus (vagy konzumerizmus) a kortársi társadalmak olyan jellemzője, amely egy társadalom lényegét a tagjai által – pénz vagy egyéb ellenérték fejében – nyújtott szolgáltatások, gyártott és értékesített termékek fogyasztásában látja. Ebben a felfogásban mind az áruk, mind a szolgáltatások olyan széles skálában állnak rendelkezésre, hogy a társadalom pénzügyi eszközökkel egyenlőtlenül rendelkező tagjai közel a lehetőségeik szerint tudjanak részt venni az anyagi helyzetüknek megfelelő fogyasztásban.
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Konzumizmus))
+A folyamatot vagy ciklust az tartja életben, hogy mindenkinek pénzt kell szerezni először, hogy szolgáltatást vagy árut tudjon beszerezni a piacon.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Konzumizmus)

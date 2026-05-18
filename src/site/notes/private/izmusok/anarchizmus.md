@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/anarchizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"anarchizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/anarchizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 
-Az anarchizmus baloldali politikai ideológiája elutasítja az emberek uralmát más emberek felett, bármiféle társadalmi hierarchiát. Magába foglalja azokat az elméleteket és a meggyőződéseket, melyek támogatják minden kötelező, szabályozott kormányzati hatalom megszüntetését. Az anarchisták szerint a társadalom önkéntes együttműködésen alapulhat, kényszerítő erő nélkül.
+Az anarchizmus (a görög Αναρχος-ból: uralomnélküliség) baloldali politikai ideológiája, elutasítja az emberek uralmát más emberek felett, bármiféle társadalmi hierarchiát. Magába foglalja azokat az elméleteket és a meggyőződéseket, melyek támogatják minden kötelező érvényű kormányzat, az állam eltörlését.
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Anarchizmus))
+Az anarchizmus célja a szociális igazságtalanságok kiküszöbölése az egyenlő lehetőségek megteremtésével. Legátfogóbb értelemben uralomnélküliség (anarchia), mely alatt azon politikai rendszert kell érteni, amely minden külső hatalom és erőszak nélkül, tisztán az emberek szabad, testvéri együttélésén alapszik.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Anarchizmus)

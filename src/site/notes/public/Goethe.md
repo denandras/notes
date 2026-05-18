@@ -3,6 +3,7 @@
 ---
 
 
+
 <mark>1749-1832</mark>
 
 - német irodalmi népiesség irányzata

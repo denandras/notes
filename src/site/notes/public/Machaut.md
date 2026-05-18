@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/machaut/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
+{"dg-publish":true,"permalink":"/public/machaut/","dg-note-properties":{"permalink":"/public/machaut/"}}
 ---
+
 
 # Gillaume de Machaut
 

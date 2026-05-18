@@ -3,6 +3,8 @@
 ---
 
 
-Az ateizmus az istenhit tagadása, vagy az istenek létezésének valószínűtlenségét állító álláspont. Az ateizmus elutasítja a teista hittételt, miszerint egy vagy több isten létezik. Az ateista világnézet nem vallás, hanem a teizmus elutasítása vagy tagadása. A modern ateizmus gyakran racionalista és szekuláris alapokon nyugszik.
+Az ateizmus azon emberek világnézetének gyűjtőneve, akiknek egyetlen közös tulajdonsága, hogy nem hisznek isten(ek)ben. Az ateizmus nem egy hit, és nem egy vallás.
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Ateizmus))
+Az ateisták különbözőképpen viszonyulhatnak a vallásokhoz és az istenhit kérdéséhez, nincs szükségképpen közös világképük, az ateizmus nem egy ideológia. Az ateizmusnak nincsenek vezetői, nincs szentkönyve, nincs erkölcsi szabrendszere. A legtöbb ateista a szekuláris humanizmus elveit tudja magáénak.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Ateizmus)

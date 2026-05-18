@@ -3,6 +3,7 @@
 ---
 
 
+
 - ír virtuóz
 	- nemzetközi karrier
 - [[M Clementi\|M Clementi]] tanítványa

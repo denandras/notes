@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/homepage/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/public/homepage/","tags":["gardenEntry"],"dg-note-properties":{"permalink":"/public/homepage/","tags":["gardenEntry"]}}
 ---
+
 
 ## Ezen a Wikipedia-szerű oldalon megtalálható minden zeneakadémiai jegyzetem az alábbi témakörökben
 

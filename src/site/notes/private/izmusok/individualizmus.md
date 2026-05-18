@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/private/izmusok/individualizmus/","dg-note-properties":{"type":"fogalom","idegenszo":"individualizmus"}}
+{"dg-publish":true,"permalink":"/private/izmusok/individualizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 
-Az individualizmus politikai és filozófiai ideológia, amely az egyén értékét, jogait és szabadságát helyezi előtérbe a kollektív érdekekkel szemben. Az individualisták szerint a társadalom célja az egyének boldogságának és fejlődésének szolgálata. Az egyéni szabadság, a joguralom és az önrendelkezés elsődlegességét hirdető felfogás.
+Az individualizmus kifejezés egy erkölcsi rendszert, egy politikai, társadalmi szemléletmódot, gondolkodást jelent, amelyben az egyén áll a középpontban, a saját magárahagyottságával és szabadságával.
 
-Forrás: ([Wikipédia](https://hu.wikipedia.org/wiki/Individualizmus))
+Az individualisták az egyéni célok és vágyak elérését állítják a középpontba, elvetve a külső befolyást, jöjjön az akár társadalomtól, államtól vagy más egyéntől, csoportosulástól vagy intézménytől.
+
+Az individualizmus szembehelyezkedik a holizmussal, a kollektivizmussal, a fasizmussal, a kommunalizmussal, az etatizmussal, a totalitarianizmussal és a kommunitarianizmussal, amelyek mind arra épülnek hogy bizonyos közösségi vagy csoportérdekek, össztársadalmi célkitűzések, esetleg faji vagy nemzeti alapú érdekközösségek elsőbbséget élveznek az egyéni boldogulással szemben.
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Individualizmus)

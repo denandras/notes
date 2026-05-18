@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/antoine-dauvergne/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
+{"dg-publish":true,"permalink":"/public/antoine-dauvergne/","dg-note-properties":{"permalink":"/public/antoine-dauvergne/"}}
 ---
+
 
 ## [Wiki](https://www.wikiwand.com/en/Antoine_Dauvergne)
 

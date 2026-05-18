@@ -3,6 +3,7 @@
 ---
 
 
+
 > [[public/Bach\|Bach]] gyermeke, Lipcsében született, <mark>1735-1782</mark>
 
 - [[public/C P E Bach\|C P E Bach]] tökéletes ellentéte

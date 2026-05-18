@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/racionalizmus/","dg-note-properties":{"subject":["zenetöri"],"type":["fogalom"]}}
+{"dg-publish":true,"permalink":"/public/racionalizmus/","dg-note-properties":{"permalink":"/public/racionalizmus/"}}
 ---
+
 
 - [[public/René Descartes\|René Descartes]]
 - [[Baruch Spinosa\|Baruch Spinosa]]

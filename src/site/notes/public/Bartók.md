@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/bartok/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
+{"dg-publish":true,"permalink":"/public/bartok/","dg-note-properties":{"permalink":"/bartok/"}}
 ---
+
 
 [[public/zenetöri\|zenetöri]] & [[public/magyar zenetöri\|magyar zenetöri]] egyesítve
 
@@ -112,7 +113,7 @@
 		- zenedramaturgiai érzéke kitartott
 - *Zarathustra*
 	- 9 részre oszlik
-	- a szakaszmottók [[private/Friedrich Nietzsche\|Friedrich Nietzsche]] egyes fejezetcímei
+	- a szakaszmottók [[Nietzsche\|Nietzsche]] egyes fejezetcímei
 	- [[Kálmán Imre\|Kálmán Imre]] *Zarathustra*-elemzése
 	- mű státusza, cikk a Budapesti Naplóban
 		- **frankfurti ősbemutató**
@@ -139,12 +140,12 @@
 		- szemlélet: ahogy a zene eszközeiben gazdagodik, úgy fejlődik a közönség füle -><- de régi zenét kezdenek játszani
 		- ha erről írunk zenét, miért nem bármi másról?
 		- [[public/Bartók\|Bartók]] tisztában volt azzal, hogy szembemegy az átlag véleménnyel
-		- [[Franz Strauss\|Franz Strauss]] [[private/Friedrich Nietzsche\|Friedrich Nietzsche]]-értelmezése sokszor szembemegy azzal, amit [[private/Friedrich Nietzsche\|Friedrich Nietzsche]] állít, ezt [[Merkler Andor\|Merkler Andor]] jól látja
+		- [[Franz Strauss\|Franz Strauss]] [[Nietzsche\|Nietzsche]]-értelmezése sokszor szembemegy azzal, amit [[Nietzsche\|Nietzsche]] állít, ezt [[Merkler Andor\|Merkler Andor]] jól látja
 	- Pesti Napló ([[public/Bartók\|Bartók]] mellett kiálló zenekritika fontos fóruma lesz)
 		- legújabb német zenei irányzat legjelentősebb műve
 		- "szelíd"
 		- a momentumok csak formális kellékek
-		- a probléma, miszerint nem azonos [[private/Friedrich Nietzsche\|Friedrich Nietzsche]]vel, nem is létezik
+		- a probléma, miszerint nem azonos [[Nietzsche\|Nietzsche]]vel, nem is létezik
 		- banális
 		- sablonos zenei eszközök
 		- úgy tesz, mintha programzenét írna

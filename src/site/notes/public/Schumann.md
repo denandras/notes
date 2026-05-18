@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/schumann/","dg-note-properties":{"subject":["zenetöri"],"type":["személy"]}}
+{"dg-publish":true,"permalink":"/public/schumann/","dg-note-properties":{"permalink":"/public/schumann/"}}
 ---
+
 
 <3 [[Clara Schumann\|Clara Schumann]]
 ### Robert Schumann

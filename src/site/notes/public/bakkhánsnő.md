@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"bakkhánsnő.md","permalink":"/bakkhansno/","dg-note-properties":{"permalink":"/bakkhansno/"}}
+{"dg-publish":true,"permalink":"/public/bakkhansno/","dg-note-properties":{"permalink":"/bakkhansno/"}}
 ---
 
 

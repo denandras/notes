@@ -3,4 +3,5 @@
 ---
 
 
+
 zenei kritikus, esztéta, a zene gyakorlatából indult ki

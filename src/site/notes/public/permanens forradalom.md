@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/permanens-forradalom/","dg-note-properties":{"subject":["művészettörténet"],"type":["korszak"]}}
+{"dg-publish":true,"permalink":"/public/permanens-forradalom/","dg-note-properties":{"permalink":"/public/permanens-forradalom/"}}
 ---
+
 
 - milyen kiutak vannak a [[public/rokokó\|rokokó]]ból?
 	- [[public/klasszicizmus\|klasszicizmus]]

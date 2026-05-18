@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"modernitás.md","permalink":"/modernitas/","dg-note-properties":{"permalink":"/modernitas/"}}
+{"dg-publish":true,"permalink":"/public/modernitas/","dg-note-properties":{"permalink":"/modernitas/"}}
 ---
 
 
