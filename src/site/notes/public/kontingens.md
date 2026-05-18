@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"kontingens.md","permalink":"/kontingens/","dg-note-properties":{"permalink":"/public/kontingens/"}}
+{"dg-publish":true,"dg-path":"kontingens.md","permalink":"/kontingens/","dg-note-properties":{"permalink":"/kontingens/"}}
 ---
+
 
 
 

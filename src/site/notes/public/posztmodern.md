@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/public/posztmodern/","dg-note-properties":{"subject":["posztmodern"],"type":["témakör"]}}
+{"dg-publish":true,"permalink":"/public/posztmodern/","dg-note-properties":{"permalink":"/public/posztmodern/"}}
 ---
+
 
 > [[P Sloterdijk\|P Sloterdijk]]: *"Aki szédül, az nincs informálva"*
 > (de nem mindenki szeret szédülni)
