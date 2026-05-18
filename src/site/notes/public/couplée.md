@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"couplée.md","permalink":"/couplee/","dg-note-properties":{"permalink":"/couplee/"}}
+{"dg-publish":true,"permalink":"/public/couplee/","dg-note-properties":{"permalink":"/couplee/"}}
 ---
 
 

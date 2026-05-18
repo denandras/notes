@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Debussy.md","permalink":"/debussy/","dg-note-properties":{"permalink":"/public/debussy/"}}
+{"dg-publish":true,"permalink":"/public/debussy/","dg-note-properties":{"permalink":"/public/debussy/"}}
 ---
 
 

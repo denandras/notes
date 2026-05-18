@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bartók.md","permalink":"/bartok/","dg-note-properties":{"permalink":"/bartok/"}}
+{"dg-publish":true,"permalink":"/public/bartok/","dg-note-properties":{"permalink":"/bartok/"}}
 ---
 
 

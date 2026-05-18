@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"egzisztencializmus.md","permalink":"/egzisztencializmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/egzisztencializmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

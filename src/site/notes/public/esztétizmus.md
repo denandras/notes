@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"esztétizmus.md","permalink":"/esztetizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/esztetizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

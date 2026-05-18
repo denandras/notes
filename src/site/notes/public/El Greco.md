@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"El Greco.md","permalink":"/el-greco/","dg-note-properties":{"permalink":"/public/el-greco/"}}
+{"dg-publish":true,"permalink":"/public/el-greco/","dg-note-properties":{"permalink":"/public/el-greco/"}}
 ---
 
 

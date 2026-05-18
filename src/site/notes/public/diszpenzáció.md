@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"diszpenzáció.md","permalink":"/diszpenzacio/","dg-note-properties":{"permalink":"/diszpenzacio/"}}
+{"dg-publish":true,"permalink":"/public/diszpenzacio/","dg-note-properties":{"permalink":"/diszpenzacio/"}}
 ---
 
 

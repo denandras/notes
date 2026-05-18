@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Shostakovich.md","permalink":"/shostakovich/","dg-note-properties":{"permalink":"/public/shostakovich/"}}
+{"dg-publish":true,"permalink":"/public/shostakovich/","dg-note-properties":{"permalink":"/public/shostakovich/"}}
 ---
 
 

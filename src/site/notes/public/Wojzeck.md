@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Wojzeck.md","permalink":"/wojzeck/","dg-note-properties":{"permalink":"/public/wojzeck/"}}
+{"dg-publish":true,"permalink":"/public/wojzeck/","dg-note-properties":{"permalink":"/public/wojzeck/"}}
 ---
 
 

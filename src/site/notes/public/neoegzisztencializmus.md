@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"neoegzisztencializmus.md","permalink":"/neoegzisztencializmus/","dg-note-properties":{"permalink":"/public/neoegzisztencializmus/"}}
+{"dg-publish":true,"permalink":"/public/neoegzisztencializmus/","dg-note-properties":{"permalink":"/public/neoegzisztencializmus/"}}
 ---
 
 

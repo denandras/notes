@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Salieri.md","permalink":"/salieri/","dg-note-properties":{"permalink":"/public/salieri/"}}
+{"dg-publish":true,"permalink":"/public/salieri/","dg-note-properties":{"permalink":"/public/salieri/"}}
 ---
 
 

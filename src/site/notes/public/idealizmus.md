@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"idealizmus.md","permalink":"/idealizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/idealizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"FOMO.md","permalink":"/fomo/","dg-note-properties":{"permalink":"/public/fomo/"}}
+{"dg-publish":true,"permalink":"/public/fomo/","dg-note-properties":{"permalink":"/public/fomo/"}}
 ---
 
 

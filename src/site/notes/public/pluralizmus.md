@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pluralizmus.md","permalink":"/pluralizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/pluralizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

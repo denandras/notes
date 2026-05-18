@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"művészettörténet.md","permalink":"/muveszettoertenet/","dg-note-properties":{"permalink":"/muveszettoertenet/"}}
+{"dg-publish":true,"permalink":"/public/muveszettoertenet/","dg-note-properties":{"permalink":"/muveszettoertenet/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"angol zenei kultúra.md","permalink":"/angol-zenei-kultura/","dg-note-properties":{"permalink":"/angol-zenei-kultura/"}}
+{"dg-publish":true,"permalink":"/public/angol-zenei-kultura/","dg-note-properties":{"permalink":"/angol-zenei-kultura/"}}
 ---
 
 

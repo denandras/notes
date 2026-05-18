@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"abszolutizmus.md","permalink":"/abszolutizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/abszolutizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

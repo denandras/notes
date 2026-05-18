@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"permeate.md","permalink":"/permeate/","dg-note-properties":{"permalink":"/public/permeate/"}}
+{"dg-publish":true,"permalink":"/public/permeate/","dg-note-properties":{"permalink":"/public/permeate/"}}
 ---
 
 

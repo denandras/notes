@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"weimari klasszika.md","permalink":"/weimari-klasszika/","dg-note-properties":{"permalink":"/public/weimari-klasszika/"}}
+{"dg-publish":true,"permalink":"/public/weimari-klasszika/","dg-note-properties":{"permalink":"/public/weimari-klasszika/"}}
 ---
 
 

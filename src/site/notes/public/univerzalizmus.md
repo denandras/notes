@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"univerzalizmus.md","permalink":"/univerzalizmus/","dg-note-properties":{"permalink":"/public/univerzalizmus/"}}
+{"dg-publish":true,"permalink":"/public/univerzalizmus/","dg-note-properties":{"permalink":"/public/univerzalizmus/"}}
 ---
 
 

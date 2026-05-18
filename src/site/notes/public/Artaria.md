@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Artaria.md","permalink":"/artaria/","dg-note-properties":{"permalink":"/public/artaria/"}}
+{"dg-publish":true,"permalink":"/public/artaria/","dg-note-properties":{"permalink":"/public/artaria/"}}
 ---
 
 

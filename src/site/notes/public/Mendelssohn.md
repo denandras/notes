@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Mendelssohn.md","permalink":"/mendelssohn/","dg-note-properties":{"permalink":"/public/mendelssohn/"}}
+{"dg-publish":true,"permalink":"/public/mendelssohn/","dg-note-properties":{"permalink":"/public/mendelssohn/"}}
 ---
 
 

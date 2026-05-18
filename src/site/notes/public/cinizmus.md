@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"cinizmus.md","permalink":"/cinizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/cinizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

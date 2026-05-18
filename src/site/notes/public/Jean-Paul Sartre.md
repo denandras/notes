@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Jean-Paul Sartre.md","permalink":"/jean-paul-sartre/","dg-note-properties":{"permalink":"/public/jean-paul-sartre/"}}
+{"dg-publish":true,"permalink":"/public/jean-paul-sartre/","dg-note-properties":{"permalink":"/public/jean-paul-sartre/"}}
 ---
 
 

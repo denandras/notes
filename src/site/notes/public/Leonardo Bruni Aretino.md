@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Leonardo Bruni Aretino.md","permalink":"/leonardo-bruni-aretino/","dg-note-properties":{"permalink":"/public/leonardo-bruni-aretino/"}}
+{"dg-publish":true,"permalink":"/public/leonardo-bruni-aretino/","dg-note-properties":{"permalink":"/public/leonardo-bruni-aretino/"}}
 ---
 
 

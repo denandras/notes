@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Paganini.md","permalink":"/paganini/","dg-note-properties":{"permalink":"/public/paganini/"}}
+{"dg-publish":true,"permalink":"/public/paganini/","dg-note-properties":{"permalink":"/public/paganini/"}}
 ---
 
 

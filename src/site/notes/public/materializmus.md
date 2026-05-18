@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"materializmus.md","permalink":"/materializmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/materializmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

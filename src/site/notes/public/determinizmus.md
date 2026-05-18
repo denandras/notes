@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"determinizmus.md","permalink":"/determinizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/determinizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

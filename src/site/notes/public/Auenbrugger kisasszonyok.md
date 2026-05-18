@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Auenbrugger kisasszonyok.md","permalink":"/auenbrugger-kisasszonyok/","dg-note-properties":{"permalink":"/public/auenbrugger-kisasszonyok/"}}
+{"dg-publish":true,"permalink":"/public/auenbrugger-kisasszonyok/","dg-note-properties":{"permalink":"/public/auenbrugger-kisasszonyok/"}}
 ---
 
 

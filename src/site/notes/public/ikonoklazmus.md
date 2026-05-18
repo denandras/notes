@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ikonoklazmus.md","permalink":"/ikonoklazmus/","dg-note-properties":{"permalink":"/public/ikonoklazmus/"}}
+{"dg-publish":true,"permalink":"/public/ikonoklazmus/","dg-note-properties":{"permalink":"/public/ikonoklazmus/"}}
 ---
 
 

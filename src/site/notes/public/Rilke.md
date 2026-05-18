@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Rilke.md","permalink":"/rilke/","dg-note-properties":{"permalink":"/public/rilke/"}}
+{"dg-publish":true,"permalink":"/public/rilke/","dg-note-properties":{"permalink":"/public/rilke/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"rokokó.md","permalink":"/rokoko/","dg-note-properties":{"permalink":"/rokoko/"}}
+{"dg-publish":true,"permalink":"/public/rokoko/","dg-note-properties":{"permalink":"/rokoko/"}}
 ---
 
 

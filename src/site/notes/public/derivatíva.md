@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"derivatíva.md","permalink":"/derivativa/","dg-note-properties":{"permalink":"/public/derivativa/"}}
+{"dg-publish":true,"permalink":"/public/derivativa/","dg-note-properties":{"permalink":"/public/derivativa/"}}
 ---
 
 

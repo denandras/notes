@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Leonardo Vinci.md","permalink":"/leonardo-vinci/","dg-note-properties":{"permalink":"/public/leonardo-vinci/"}}
+{"dg-publish":true,"permalink":"/public/leonardo-vinci/","dg-note-properties":{"permalink":"/public/leonardo-vinci/"}}
 ---
 
 

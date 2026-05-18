@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"dualizmus.md","permalink":"/dualizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/dualizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

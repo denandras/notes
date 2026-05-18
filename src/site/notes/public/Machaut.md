@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Machaut.md","permalink":"/machaut/","dg-note-properties":{"permalink":"/public/machaut/"}}
+{"dg-publish":true,"permalink":"/public/machaut/","dg-note-properties":{"permalink":"/public/machaut/"}}
 ---
 
 

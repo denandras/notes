@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Erdődy-kvártett.md","permalink":"/erdody-kvartett/","dg-note-properties":{"permalink":"/erdody-kvartett/"}}
+{"dg-publish":true,"permalink":"/public/erdody-kvartett/","dg-note-properties":{"permalink":"/erdody-kvartett/"}}
 ---
 
 

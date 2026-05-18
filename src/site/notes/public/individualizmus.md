@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"individualizmus.md","permalink":"/individualizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/individualizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

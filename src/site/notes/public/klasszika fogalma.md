@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"klasszika fogalma.md","permalink":"/klasszika-fogalma/","dg-note-properties":{"permalink":"/public/klasszika-fogalma/"}}
+{"dg-publish":true,"permalink":"/public/klasszika-fogalma/","dg-note-properties":{"permalink":"/public/klasszika-fogalma/"}}
 ---
 
 

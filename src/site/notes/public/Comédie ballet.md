@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Comédie ballet.md","permalink":"/comedie-ballet/","dg-note-properties":{"permalink":"/comedie-ballet/"}}
+{"dg-publish":true,"permalink":"/public/comedie-ballet/","dg-note-properties":{"permalink":"/comedie-ballet/"}}
 ---
 
 

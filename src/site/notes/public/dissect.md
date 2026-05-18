@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"dissect.md","permalink":"/dissect/","dg-note-properties":{"permalink":"/public/dissect/"}}
+{"dg-publish":true,"permalink":"/public/dissect/","dg-note-properties":{"permalink":"/public/dissect/"}}
 ---
 
 

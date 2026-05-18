@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"panteizmus.md","permalink":"/panteizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/panteizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stradivari.md","permalink":"/stradivari/","dg-note-properties":{"permalink":"/public/stradivari/"}}
+{"dg-publish":true,"permalink":"/public/stradivari/","dg-note-properties":{"permalink":"/public/stradivari/"}}
 ---
 
 

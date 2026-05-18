@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"szubjektivizmus.md","permalink":"/szubjektivizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/szubjektivizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

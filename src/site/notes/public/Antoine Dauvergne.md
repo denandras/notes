@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Antoine Dauvergne.md","permalink":"/antoine-dauvergne/","dg-note-properties":{"permalink":"/public/antoine-dauvergne/"}}
+{"dg-publish":true,"permalink":"/public/antoine-dauvergne/","dg-note-properties":{"permalink":"/public/antoine-dauvergne/"}}
 ---
 
 

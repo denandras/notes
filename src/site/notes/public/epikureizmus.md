@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"epikureizmus.md","permalink":"/epikureizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/epikureizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

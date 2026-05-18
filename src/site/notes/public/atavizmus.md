@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"atavizmus.md","permalink":"/atavizmus/","dg-note-properties":{"permalink":"/public/atavizmus/"}}
+{"dg-publish":true,"permalink":"/public/atavizmus/","dg-note-properties":{"permalink":"/public/atavizmus/"}}
 ---
 
 

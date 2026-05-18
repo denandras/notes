@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"imperializmus.md","permalink":"/imperializmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/imperializmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

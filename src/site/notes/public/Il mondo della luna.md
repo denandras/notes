@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Il mondo della luna.md","permalink":"/il-mondo-della-luna/","dg-note-properties":{"permalink":"/public/il-mondo-della-luna/"}}
+{"dg-publish":true,"permalink":"/public/il-mondo-della-luna/","dg-note-properties":{"permalink":"/public/il-mondo-della-luna/"}}
 ---
 
 

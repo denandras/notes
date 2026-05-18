@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fasizmus.md","permalink":"/fasizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/fasizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

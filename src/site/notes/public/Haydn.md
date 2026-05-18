@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Haydn.md","permalink":"/haydn/","dg-note-properties":{"permalink":"/public/haydn/"}}
+{"dg-publish":true,"permalink":"/public/haydn/","dg-note-properties":{"permalink":"/public/haydn/"}}
 ---
 
 

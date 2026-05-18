@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pledge.md","permalink":"/pledge/","dg-note-properties":{"permalink":"/public/pledge/"}}
+{"dg-publish":true,"permalink":"/public/pledge/","dg-note-properties":{"permalink":"/public/pledge/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Girolamo Frescobaldi.md","permalink":"/girolamo-frescobaldi/","dg-note-properties":{"permalink":"/public/girolamo-frescobaldi/"}}
+{"dg-publish":true,"permalink":"/public/girolamo-frescobaldi/","dg-note-properties":{"permalink":"/public/girolamo-frescobaldi/"}}
 ---
 
 

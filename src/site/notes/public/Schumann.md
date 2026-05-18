@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Schumann.md","permalink":"/schumann/","dg-note-properties":{"permalink":"/public/schumann/"}}
+{"dg-publish":true,"permalink":"/public/schumann/","dg-note-properties":{"permalink":"/public/schumann/"}}
 ---
 
 

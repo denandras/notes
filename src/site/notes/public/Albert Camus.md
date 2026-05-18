@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Albert Camus.md","permalink":"/albert-camus/","dg-note-properties":{"permalink":"/public/albert-camus/"}}
+{"dg-publish":true,"permalink":"/public/albert-camus/","dg-note-properties":{"permalink":"/public/albert-camus/"}}
 ---
 
 

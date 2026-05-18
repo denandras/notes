@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"a középkori zene.md","permalink":"/a-koezepkori-zene/","dg-note-properties":{"permalink":"/a-koezepkori-zene/"}}
+{"dg-publish":true,"permalink":"/public/a-koezepkori-zene/","dg-note-properties":{"permalink":"/a-koezepkori-zene/"}}
 ---
 
 

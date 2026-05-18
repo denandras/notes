@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"tahográf.md","permalink":"/tahograf/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/tahograf/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

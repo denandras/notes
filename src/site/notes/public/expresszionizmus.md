@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"expresszionizmus.md","permalink":"/expresszionizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/expresszionizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"acciaccatura.md","permalink":"/acciaccatura/","dg-note-properties":{"permalink":"/public/acciaccatura/"}}
+{"dg-publish":true,"permalink":"/public/acciaccatura/","dg-note-properties":{"permalink":"/public/acciaccatura/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"prevalent.md","permalink":"/prevalent/","dg-note-properties":{"permalink":"/public/prevalent/"}}
+{"dg-publish":true,"permalink":"/public/prevalent/","dg-note-properties":{"permalink":"/public/prevalent/"}}
 ---
 
 

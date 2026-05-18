@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Perotinus.md","permalink":"/perotinus/","dg-note-properties":{"permalink":"/public/perotinus/"}}
+{"dg-publish":true,"permalink":"/public/perotinus/","dg-note-properties":{"permalink":"/public/perotinus/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hübrisz.md","permalink":"/huebrisz/","dg-note-properties":{"permalink":"/public/huebrisz/"}}
+{"dg-publish":true,"permalink":"/public/huebrisz/","dg-note-properties":{"permalink":"/public/huebrisz/"}}
 ---
 
 

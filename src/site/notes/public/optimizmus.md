@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"optimizmus.md","permalink":"/optimizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/optimizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

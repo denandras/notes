@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"nacionalizmus.md","permalink":"/nacionalizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/nacionalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

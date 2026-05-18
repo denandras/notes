@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Kárpáti János.md","permalink":"/karpati-janos/","dg-note-properties":{"permalink":"/public/karpati-janos/"}}
+{"dg-publish":true,"permalink":"/public/karpati-janos/","dg-note-properties":{"permalink":"/public/karpati-janos/"}}
 ---
 
 

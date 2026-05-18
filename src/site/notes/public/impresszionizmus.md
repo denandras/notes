@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"impresszionizmus.md","permalink":"/impresszionizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/impresszionizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

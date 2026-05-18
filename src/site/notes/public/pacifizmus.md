@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pacifizmus.md","permalink":"/pacifizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/pacifizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"introspection.md","permalink":"/introspection/","dg-note-properties":{"permalink":"/public/introspection/"}}
+{"dg-publish":true,"permalink":"/public/introspection/","dg-note-properties":{"permalink":"/public/introspection/"}}
 ---
 
 

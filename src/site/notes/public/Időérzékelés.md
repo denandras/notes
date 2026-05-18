@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Időérzékelés.md","permalink":"/idoerzekeles/","dg-note-properties":{"permalink":"/idoerzekeles/"}}
+{"dg-publish":true,"permalink":"/public/idoerzekeles/","dg-note-properties":{"permalink":"/idoerzekeles/"}}
 ---
 
 

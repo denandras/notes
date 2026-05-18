@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Berlioz.md","permalink":"/berlioz/","dg-note-properties":{"permalink":"/public/berlioz/"}}
+{"dg-publish":true,"permalink":"/public/berlioz/","dg-note-properties":{"permalink":"/public/berlioz/"}}
 ---
 
 

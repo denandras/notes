@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"bizánc.md","permalink":"/bizanc/","dg-note-properties":{"permalink":"/bizanc/"}}
+{"dg-publish":true,"permalink":"/public/bizanc/","dg-note-properties":{"permalink":"/bizanc/"}}
 ---
 
 

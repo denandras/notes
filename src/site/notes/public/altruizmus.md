@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"altruizmus.md","permalink":"/altruizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/altruizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

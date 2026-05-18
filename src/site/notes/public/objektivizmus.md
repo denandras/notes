@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"objektivizmus.md","permalink":"/objektivizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/objektivizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

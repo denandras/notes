@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"bronzkor, vaskor.md","permalink":"/bronzkor-vaskor/","dg-note-properties":{"permalink":"/public/bronzkor-vaskor/"}}
+{"dg-publish":true,"permalink":"/public/bronzkor-vaskor/","dg-note-properties":{"permalink":"/public/bronzkor-vaskor/"}}
 ---
 
 

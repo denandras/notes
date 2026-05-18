@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hegemónia.md","permalink":"/hegemonia/","dg-note-properties":{"permalink":"/public/hegemonia/"}}
+{"dg-publish":true,"permalink":"/public/hegemonia/","dg-note-properties":{"permalink":"/public/hegemonia/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"empirizmus.md","permalink":"/empirizmus/","dg-note-properties":{"permalink":"/public/empirizmus/"}}
+{"dg-publish":true,"permalink":"/public/empirizmus/","dg-note-properties":{"permalink":"/public/empirizmus/"}}
 ---
 
 

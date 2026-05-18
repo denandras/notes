@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"nihilizmus.md","permalink":"/nihilizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/nihilizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

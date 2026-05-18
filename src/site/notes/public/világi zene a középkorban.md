@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"világi zene a középkorban.md","permalink":"/vilagi-zene-a-koezepkorban/","dg-note-properties":{"permalink":"/vilagi-zene-a-koezepkorban/"}}
+{"dg-publish":true,"permalink":"/public/vilagi-zene-a-koezepkorban/","dg-note-properties":{"permalink":"/vilagi-zene-a-koezepkorban/"}}
 ---
 
 

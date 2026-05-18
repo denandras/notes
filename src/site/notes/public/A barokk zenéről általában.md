@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A barokk zenéről általában.md","permalink":"/a-barokk-zenerol-altalaban/","dg-note-properties":{"permalink":"/a-barokk-zenerol-altalaban/"}}
+{"dg-publish":true,"permalink":"/public/a-barokk-zenerol-altalaban/","dg-note-properties":{"permalink":"/a-barokk-zenerol-altalaban/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Poppea megkoronázása.md","permalink":"/poppea-megkoronazasa/","dg-note-properties":{"permalink":"/poppea-megkoronazasa/"}}
+{"dg-publish":true,"permalink":"/public/poppea-megkoronazasa/","dg-note-properties":{"permalink":"/poppea-megkoronazasa/"}}
 ---
 
 

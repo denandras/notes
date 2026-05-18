@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"doppelgänger.md","permalink":"/doppelgaenger/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/doppelgaenger/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

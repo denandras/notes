@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"opera.md","permalink":"/opera/","dg-note-properties":{"permalink":"/public/opera/"}}
+{"dg-publish":true,"permalink":"/public/opera/","dg-note-properties":{"permalink":"/public/opera/"}}
 ---
 
 

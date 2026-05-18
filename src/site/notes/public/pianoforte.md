@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pianoforte.md","permalink":"/pianoforte/","dg-note-properties":{"permalink":"/public/pianoforte/"}}
+{"dg-publish":true,"permalink":"/public/pianoforte/","dg-note-properties":{"permalink":"/public/pianoforte/"}}
 ---
 
 

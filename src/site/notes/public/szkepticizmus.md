@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"szkepticizmus.md","permalink":"/szkepticizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/szkepticizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"vanitas.md","permalink":"/vanitas/","dg-note-properties":{"permalink":"/public/vanitas/"}}
+{"dg-publish":true,"permalink":"/public/vanitas/","dg-note-properties":{"permalink":"/public/vanitas/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"autoritarianizmus.md","permalink":"/autoritarianizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/autoritarianizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

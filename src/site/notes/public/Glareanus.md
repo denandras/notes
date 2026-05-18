@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Glareanus.md","permalink":"/glareanus/","dg-note-properties":{"permalink":"/public/glareanus/"}}
+{"dg-publish":true,"permalink":"/public/glareanus/","dg-note-properties":{"permalink":"/public/glareanus/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"voyerizmus.md","permalink":"/voyerizmus/","dg-note-properties":{"type":"fogalom"}}
+{"dg-publish":true,"permalink":"/public/voyerizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 

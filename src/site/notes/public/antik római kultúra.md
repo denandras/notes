@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"antik római kultúra.md","permalink":"/antik-romai-kultura/","dg-note-properties":{"permalink":"/antik-romai-kultura/"}}
+{"dg-publish":true,"permalink":"/public/antik-romai-kultura/","dg-note-properties":{"permalink":"/antik-romai-kultura/"}}
 ---
 
 

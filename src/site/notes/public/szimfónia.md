@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"szimfónia.md","permalink":"/szimfonia/","dg-note-properties":{"permalink":"/szimfonia/"}}
+{"dg-publish":true,"permalink":"/public/szimfonia/","dg-note-properties":{"permalink":"/szimfonia/"}}
 ---
 
 

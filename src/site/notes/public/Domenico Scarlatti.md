@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Domenico Scarlatti.md","permalink":"/domenico-scarlatti/","dg-note-properties":{"permalink":"/public/domenico-scarlatti/"}}
+{"dg-publish":true,"permalink":"/public/domenico-scarlatti/","dg-note-properties":{"permalink":"/public/domenico-scarlatti/"}}
 ---
 
 

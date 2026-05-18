@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"oratórium.md","permalink":"/oratorium/","dg-note-properties":{"permalink":"/oratorium/"}}
+{"dg-publish":true,"permalink":"/public/oratorium/","dg-note-properties":{"permalink":"/oratorium/"}}
 ---
 
 

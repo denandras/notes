@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"zenetöri.md","permalink":"/zenetoeri/","dg-note-properties":{"permalink":"/zenetoeri/"}}
+{"dg-publish":true,"permalink":"/public/zenetoeri/","dg-note-properties":{"permalink":"/zenetoeri/"}}
 ---
 
 
