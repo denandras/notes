@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"apofativizmus.md","permalink":"/apofativizmus/","dg-note-properties":{"permalink":"/apofativizmus/"}}
+{"dg-publish":true,"permalink":"/private/izmusok/apofativizmus/","dg-note-properties":{}}
 ---
 
 

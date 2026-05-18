@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"manierizmus.md","permalink":"/manierizmus/","dg-note-properties":{"permalink":"/manierizmus/"}}
+{"dg-publish":true,"permalink":"/private/izmusok/manierizmus/","dg-note-properties":{}}
 ---
 
 

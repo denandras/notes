@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"humanizmus.md","permalink":"/humanizmus/","dg-note-properties":{"permalink":"/humanizmus/"}}
+{"dg-publish":true,"permalink":"/private/izmusok/humanizmus/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"klasszicizmus.md","permalink":"/klasszicizmus/","dg-note-properties":{"permalink":"/klasszicizmus/"}}
+{"dg-publish":true,"permalink":"/private/izmusok/klasszicizmus/","dg-note-properties":{}}
 ---
 
 
