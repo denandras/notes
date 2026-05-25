@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Musica Enchiriadis.md","permalink":"/musica-enchiriadis/","dg-note-properties":{"permalink":"/musica-enchiriadis/"}}
+{"dg-publish":true,"permalink":"/public/musica-enchiriadis/","dg-note-properties":{"permalink":"/musica-enchiriadis/"}}
 ---
 
 

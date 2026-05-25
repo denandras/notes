@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Montaigne.md","permalink":"/montaigne/","dg-note-properties":{"permalink":"/montaigne/"}}
+{"dg-publish":true,"permalink":"/public/montaigne/","dg-note-properties":{"permalink":"/montaigne/"}}
 ---
 
 

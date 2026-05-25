@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ballada.md","permalink":"/ballada/","dg-note-properties":{"permalink":"/ballada/"}}
+{"dg-publish":true,"permalink":"/public/ballada/","dg-note-properties":{"permalink":"/ballada/"}}
 ---
 
 

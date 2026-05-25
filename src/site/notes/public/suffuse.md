@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"suffuse.md","permalink":"/suffuse/","dg-note-properties":{"permalink":"/suffuse/"}}
+{"dg-publish":true,"permalink":"/public/suffuse/","dg-note-properties":{"permalink":"/suffuse/"}}
 ---
 
 

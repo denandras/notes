@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Boethius.md","permalink":"/boethius/","dg-note-properties":{"permalink":"/boethius/"}}
+{"dg-publish":true,"permalink":"/public/boethius/","dg-note-properties":{"permalink":"/boethius/"}}
 ---
 
 

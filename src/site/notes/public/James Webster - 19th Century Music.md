@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"James Webster - 19th Century Music.md","permalink":"/james-webster-19th-century-music/","dg-note-properties":{"permalink":"/james-webster-19th-century-music/"}}
+{"dg-publish":true,"permalink":"/public/james-webster-19th-century-music/","dg-note-properties":{"permalink":"/james-webster-19th-century-music/"}}
 ---
 
 

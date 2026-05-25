@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Empfindsamkeit.md","permalink":"/empfindsamkeit/","dg-note-properties":{"permalink":"/empfindsamkeit/"}}
+{"dg-publish":true,"permalink":"/public/empfindsamkeit/","dg-note-properties":{"permalink":"/empfindsamkeit/"}}
 ---
 
 

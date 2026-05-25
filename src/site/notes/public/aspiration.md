@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"aspiration.md","permalink":"/aspiration/","dg-note-properties":{"permalink":"/aspiration/"}}
+{"dg-publish":true,"permalink":"/public/aspiration/","dg-note-properties":{"permalink":"/aspiration/"}}
 ---
 
 

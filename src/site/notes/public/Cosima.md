@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Cosima.md","permalink":"/cosima/","dg-note-properties":{"permalink":"/cosima/"}}
+{"dg-publish":true,"permalink":"/public/cosima/","dg-note-properties":{"permalink":"/cosima/"}}
 ---
 
 

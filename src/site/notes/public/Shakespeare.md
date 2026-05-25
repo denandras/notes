@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Shakespeare.md","permalink":"/shakespeare/","dg-note-properties":{"permalink":"/shakespeare/"}}
+{"dg-publish":true,"permalink":"/public/shakespeare/","dg-note-properties":{"permalink":"/shakespeare/"}}
 ---
 
 

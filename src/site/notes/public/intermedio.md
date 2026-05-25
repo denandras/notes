@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"intermedio.md","permalink":"/intermedio/","dg-note-properties":{"permalink":"/intermedio/"}}
+{"dg-publish":true,"permalink":"/public/intermedio/","dg-note-properties":{"permalink":"/intermedio/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sammartini.md","permalink":"/sammartini/","dg-note-properties":{"permalink":"/sammartini/"}}
+{"dg-publish":true,"permalink":"/public/sammartini/","dg-note-properties":{"permalink":"/sammartini/"}}
 ---
 
 

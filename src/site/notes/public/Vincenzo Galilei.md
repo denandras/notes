@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Vincenzo Galilei.md","permalink":"/vincenzo-galilei/","dg-note-properties":{"permalink":"/vincenzo-galilei/"}}
+{"dg-publish":true,"permalink":"/public/vincenzo-galilei/","dg-note-properties":{"permalink":"/vincenzo-galilei/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Palestrina.md","permalink":"/palestrina/","dg-note-properties":{"permalink":"/palestrina/"}}
+{"dg-publish":true,"permalink":"/public/palestrina/","dg-note-properties":{"permalink":"/palestrina/"}}
 ---
 
 

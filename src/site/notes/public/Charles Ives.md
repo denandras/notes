@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Ives.md","permalink":"/charles-ives/","dg-note-properties":{"permalink":"/charles-ives/"}}
+{"dg-publish":true,"permalink":"/public/charles-ives/","dg-note-properties":{"permalink":"/charles-ives/"}}
 ---
 
 

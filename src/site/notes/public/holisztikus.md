@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"holisztikus.md","permalink":"/holisztikus/","dg-note-properties":{"permalink":"/holisztikus/"}}
+{"dg-publish":true,"permalink":"/public/holisztikus/","dg-note-properties":{"permalink":"/holisztikus/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Luther.md","permalink":"/luther/","dg-note-properties":{"permalink":"/luther/"}}
+{"dg-publish":true,"permalink":"/public/luther/","dg-note-properties":{"permalink":"/luther/"}}
 ---
 
 

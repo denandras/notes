@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Faust.md","permalink":"/faust/","dg-note-properties":{"permalink":"/faust/"}}
+{"dg-publish":true,"permalink":"/public/faust/","dg-note-properties":{"permalink":"/faust/"}}
 ---
 
 

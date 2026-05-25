@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Paisiello.md","permalink":"/paisiello/","dg-note-properties":{"permalink":"/paisiello/"}}
+{"dg-publish":true,"permalink":"/public/paisiello/","dg-note-properties":{"permalink":"/paisiello/"}}
 ---
 
 

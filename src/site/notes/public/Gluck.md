@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gluck.md","permalink":"/gluck/","dg-note-properties":{"permalink":"/gluck/"}}
+{"dg-publish":true,"permalink":"/public/gluck/","dg-note-properties":{"permalink":"/gluck/"}}
 ---
 
 

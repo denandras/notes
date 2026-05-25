@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Richard Gerstl.md","permalink":"/richard-gerstl/","dg-note-properties":{"permalink":"/richard-gerstl/"}}
+{"dg-publish":true,"permalink":"/public/richard-gerstl/","dg-note-properties":{"permalink":"/richard-gerstl/"}}
 ---
 
 

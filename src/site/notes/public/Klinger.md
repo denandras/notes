@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Klinger.md","permalink":"/klinger/","dg-note-properties":{"permalink":"/klinger/"}}
+{"dg-publish":true,"permalink":"/public/klinger/","dg-note-properties":{"permalink":"/klinger/"}}
 ---
 
 

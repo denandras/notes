@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Les Trosqueurs.md","permalink":"/les-trosqueurs/","dg-note-properties":{"permalink":"/les-trosqueurs/"}}
+{"dg-publish":true,"permalink":"/public/les-trosqueurs/","dg-note-properties":{"permalink":"/les-trosqueurs/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Carl Loewe.md","permalink":"/carl-loewe/","dg-note-properties":{"permalink":"/carl-loewe/"}}
+{"dg-publish":true,"permalink":"/public/carl-loewe/","dg-note-properties":{"permalink":"/carl-loewe/"}}
 ---
 
 

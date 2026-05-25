@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Karl Emil Franzos.md","permalink":"/karl-emil-franzos/","dg-note-properties":{"permalink":"/karl-emil-franzos/"}}
+{"dg-publish":true,"permalink":"/public/karl-emil-franzos/","dg-note-properties":{"permalink":"/karl-emil-franzos/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Richard Strauss.md","permalink":"/richard-strauss/","dg-note-properties":{"permalink":"/richard-strauss/"}}
+{"dg-publish":true,"permalink":"/public/richard-strauss/","dg-note-properties":{"permalink":"/richard-strauss/"}}
 ---
 
 

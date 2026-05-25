@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stefano Landi.md","permalink":"/stefano-landi/","dg-note-properties":{"permalink":"/stefano-landi/"}}
+{"dg-publish":true,"permalink":"/public/stefano-landi/","dg-note-properties":{"permalink":"/stefano-landi/"}}
 ---
 
 

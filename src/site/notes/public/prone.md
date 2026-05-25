@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"prone.md","permalink":"/prone/","dg-note-properties":{"permalink":"/prone/"}}
+{"dg-publish":true,"permalink":"/public/prone/","dg-note-properties":{"permalink":"/prone/"}}
 ---
 
 

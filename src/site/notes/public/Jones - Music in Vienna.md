@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Jones - Music in Vienna.md","permalink":"/jones-music-in-vienna/","dg-note-properties":{"permalink":"/jones-music-in-vienna/"}}
+{"dg-publish":true,"permalink":"/public/jones-music-in-vienna/","dg-note-properties":{"permalink":"/jones-music-in-vienna/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"via negativa.md","permalink":"/via-negativa/","dg-note-properties":{"permalink":"/via-negativa/"}}
+{"dg-publish":true,"permalink":"/public/via-negativa/","dg-note-properties":{"permalink":"/via-negativa/"}}
 ---
 
 

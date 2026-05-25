@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Codex Calixtinus.md","permalink":"/codex-calixtinus/","dg-note-properties":{"permalink":"/codex-calixtinus/"}}
+{"dg-publish":true,"permalink":"/public/codex-calixtinus/","dg-note-properties":{"permalink":"/codex-calixtinus/"}}
 ---
 
 

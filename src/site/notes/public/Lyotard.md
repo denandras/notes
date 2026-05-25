@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lyotard.md","permalink":"/lyotard/","dg-note-properties":{"permalink":"/lyotard/"}}
+{"dg-publish":true,"permalink":"/public/lyotard/","dg-note-properties":{"permalink":"/lyotard/"}}
 ---
 
 

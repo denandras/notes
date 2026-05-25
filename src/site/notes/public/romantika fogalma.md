@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"romantika fogalma.md","permalink":"/romantika-fogalma/","dg-note-properties":{"permalink":"/romantika-fogalma/"}}
+{"dg-publish":true,"permalink":"/public/romantika-fogalma/","dg-note-properties":{"permalink":"/romantika-fogalma/"}}
 ---
 
 

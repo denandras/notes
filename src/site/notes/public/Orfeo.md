@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Orfeo.md","permalink":"/orfeo/","dg-note-properties":{"permalink":"/orfeo/"}}
+{"dg-publish":true,"permalink":"/public/orfeo/","dg-note-properties":{"permalink":"/orfeo/"}}
 ---
 
 

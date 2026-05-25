@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"holland aranykor.md","permalink":"/holland-aranykor/","dg-note-properties":{"permalink":"/holland-aranykor/"}}
+{"dg-publish":true,"permalink":"/public/holland-aranykor/","dg-note-properties":{"permalink":"/holland-aranykor/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"apartheid.md","permalink":"/apartheid/","dg-note-properties":{"permalink":"/apartheid/"}}
+{"dg-publish":true,"permalink":"/public/apartheid/","dg-note-properties":{"permalink":"/apartheid/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lully.md","permalink":"/lully/","dg-note-properties":{"permalink":"/lully/"}}
+{"dg-publish":true,"permalink":"/public/lully/","dg-note-properties":{"permalink":"/lully/"}}
 ---
 
 

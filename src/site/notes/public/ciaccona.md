@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ciaccona.md","permalink":"/ciaccona/","dg-note-properties":{"permalink":"/ciaccona/"}}
+{"dg-publish":true,"permalink":"/public/ciaccona/","dg-note-properties":{"permalink":"/ciaccona/"}}
 ---
 
 

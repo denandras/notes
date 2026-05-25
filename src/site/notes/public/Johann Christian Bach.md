@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Johann Christian Bach.md","permalink":"/johann-christian-bach/","dg-note-properties":{"permalink":"/johann-christian-bach/"}}
+{"dg-publish":true,"permalink":"/public/johann-christian-bach/","dg-note-properties":{"permalink":"/johann-christian-bach/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Puccini.md","permalink":"/puccini/","dg-note-properties":{"permalink":"/puccini/"}}
+{"dg-publish":true,"permalink":"/public/puccini/","dg-note-properties":{"permalink":"/puccini/"}}
 ---
 
 

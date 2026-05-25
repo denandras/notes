@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hellenisztikus kor.md","permalink":"/hellenisztikus-kor/","dg-note-properties":{"permalink":"/hellenisztikus-kor/"}}
+{"dg-publish":true,"permalink":"/public/hellenisztikus-kor/","dg-note-properties":{"permalink":"/hellenisztikus-kor/"}}
 ---
 
 

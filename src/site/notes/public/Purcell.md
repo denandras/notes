@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Purcell.md","permalink":"/purcell/","dg-note-properties":{"permalink":"/purcell/"}}
+{"dg-publish":true,"permalink":"/public/purcell/","dg-note-properties":{"permalink":"/purcell/"}}
 ---
 
 

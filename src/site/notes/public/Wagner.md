@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Wagner.md","permalink":"/wagner/","dg-note-properties":{"permalink":"/wagner/"}}
+{"dg-publish":true,"permalink":"/public/wagner/","dg-note-properties":{"permalink":"/wagner/"}}
 ---
 
 

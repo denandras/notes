@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Mazarin.md","permalink":"/mazarin/","dg-note-properties":{"permalink":"/mazarin/"}}
+{"dg-publish":true,"permalink":"/public/mazarin/","dg-note-properties":{"permalink":"/mazarin/"}}
 ---
 
 

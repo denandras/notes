@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hugo Wolf.md","permalink":"/hugo-wolf/","dg-note-properties":{"permalink":"/hugo-wolf/"}}
+{"dg-publish":true,"permalink":"/public/hugo-wolf/","dg-note-properties":{"permalink":"/hugo-wolf/"}}
 ---
 
 

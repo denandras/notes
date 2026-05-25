@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Beethoven.md","permalink":"/beethoven/","dg-note-properties":{"permalink":"/beethoven/"}}
+{"dg-publish":true,"permalink":"/public/beethoven/","dg-note-properties":{"permalink":"/beethoven/"}}
 ---
 
 

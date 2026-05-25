@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sturm und Drang.md","permalink":"/sturm-und-drang/","dg-note-properties":{"permalink":"/sturm-und-drang/"}}
+{"dg-publish":true,"permalink":"/public/sturm-und-drang/","dg-note-properties":{"permalink":"/sturm-und-drang/"}}
 ---
 
 

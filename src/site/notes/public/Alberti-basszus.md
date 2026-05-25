@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Alberti-basszus.md","permalink":"/alberti-basszus/","dg-note-properties":{"permalink":"/alberti-basszus/"}}
+{"dg-publish":true,"permalink":"/public/alberti-basszus/","dg-note-properties":{"permalink":"/alberti-basszus/"}}
 ---
 
 

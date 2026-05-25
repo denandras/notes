@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"De institutione musica.md","permalink":"/de-institutione-musica/","dg-note-properties":{"permalink":"/de-institutione-musica/"}}
+{"dg-publish":true,"permalink":"/public/de-institutione-musica/","dg-note-properties":{"permalink":"/de-institutione-musica/"}}
 ---
 
 

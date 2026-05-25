@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Rameau.md","permalink":"/rameau/","dg-note-properties":{"permalink":"/rameau/"}}
+{"dg-publish":true,"permalink":"/public/rameau/","dg-note-properties":{"permalink":"/rameau/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"intermezzo.md","permalink":"/intermezzo/","dg-note-properties":{"permalink":"/intermezzo/"}}
+{"dg-publish":true,"permalink":"/public/intermezzo/","dg-note-properties":{"permalink":"/intermezzo/"}}
 ---
 
 

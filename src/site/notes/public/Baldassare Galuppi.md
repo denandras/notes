@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Baldassare Galuppi.md","permalink":"/baldassare-galuppi/","dg-note-properties":{"permalink":"/baldassare-galuppi/"}}
+{"dg-publish":true,"permalink":"/public/baldassare-galuppi/","dg-note-properties":{"permalink":"/baldassare-galuppi/"}}
 ---
 
 

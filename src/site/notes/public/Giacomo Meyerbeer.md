@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Giacomo Meyerbeer.md","permalink":"/giacomo-meyerbeer/","dg-note-properties":{"permalink":"/giacomo-meyerbeer/"}}
+{"dg-publish":true,"permalink":"/public/giacomo-meyerbeer/","dg-note-properties":{"permalink":"/giacomo-meyerbeer/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gossec.md","permalink":"/gossec/","dg-note-properties":{"permalink":"/gossec/"}}
+{"dg-publish":true,"permalink":"/public/gossec/","dg-note-properties":{"permalink":"/gossec/"}}
 ---
 
 

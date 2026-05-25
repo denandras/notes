@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"kontingens.md","permalink":"/kontingens/","dg-note-properties":{"permalink":"/kontingens/"}}
+{"dg-publish":true,"permalink":"/public/kontingens/","dg-note-properties":{"permalink":"/kontingens/"}}
 ---
 
 

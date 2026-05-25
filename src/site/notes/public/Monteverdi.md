@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Monteverdi.md","permalink":"/monteverdi/","dg-note-properties":{"permalink":"/monteverdi/"}}
+{"dg-publish":true,"permalink":"/public/monteverdi/","dg-note-properties":{"permalink":"/monteverdi/"}}
 ---
 
 

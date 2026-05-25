@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quantz.md","permalink":"/quantz/","dg-note-properties":{"permalink":"/quantz/"}}
+{"dg-publish":true,"permalink":"/public/quantz/","dg-note-properties":{"permalink":"/quantz/"}}
 ---
 
 

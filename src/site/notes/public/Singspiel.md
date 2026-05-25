@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Singspiel.md","permalink":"/singspiel/","dg-note-properties":{"permalink":"/singspiel/"}}
+{"dg-publish":true,"permalink":"/public/singspiel/","dg-note-properties":{"permalink":"/singspiel/"}}
 ---
 
 

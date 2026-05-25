@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Alban Berg.md","permalink":"/alban-berg/","dg-note-properties":{"permalink":"/alban-berg/"}}
+{"dg-publish":true,"permalink":"/public/alban-berg/","dg-note-properties":{"permalink":"/alban-berg/"}}
 ---
 
 

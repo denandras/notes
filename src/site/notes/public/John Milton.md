@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"John Milton.md","permalink":"/john-milton/","dg-note-properties":{"permalink":"/john-milton/"}}
+{"dg-publish":true,"permalink":"/public/john-milton/","dg-note-properties":{"permalink":"/john-milton/"}}
 ---
 
 

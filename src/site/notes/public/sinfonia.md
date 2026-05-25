@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"sinfonia.md","permalink":"/sinfonia/","dg-note-properties":{"permalink":"/sinfonia/"}}
+{"dg-publish":true,"permalink":"/public/sinfonia/","dg-note-properties":{"permalink":"/sinfonia/"}}
 ---
 
 

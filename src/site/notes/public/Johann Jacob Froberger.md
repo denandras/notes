@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Johann Jacob Froberger.md","permalink":"/johann-jacob-froberger/","dg-note-properties":{"permalink":"/johann-jacob-froberger/"}}
+{"dg-publish":true,"permalink":"/public/johann-jacob-froberger/","dg-note-properties":{"permalink":"/johann-jacob-froberger/"}}
 ---
 
 

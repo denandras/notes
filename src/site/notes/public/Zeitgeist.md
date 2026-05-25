@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Zeitgeist.md","permalink":"/zeitgeist/","dg-note-properties":{"permalink":"/zeitgeist/"}}
+{"dg-publish":true,"permalink":"/public/zeitgeist/","dg-note-properties":{"permalink":"/zeitgeist/"}}
 ---
 
 

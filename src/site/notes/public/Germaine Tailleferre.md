@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Germaine Tailleferre.md","permalink":"/germaine-tailleferre/","dg-note-properties":{"permalink":"/germaine-tailleferre/"}}
+{"dg-publish":true,"permalink":"/public/germaine-tailleferre/","dg-note-properties":{"permalink":"/germaine-tailleferre/"}}
 ---
 
 

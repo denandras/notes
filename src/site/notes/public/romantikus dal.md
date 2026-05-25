@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"romantikus dal.md","permalink":"/romantikus-dal/","dg-note-properties":{"permalink":"/romantikus-dal/"}}
+{"dg-publish":true,"permalink":"/public/romantikus-dal/","dg-note-properties":{"permalink":"/romantikus-dal/"}}
 ---
 
 

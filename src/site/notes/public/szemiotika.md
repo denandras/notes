@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"szemiotika.md","permalink":"/szemiotika/","dg-note-properties":{"permalink":"/szemiotika/"}}
+{"dg-publish":true,"permalink":"/public/szemiotika/","dg-note-properties":{"permalink":"/szemiotika/"}}
 ---
 
 

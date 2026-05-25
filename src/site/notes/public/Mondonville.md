@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Mondonville.md","permalink":"/mondonville/","dg-note-properties":{"permalink":"/mondonville/"}}
+{"dg-publish":true,"permalink":"/public/mondonville/","dg-note-properties":{"permalink":"/mondonville/"}}
 ---
 
 

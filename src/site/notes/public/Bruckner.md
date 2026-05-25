@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bruckner.md","permalink":"/bruckner/","dg-note-properties":{"permalink":"/bruckner/"}}
+{"dg-publish":true,"permalink":"/public/bruckner/","dg-note-properties":{"permalink":"/bruckner/"}}
 ---
 
 

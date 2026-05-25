@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Liszt.md","permalink":"/liszt/","dg-note-properties":{"permalink":"/liszt/"}}
+{"dg-publish":true,"permalink":"/public/liszt/","dg-note-properties":{"permalink":"/liszt/"}}
 ---
 
 

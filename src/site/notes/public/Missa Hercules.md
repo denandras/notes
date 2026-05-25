@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Missa Hercules.md","permalink":"/missa-hercules/","dg-note-properties":{"permalink":"/missa-hercules/"}}
+{"dg-publish":true,"permalink":"/public/missa-hercules/","dg-note-properties":{"permalink":"/missa-hercules/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Goethe.md","permalink":"/goethe/","dg-note-properties":{"permalink":"/goethe/"}}
+{"dg-publish":true,"permalink":"/public/goethe/","dg-note-properties":{"permalink":"/goethe/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Silbermann.md","permalink":"/silbermann/","dg-note-properties":{"permalink":"/silbermann/"}}
+{"dg-publish":true,"permalink":"/public/silbermann/","dg-note-properties":{"permalink":"/silbermann/"}}
 ---
 
 

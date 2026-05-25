@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Chopin.md","permalink":"/chopin/","dg-note-properties":{"permalink":"/chopin/"}}
+{"dg-publish":true,"permalink":"/public/chopin/","dg-note-properties":{"permalink":"/chopin/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"szoliptikus.md","permalink":"/szoliptikus/","dg-note-properties":{"permalink":"/szoliptikus/"}}
+{"dg-publish":true,"permalink":"/public/szoliptikus/","dg-note-properties":{"permalink":"/szoliptikus/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"E T A Hoffmann.md","permalink":"/e-t-a-hoffmann/","dg-note-properties":{"permalink":"/e-t-a-hoffmann/"}}
+{"dg-publish":true,"permalink":"/public/e-t-a-hoffmann/","dg-note-properties":{"permalink":"/e-t-a-hoffmann/"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Victor Hugo.md","permalink":"/victor-hugo/","dg-note-properties":{"permalink":"/victor-hugo/"}}
+{"dg-publish":true,"permalink":"/public/victor-hugo/","dg-note-properties":{"permalink":"/victor-hugo/"}}
 ---
 
 

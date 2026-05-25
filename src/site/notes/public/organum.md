@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"organum.md","permalink":"/organum/","dg-note-properties":{"permalink":"/organum/"}}
+{"dg-publish":true,"permalink":"/public/organum/","dg-note-properties":{"permalink":"/organum/"}}
 ---
 
 

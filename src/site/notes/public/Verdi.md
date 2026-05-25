@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Verdi.md","permalink":"/verdi/","dg-note-properties":{"permalink":"/verdi/"}}
+{"dg-publish":true,"permalink":"/public/verdi/","dg-note-properties":{"permalink":"/verdi/"}}
 ---
 
 

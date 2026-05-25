@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Telemann.md","permalink":"/telemann/","dg-note-properties":{"permalink":"/telemann/"}}
+{"dg-publish":true,"permalink":"/public/telemann/","dg-note-properties":{"permalink":"/telemann/"}}
 ---
 
 

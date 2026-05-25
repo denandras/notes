@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gluck - Alceste.md","permalink":"/gluck-alceste/","dg-note-properties":{"permalink":"/gluck-alceste/"}}
+{"dg-publish":true,"permalink":"/public/gluck-alceste/","dg-note-properties":{"permalink":"/gluck-alceste/"}}
 ---
 
 

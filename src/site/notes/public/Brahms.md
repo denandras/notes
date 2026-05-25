@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Brahms.md","permalink":"/brahms/","dg-note-properties":{"permalink":"/brahms/"}}
+{"dg-publish":true,"permalink":"/public/brahms/","dg-note-properties":{"permalink":"/brahms/"}}
 ---
 
 

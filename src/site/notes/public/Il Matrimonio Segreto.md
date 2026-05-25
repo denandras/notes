@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Il Matrimonio Segreto.md","permalink":"/il-matrimonio-segreto/","dg-note-properties":{"permalink":"/il-matrimonio-segreto/"}}
+{"dg-publish":true,"permalink":"/public/il-matrimonio-segreto/","dg-note-properties":{"permalink":"/il-matrimonio-segreto/"}}
 ---
 
 

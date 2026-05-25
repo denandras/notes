@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Emilio Cavalieri.md","permalink":"/emilio-cavalieri/","dg-note-properties":{"permalink":"/emilio-cavalieri/"}}
+{"dg-publish":true,"permalink":"/public/emilio-cavalieri/","dg-note-properties":{"permalink":"/emilio-cavalieri/"}}
 ---
 
 

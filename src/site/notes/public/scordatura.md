@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"scordatura.md","permalink":"/scordatura/","dg-note-properties":{"permalink":"/scordatura/"}}
+{"dg-publish":true,"permalink":"/public/scordatura/","dg-note-properties":{"permalink":"/scordatura/"}}
 ---
 
 

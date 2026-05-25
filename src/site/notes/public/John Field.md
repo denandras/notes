@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"John Field.md","permalink":"/john-field/","dg-note-properties":{"permalink":"/john-field/"}}
+{"dg-publish":true,"permalink":"/public/john-field/","dg-note-properties":{"permalink":"/john-field/"}}
 ---
 
 

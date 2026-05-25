@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Josquin.md","permalink":"/josquin/","dg-note-properties":{"permalink":"/josquin/"}}
+{"dg-publish":true,"permalink":"/public/josquin/","dg-note-properties":{"permalink":"/josquin/"}}
 ---
 
 

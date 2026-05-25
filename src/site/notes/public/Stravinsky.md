@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stravinsky.md","permalink":"/stravinsky/","dg-note-properties":{"permalink":"/stravinsky/"}}
+{"dg-publish":true,"permalink":"/public/stravinsky/","dg-note-properties":{"permalink":"/stravinsky/"}}
 ---
 
 

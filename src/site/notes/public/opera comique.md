@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"opera comique.md","permalink":"/opera-comique/","dg-note-properties":{"permalink":"/opera-comique/"}}
+{"dg-publish":true,"permalink":"/public/opera-comique/","dg-note-properties":{"permalink":"/opera-comique/"}}
 ---
 
 

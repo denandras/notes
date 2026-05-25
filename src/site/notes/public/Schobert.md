@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Schobert.md","permalink":"/schobert/","dg-note-properties":{"permalink":"/schobert/"}}
+{"dg-publish":true,"permalink":"/public/schobert/","dg-note-properties":{"permalink":"/schobert/"}}
 ---
 
 

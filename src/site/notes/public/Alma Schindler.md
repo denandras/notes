@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Alma Schindler.md","permalink":"/alma-schindler/","dg-note-properties":{"permalink":"/alma-schindler/"}}
+{"dg-publish":true,"permalink":"/public/alma-schindler/","dg-note-properties":{"permalink":"/alma-schindler/"}}
 ---
 
 

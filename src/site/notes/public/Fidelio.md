@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Fidelio.md","permalink":"/fidelio/","dg-note-properties":{"permalink":"/fidelio/"}}
+{"dg-publish":true,"permalink":"/public/fidelio/","dg-note-properties":{"permalink":"/fidelio/"}}
 ---
 
 

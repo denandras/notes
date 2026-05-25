@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Feofan Grek.md","permalink":"/feofan-grek/","dg-note-properties":{"permalink":"/feofan-grek/"}}
+{"dg-publish":true,"permalink":"/public/feofan-grek/","dg-note-properties":{"permalink":"/feofan-grek/"}}
 ---
 
 

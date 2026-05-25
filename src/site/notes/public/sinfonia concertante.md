@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"sinfonia concertante.md","permalink":"/sinfonia-concertante/","dg-note-properties":{"permalink":"/sinfonia-concertante/"}}
+{"dg-publish":true,"permalink":"/public/sinfonia-concertante/","dg-note-properties":{"permalink":"/sinfonia-concertante/"}}
 ---
 
 

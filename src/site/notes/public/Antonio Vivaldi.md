@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Antonio Vivaldi.md","permalink":"/antonio-vivaldi/","dg-note-properties":{"permalink":"/antonio-vivaldi/"}}
+{"dg-publish":true,"permalink":"/public/antonio-vivaldi/","dg-note-properties":{"permalink":"/antonio-vivaldi/"}}
 ---
 
 

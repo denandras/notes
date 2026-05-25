@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Webern.md","permalink":"/webern/","dg-note-properties":{"permalink":"/webern/"}}
+{"dg-publish":true,"permalink":"/public/webern/","dg-note-properties":{"permalink":"/webern/"}}
 ---
 
 

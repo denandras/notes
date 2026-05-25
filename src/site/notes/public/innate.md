@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"innate.md","permalink":"/innate/","dg-note-properties":{"permalink":"/innate/"}}
+{"dg-publish":true,"permalink":"/public/innate/","dg-note-properties":{"permalink":"/innate/"}}
 ---
 
 

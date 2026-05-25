@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Undine.md","permalink":"/undine/","dg-note-properties":{"permalink":"/undine/"}}
+{"dg-publish":true,"permalink":"/public/undine/","dg-note-properties":{"permalink":"/undine/"}}
 ---
 
 

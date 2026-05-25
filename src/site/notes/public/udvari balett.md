@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"udvari balett.md","permalink":"/udvari-balett/","dg-note-properties":{"permalink":"/udvari-balett/"}}
+{"dg-publish":true,"permalink":"/public/udvari-balett/","dg-note-properties":{"permalink":"/udvari-balett/"}}
 ---
 
 
