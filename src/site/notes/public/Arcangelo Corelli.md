@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/arcangelo-corelli/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/arcangelo-corelli/","dg-note-properties":{"type":"személy","subject":["zenetöri"]}}
 ---
 
 ==1653-1713==

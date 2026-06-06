@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/schumann/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/schumann/","dg-note-properties":{"type":"személy","subject":["zenetöri"]}}
 ---
 
 <3 [[Clara Schumann\|Clara Schumann]]

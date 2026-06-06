@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/acciaccatura/","dg-note-properties":{"type":["fogalom"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/acciaccatura/","dg-note-properties":{"type":"fogalom","subject":["zenetöri"]}}
 ---
 
 > = szimultán mordent

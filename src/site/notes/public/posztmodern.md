@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/posztmodern/","dg-note-properties":{"type":["témakör"],"subject":["posztmodern"]}}
+{"dg-publish":true,"permalink":"/public/posztmodern/","dg-note-properties":{"type":"témakör","subject":["posztmodern"]}}
 ---
 
 > [[P Sloterdijk\|P Sloterdijk]]: *"Aki szédül, az nincs informálva"*

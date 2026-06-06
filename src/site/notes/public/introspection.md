@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/introspection/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/public/introspection/","dg-note-properties":{"type":"enword"}}
 ---
 
 The process of examining one's own thoughts, feelings, and mental state; self-reflection.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/franz-kafka/","dg-note-properties":{"type":["személy"],"subject":["posztmodern"]}}
+{"dg-publish":true,"permalink":"/public/franz-kafka/","dg-note-properties":{"type":"személy","subject":["posztmodern"]}}
 ---
 
 #üres 

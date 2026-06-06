@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/paganini/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/paganini/","dg-note-properties":{"type":"személy","subject":["zenetöri"]}}
 ---
 
 # Nicolo Paganini

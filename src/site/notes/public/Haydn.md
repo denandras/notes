@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/haydn/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/haydn/","dg-note-properties":{"type":"személy","subject":["zenetöri"]}}
 ---
 
 Joseph Haydn

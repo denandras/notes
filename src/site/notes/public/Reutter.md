@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/reutter/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/reutter/","dg-note-properties":{"type":"személy","subject":["zenetöri"]}}
 ---
 
 Johann Georg Reutter

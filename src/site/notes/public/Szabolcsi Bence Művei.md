@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/szabolcsi-bence-muvei/","dg-note-properties":{"type":"könyv","subject":"zenetöri"}}
+{"dg-publish":true,"permalink":"/public/szabolcsi-bence-muvei/","title":"Szabolcsi Bence Művei","dg-note-properties":{"type":"könyv","title":"Szabolcsi Bence Művei","subject":"zenetöri"}}
 ---
 
 1984

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/jean-coteau/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/jean-coteau/","dg-note-properties":{"type":"személy","subject":["zenetöri"]}}
 ---
 
 - *Kakas és Paprikajancsi* #később 

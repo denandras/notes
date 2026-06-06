@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/kalnoky-laszlo-szferak-zeneje/","dg-note-properties":{"type":"könyv","subject":"zenetöri"}}
+{"dg-publish":true,"permalink":"/public/kalnoky-laszlo-szferak-zeneje/","title":"Szférák zenéje","dg-note-properties":{"type":"könyv","title":"Szférák zenéje","subject":"zenetöri"}}
 ---
 
 [Link](https://reader.dia.hu/document/Kalnoky_Laszlo-Osszegyujtott_versek-1000)

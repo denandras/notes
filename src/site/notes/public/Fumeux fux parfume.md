@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/fumeux-fux-parfume/","dg-note-properties":{"type":["mű"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/fumeux-fux-parfume/","dg-note-properties":{"type":"mű","subject":["zenetöri"]}}
 ---
 
 # [link](https://www.youtube.com/watch?v=0_rH2a-rg6Y)

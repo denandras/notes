@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/romantika/","dg-note-properties":{"type":["korszak"],"subject":["művészettörténet"]}}
+{"dg-publish":true,"permalink":"/public/romantika/","dg-note-properties":{"type":"korszak","subject":["művészettörténet"]}}
 ---
 
 - ellentmondás az antikkal, hatás-ellenhatás

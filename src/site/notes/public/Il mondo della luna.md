@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/il-mondo-della-luna/","dg-note-properties":{"type":["mű"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/il-mondo-della-luna/","dg-note-properties":{"type":"mű","subject":["zenetöri"]}}
 ---
 
 - [[public/Baldassare Galuppi\|Baldassare Galuppi]] 1750-es [[public/opera buffa\|opera buffa]]ja

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/liszt-ferenc/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/public/liszt-ferenc/","dg-note-properties":{"type":"személy"}}
 ---
 
 Liszt Ferenc

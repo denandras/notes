@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/nancy-fraser-kannibal-kapitalizmus/","dg-note-properties":{"type":["könyv"],"author":["[[Nancy Fraser]]"],"cover":"https://s01.static.libri.hu/cover/94/6/10762552_4.jpg","isbn":9789635723652,"pages":276,"status":["reading"]}}
+{"dg-publish":true,"permalink":"/public/nancy-fraser-kannibal-kapitalizmus/","title":"Kannibál kapitalizmus","dg-note-properties":{"type":["könyv"],"title":"Kannibál kapitalizmus","author":["[[Nancy Fraser]]"],"cover":"https://s01.static.libri.hu/cover/94/6/10762552_4.jpg","isbn":9789635723652,"pages":276,"status":["reading"]}}
 ---
 
 ### Idegen szavak

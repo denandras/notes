@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/rilke/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/rilke/","dg-note-properties":{"type":"személy","subject":["zenetöri"]}}
 ---
 
 Rainer Maria Rilke

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/gluck-orfeo/","dg-note-properties":{"type":["mű"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/gluck-orfeo/","dg-note-properties":{"type":"mű","subject":["zenetöri"]}}
 ---
 
 [[public/Gluck\|Gluck]]

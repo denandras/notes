@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/mendelssohn/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/mendelssohn/","dg-note-properties":{"type":"személy","subject":["zenetöri"]}}
 ---
 
 Felix Mendelssohnn-Bartholdy

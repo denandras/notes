@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/jean-paul-sartre-az-undor/","dg-note-properties":{"type":["könyv"],"author":["[[Jean-Paul Sartre]]"],"date":"2024-01-24 22:50","cover":"https://moly.hu/system/covers/big/covers_79522.jpg?1395368974","isbn":null,"pages":300,"rating":3,"status":["have read"]}}
+{"dg-publish":true,"permalink":"/public/jean-paul-sartre-az-undor/","title":"Az undor","dg-note-properties":{"type":["könyv"],"title":"Az undor","author":["[[Jean-Paul Sartre]]"],"date":"2024-01-24 22:50","cover":"https://moly.hu/system/covers/big/covers_79522.jpg?1395368974","isbn":null,"pages":300,"rating":3,"status":["have read"]}}
 ---
 
 # Az undor

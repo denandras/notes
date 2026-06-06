@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/cristofori/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/cristofori/","dg-note-properties":{"type":"személy","subject":["zenetöri"]}}
 ---
 
 Bartolomeo Cristofori

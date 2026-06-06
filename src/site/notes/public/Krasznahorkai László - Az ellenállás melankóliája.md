@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/krasznahorkai-laszlo-az-ellenallas-melankoliaja/","dg-note-properties":{"author":["[[Krasznahorkai László]]"],"cover":"https://moly.hu/system/covers/big/covers_325813.jpg?1415352674","type":["könyv"],"isbn":null,"pages":296,"rating":5,"status":["started"]}}
+{"dg-publish":true,"permalink":"/public/krasznahorkai-laszlo-az-ellenallas-melankoliaja/","title":"Az ellenállás melankóliája","dg-note-properties":{"author":["[[Krasznahorkai László]]"],"cover":"https://moly.hu/system/covers/big/covers_325813.jpg?1415352674","type":"könyv","title":"Az ellenállás melankóliája","isbn":null,"pages":296,"rating":5,"status":["started"]}}
 ---
 
 # Az ellenállás melankóliája

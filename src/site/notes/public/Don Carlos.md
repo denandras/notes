@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/don-carlos/","dg-note-properties":{"type":["mű"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/don-carlos/","dg-note-properties":{"type":"mű","subject":["zenetöri"]}}
 ---
 
 [[public/Verdi\|Verdi]], **[[public/Giacomo Meyerbeer\|Giacomo Meyerbeer]]**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/st-alessio/","dg-note-properties":{"type":["mű"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/st-alessio/","dg-note-properties":{"type":"mű","subject":["zenetöri"]}}
 ---
 
 Szent Elek

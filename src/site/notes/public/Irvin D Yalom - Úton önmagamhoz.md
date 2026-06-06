@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/irvin-d-yalom-uton-oenmagamhoz/","dg-note-properties":{"type":["könyv"],"author":["[[Irvin D Yalom]]"],"cover":"https://lira.erbacdn.net/upload/M_28/rek1/554/2990554.jpg","isbn":9789633559147,"pages":400,"rating":4,"status":["have read"]}}
+{"dg-publish":true,"permalink":"/public/irvin-d-yalom-uton-oenmagamhoz/","title":"Úton önmagamhoz","dg-note-properties":{"type":["könyv"],"title":"Úton önmagamhoz","author":["[[Irvin D Yalom]]"],"cover":"https://lira.erbacdn.net/upload/M_28/rek1/554/2990554.jpg","isbn":9789633559147,"pages":400,"rating":4,"status":["have read"]}}
 ---
 
 # Úton önmagamhoz

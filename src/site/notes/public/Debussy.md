@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/debussy/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
+{"dg-publish":true,"permalink":"/public/debussy/","dg-note-properties":{"type":"személy","subject":["zenetöri"]}}
 ---
 
 - <mark>1862-1918</mark>
