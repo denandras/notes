@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/matepassio/","dg-note-properties":{"permalink":"/matepassio/"}}
+{"dg-publish":true,"permalink":"/public/matepassio/","dg-note-properties":{"type":"mű","subject":"zenetöri"}}
 ---
-
 
 [[public/Bach\|Bach]]

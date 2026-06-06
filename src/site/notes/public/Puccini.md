@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/puccini/","dg-note-properties":{"permalink":"/puccini/"}}
+{"dg-publish":true,"permalink":"/public/puccini/","dg-note-properties":{}}
 ---
-
-
 
 Giacomo Puccini
 

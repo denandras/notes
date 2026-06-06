@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/sammartini/","dg-note-properties":{"permalink":"/sammartini/"}}
+{"dg-publish":true,"permalink":"/public/sammartini/","dg-note-properties":{}}
 ---
-
-
 
 Giovanni Battista Sammartini
 

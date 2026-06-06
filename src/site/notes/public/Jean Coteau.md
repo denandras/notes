@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/jean-coteau/","dg-note-properties":{"permalink":"/public/jean-coteau/"}}
+{"dg-publish":true,"permalink":"/public/jean-coteau/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
 ---
-
 
 - *Kakas és Paprikajancsi* #később 
 	- [[public/aforizma\|aforizma]]gyűjtemény

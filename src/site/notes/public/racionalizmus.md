@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/public/racionalizmus/","dg-note-properties":{"permalink":"/public/racionalizmus/"}}
+{"dg-publish":true,"permalink":"/public/racionalizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 
-- [[public/René Descartes\|René Descartes]]
-- [[Baruch Spinosa\|Baruch Spinosa]]
-- [[private/Gottfried Leibnitz\|Gottfried Leibnitz]]
+A racionalizmus (a latin ratio szóból, jelentése észszerű) teljes egészében a felvilágosodás korában, a 17–18. században kialakult filozófiai irányzat, amely szerint az emberi megismerés forrása az ész, és a fogalmaink a tapasztalat előtt és attól függetlenül is léteznek.
 
-- [[public/empirizmus\|empirizmus]]
+Technikai értelemben olyan módszer vagy elmélet, melyben az igazság ismérve nem érzéki, hanem intellektuális és deduktív. Ezzel együtt a tudás más forrásai, mint pl. az empirizmus, továbbá a vallási kinyilatkoztatás, ill. hagyomány leértékelődnek.
+
+Tágabb értelemben véve a racionalizmus a vallással, teológiával és az irracionalizmussal szemben álló filozófiai irányzat, mely az emberi ész erejét és korlátlan megismerőképességét hirdeti.
+
+Fő képviselői: [[public/René Descartes\|René Descartes]], [[Baruch Spinoza\|Baruch Spinoza]], [[Gottfried Leibniz\|Gottfried Leibniz]].
+
+Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/Racionalizmus)

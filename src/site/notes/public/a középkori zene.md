@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/a-koezepkori-zene/","dg-note-properties":{"permalink":"/a-koezepkori-zene/"}}
+{"dg-publish":true,"permalink":"/public/a-koezepkori-zene/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 ### Idő
 -   történelmi középkor

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/sinfonia/","dg-note-properties":{"permalink":"/sinfonia/"}}
+{"dg-publish":true,"permalink":"/public/sinfonia/","dg-note-properties":{}}
 ---
-
-
 
 nápolyi opera nyitánya
 

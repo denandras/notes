@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/g-a-federico/","dg-note-properties":{"permalink":"/g-a-federico/"}}
+{"dg-publish":true,"permalink":"/public/g-a-federico/","dg-note-properties":{}}
 ---
-
-
 
 Gennaro Antonio Federico

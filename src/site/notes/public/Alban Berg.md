@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/alban-berg/","dg-note-properties":{"permalink":"/alban-berg/"}}
+{"dg-publish":true,"permalink":"/public/alban-berg/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 ![](https://www.mphil.de/fileadmin/Redaktion-mphil/Personen_diverse/Komponisten/Berg_Alban.jpg)
 

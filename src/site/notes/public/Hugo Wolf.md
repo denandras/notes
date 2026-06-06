@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/hugo-wolf/","dg-note-properties":{"permalink":"/hugo-wolf/"}}
+{"dg-publish":true,"permalink":"/public/hugo-wolf/","dg-note-properties":{}}
 ---
-
-
 
 <mark>1860-1903</mark>
 

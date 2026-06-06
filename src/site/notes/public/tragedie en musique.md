@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/tragedie-en-musique/","dg-note-properties":{"permalink":"/tragedie-en-musique/"}}
+{"dg-publish":true,"permalink":"/public/tragedie-en-musique/","dg-note-properties":{}}
 ---
-
-
 
 francia [[public/opera seria\|opera seria]]

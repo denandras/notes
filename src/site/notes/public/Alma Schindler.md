@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/alma-schindler/","dg-note-properties":{"permalink":"/alma-schindler/"}}
+{"dg-publish":true,"permalink":"/public/alma-schindler/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 - antiszemita
 ## Kapcsolatai

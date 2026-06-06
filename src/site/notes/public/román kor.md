@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/roman-kor/","dg-note-properties":{"permalink":"/roman-kor/"}}
+{"dg-publish":true,"permalink":"/public/roman-kor/","dg-note-properties":{"type":"témakör","subject":"művészettörténet"}}
 ---
-
 
 ### Preromán kor (500-1000)
 - elemek egybeolvasztása

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/szonatarondo/","dg-note-properties":{"permalink":"/szonatarondo/"}}
+{"dg-publish":true,"permalink":"/public/szonatarondo/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
 
 Szonátarondó
 Szonáta és rondeau keveredése

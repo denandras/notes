@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/szimfonikus-zene-a-19-szazadban/","dg-note-properties":{"permalink":"/szimfonikus-zene-a-19-szazadban/"}}
+{"dg-publish":true,"permalink":"/public/szimfonikus-zene-a-19-szazadban/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 > szimfónia és szimfonikus költemény, BERLIOZ, SCHUBERT, MENDELSSOHN, SCHUMANN, LISZT, BRAHMS, az [[public/abszolút zene\|abszolút zene]] eszméje és az Újnémet Iskola]
 
@@ -19,9 +18,9 @@
 	- kiváltó ok
 		- [[public/Franz Brendel\|Franz Brendel]] beszéde a lipcsei Zeneművészek Gyűlésén
 	- lényege
-		- *"Újnémet iskola"*: [[public/Liszt\|Liszt]], [[public/Wagner\|Wagner]], [[public/Berlioz\|Berlioz]] és csak ők
+		- *"Újnémet iskola"*: [[public/Liszt Ferenc\|Liszt Ferenc]], [[public/Wagner\|Wagner]], [[public/Berlioz\|Berlioz]] és csak ők
 	- -> [[public/Brahms\|Brahms]] hagyománytisztelő tiltakozása
-		- [[public/Eduard Hanslick\|Eduard Hanslick]] ([[public/Liszt\|Liszt]] és [[public/Wagner\|Wagner]] másik nagy kritikusa)
+		- [[public/Eduard Hanslick\|Eduard Hanslick]] ([[public/Liszt Ferenc\|Liszt Ferenc]] és [[public/Wagner\|Wagner]] másik nagy kritikusa)
 		- [[public/Schumann\|Schumann]], [[public/Mendelssohn\|Mendelssohn]], [[public/Brahms\|Brahms]]
 - [[public/abszolút zene\|abszolút zene]] eszméje
 	- zene mint autonóm művészet

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/mozart/","dg-note-properties":{"permalink":"/mozart/"}}
+{"dg-publish":true,"permalink":"/public/mozart/","dg-note-properties":{}}
 ---
-
-
 
 Wolfgang Amadeus Mozart
 

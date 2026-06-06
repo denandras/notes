@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/goethe/","dg-note-properties":{"permalink":"/goethe/"}}
+{"dg-publish":true,"permalink":"/public/goethe/","dg-note-properties":{}}
 ---
-
-
 
 <mark>1749-1832</mark>
 

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/christopher-h-gibbs-the-life-of-schubert/","dg-note-properties":{"permalink":"/christopher-h-gibbs-the-life-of-schubert/"}}
+{"dg-publish":true,"permalink":"/public/christopher-h-gibbs-the-life-of-schubert/","dg-note-properties":{"type":"forrás","subject":"zenetöri"}}
 ---
-
-
 
 ### 00. Schubert tegnap
 

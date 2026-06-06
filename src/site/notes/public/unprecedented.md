@@ -1,8 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/unprecedented/","dg-note-properties":{"permalink":"/public/unprecedented/"}}
+{"dg-publish":true,"permalink":"/public/unprecedented/","dg-note-properties":{}}
 ---
-
-
-
 
 Something that has never happened before; without prior example or precedent.

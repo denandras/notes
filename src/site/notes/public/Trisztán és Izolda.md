@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/trisztan-es-izolda/","dg-note-properties":{"permalink":"/trisztan-es-izolda/"}}
+{"dg-publish":true,"permalink":"/public/trisztan-es-izolda/","dg-note-properties":{"type":"mű","subject":"zenetöri"}}
 ---
-
 
 ### Életrajzi indíttatás
 

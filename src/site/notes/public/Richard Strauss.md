@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/richard-strauss/","dg-note-properties":{"permalink":"/richard-strauss/"}}
+{"dg-publish":true,"permalink":"/public/richard-strauss/","dg-note-properties":{}}
 ---
-
-
 
 <mark>1864-1949</mark>
 

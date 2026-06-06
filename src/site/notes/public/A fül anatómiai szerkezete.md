@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/a-fuel-anatomiai-szerkezete/","dg-note-properties":{"permalink":"/a-fuel-anatomiai-szerkezete/"}}
+{"dg-publish":true,"permalink":"/public/a-fuel-anatomiai-szerkezete/","dg-note-properties":{"type":"témakör","subject":"akusztika"}}
 ---
-
 
 - *Hajtóvadászat öregekre* novella
 

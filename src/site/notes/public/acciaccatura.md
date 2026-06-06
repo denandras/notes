@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/acciaccatura/","dg-note-properties":{"permalink":"/public/acciaccatura/"}}
+{"dg-publish":true,"permalink":"/public/acciaccatura/","dg-note-properties":{"type":["fogalom"],"subject":["zenetöri"]}}
 ---
-
 
 > = szimultán mordent
 > = egy alsó szomszédos hangnak a **feloldással együtt** történő leütése

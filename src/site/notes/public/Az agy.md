@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/az-agy/","dg-note-properties":{"permalink":"/az-agy/"}}
+{"dg-publish":true,"permalink":"/public/az-agy/","dg-note-properties":{"type":"témakör","subject":"akusztika"}}
 ---
-
-
 
 adalék:
 > Broca 1861-ben egy néma ember agytekervényeiben talált egy sérült

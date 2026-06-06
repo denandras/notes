@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/humanizmus/","dg-note-properties":{"permalink":"/public/humanizmus/"}}
+{"dg-publish":true,"permalink":"/public/humanizmus/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 
@@ -41,6 +41,6 @@ Az első operák - azt hitték, hogy az antik drámákat végigénekelték -> ba
 -   **[[public/Jacopo Peri\|Jacopo Peri]]**: Euridice
     -   **[[public/Giulio Caccini\|Giulio Caccini]]**: Euridice
     -   mindkettő darabjának ötvözete szólalt meg az esküvőn
--   **[[public/Monteverdi\|Monteverdi]]**: [[public/Orfeo\|Orfeo]]
--   [[public/Monteverdi\|Monteverdi]]: Arianna
+-   **[[Monteverdi - Orfeo\|Monteverdi - Orfeo]]**
+-   [[Monteverdi - Arianna\|Monteverdi - Arianna]]
 -   [[public/Monteverdi\|Monteverdi]] - Artuzi a lényeg a szöveg, de Artuzi absztrakt zeneként kezeli [[public/Monteverdi\|Monteverdi]] darabját

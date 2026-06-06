@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/a-barokk-zenerol-altalaban/","dg-note-properties":{"permalink":"/a-barokk-zenerol-altalaban/"}}
+{"dg-publish":true,"permalink":"/public/a-barokk-zenerol-altalaban/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 > *[[public/Bach\|Bach]] túl nagy hangsúlyt kapott az oktatásban, saját idejében kevésbé volt meghatározó*
 

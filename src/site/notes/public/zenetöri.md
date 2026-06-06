@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/zenetoeri/","dg-note-properties":{"permalink":"/zenetoeri/"}}
+{"dg-publish":true,"permalink":"/public/zenetoeri/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 - [Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
 - [egy random jó honlap](https://varkonyitanarur.hu)

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/undine/","dg-note-properties":{"permalink":"/undine/"}}
+{"dg-publish":true,"permalink":"/public/undine/","dg-note-properties":{}}
 ---
-
-
 
 [[public/E T A Hoffmann\|E T A Hoffmann]][^1]
 

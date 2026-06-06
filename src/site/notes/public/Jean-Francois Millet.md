@@ -1,8 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/jean-francois-millet/","dg-note-properties":{"permalink":"/jean-francois-millet/"}}
+{"dg-publish":true,"permalink":"/public/jean-francois-millet/","dg-note-properties":{}}
 ---
-
-
-
-
 

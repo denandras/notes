@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/sinfonia-concertante/","dg-note-properties":{"permalink":"/sinfonia-concertante/"}}
+{"dg-publish":true,"permalink":"/public/sinfonia-concertante/","dg-note-properties":{}}
 ---
-
-
 
 - nem feltétlenül ritornello formájú, de a [[public/szimfónia\|szimfónia]] és a [[public/concerto\|concerto]] keveréke

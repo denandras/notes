@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/wagner/","dg-note-properties":{"permalink":"/wagner/"}}
+{"dg-publish":true,"permalink":"/public/wagner/","dg-note-properties":{}}
 ---
-
-
 
 ![](https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2017/10/Richard-Wagner.jpg)
 
@@ -210,12 +208,12 @@ egy év múlva Velencében meghalt
 		- ([[Jens Jenssen\|Jens Jenssen]] lánya fogadja őket)
 		- *A bolygó holland*i ötlete itt merülhetett fel benne
 - 1839: Párizs
-	- ismerősök: [[public/Liszt\|Liszt]], [[public/Berlioz\|Berlioz]], [[Heine\|Heine]] (megzenésítette egy francia versét is), [[public/Giacomo Meyerbeer\|Giacomo Meyerbeer]] (az volt az érzése, hogy miatta nem jut előrébb)
+	- ismerősök: [[public/Liszt Ferenc\|Liszt]], [[public/Berlioz\|Berlioz]], [[Heine\|Heine]] (megzenésítette egy francia versét is), [[public/Giacomo Meyerbeer\|Giacomo Meyerbeer]] (az volt az érzése, hogy miatta nem jut előrébb)
 	- *Rienzi* 5 felvonásos francia operája
 - 1843: *A bolygó hollandi*
 - 1845: *Tannhäuser*
 - 1848: *Lohengrin*
-	- bemutató: Weimar, [[public/Liszt\|Liszt]] vezényel
+	- bemutató: Weimar, [[public/Liszt Ferenc\|Liszt]] vezényel
 		- drezdai forradalom, [[public/Wagner\|Wagner]] az egyik vezéralak (ultrabal antiszemita[^4])
 		- menekülnie kell -> Weimar -> Párizs -> Zürich -> Luzern (a német egység hiánya miatt tudott lavírozni a területek között)
 		- [[Otto Wesendonck\|Otto Wesendonck]] kereskedő szponzorálta

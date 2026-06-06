@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/alberti-basszus/","dg-note-properties":{"permalink":"/alberti-basszus/"}}
+{"dg-publish":true,"permalink":"/public/alberti-basszus/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
-
 
 - akkordfelbontás, elmossa a szólamok kontrapunktikus önállóságát

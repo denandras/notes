@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/szimfonia/","dg-note-properties":{"permalink":"/szimfonia/"}}
+{"dg-publish":true,"permalink":"/public/szimfonia/","dg-note-properties":{"type":"műfaj","subject":"zenetöri"}}
 ---
-
 
 ### Eredete
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/reneszansz/","dg-note-properties":{"permalink":"/reneszansz/"}}
+{"dg-publish":true,"permalink":"/public/reneszansz/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 ## A zenében
 

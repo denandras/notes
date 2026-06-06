@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/opera-comique/","dg-note-properties":{"permalink":"/opera-comique/"}}
+{"dg-publish":true,"permalink":"/public/opera-comique/","dg-note-properties":{}}
 ---
-
-
 
 [[Kroó György - A szabadító opera\|Kroó György - A szabadító opera]]
 

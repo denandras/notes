@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/zenetoeri-2-felev-oesszefoglalas/","dg-note-properties":{"permalink":"/zenetoeri-2-felev-oesszefoglalas/"}}
+{"dg-publish":true,"permalink":"/public/zenetoeri-2-felev-oesszefoglalas/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 1.  **Barokk zene**
 	- szó

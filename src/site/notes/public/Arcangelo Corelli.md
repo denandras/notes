@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/arcangelo-corelli/","dg-note-properties":{"permalink":"/public/arcangelo-corelli/"}}
+{"dg-publish":true,"permalink":"/public/arcangelo-corelli/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
 ---
-
 
 ==1653-1713==
 ### Hatása

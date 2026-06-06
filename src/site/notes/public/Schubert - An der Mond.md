@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/schubert-an-der-mond/","dg-note-properties":{"permalink":"/schubert-an-der-mond/"}}
+{"dg-publish":true,"permalink":"/public/schubert-an-der-mond/","dg-note-properties":{}}
 ---
-
-
 
 A Holdoz
 

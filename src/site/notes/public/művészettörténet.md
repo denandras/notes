@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/muveszettoertenet/","dg-note-properties":{"permalink":"/muveszettoertenet/"}}
+{"dg-publish":true,"permalink":"/public/muveszettoertenet/","dg-note-properties":{"type":"témakör","subject":"művészettörténet"}}
 ---
-
 
 >  [[Körösvölgyi Zoltán\|Körösvölgyi Zoltán]]
 

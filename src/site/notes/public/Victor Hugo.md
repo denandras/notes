@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/victor-hugo/","dg-note-properties":{"permalink":"/victor-hugo/"}}
+{"dg-publish":true,"permalink":"/public/victor-hugo/","dg-note-properties":{}}
 ---
-
-
 
 - *A Notre Dame-i toronyőr* - érzékenyítés, a testi fogyatékkal élők
 - milyen szép is a gótika -> neogótikus épületek, angol parlament

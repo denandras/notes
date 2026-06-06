@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/romantika-fogalma/","dg-note-properties":{"permalink":"/romantika-fogalma/"}}
+{"dg-publish":true,"permalink":"/public/romantika-fogalma/","dg-note-properties":{}}
 ---
-
-
 
 > szó, irodalom, [[Schlegel-fivérek\|Schlegel-fivérek]], [[public/E T A Hoffmann\|E T A Hoffmann]], irodalmi-zenei jelentés, kontrasztos ellentét, műfajok, kritikák és koncertélet, [[public/abszolút zene\|abszolút zene]], nacionalizmus, *újromantika/későromantika*
 
@@ -23,15 +21,15 @@
 		- Jénai, Heidelbergi, Berlini romantikus mozgalmak
 		- [[public/Walter Scott\|Walter Scott]] regényei
 	- zenet.: [[public/Beethoven\|Beethoven]] halála utáni **zeneszerzők**
-		- [[public/Chopin\|Chopin]], [[public/Schumann\|Schumann]], [[public/Berlioz\|Berlioz]], [[public/Liszt\|Liszt]], [[public/Mendelssohn\|Mendelssohn]], [[public/Schubert\|Schubert]], [[public/Wagner\|Wagner]]
+		- [[public/Chopin\|Chopin]], [[public/Schumann\|Schumann]], [[public/Berlioz\|Berlioz]], [[public/Liszt Ferenc\|Liszt]], [[public/Mendelssohn\|Mendelssohn]], [[public/Schubert\|Schubert]], [[public/Wagner\|Wagner]]
 		- két szembenálló irányzat
 			- [[public/Mendelssohn\|Mendelssohn]], [[public/Schumann\|Schumann]], [[public/Brahms\|Brahms]]
-			- [[public/Wagner\|Wagner]], [[public/Liszt\|Liszt]] és [[public/Richard Strauss\|Richard Strauss]] a progresszívebb, kevésbé hagyományőrző alak
+			- [[public/Wagner\|Wagner]], [[public/Liszt Ferenc\|Liszt]] és [[public/Richard Strauss\|Richard Strauss]] a progresszívebb, kevésbé hagyományőrző alak
 				- `19.` század második felében is alkottak utóbbiak
 				- *újromantika/későromantika*
 			- késő-romantika, 
-			- [[public/Franz Brendel\|Franz Brendel]]: "új német iskola": [[public/Liszt\|Liszt]], [[public/Berlioz\|Berlioz]], [[public/Wagner\|Wagner]], ([[public/Richard Strauss\|Richard Strauss]])
-			- [[Alan Walker\|Alan Walker]]: romantikusok háborúja, [[public/Brahms\|Brahms]] és társai 1860 körül elítéli [[public/Liszt\|Liszt]] és [[public/Wagner\|Wagner]] zenéjét (ezt megelőző ülés)
+			- [[public/Franz Brendel\|Franz Brendel]]: "új német iskola": [[public/Liszt Ferenc\|Liszt]], [[public/Berlioz\|Berlioz]], [[public/Wagner\|Wagner]], ([[public/Richard Strauss\|Richard Strauss]])
+			- [[Alan Walker\|Alan Walker]]: romantikusok háborúja, [[public/Brahms\|Brahms]] és társai 1860 körül elítéli [[public/Liszt Ferenc\|Liszt]] és [[public/Wagner\|Wagner]] zenéjét (ezt megelőző ülés)
 		- `19.` században a zenet. átveszi az irodalmi kifejezést
 		- fontos **műfajok**
 			- dal (zongorakíséretes szólódarabok/kisebb kórusdarabok)
@@ -41,7 +39,7 @@
 ### Zene és irodalom kapcsolata
 
 - magánlevélen túl **kritikák**at, beszámolókat írnak a publikumnak
-	- [[public/E T A Hoffmann\|E T A Hoffmann]] nyomdokain [[public/Schumann\|Schumann]], [[public/Berlioz\|Berlioz]], [[public/Wagner\|Wagner]], [[public/Liszt\|Liszt]]
+	- [[public/E T A Hoffmann\|E T A Hoffmann]] nyomdokain [[public/Schumann\|Schumann]], [[public/Berlioz\|Berlioz]], [[public/Wagner\|Wagner]], [[public/Liszt Ferenc\|Liszt]]
 - nagypéldányú napilapok, sajtó kialakulása
 	- párizsi *La Presse*
 	- német *Neue Zeitschrift für Musik*

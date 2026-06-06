@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/victor-hugo-mazeppa/","dg-note-properties":{"permalink":"/victor-hugo-mazeppa/"}}
+{"dg-publish":true,"permalink":"/public/victor-hugo-mazeppa/","dg-note-properties":{}}
 ---
-
-
 
 [[public/Victor Hugo\|Victor Hugo]]
 

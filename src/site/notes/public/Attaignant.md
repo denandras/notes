@@ -1,8 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/attaignant/","dg-note-properties":{"permalink":"/public/attaignant/"}}
+{"dg-publish":true,"permalink":"/public/attaignant/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
-
-
 

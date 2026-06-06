@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/public/hangszeres-virtuozok-es-muveik-a-19-szazadban/","dg-note-properties":{"permalink":"/hangszeres-virtuozok-es-muveik-a-19-szazadban/"}}
+{"dg-publish":true,"permalink":"/public/hangszeres-virtuozok-es-muveik-a-19-szazadban/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
 
-
-> Hangversenyetűd, hangszeres átiratok, noktürn, mazurka, polonéz, [[public/Paganini\|Paganini]], [[public/Liszt\|Liszt]], [[public/Chopin\|Chopin]]
+> Hangversenyetűd, hangszeres átiratok, noktürn, mazurka, polonéz, [[public/Paganini\|Paganini]], [[public/Liszt Ferenc\|Liszt Ferenc]], [[public/Chopin\|Chopin]]
 
 ### Fontos szerzők
 
 - [[public/Paganini\|Paganini]]
-- [[public/Liszt\|Liszt]]
+- [[public/Liszt Ferenc\|Liszt Ferenc]]
 - [[public/Chopin\|Chopin]]
 
 ### Fontos műfajok

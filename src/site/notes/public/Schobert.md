@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/schobert/","dg-note-properties":{"permalink":"/schobert/"}}
+{"dg-publish":true,"permalink":"/public/schobert/","dg-note-properties":{}}
 ---
-
-
 
 <mark>véletlen sem</mark> [[public/Schubert\|Schubert]]
 

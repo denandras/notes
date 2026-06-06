@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/pszichoakusztika/","dg-note-properties":{"permalink":"/public/pszichoakusztika/"}}
+{"dg-publish":true,"permalink":"/public/pszichoakusztika/","dg-note-properties":{"type":"None","subject":"akusztika"}}
 ---
-
 
 - a hangok pszichológiája
 - a hangok objektivitása (tudomány relatív objektivitása)

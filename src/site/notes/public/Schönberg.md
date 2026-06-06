@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/schoenberg/","dg-note-properties":{"permalink":"/schoenberg/"}}
+{"dg-publish":true,"permalink":"/public/schoenberg/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
 
 # Arnold Schönberg
 [[Schönberg.jpg\|Schönberg.jpg]]

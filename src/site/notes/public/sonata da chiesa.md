@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/sonata-da-chiesa/","dg-note-properties":{"permalink":"/sonata-da-chiesa/"}}
+{"dg-publish":true,"permalink":"/public/sonata-da-chiesa/","dg-note-properties":{}}
 ---
-
-
 
 templomi [[public/szonáta\|szonáta]]

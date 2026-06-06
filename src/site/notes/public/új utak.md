@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/uj-utak/","dg-note-properties":{"permalink":"/uj-utak/"}}
+{"dg-publish":true,"permalink":"/public/uj-utak/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 - a látásmód megváltozása
 	- új média

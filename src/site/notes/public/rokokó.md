@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/rokoko/","dg-note-properties":{"permalink":"/rokoko/"}}
+{"dg-publish":true,"permalink":"/public/rokoko/","dg-note-properties":{"type":"témakör","subject":"művészettörténet"}}
 ---
-
 
 # A zenében
 

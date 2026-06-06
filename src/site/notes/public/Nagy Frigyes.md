@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/nagy-frigyes/","dg-note-properties":{"permalink":"/nagy-frigyes/"}}
+{"dg-publish":true,"permalink":"/public/nagy-frigyes/","dg-note-properties":{}}
 ---
-
-
 
 felvilágosult abszolutista uralkodó
 fuvolista

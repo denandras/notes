@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/sturm-und-drang/","dg-note-properties":{"permalink":"/sturm-und-drang/"}}
+{"dg-publish":true,"permalink":"/public/sturm-und-drang/","dg-note-properties":{}}
 ---
-
-
 
 vihar és vágy
 

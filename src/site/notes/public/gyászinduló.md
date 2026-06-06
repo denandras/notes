@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/gyaszindulo/","dg-note-properties":{"permalink":"/gyaszindulo/"}}
+{"dg-publish":true,"permalink":"/public/gyaszindulo/","dg-note-properties":{"type":"műfaj","subject":"zenetöri"}}
 ---
-
 
 Marcia funébre
 

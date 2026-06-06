@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/schubert/","dg-note-properties":{"permalink":"/schubert/"}}
+{"dg-publish":true,"permalink":"/public/schubert/","dg-note-properties":{}}
 ---
-
-
 
 Franz Schubert
 

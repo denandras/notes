@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/apologeta/","dg-note-properties":{"permalink":"/public/apologeta/"}}
+{"dg-publish":true,"permalink":"/public/apologeta/","dg-note-properties":{"type":"fogalom"}}
 ---
-
-
 
 **apologéta** (görög)
 

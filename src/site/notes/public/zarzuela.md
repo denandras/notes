@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/zarzuela/","dg-note-properties":{"permalink":"/public/zarzuela/"}}
+{"dg-publish":true,"permalink":"/public/zarzuela/","dg-note-properties":{"type":["műfaj"],"subject":["zenetöri"]}}
 ---
-
 
 spanyol barokk műfaj

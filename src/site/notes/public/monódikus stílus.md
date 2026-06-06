@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/monodikus-stilus/","dg-note-properties":{"permalink":"/monodikus-stilus/"}}
+{"dg-publish":true,"permalink":"/public/monodikus-stilus/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
 
 > hangszerkíséretes szólóének
 > "színpadi stílus", "énekelt recitálás" - beszéd és ének között

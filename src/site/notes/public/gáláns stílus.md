@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/galans-stilus/","dg-note-properties":{"permalink":"/galans-stilus/"}}
+{"dg-publish":true,"permalink":"/public/galans-stilus/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
 
 <mark>~1720~1770</mark>
 = zenei rokokó

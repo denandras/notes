@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/josquin/","dg-note-properties":{"permalink":"/josquin/"}}
+{"dg-publish":true,"permalink":"/public/josquin/","dg-note-properties":{}}
 ---
-
-
 
 ## Josquin de Prez
 

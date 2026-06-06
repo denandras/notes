@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/wojzeck/","dg-note-properties":{"permalink":"/public/wojzeck/"}}
+{"dg-publish":true,"permalink":"/public/wojzeck/","dg-note-properties":{"type":"mű","subject":"zenetöri"}}
 ---
-
 
 - <mark>1780-</mark>
 - Lipcse, korán árva lett

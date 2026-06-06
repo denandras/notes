@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/angol-zenei-kultura/","dg-note-properties":{"permalink":"/angol-zenei-kultura/"}}
+{"dg-publish":true,"permalink":"/public/angol-zenei-kultura/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 ### **Angol polgári forradalom** (válság) 1642-51
 -   Puritánok elől elmenekül a későbbi [[II Károly\|II Károly]] Párizsba, behozni szándékozza a kultúrát

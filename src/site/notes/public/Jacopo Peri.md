@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/jacopo-peri/","dg-note-properties":{"permalink":"/jacopo-peri/"}}
+{"dg-publish":true,"permalink":"/public/jacopo-peri/","dg-note-properties":{}}
 ---
-
-
 
 ## [Wiki](https://www.wikiwand.com/hu/Jacopo_Peri)

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/semi-opera/","dg-note-properties":{"permalink":"/semi-opera/"}}
+{"dg-publish":true,"permalink":"/public/semi-opera/","dg-note-properties":{}}
 ---
-
-
 
 = drammatick opera
 

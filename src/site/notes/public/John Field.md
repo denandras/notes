@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/john-field/","dg-note-properties":{"permalink":"/john-field/"}}
+{"dg-publish":true,"permalink":"/public/john-field/","dg-note-properties":{}}
 ---
-
-
 
 - ír virtuóz
 	- nemzetközi karrier

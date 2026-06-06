@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/e-t-a-hoffmann/","dg-note-properties":{"permalink":"/e-t-a-hoffmann/"}}
+{"dg-publish":true,"permalink":"/public/e-t-a-hoffmann/","dg-note-properties":{}}
 ---
-
-
 
 kora legkítűnőbb zenekritikusa
 

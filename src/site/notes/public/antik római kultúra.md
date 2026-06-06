@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/antik-romai-kultura/","dg-note-properties":{"permalink":"/antik-romai-kultura/"}}
+{"dg-publish":true,"permalink":"/public/antik-romai-kultura/","dg-note-properties":{"type":"témakör","subject":"művészettörténet"}}
 ---
-
 
 - hatalmas, eddigi legnagyobb egybefüggő közigazgatási egység
 	- amihez kell

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/gluck/","dg-note-properties":{"permalink":"/gluck/"}}
+{"dg-publish":true,"permalink":"/public/gluck/","dg-note-properties":{}}
 ---
-
-
 
 Christoph Willibald Gluck
 

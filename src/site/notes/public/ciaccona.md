@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/ciaccona/","dg-note-properties":{"permalink":"/ciaccona/"}}
+{"dg-publish":true,"permalink":"/public/ciaccona/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
-
 
 eredetileg chacona, egy a 16. századból származó spanyol nemzeti tánc, a [[public/passacaglia\|passacaglia]] rokona

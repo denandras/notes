@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/paul-sacher/","dg-note-properties":{"permalink":"/public/paul-sacher/"}}
+{"dg-publish":true,"permalink":"/public/paul-sacher/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
 ---
-
 
 svájci karmester/kortárszenei impresszárió

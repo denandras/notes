@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/pergolesi/","dg-note-properties":{"permalink":"/public/pergolesi/"}}
+{"dg-publish":true,"permalink":"/public/pergolesi/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
 ---
-
 
 # Giovanni Battista Pergolesi
 

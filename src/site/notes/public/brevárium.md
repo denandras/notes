@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/brevarium/","dg-note-properties":{"permalink":"/public/brevarium/"}}
+{"dg-publish":true,"permalink":"/public/brevarium/","dg-note-properties":{"type":"fogalom"}}
 ---
 
 **brevárium** (latin)

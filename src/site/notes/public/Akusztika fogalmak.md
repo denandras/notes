@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/akusztika-fogalmak/","dg-note-properties":{"permalink":"/akusztika-fogalmak/"}}
+{"dg-publish":true,"permalink":"/public/akusztika-fogalmak/","dg-note-properties":{"type":"fogalom","subject":"akusztika"}}
 ---
-
 
 afferens
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/szonataforma/","dg-note-properties":{"permalink":"/szonataforma/"}}
+{"dg-publish":true,"permalink":"/public/szonataforma/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
 
 klasszikus szonáta
 - uralkodó a klasszikus zenében

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/empfindsamkeit/","dg-note-properties":{"permalink":"/empfindsamkeit/"}}
+{"dg-publish":true,"permalink":"/public/empfindsamkeit/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
-
 
 szentimentalizmus, Empfindsamer Stil
 

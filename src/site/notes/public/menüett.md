@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/menueett/","dg-note-properties":{"permalink":"/menueett/"}}
+{"dg-publish":true,"permalink":"/public/menueett/","dg-note-properties":{"type":"műfaj","subject":"zenetöri"}}
 ---
 

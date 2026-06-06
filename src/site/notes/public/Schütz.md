@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/schuetz/","dg-note-properties":{"permalink":"/schuetz/"}}
+{"dg-publish":true,"permalink":"/public/schuetz/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
 
 Heinrich Schütz
 <mark>1585-1672</mark>

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/comedie-ballet/","dg-note-properties":{"permalink":"/comedie-ballet/"}}
+{"dg-publish":true,"permalink":"/public/comedie-ballet/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
 
 zenei színház és prózai között (tételek között próza) - akkori musical
 

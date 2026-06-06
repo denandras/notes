@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/via-negativa/","dg-note-properties":{"permalink":"/via-negativa/"}}
+{"dg-publish":true,"permalink":"/public/via-negativa/","dg-note-properties":{}}
 ---
-
-
 
 - Istent nem lehet leírni, mert mindennél tökéletesebb
 - csak negatív állításokkal lehet kifejezni az ellentétét

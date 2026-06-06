@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/barokk-a-hetkoeznapokban/","dg-note-properties":{"permalink":"/barokk-a-hetkoeznapokban/"}}
+{"dg-publish":true,"permalink":"/public/barokk-a-hetkoeznapokban/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 - a barokk a zenében olyan, mint egy évben a nyár
 - burjánzó, túlzó, fülledt

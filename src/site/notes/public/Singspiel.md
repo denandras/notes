@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/singspiel/","dg-note-properties":{"permalink":"/singspiel/"}}
+{"dg-publish":true,"permalink":"/public/singspiel/","dg-note-properties":{}}
 ---
-
-
 
 > Hamburg: nagyobb opera
 > néhány fejedelmi opera (Bécs, Drezda)

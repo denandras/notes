@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/ballada/","dg-note-properties":{"permalink":"/ballada/"}}
+{"dg-publish":true,"permalink":"/public/ballada/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
-
 
 - irodalmi divat, 18. század
 	- [[Thomas Percy\|Thomas Percy]] balladáskötete

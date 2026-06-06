@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/domenico-cimarosa/","dg-note-properties":{"permalink":"/domenico-cimarosa/"}}
+{"dg-publish":true,"permalink":"/public/domenico-cimarosa/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 <mark>1749-1801</mark>
 

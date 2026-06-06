@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/le-deserteur/","dg-note-properties":{"permalink":"/le-deserteur/"}}
+{"dg-publish":true,"permalink":"/public/le-deserteur/","dg-note-properties":{"type":"mű","subject":"zenetöri"}}
 ---
-
 
 [[public/Pierre-Alexandre Monsigny\|Pierre-Alexandre Monsigny]]
 

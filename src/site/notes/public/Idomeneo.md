@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/idomeneo/","dg-note-properties":{"permalink":"/idomeneo/"}}
+{"dg-publish":true,"permalink":"/public/idomeneo/","dg-note-properties":{}}
 ---
-
-
 
 [[public/Mozart\|Mozart]]
 

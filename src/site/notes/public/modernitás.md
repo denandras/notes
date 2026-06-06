@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/modernitas/","dg-note-properties":{"permalink":"/modernitas/"}}
+{"dg-publish":true,"permalink":"/public/modernitas/","dg-note-properties":{"type":"témakör","subject":"művészettörténet"}}
 ---
-
 
 ### Modernitás
 
@@ -13,7 +12,7 @@
 		- minden előadás jó: parttalan relativizmus
 - [[public/racionalizmus\|racionalizmus]]
 	- [[public/René Descartes\|René Descartes]], Leibnitz, Kant
-	- [[public/empirizmus\|empirizmus]]
+	- [[empirizmus\|empirizmus]]
 	- az ember racionális megértése, [[public/Rousseau\|Rousseau]], [[public/Diderot\|Diderot]]
 	- cél/értékracionalizmus
 		- meg kell tudnunk valamit indokolni
@@ -26,8 +25,8 @@
 		- [[Sigmund Baumann\|Sigmund Baumann]] elemzése a holokauszttal kapcsolatban
 			- zsidóság -> Madagaszkár
 		- a töltény drága
-- [[public/univerzalizmus\|univerzalizmus]]: ha valaki máshogy gondolja, az helytelen
-- [[public/centralizmus\|centralizmus]]: minden központilag van működtetve
+- [[univerzalizmus\|univerzalizmus]]: ha valaki máshogy gondolja, az helytelen
+- [[centralizmus\|centralizmus]]: minden központilag van működtetve
 - [[globalizmus\|globalizmus]]
 - a posztmodern szereti a technikát, ha uralhatja
 - haladáselvűség: a modernitásban fejlődés

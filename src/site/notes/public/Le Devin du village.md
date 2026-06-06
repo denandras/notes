@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/le-devin-du-village/","dg-note-properties":{"permalink":"/le-devin-du-village/"}}
+{"dg-publish":true,"permalink":"/public/le-devin-du-village/","dg-note-properties":{}}
 ---
-
-
 
 [[public/Rousseau\|Rousseau]]
 

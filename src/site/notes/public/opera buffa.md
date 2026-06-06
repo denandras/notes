@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/opera-buffa/","dg-note-properties":{"permalink":"/opera-buffa/"}}
+{"dg-publish":true,"permalink":"/public/opera-buffa/","dg-note-properties":{}}
 ---
-
-
 
 > komikus intermezzo: rövid
 > rövid és éles [[public/opera\|opera]], általában úr-szolga vagy szerető-szobalány viszony intrikáit mutatja be.

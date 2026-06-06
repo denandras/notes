@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/johann-stamitz/","dg-note-properties":{"permalink":"/public/johann-stamitz/"}}
+{"dg-publish":true,"permalink":"/public/johann-stamitz/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
 ---
-
 
 Jan Stamic
 

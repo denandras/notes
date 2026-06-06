@@ -1,8 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/gounod/","dg-note-properties":{"permalink":"/gounod/"}}
+{"dg-publish":true,"permalink":"/public/gounod/","dg-note-properties":{}}
 ---
-
-
-
 
 #üres 

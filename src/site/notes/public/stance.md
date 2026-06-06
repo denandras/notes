@@ -1,8 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/stance/","dg-note-properties":{"permalink":"/stance/"}}
+{"dg-publish":true,"permalink":"/public/stance/","dg-note-properties":{}}
 ---
-
-
-
 
 The position or attitude someone takes on an issue; also can refer to the way someone physically stands.

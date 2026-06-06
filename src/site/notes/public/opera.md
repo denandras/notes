@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/opera/","dg-note-properties":{"permalink":"/public/opera/"}}
+{"dg-publish":true,"permalink":"/public/opera/","dg-note-properties":{"type":["műfaj"],"subject":["zenetöri"]}}
 ---
-
 
 [[public/humanizmus\|humanizmus]], [[public/semi-opera\|semi-opera]], [[public/opera buffa\|opera buffa]], [[public/opera seria\|opera seria]], udvari opera, velencei opera, [[public/monódikus stílus\|monódikus stílus]], [[public/Hyppolyte et Aricie\|Hyppolyte et Aricie]]
 __________________

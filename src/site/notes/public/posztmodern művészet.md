@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/posztmodern-muveszet/","dg-note-properties":{"permalink":"/posztmodern-muveszet/"}}
+{"dg-publish":true,"permalink":"/public/posztmodern-muveszet/","dg-note-properties":{"type":"témakör","subject":"művészettörténet"}}
 ---
-
 
 ### Posztmodern művészet
 
@@ -124,7 +123,7 @@
 - építészet
 	- szecesszió és art deco
 	- purizmus, racionalizmus
-	- bauhaus, (kicsit [manierista](manierizmus)) brutalizmus
+	- bauhaus, (kicsit [manierista](manierizmus.md)) brutalizmus
 	- Pruitt-Igoe lakótelep lerombolása
 		- emberbarát, élhető hely volt
 	- társadalmi problémák voltak, nem esztétikai
@@ -140,7 +139,7 @@
 	- [[Bak Imre\|Bak Imre]], Ráder(?) András
 	- [[Maurer Dóra\|Maurer Dóra]], [[Vera Molnár\|Vera Molnár]]
 	- angolszász újrealizmus
-	- [[public/Liszt\|Liszt]]-szobrok
+	- [[public/Liszt Ferenc\|Liszt Ferenc]]-szobrok
 		- Liszt-tér, avantgárd, expresszionista
 		- Pécs, Dóm tér, posztmodern, giccses, filmszerű jelenet
 	- Solti-emlékművek

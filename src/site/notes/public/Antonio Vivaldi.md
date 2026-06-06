@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/antonio-vivaldi/","dg-note-properties":{"permalink":"/antonio-vivaldi/"}}
+{"dg-publish":true,"permalink":"/public/antonio-vivaldi/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 <mark>1768-1741</mark>
 

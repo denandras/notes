@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/rameau/","dg-note-properties":{"permalink":"/rameau/"}}
+{"dg-publish":true,"permalink":"/public/rameau/","dg-note-properties":{}}
 ---
-
-
 
 Jean Philippe Rameau

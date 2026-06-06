@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/medians/","dg-note-properties":{"permalink":"/medians/"}}
+{"dg-publish":true,"permalink":"/public/medians/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
 
 tercrokon
 

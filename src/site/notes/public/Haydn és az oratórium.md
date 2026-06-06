@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/haydn-es-az-oratorium/","dg-note-properties":{"permalink":"/haydn-es-az-oratorium/"}}
+{"dg-publish":true,"permalink":"/public/haydn-es-az-oratorium/","dg-note-properties":{"type":"műfaj","subject":"zenetöri"}}
 ---
-
 
 [[public/Haydn\|Haydn]]
 

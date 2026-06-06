@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/rousseau/","dg-note-properties":{"permalink":"/rousseau/"}}
+{"dg-publish":true,"permalink":"/public/rousseau/","dg-note-properties":{}}
 ---
-
-
 
 Jean-Jacques Rousseau
 

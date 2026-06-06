@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/zenei-irasbeliseg-es-a-gregorian/","dg-note-properties":{"permalink":"/zenei-irasbeliseg-es-a-gregorian/"}}
+{"dg-publish":true,"permalink":"/public/zenei-irasbeliseg-es-a-gregorian/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 -   nyitógondolatok
     -   függöny metafora, az írásbeliség megjelenése elhúzza a függönyt

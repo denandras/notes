@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/il-matrimonio-segreto/","dg-note-properties":{"permalink":"/il-matrimonio-segreto/"}}
+{"dg-publish":true,"permalink":"/public/il-matrimonio-segreto/","dg-note-properties":{}}
 ---
-
-
 
 A titkos házasság
 

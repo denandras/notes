@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/olasz-es-francia-opera-a-19-szazadban/","dg-note-properties":{"permalink":"/olasz-es-francia-opera-a-19-szazadban/"}}
+{"dg-publish":true,"permalink":"/public/olasz-es-francia-opera-a-19-szazadban/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 [[Julian Budden - Verdi\|Julian Budden - Verdi]]
 
@@ -257,7 +256,7 @@
 
 [[public/Verdi\|Verdi]], **[[public/Giacomo Meyerbeer\|Giacomo Meyerbeer]]**
 
-> 1867 -- 48-as politikai [[public/idealizmus\|idealizmus]], az emberek hisznek a haladásban -> az emberekben realizálódik a reménytelenség
+> 1867 -- 48-as politikai [[idealizmus\|idealizmus]], az emberek hisznek a haladásban -> az emberekben realizálódik a reménytelenség
 
 - elnyomásellenes
 - politikai szuverenitás

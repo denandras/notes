@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/programatikus/","dg-note-properties":{"permalink":"/programatikus/"}}
+{"dg-publish":true,"permalink":"/public/programatikus/","dg-note-properties":{}}
 ---
-
-
 
 = programszerű
 

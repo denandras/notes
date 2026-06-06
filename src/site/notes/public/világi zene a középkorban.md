@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/vilagi-zene-a-koezepkorban/","dg-note-properties":{"permalink":"/vilagi-zene-a-koezepkorban/"}}
+{"dg-publish":true,"permalink":"/public/vilagi-zene-a-koezepkorban/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 -   `19. századig` a világi zene nagyban hasonlít az egyházi zenére, a kezdetekben volt, hogy vallásos énekek dallamaira új szövegeket írtak
     -   funkcióiban és helyileg különbözik, de hasonlít maga a zene

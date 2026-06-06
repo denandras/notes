@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/bekesy-gyoergy/","dg-note-properties":{"permalink":"/bekesy-gyoergy/"}}
+{"dg-publish":true,"permalink":"/public/bekesy-gyoergy/","dg-note-properties":{"type":"személy","subject":"akusztika"}}
 ---
-
 
 - Nobel-díj a halláskutatásért
 - alapkutatásba kezdett, mert nem hitt a halláselméletekben

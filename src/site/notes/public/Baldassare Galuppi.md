@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/baldassare-galuppi/","dg-note-properties":{"permalink":"/baldassare-galuppi/"}}
+{"dg-publish":true,"permalink":"/public/baldassare-galuppi/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 <mark>1706-85</mark>
 

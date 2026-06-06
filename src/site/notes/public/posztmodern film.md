@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/posztmodern-film/","dg-note-properties":{"permalink":"/public/posztmodern-film/"}}
+{"dg-publish":true,"permalink":"/public/posztmodern-film/","dg-note-properties":{"type":"témakör","subject":"posztmodern"}}
 ---
-
-
 
 ### Posztmodern film
 

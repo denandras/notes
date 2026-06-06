@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/infok-rezes-golyaknak/","dg-note-properties":{"permalink":"/infok-rezes-golyaknak/","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowFileTree":"false","dgEnableSearch":"false"}}
+{"dg-publish":true,"permalink":"/public/infok-rezes-golyaknak/","dg-note-properties":{"type":"témakör","subject":"zenetöri","dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowFileTree":false,"dgEnableSearch":false}}
 ---
-
 
 ## [SOS email](mailto:denesandras@akademista.hu)
 

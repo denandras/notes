@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/bartok/","dg-note-properties":{"permalink":"/bartok/"}}
+{"dg-publish":true,"permalink":"/public/bartok/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
 
 [[public/zenetöri\|zenetöri]] & [[public/magyar zenetöri\|magyar zenetöri]] egyesítve
 
@@ -242,7 +241,7 @@
 - eml. [[public/Szabolcsi Bence Művei\|Szabolcsi Bence Művei]], [[Tóth Aladár\|Tóth Aladár]]
 - Beethoven op 131
 - Slavo Zizek
-- eml. op. 2 rapszódia (hasonlóság [[public/Liszt\|Liszt]]tel)
+- eml. op. 2 rapszódia (hasonlóság [[public/Liszt Ferenc\|Liszt Ferenc]]tel)
 - eml. [[Paolo Coelho\|Paolo Coelho]]
 - eml. [[Kurtág Márta\|Kurtág Márta]] és [[Kurtág György\|Kurtág György]] tévében Carment néz: "Gyuri! Te most komponálsz!"
 - [[Jehudi Menuhin\|Jehudi Menuhin]] és [[public/Bartók\|Bartók]]: Menuhin inkább gyakorolta a lejátszhatatlan részeket ahelyett, hogy nemet mondott volna

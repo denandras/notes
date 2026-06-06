@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/kiseretes-szonata/","dg-note-properties":{"permalink":"/kiseretes-szonata/"}}
+{"dg-publish":true,"permalink":"/public/kiseretes-szonata/","dg-note-properties":{"type":"műfaj","subject":"zenetöri"}}
 ---
-
 
 - elterjedt
 	- Párizs: [[Guillemain\|Guillemain]], [[public/Schobert\|Schobert]], [[Eckard\|Eckard]]

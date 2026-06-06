@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/missa-hercules/","dg-note-properties":{"permalink":"/missa-hercules/"}}
+{"dg-publish":true,"permalink":"/public/missa-hercules/","dg-note-properties":{}}
 ---
-
-
 
 [[public/Josquin\|Josquin]] miséje

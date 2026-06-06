@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/le-nuove-musiche/","dg-note-properties":{"permalink":"/public/le-nuove-musiche/"}}
+{"dg-publish":true,"permalink":"/public/le-nuove-musiche/","dg-note-properties":{"type":["mű"],"subject":["zenetöri"]}}
 ---
-
 
 - [[public/Giulio Caccini\|Giulio Caccini]] [[public/monódikus stílus\|monódikus stílus]]ú, népszerű gyűjteménye
 	- gyors információáramlás

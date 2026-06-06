@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/public/basso-continuo/","dg-note-properties":{"permalink":"/basso-continuo/"}}
+{"dg-publish":true,"permalink":"/public/basso-continuo/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
 

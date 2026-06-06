@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/don-giovanni/","dg-note-properties":{"permalink":"/don-giovanni/"}}
+{"dg-publish":true,"permalink":"/public/don-giovanni/","dg-note-properties":{"type":"mű","subject":"zenetöri"}}
 ---
-
-
 
 [[public/Mozart\|Mozart]]

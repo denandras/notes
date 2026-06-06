@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/dalciklus/","dg-note-properties":{"permalink":"/public/dalciklus/"}}
+{"dg-publish":true,"permalink":"/public/dalciklus/","dg-note-properties":{"type":"fogalom","subject":"zenetöri"}}
 ---
-
 
 - maguk a költemények ciklust alkotnak
 	- vagy a zeneszerző állítja össze

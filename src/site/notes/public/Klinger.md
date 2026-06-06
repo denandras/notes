@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/klinger/","dg-note-properties":{"permalink":"/klinger/"}}
+{"dg-publish":true,"permalink":"/public/klinger/","dg-note-properties":{}}
 ---
-
-
 
 Friedrich Maximilian Klinger

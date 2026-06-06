@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/chopin/","dg-note-properties":{"permalink":"/chopin/"}}
+{"dg-publish":true,"permalink":"/public/chopin/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 <mark>1810-1849</mark>
 

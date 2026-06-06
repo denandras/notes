@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/moliere/","dg-note-properties":{"permalink":"/public/moliere/"}}
+{"dg-publish":true,"permalink":"/public/moliere/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
 ---
-
 
 # Moliere (Jean-Baptiste Poclain)
 

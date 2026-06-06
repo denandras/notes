@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/pal-antal-herceg/","dg-note-properties":{"permalink":"/pal-antal-herceg/"}}
+{"dg-publish":true,"permalink":"/public/pal-antal-herceg/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
 
 # [[public/Esterházy\|Esterházy]] Pál Antal herceg
 

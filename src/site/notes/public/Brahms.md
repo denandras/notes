@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/brahms/","dg-note-properties":{"permalink":"/brahms/"}}
+{"dg-publish":true,"permalink":"/public/brahms/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 ![](https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/e3/ec/da/e3ecdab5-438d-a8f9-f61d-d8d1b9d85392/mzl.mwehucyv.png/256x256bb.jpg)
 ## Negyedik félév - Romantika (BP)
@@ -65,7 +63,7 @@
 ### Háttere
 <mark>1833-1897</mark>^1
 - német zenetöri két részre oszlik
-	- **Új német iskola** ([[public/Berlioz\|Berlioz]], [[public/Wagner\|Wagner]], [[public/Liszt\|Liszt]])
+	- **Új német iskola** ([[public/Berlioz\|Berlioz]], [[public/Wagner\|Wagner]], [[public/Liszt Ferenc\|Liszt]])
 	- **Konzervatív ág** ([[public/Brahms\|Brahms]] és a [[public/Brahms#^c8d089\|többiek]]) - elfordulnak a programzenétől
 - korrajz: gyertyák és lovak
 	- talán ő az első nagy, aki beleszületik ebbe, és budapesti villamosokat látva hal meg
@@ -86,14 +84,14 @@
 	- Brahms életében kétszer fordult elő hasonló pillanat
 	- [[public/Beethoven\|Beethoven]] halála után volt egy űr
 		- [[public/Schumann\|Schumann]]-szimfóniák, [[public/Mendelssohn\|Mendelssohn]] 5.-je nem kaptak olyan rangot a kortársak szemében
-		- [[public/Liszt\|Liszt]] még nem írta meg az őt igazán naggyá tevő szimfóniákat ([[public/Chopin\|Chopin]] ezért sem tartotta nagyra)
+		- [[public/Liszt Ferenc\|Liszt]] még nem írta meg az őt igazán naggyá tevő szimfóniákat ([[public/Chopin\|Chopin]] ezért sem tartotta nagyra)
 - **[[Reményi Ede\|Reményi Ede]]**
 	- miskolci hegedűs, eredeti nevén Eduard Hoffmann
 	- '48-49-es forradalomban [[Görgei\|Görgei]] mellett vesz részt -> Amerikába emigrál -> vissza Európába
-	- 1853 nyarán Weimarba mennek [[public/Brahms\|Brahms]]szal, [[public/Liszt\|Liszt]]nél látogatást tesznek
-		- ([[public/Liszt\|Liszt]] '47 után már nem koncertezett, volt elég pénze)
+	- 1853 nyarán Weimarba mennek [[public/Brahms\|Brahms]]szal, [[public/Liszt Ferenc\|Liszt]]nél látogatást tesznek
+		- ([[public/Liszt Ferenc\|Liszt]] '47 után már nem koncertezett, volt elég pénze)
 		- egy bizonyos [[Mason\|Mason]] tanúja volt a találkának: (- Látom, hozott kottákat, játssza el! - Nem szeretném, mert Önt túl nagyra tartom. - Akkor majd én leblattolom. - Azt hittem, ez nehéz. - Nehéz.)
-		- elvileg kinézett [[public/Liszt\|Liszt]] a kommentárokkal teletűzdelt blatt közben, [[public/Brahms\|Brahms]] aludt, ezért kiment
+		- elvileg kinézett [[public/Liszt Ferenc\|Liszt]] a kommentárokkal teletűzdelt blatt közben, [[public/Brahms\|Brahms]] aludt, ezért kiment
 	- <mark>1853</mark> október: [[public/Schumann\|Schumann]]nál Düsseldorfban
 		- szorongott tőle is
 		- kottákat küldött, de bontatlanul visszakapta
@@ -104,11 +102,11 @@
 { #c8d089}
 
 	- [[public/Brahms\|Brahms]], [[Joseph Joachim\|Joseph Joachim]], [[Julius Otto Grimm\|Julius Otto Grimm]], [[Bernhard Scholz\|Bernhard Scholz]]
-	- nem mondják ki [[public/Liszt\|Liszt]] nevét, de ő ellene szól a dokumentum
+	- nem mondják ki [[public/Liszt Ferenc\|Liszt]] nevét, de ő ellene szól a dokumentum
 	- "a zene önmagában érték, nem kell, hogy valamiről szóljon"
 	- [[public/Eduard Hanslick\|Eduard Hanslick]]
 		- sokszor van igaza, de alapvetően mégse
-		- nagyon nekiment [[public/Liszt\|Liszt]]nek, és egy kicsit [[public/Wagner\|Wagner]]nek (utóbbi a *Nürnbergi mesterdalnokok* felolvasásánál bosszút állt rajta, egyik karakterének Hans Lick nevet adott)
+		- nagyon nekiment [[public/Liszt Ferenc\|Liszt]]nek, és egy kicsit [[public/Wagner\|Wagner]]nek (utóbbi a *Nürnbergi mesterdalnokok* felolvasásánál bosszút állt rajta, egyik karakterének Hans Lick nevet adott)
 - 1862 - letelepedés Bécsben
 - 1867-91 - évente Pestre jár bemutatókra
 - 1869 - *Német Requiem*

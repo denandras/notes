@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/charles-ives/","dg-note-properties":{"permalink":"/charles-ives/"}}
+{"dg-publish":true,"permalink":"/public/charles-ives/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
-
 
 <mark>1874-1954</mark>
 - Danbury
@@ -37,7 +34,7 @@
 - biztosítótársaság
 	- vasárnaponként komponált 1926-ig, amikor abbahagyta, mert az emberek befogadóképességénél nagyobb dolgokat írt
 - felesége Harmony névre hallgatott
-- [[Sibelius\|Sibelius]] is abbahagyta, de nem ezért, hanem mert túl romantikus zenét írt
+- [[Sync/Réz körút darabok/Sibelius\|Sibelius]] is abbahagyta, de nem ezért, hanem mert túl romantikus zenét írt
 - [[Alois Hába\|Alois Hába]]
 - [[Ivan Wyschnegradsky\|Ivan Wyschnegradsky]]
 - [[public/Bartók\|Bartók]] mikrohangközei

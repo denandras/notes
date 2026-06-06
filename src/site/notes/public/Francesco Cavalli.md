@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/francesco-cavalli/","dg-note-properties":{"permalink":"/public/francesco-cavalli/"}}
+{"dg-publish":true,"permalink":"/public/francesco-cavalli/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
 ---
-
 
 Pietro Francesco Cavalli
 

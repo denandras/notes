@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/verdi/","dg-note-properties":{"permalink":"/verdi/"}}
+{"dg-publish":true,"permalink":"/public/verdi/","dg-note-properties":{}}
 ---
-
-
 
 - Milanoi Conservatoirebe nem vették fel
 - első operája: 1839

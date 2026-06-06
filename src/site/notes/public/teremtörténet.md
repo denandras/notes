@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/teremtoertenet/","dg-note-properties":{"permalink":"/teremtoertenet/"}}
+{"dg-publish":true,"permalink":"/public/teremtoertenet/","dg-note-properties":{"type":"témakör","subject":"akusztika"}}
 ---
-
 
 - Epidaurosz
 	- nem véletlenül van a drámában a kórus

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/urhatnam-szolgalo/","dg-note-properties":{"permalink":"/urhatnam-szolgalo/"}}
+{"dg-publish":true,"permalink":"/public/urhatnam-szolgalo/","dg-note-properties":{"type":"mű","subject":"zenetöri"}}
 ---
-
 
 La serva padrona
 

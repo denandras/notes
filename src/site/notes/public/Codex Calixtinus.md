@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/codex-calixtinus/","dg-note-properties":{"permalink":"/codex-calixtinus/"}}
+{"dg-publish":true,"permalink":"/public/codex-calixtinus/","dg-note-properties":{"type":"mű","subject":"zenetöri"}}
 ---
-
-
 
 ## [wiki](https://www.wikiwand.com/hu/Kallixtusz-k%C3%B3dex)
 

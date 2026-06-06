@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/akusztika-tetelek/","dg-note-properties":{"permalink":"/akusztika-tetelek/"}}
+{"dg-publish":true,"permalink":"/public/akusztika-tetelek/","dg-note-properties":{"type":"témakör","subject":"akusztika"}}
 ---
-
 
 - A csillaggal jelzett tételekhez használható segédanyag: Pap János: A zenei akusztika alapjai.
 

@@ -3,4 +3,4 @@
 ---
 
 
-[Definíció keresés alatt: voyerizmus]
+Egy szexuális jellegű deviancia, amelyben az egyén másokat figyel meg titokban intim helyzetekben (például vetkőzés, szexuális tevékenység közben), és ebből szerez kielégülést.

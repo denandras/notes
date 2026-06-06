@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/akusztika/","dg-note-properties":{"permalink":"/akusztika/"}}
+{"dg-publish":true,"permalink":"/public/akusztika/","dg-note-properties":{"type":"témakör","subject":"akusztika"}}
 ---
-
 
 #
 

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/lyotard/","dg-note-properties":{"permalink":"/lyotard/"}}
+{"dg-publish":true,"permalink":"/public/lyotard/","dg-note-properties":{}}
 ---
-
-
 
 Jean-Francois Lyotard
 

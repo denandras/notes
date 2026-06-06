@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/modern-idok/","dg-note-properties":{"permalink":"/modern-idok/"}}
+{"dg-publish":true,"permalink":"/public/modern-idok/","dg-note-properties":{"type":"témakör","subject":"művészettörténet"}}
 ---
-
 
 - modernitás, modernizmus
 	- jól periodizálható?

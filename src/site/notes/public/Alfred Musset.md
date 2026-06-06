@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/alfred-musset/","dg-note-properties":{"permalink":"/alfred-musset/"}}
+{"dg-publish":true,"permalink":"/public/alfred-musset/","dg-note-properties":{"type":"személy","subject":"művészettörténet"}}
 ---
 
 [[public/Alfred Musset\|Alfred de Musset]] (Párizs, 1810. december 11. – Párizs, 1857. május 2.) francia költő, drámaíró, a francia romantika kiemelkedő képviselője. A [[public/Victor Hugo\|Victor Hugo]] köré csoportosult költők közül az egyik legjelentősebb. Magyar vonatkozású műve: [[Alfred Musset - Barberine rokkája\|Alfred Musset - Barberine rokkája]] (1835).

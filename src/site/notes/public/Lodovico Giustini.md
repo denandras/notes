@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/lodovico-giustini/","dg-note-properties":{"permalink":"/lodovico-giustini/"}}
+{"dg-publish":true,"permalink":"/public/lodovico-giustini/","dg-note-properties":{}}
 ---
-
-
 
 - észak-itáliai születésű
 - orgonista, egyházi zeneszerző

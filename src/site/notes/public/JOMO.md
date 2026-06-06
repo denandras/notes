@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/jomo/","dg-note-properties":{"permalink":"/jomo/"}}
+{"dg-publish":true,"permalink":"/public/jomo/","dg-note-properties":{}}
 ---
-
-
 
 a kimaradás élvezete, pl. házasság

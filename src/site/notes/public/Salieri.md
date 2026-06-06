@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/salieri/","dg-note-properties":{"permalink":"/public/salieri/"}}
+{"dg-publish":true,"permalink":"/public/salieri/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
 ---
-
 
 Antonio Salieri
 

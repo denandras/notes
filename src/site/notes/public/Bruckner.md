@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/bruckner/","dg-note-properties":{"permalink":"/bruckner/"}}
+{"dg-publish":true,"permalink":"/public/bruckner/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 ![](https://www.orchestralart.com/wp-content/uploads/2022/01/bruckner_anton-800x800.jpg)
 # Anton Bruckner

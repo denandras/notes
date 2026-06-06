@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/szecesszio/","dg-note-properties":{"permalink":"/szecesszio/"}}
+{"dg-publish":true,"permalink":"/public/szecesszio/","dg-note-properties":{"type":"témakör","subject":"művészettörténet"}}
 ---
-
 
 - 19. század vége
 - fin de siécle

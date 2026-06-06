@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/opera-a-18-szazad-koezepen/","dg-note-properties":{"permalink":"/opera-a-18-szazad-koezepen/"}}
+{"dg-publish":true,"permalink":"/public/opera-a-18-szazad-koezepen/","dg-note-properties":{"type":"műfaj","subject":"zenetöri"}}
 ---
-
 
 - [[public/opera buffa\|opera buffa]] vált jellemzővé
 - áriák mellett duettek és nagyobb énekes együttesek jelennek meg

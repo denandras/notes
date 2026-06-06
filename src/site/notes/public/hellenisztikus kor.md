@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/hellenisztikus-kor/","dg-note-properties":{"permalink":"/hellenisztikus-kor/"}}
+{"dg-publish":true,"permalink":"/public/hellenisztikus-kor/","dg-note-properties":{}}
 ---
-
-
 
 ## A görög csoda (antik görög kultúra)
 - radikális változás

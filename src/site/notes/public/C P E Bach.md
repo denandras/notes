@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/c-p-e-bach/","dg-note-properties":{"permalink":"/c-p-e-bach/"}}
+{"dg-publish":true,"permalink":"/public/c-p-e-bach/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 # Carl Philipp Emanuel Bach
 

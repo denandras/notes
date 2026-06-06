@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/muencheni-szonatak/","dg-note-properties":{"permalink":"/muencheni-szonatak/"}}
+{"dg-publish":true,"permalink":"/public/muencheni-szonatak/","dg-note-properties":{"type":"mű","subject":"zenetöri"}}
 ---
-
 
 - [[public/Mozart\|Mozart]] 1775-ös [[public/klasszikus billentyűs szonáta\|klasszikus billentyűs szonáta]]i
 - kiadásra szánta őket, de nem talált vállalkozót

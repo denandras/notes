@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/carl-loewe/","dg-note-properties":{"permalink":"/carl-loewe/"}}
+{"dg-publish":true,"permalink":"/public/carl-loewe/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
-
 
 <mark>1796-1868</mark>
 

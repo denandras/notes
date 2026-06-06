@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/sackbut/","dg-note-properties":{"permalink":"/public/sackbut/"}}
+{"dg-publish":true,"permalink":"/public/sackbut/","dg-note-properties":{"type":["fogalom"],"subject":["zenetöri"]}}
 ---
-
 
 korai harsona

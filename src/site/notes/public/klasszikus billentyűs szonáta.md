@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/klasszikus-billentyus-szonata/","dg-note-properties":{"permalink":"/klasszikus-billentyus-szonata/"}}
+{"dg-publish":true,"permalink":"/public/klasszikus-billentyus-szonata/","dg-note-properties":{"type":"műfaj","subject":"zenetöri"}}
 ---
-
 
 [[public/Komlós - Fortepianók és zenéjük\|Komlós - Fortepianók és zenéjük]]
 

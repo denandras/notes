@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/bach/","dg-note-properties":{"permalink":"/bach/"}}
+{"dg-publish":true,"permalink":"/public/bach/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 # Johann Sebastian Bach
 

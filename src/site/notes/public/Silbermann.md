@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/silbermann/","dg-note-properties":{"permalink":"/silbermann/"}}
+{"dg-publish":true,"permalink":"/public/silbermann/","dg-note-properties":{}}
 ---
-
-
 
 Gottfried Silbermann
 

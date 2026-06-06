@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/aforizma/","dg-note-properties":{"permalink":"/public/aforizma/"}}
+{"dg-publish":true,"permalink":"/public/aforizma/","dg-note-properties":{"type":["fogalom"],"subject":["zenetöri"]}}
 ---
-
 
 tömören és szellemesen megfogalmazott igazság, bölcs és magvas mondás

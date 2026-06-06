@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/holland-aranykor/","dg-note-properties":{"permalink":"/holland-aranykor/"}}
+{"dg-publish":true,"permalink":"/public/holland-aranykor/","dg-note-properties":{}}
 ---
-
-
 
 ## Kor
 - manierizmus

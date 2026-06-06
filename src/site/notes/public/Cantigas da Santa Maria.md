@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/cantigas-da-santa-maria/","dg-note-properties":{"permalink":"/cantigas-da-santa-maria/"}}
+{"dg-publish":true,"permalink":"/public/cantigas-da-santa-maria/","dg-note-properties":{"type":"mű","subject":"zenetöri"}}
 ---
-
-
 
 ## [link](http://www.cantigasdesantamaria.com)
 

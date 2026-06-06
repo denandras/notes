@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/ritornello-forma/","dg-note-properties":{"permalink":"/ritornello-forma/"}}
+{"dg-publish":true,"permalink":"/public/ritornello-forma/","dg-note-properties":{}}
 ---
-
-
 
 - tonálisan zárt egység
 	- kezd és zár ugyanabban a hangnemben

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/fidelio/","dg-note-properties":{"permalink":"/fidelio/"}}
+{"dg-publish":true,"permalink":"/public/fidelio/","dg-note-properties":{}}
 ---
-
-
 
 <mark>1805</mark>
 - **modellként szolgál** a későbbiekben

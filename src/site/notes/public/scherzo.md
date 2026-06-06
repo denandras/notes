@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/scherzo/","dg-note-properties":{"permalink":"/public/scherzo/"}}
+{"dg-publish":true,"permalink":"/public/scherzo/","dg-note-properties":{"type":["fogalom"],"subject":["zenetöri"]}}
 ---
-
 
 ABA triós forma [[public/Haydn\|Haydn]] által bevezetve

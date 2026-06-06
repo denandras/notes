@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/bronzkor-vaskor/","dg-note-properties":{"permalink":"/public/bronzkor-vaskor/"}}
+{"dg-publish":true,"permalink":"/public/bronzkor-vaskor/","dg-note-properties":{"type":["korszak"],"subject":["művészettörténet"]}}
 ---
-
 
 > kompozit istenségek
 

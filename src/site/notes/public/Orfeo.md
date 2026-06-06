@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/orfeo/","dg-note-properties":{"permalink":"/orfeo/"}}
+{"dg-publish":true,"permalink":"/public/orfeo/","dg-note-properties":{}}
 ---
-
-
 
 Orfeo et Eurudice
 - [[public/Monteverdi\|Monteverdi]], 1607, Mantova

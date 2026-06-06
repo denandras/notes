@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/oskor/","dg-note-properties":{"permalink":"/oskor/"}}
+{"dg-publish":true,"permalink":"/public/oskor/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 - a legfontosabb szó a *valószínűsíthetően*
 	- sokminden mostanában derül ki

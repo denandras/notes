@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/paganini/","dg-note-properties":{"permalink":"/public/paganini/"}}
+{"dg-publish":true,"permalink":"/public/paganini/","dg-note-properties":{"type":["személy"],"subject":["zenetöri"]}}
 ---
-
 
 # Nicolo Paganini
 
@@ -36,7 +35,7 @@
 	- 6 gitárkvártett
 - hegedűversenyek
 	1. Esz-dúr (E-hangolású hegedűn - [[public/scordatura\|scordatura]])
-	2. h.moll (közismert zárótétel, *La Campanella* rondó, amire [[public/Liszt\|Liszt]] zongorafantáziát írt)
+	2. h.moll (közismert zárótétel, *La Campanella* rondó, amire [[public/Liszt Ferenc\|Liszt]] zongorafantáziát írt)
 
 ### **Hatása**
 
@@ -45,7 +44,7 @@
 - **[[public/Schumann\|Schumann]]**
 	- két opusznyi zongoraetűd: 6-6 capriccio-átirat
 	- *Carnaval* c. zongoraciklusában felbukkan P. alakja
-- **[[public/Liszt\|Liszt]]** (nyilvános szólókoncert megteremtője)
+- **[[public/Liszt Ferenc\|Liszt]]** (nyilvános szólókoncert megteremtője)
 	- 6 Paganini-etűd (ajánlás [[Clara Schumann\|Clara Schumann]]nak)
 		- *Emberfeletti nehézségű etűdök Paganini nyomán*
 		- *Nagy Paganini-etűdök*

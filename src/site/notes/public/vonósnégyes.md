@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/vonosnegyes/","dg-note-properties":{"permalink":"/vonosnegyes/"}}
+{"dg-publish":true,"permalink":"/public/vonosnegyes/","dg-note-properties":{"type":"műfaj","subject":"zenetöri"}}
 ---
-
 
 - a klasszika legfontosabb kamarazenei műfaja
 	- kamara = szoba

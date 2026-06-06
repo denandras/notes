@@ -1,8 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/ikonoklazmus/","dg-note-properties":{"permalink":"/public/ikonoklazmus/"}}
+{"dg-publish":true,"permalink":"/public/ikonoklazmus/","dg-note-properties":{}}
 ---
-
-
-
 
 Képrombolás, szenteket, isteneket megjelenítő ábrázolások eltávolítása, lerombolása.

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/a-nemet-opera/","dg-note-properties":{"permalink":"/a-nemet-opera/"}}
+{"dg-publish":true,"permalink":"/public/a-nemet-opera/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 [[Pierre Gaveaux\|Pierre Gaveaux]] - Fidelio
 

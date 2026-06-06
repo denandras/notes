@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/gossec/","dg-note-properties":{"permalink":"/gossec/"}}
+{"dg-publish":true,"permalink":"/public/gossec/","dg-note-properties":{}}
 ---
-
-
 
 Francois-Joseph Gossec
 

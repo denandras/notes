@@ -8,4 +8,4 @@
 * Karteziánus kor
 	* "Gondolkodom, tehát vagyok."
 	* minden dolog megkérdőjelezése: szkepticizmus
-	* [[public/empirizmus\|empirizmus]]
+	* [[empirizmus\|empirizmus]]

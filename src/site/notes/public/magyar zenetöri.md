@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/magyar-zenetoeri/","dg-note-properties":{"permalink":"/magyar-zenetoeri/"}}
+{"dg-publish":true,"permalink":"/public/magyar-zenetoeri/","dg-note-properties":{"type":"témakör","subject":"zenetöri"}}
 ---
-
 
 (MSz)
 

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/boethius/","dg-note-properties":{"permalink":"/boethius/"}}
+{"dg-publish":true,"permalink":"/public/boethius/","dg-note-properties":{"type":"személy","subject":"zenetöri"}}
 ---
-
-
 
 Anicius Manlius T S Boethius
 ==480-524==

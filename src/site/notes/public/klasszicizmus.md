@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/klasszicizmus/","dg-note-properties":{"permalink":"/public/klasszicizmus/"}}
+{"dg-publish":true,"permalink":"/public/klasszicizmus/","dg-note-properties":{"type":"korszak","subject":"művészettörténet"}}
 ---
-
 
 - francia forradalom
 - abszolút monarchiák, kiegyezés, de a polgárság megerősödik
@@ -150,6 +149,6 @@
 		- arcképfestő
 		- *Galambposta* ![](https://www.wga.hu/art/b/barabas/pidgeon.jpg)
 		- *Batthyány Lajos gróf* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Barab%C3%A1s_Mikl%C3%B3s_-_Gr%C3%B3f_Batthy%C3%A1ny_Lajos.jpg/800px-Barab%C3%A1s_Mikl%C3%B3s_-_Gr%C3%B3f_Batthy%C3%A1ny_Lajos.jpg)
-		- *[[public/Liszt\|Liszt]] Ferenc* ![](https://www.wga.hu/art/b/barabas/liszt_f.jpg)
+		- *[[public/Liszt Ferenc\|Liszt]] Ferenc* ![](https://www.wga.hu/art/b/barabas/liszt_f.jpg)
 		- *Vásárra induló román család* ![](https://www.wga.hu/art/b/barabas/rumanian.jpg)
 		- *A lánchíd alapkőtétele* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barab%C3%A1s_Mikl%C3%B3s_-_A_L%C3%A1nch%C3%ADd_alapk%C5%91let%C3%A9tele.jpg/800px-Barab%C3%A1s_Mikl%C3%B3s_-_A_L%C3%A1nch%C3%ADd_alapk%C5%91let%C3%A9tele.jpg)
